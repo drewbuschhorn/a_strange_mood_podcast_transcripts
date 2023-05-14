@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:07,800
+reverse apartment blocks, right, or underground apartment blocks, where instead of having a central hallway for each level,
+
+2
+00:00:07,800 --> 00:00:11,680
+you just have central shalves for each group of rooms.
+
+3
+00:00:11,680 --> 00:00:16,680
+And so they just go down through each other's rooms to get to their own room.
+
+4
+00:00:16,680 --> 00:00:22,780
+And I'm like, this seems like it would be awkward, but it works in Dwarf Fortress, and it's an important layout
+
+5
+00:00:23,440 --> 00:00:28,600
+consideration, all of Dwarf Fortress, that going up and down stairs in Dwarf Fortress, one single step
+
+6
+00:00:28,600 --> 00:00:30,600
+back.
+
+

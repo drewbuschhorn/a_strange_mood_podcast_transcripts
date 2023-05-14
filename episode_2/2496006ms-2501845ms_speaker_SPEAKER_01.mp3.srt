@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,840
+Can you mark dead crendles for dumping and have like a designated crendle number?
+
+

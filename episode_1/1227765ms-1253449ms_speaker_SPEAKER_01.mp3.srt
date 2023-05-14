@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:04,760
+No, it seems like the exoskeletons are frequently just registered the same way as bone, but
+
+2
+00:00:04,760 --> 00:00:08,960
+without flesh, I think, protecting them from the impact.
+
+3
+00:00:08,960 --> 00:00:13,920
+Dwarf Fortress is ridiculously modeled in how it deals with bodies.
+
+4
+00:00:13,920 --> 00:00:16,360
+Like there's not HP and that sort of thing.
+
+5
+00:00:16,360 --> 00:00:22,520
+Basically, you can have teeth go flying out of a dwarf's skull when they're punched, and
+
+6
+00:00:22,520 --> 00:00:38,520
+just all sorts of weirdly detailed bits.
+
+

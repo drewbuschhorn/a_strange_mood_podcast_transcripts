@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:01,560
+Yeah, I think that's definitely the case.
+
+2
+00:00:01,560 --> 00:00:07,440
+I think Dwarf Fortress, which has been, you know, existing for 20 plus years, I believe,
+
+3
+00:00:07,440 --> 00:00:13,320
+by the brother, two brothers team that has been writing it.
+
+4
+00:00:14,000 --> 00:00:21,400
+And yeah, that 20 years has resulted in a lot of very complicated
+
+5
+00:00:21,400 --> 00:00:23,360
+systems all interacting together.
+
+6
+00:00:23,360 --> 00:00:29,360
+So.
+
+

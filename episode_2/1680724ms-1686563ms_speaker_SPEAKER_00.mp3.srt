@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,840
+The other trick to remember when starting a farm in Dwarf Fortress is that smaller is actually better.
+
+

@@ -1,0 +1,848 @@
+[00:00:00] Drew:
+Podcasts of the highest quality. 
+
+[00:00:15] Drew:
+You. 
+
+[00:00:20] Kristin:
+Hello and welcome to the third episode of A Strange Mood, the Couples Dwarf Fortress podcast. I'm Kristen. 
+
+[00:00:26] Drew:
+And I'm Drew. 
+
+[00:00:27] Kristin:
+And today we will be talking about fort design. Fort design. Fort design. How to... 
+[interjection] Drew: Fort Design. 
+[interjection] Kristin: 
+
+[00:00:36] Drew:
+That's right. It's more challenging than one might expect. 
+
+[00:00:40] Kristin:
+Right, especially because dwarf enjoyment of the fort can be different than a human looking at it and finding it aesthetically pleasing. 
+
+[00:00:48] Drew:
+Let alone those goddamn elves. 
+
+[00:00:50] Kristin:
+Well, who cares what the elves are thinking anyway? 
+
+[00:00:54] Kristin:
+So... 
+
+[00:00:55] Drew:
+Should we start with news from our fort? 
+
+[00:00:57] Kristin:
+Yeah, let's do it. 
+
+[00:00:58] Drew:
+All right, well, this week I've had an interesting week at Fort Dobd Pages. Why do I always get forts that are kind of hard to say the names for? It's like Fort Hatchet Bastion. 
+
+[00:01:10] Kristin:
+Mine are always fun to say. Red Dreams. Treasure Treaties. Usually I'm really good at saying that one. 
+
+[00:01:20] Drew:
+Dobd Pages, of which we're in our third year. 
+[interjection] Kristin: Mm-hmm. 
+[interjection] Drew: Some of the interesting things that have occurred. We had an Olm person invasion/massacre as they came up from the depths. An Olm person is a type of snake. Yeah, we talked about that. 
+
+[00:01:37] Kristin:
+We massacred them. 
+
+[00:01:44] Kristin:
+That's not surprising. 
+
+[00:01:46] Drew:
+Fort Dobbdpages is actually turning out to be pretty good as a military fort. We are surviving quite well against all sorts of invasions from the depths, and in fact this time with the Olm person invasion we killed 35 Olm people. Whoa! 
+
+[00:02:03] Kristin:
+Whoa, that's, wow. 
+
+[00:02:05] Drew:
+That's nice. 
+
+[00:02:06] Kristin:
+This is an iron-fisted genocide.
+
+[00:02:07] Drew:
+It is a little bit of old genocide. I'll include a picture of the absolute devastation in the show notes. We also captured four of them, and they are now sitting in cages in our dungeon. Once again, showing the value of cage traps in Dwarf Fortress. Yeah.
+
+[00:02:24] Kristin:
+Yeah, so what are you going to do with these caged Olm people?
+
+[00:02:28] Drew:
+I don't really know at this stage. This is the first time I've really worked with cage traps. I didn't realize that they were a little OP. And I also don't really know what to do with these at this stage. I'll probably wind up selling them to elves or something.
+
+[00:02:41] Kristin:
+Yeah, I built a cage once and I told the dwarf that uses the cage to go out and capture something, and then I forgot about it, and later I was looking through stockpiles, and I had a grasshopper in a cage.
+
+[00:02:55] Drew:
+I do have, in one of the, like, 20 cages I made, well, the cage then becomes part of a cage trap. Yeah, I see.
+[interjection] Kristin: Yeah, yeah.
+[interjection] Drew: Um, I did find one that apparently had a snail. I don't have anyone out capturing, so I don't know if the snail just kind of wandered into the cage as it was sitting in the trap.
+
+[00:03:13] Kristin:
+Right, that seems more likely than the grasshopper. Like, what are you doing underground there, bud? Yeah, so, at any rate, that's it.
+
+[00:03:17] Drew:
+Yeah, so at any rate, that is the, uh, that's kind of the military side of things. We also killed a couple of goblins who invaded, including one set of five that invaded who were actually armored. All of this murder was accomplished with the loss of one dwarf.
+[interjection] Kristin: Bye.
+[interjection] Drew: Wow. I'm pretty happy with that, honestly.
+
+[00:03:36] Kristin:
+Yeah, yeah, decent.
+
+[00:03:38] Drew:
+We also have had the Dwarven Hillock of Lakecastle, population 50, settled and economically linked and made a part of our barony. We'll get more about the barony later. We also invaded the Goblin Pit of Doomfeet.
+
+[00:03:53] Drew:
+Doomfeet. Goblin Doomfeet.
+
+[00:03:55] Kristin:
+I'm sorry, I was so distracted in the notes by a government called the Frilly Sphere.
+
+[00:04:01] Drew:
+That's right, that is the government of the Dwarven Hillock of Lakecastle that was settled and is aligned to us. Their local government is called the Frilly Sphere.
+
+[00:04:09] Kristin:
+That's adorable. It's like the fancy people.
+
+[00:04:12] Drew:
+We do have a lot of very fancy people, don't we? So, we invaded the goblin pit of Doomfeet, killed about 15 goblins out of I believe their population of around 10 or 20.
+
+[interjection] Kristin: Mm-hmm.
+
+[interjection] Drew: 
+
+[00:04:25] Kristin:
+Invasion is impressive. I've not even thought about trying to pull off an invasion.
+
+[00:04:30] Drew:
+It's less challenging than it might sound at first glance, since you don't really control a whole lot of it.
+
+[interjection] Kristin: Thank you.
+
+[00:04:35] Kristin:
+Yeah, all right. You just dispatch them off. Send them off. Yeah.
+
+[00:04:36] Drew:
+Yeah, so you just have to... Good luck guys! Exactly. Sometimes they come back, sometimes they don't. Right. And the funny part about the Goblin Pit, Doomfeet, is that we razed it, but afterwards it became economically linked with us, so it still existed. And also now it's listed as having a population of 50, whereas before it had a population of approximately 20. I don't really understand how this works. I think it's part of Dwarf Fortress's magic.
+
+[interjection] Kristin: I think it's probably a good thing.
+
+[00:05:02] Kristin:
+The magic math.
+
+[00:05:03] Drew:
+A little bit of googling around seemed to suggest on Reddit and other places that goblin pits, especially, are difficult to raid because they'll hide, and goblins have a much higher sneak rating than any other race. So you come and invade, and then they will go and hide. And then your dwarves kind of meander around there for a while and then leave again but still count as a successful mission.
+
+[00:05:26] Kristin:
+Okay.
+
+[00:05:27] Drew:
+So you just have to keep trying and trying.
+
+[00:05:29] Drew:
+I want to wipe out the goblin pits around me, so this is going to be a process.
+
+[00:05:34] Kristin:
+Yeah.
+
+[00:05:35] Drew:
+So the leader of this invasion of the Goblin Pits of Dumfyt was Lor Goldenwhip.
+
+[00:05:44] Kristin:
+More Golden Whip!
+
+[00:05:45] Drew:
+You may remember him as the world's grumpiest dwarf. Thank you.
+
+[00:05:47] Kristin:
+Yes, I do remember Lor.
+
+[00:05:49] Drew:
+Lor has really stepped up as the militia commander.
+
+[00:05:55] Kristin:
+He's found his calling.
+
+[00:05:57] Drew:
+Very much so. Being able to take out his grumpiness, I guess, on the entire world and not on goblins. Yeah. And old people. Well, he's not any less grumpy.
+
+[00:06:04] Kristin:
+Is he any less grumpy for it? Mm-hmm.
+
+[00:06:06] Drew:
+But he's putting the grumpiness to good use.
+
+[00:06:08] Kristin:
+There.
+
+[00:06:08] Drew:
+So let's talk a little bit about Lor Goldenwhip and his rivals.
+
+[00:06:14] Kristin:
+Oh.
+
+[00:06:15] Drew:
+So, some interesting facts about Lor. He worships Iblis, the divine angelic mirth, the human god of necromancers, as part of the sacrificial faith.
+
+[00:06:25] Kristin:
+That's an interesting choice in gods for a dwarf. It really is, and we'll come back to that.
+
+[00:06:28] Drew:
+It really is, and we'll come back to that. Oh boy. He's led his two assaults to the defense of Dob Pages from the Ulm Person Mass... from the Ulm Person attack and 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: Also, then the attack on Doomfeat where he overmatched Sutsu, Bulwark Dungeon, as a militia commander, dabbling surgeon, and adept X-dwarf, he is doing great work.
+
+[00:07:01] Drew:
+He's also friends with Lore Rampart's secret dungeon master.
+
+[00:07:07] Drew:
+Not the D&D dungeon master.
+[interjection] Kristin: Bye.
+[interjection] Drew: Oh, okay. Or the other one. You're going somewhere else completely.
+[interjection] Kristin: Or the other one. You're going to be.
+[interjection] Drew: But I tell you all these facts about Lore so you can understand his main rival in the fort, which is our new Baron and formerly Chief Medical Dwarf, Ushat Seedlabored.
+[interjection] Kristin: Yep.
+[interjection] Drew: He was made Baron while Lore Goldenwhip was off on the attack on Doomfeat, Goblin Pit Doomfeat, and he got promoted. Yeah. Partly as a result of that fight, partly as a result of settling the Dwarven Hillock, and he was chosen to become Baron, Ushat Seedlabored. As time has gone on, those two have developed a rivalry. Partly, this is because of religious differences.
+
+[00:07:52] Kristin:
+Oh.
+
+[00:07:53] Drew:
+While Lore Goldenwhip worships a human god of necromancers and is generally grumpy, Ushat worships Shin, a female dwarf associated with wealth, jewels, and minerals, and who has three major sects throughout the world.
+
+[00:08:09] Kristin:
+That sounds much more like it for a dwarf. It really does, doesn't it?
+
+[00:08:12] Drew:
+He's also just kind of a happier dwarf than Lore. Yeah. Some other interesting- Or glad-handing.
+
+[00:08:20] Drew:
+That is true. Ushat, being our chief medical dwarf, is also an adequate axe dwarf, proficient in all types of medical behavior, and tends to be sloppy while also being filled with joy after the birth of his child.
+
+[00:08:35] Kristin:
+At all.
+
+[00:08:36] Drew:
+When we look at that, we see the reason for the rivalry between the two of them. Lore is certainly a military dwarf who takes his axe work very seriously as an adept axe dwarf, whereas Ushat is an adequate axe dwarf. Yet despite that, in Lore's view, Ushat was made barren.
+
+[00:08:55] Kristin:
+Yeah, so it's a little bit of an axe-measuring contest? Just a little.
+
+[00:08:59] Drew:
+Just a little, or possibly a scalpel-measuring contest, because Ushat dislikes Lore for the same reason. Namely, Ushat regards medical work as really the most important part of life and family, both of which Lore is a dabbler in his surgery, and possibly a little all thumbs when it comes to surgery, and then also doesn't really value family.
+
+[00:09:24] Kristin:
+Oh, well, maybe he'd be happier if he did.
+
+[00:09:27] Drew:
+Possibly so. Meanwhile, Kubuk Inkdip Sidleibard is the Baroness, the wife of Ushat. She worships Okin the Even, a male dwarf with four sexes throughout the world who believes in balance in all things. She has served as a fortress guard, killing one snatcher when it tried to steal a child.
+
+[00:09:48] Kristin:
+Well, good job for her.
+
+[00:09:49] Drew:
+And in the fight of Doomfeats, she participated but allowed Ongol Simba to die. Sinful bewitched a human woman to escape in that fight. Another reason why Lore doesn't like this family. Oh, also she just detests purring maggots, which you'd think a lot of people would.
+
+[00:10:11] Kristin:
+I would hate that too.
+
+[00:10:13] Drew:
+Yeah, no, I think that one's probably unrelated to the fight. Nice.
+
+[00:10:15] Kristin:
+Nightmare material.
+
+[00:10:17] Drew:
+You can see here how even in a well-running fortress, rivalries can develop amongst the top nobles. And this is a good example of how those rivalries can start to spiral out of control because even happy-go-lucky Ushat is starting to become a little frustrated with Lore. We'll have to see how it develops.
+
+[00:10:34] Kristin:
+Developments to be continued.
+
+[00:10:37] Drew:
+So, tell me about Ragdreens.
+
+[00:10:38] Kristin:
+Ragdreens. The dramas of a well-run fort are still similar to the dramas of a poorly run fort, which is what Ragdreens is turning into. So, as you recall from last week, we had the zombie invasion, and then we had the friendly necromancer turn some of our dwarves into zombies. So now we have quite a few friendly zombies wandering around. Everyone is extremely unhappy. I don't think it's specifically about the zombies wandering around, although I'm sure that seeing your former friend now wandering around as a zombie with their intestines hanging out is cause for concern. I think I'd be a little upset, you know?
+
+[00:11:15] Drew:
+Do you know if that counts as seeing the corpse of your friend?
+
+[00:11:18] Kristin:
+I don't know if it does or not because I do have several dwarves with the moodlet, the sad from seeing the decay of a friend. Oh yeah, I bet that's true.
+
+[00:11:27] Drew:
+Oh yeah, I bet that's actually what that's from.
+
+[00:11:29] Kristin:
+Well, it could also be because there are a lot of body parts and bits still scattered around and skeletons on the surface level.
+
+[00:11:35] Drew:
+That might be it too. Yeah.
+
+[00:11:37] Kristin:
+It's hard to identify which one it is. So, uh, I don't blame them for being unhappy, but I've been trying to make them happier, including by engraving memorial slabs, building coffins. We have a lot of empty coffins, though, and skeletons sitting around, and they're not, you know, connecting those dots. I'm not sure why the skeletons are still just out rotting, but here we are. And then the sort of sub-problem to all this is that now we are getting ghosts.
+
+[00:12:06] Drew:
+Have you declared your coffins as tombs? 
+Kristin: 
+I have, yeah. Alright, that's all I got. OK.
+I have, yes. They have doors, they're tombs, I don't know. But we're getting ghosts. We've had several, and at least now we're quick about engraving a slab, and then I have a giant room full of engraved memorial slabs, and then the ghost peacefully goes away, I guess.
+
+[00:12:27] Drew:
+I like to put my slabs in the middle of militia training areas. I feel like it gives a certain sense of ambiance to the work.
+
+[00:12:35] Kristin:
+Maybe it's motivating. Exactly.
+
+[00:12:38] Kristin:
+Well, mine are across the hallway from the temple, which seems... Appropriate. Yeah, you know, you go pray, you go think about your dead friends. And unfortunately, that hasn't really helped, the memorializing, I mean. But I'm also trying some more practical things, like lots of engraving, lots of smoothing, putting down some floors here and there to make things pretty, because, you know, dwarves like things to be pretty. And I've improved some bedrooms, both with the engraving and floors, and then I think I added a chest to a few bedrooms so that they have more place to store their stuff. Although some of them are unhappy because they haven't gotten any new stuff for a while.
+
+[00:13:17] Kristin:
+And then they're unhappy and they won't make stuff. And so, you know, it's a vicious cycle. But we also started cooking some meals. I realized that I didn't have a kitchen. So for all I know, they're eating raw snails and fruit. So now we're cooking some fine meals actually. Well, that's good. Yeah.
+
+[00:13:35] Drew:
+Dwarves like their fine meals. Variety.
+
+[00:13:38] Kristin:
+Right. I also have found that some of them are unhappy because they're drinking the same old booze and that is what it says in their thoughts and I'm like, sorry guys, plump helmets, it's what we got.
+
+[00:13:48] Drew:
+I mean, plump helmets are a staple, but I guess at some point you have to branch out.
+
+[00:13:53] Kristin:
+Yeah, maybe next time I have a merchant, I'll buy something different. Or I could just build another still and have both running.
+
+[00:13:59] Drew:
+Yeah, yeah, set up another farm, grow some, um, I forget, because dimple cups you can't make. Okay, why? Oh, no, I think.
+
+[00:14:07] Kristin:
+No, I think those are the ones that are just dye. Yeah, those are just dye. But we have a lot of wild-grown berries and things that we could turn into.
+
+[00:14:15] Drew:
+That sounds elvish to me.
+
+[00:14:17] Kristin:
+Hmm, too bad.
+
+[00:14:19] Drew:
+If it's alcohol, it's alcohol. Yeah, right.
+
+[00:14:20] Kristin:
+Finally, create a squadron, and I put all of the angriest dwarves into the squadron because we watched a little bit of the stream, the Kit Fox stream with Sal about making dwarves happy, and she mentioned that militia training can improve their moods. It hasn't helped. Ah, well, not that much time has passed.
+[interjection] Drew: Ah.
+[interjection] Kristin: So it might still help.
+
+[00:14:46] Drew:
+It took a while before I was able to get lore down from "I want to burn this place down" to "I hate everyone."
+
+[00:14:54] Kristin:
+These are all still "I want to burn this place down."
+
+[00:14:57] Drew:
+Yeah, it takes a little bit of time. Even though I'm upset because he hasn't gotten to have martial training or whatever the rule is. But eventually, I think it will kick in, and 
+[interjection] Kristin: whatever the level it is.
+[interjection] Drew: Usually, I think it'll take him down a step. And you know what, when it comes to the people I'm sending out to kill, I'm kind of okay if they're a "I hate everyone."
+
+[00:15:18] Kristin:
+Yeah.
+
+[00:15:19] Drew:
+"I want to burn this place down," not so much, but...
+
+[00:15:21] Kristin:
+Yeah, I don't know. We went from nine angry faces when I was playing this morning to ten, despite all of my efforts. So I'm feeling a little discouraged about the mood of Rag Dreams.
+
+[00:15:33] Drew:
+A little underappreciated. 
+
+[00:15:35] Drew:
+One fun thought, again, related to the barony and that is that as you get more nobles, if you appoint a variety of nobles, part of their function is to serve as a happiness valve that the other dwarves can yell at them.
+
+[00:15:51] Kristin:
+Well, Cole gets yelled at a lot.
+
+[00:15:53] Drew:
+That makes a lot of dwarves feel better so it's like you kind of put one up as the sin eater. Right.
+
+[00:15:58] Kristin:
+Right, well, cold copper leopard, we talked about her last time, she was the expedition leader and she does get yelled at a lot and that seems to make those dwarfs feel better but then it also makes her feel good because she can think to herself how empathetic she is.
+
+[00:16:10] Drew:
+I'm so empathetic.
+
+[00:16:12] Kristin:
+She's very proud of herself. On the other hand, we have our manager, we're gonna name him Monk Wheels, and he is, he's my lore. He is constantly angry. I gave him a nice office, like lots of upgrades, flooring. No, he's still mad. He just walks around being grumpy all the time. And then I realized when I was doing some just basic stuff that every workshop I went to and gave like a one-off, one or two task, he was the one going and doing it. So he's walking around feeling put upon, but then he's the one volunteering for all this work when we have other idle dwarves who could be doing it.
+
+[00:16:50] Drew:
+Oh god, it's me!
+
+[00:16:52] Kristin:
+I'm out. Bye.
+
+[00:16:54] Drew:
+Oh no, well if it is you, how can I make you happy? Thanks, Scott!
+
+[00:16:58] Drew:
+That's a good question.
+
+[00:17:03] Kristin:
+Does he need metal crafts? I don't know.
+
+[00:17:05] Drew:
+Lavish meals.
+
+[00:17:08] Kristin:
+I was hoping you could give me some insight into him. Maybe I just need to put him into the squadron too. Exactly. Yeah.
+
+[00:17:23] Kristin:
+I think that's what you guys have video games for.
+
+[00:17:26] Kristin:
+I say as if I don't play many, many hours of video games.
+
+[00:17:30] Drew:
+Fair enough.
+
+[00:17:31] Kristin:
+The other fun thing that I had that most Dwarf Fortress players seem to have already had was the discovery of how cute it is when Dwarves find mist and just stand there going, "Oh, I like mist."
+
+[00:17:44] Drew:
+It's really weird that dwarves love mist and hate rain.
+
+[00:17:49] Kristin:
+"Small rain." You make the rain small and then it's nice.
+
+[00:17:52] Drew:
+I guess it's sort of like controlled rain, and then I can leave at any time, and that's better.
+
+[00:17:56] Kristin:
+Yeah, well, I had kind of an adventure making a well, which I will talk about some next week because there's some drama around it, and I'm probably going to write a little story. But they also were very excited to have a well, and a couple of them showed up to wash immediately, which frankly seemed a little elvish, but you know. Do you have any soap?
+[interjection] Drew: "Soap."
+[interjection] Kristin: No, and I hear that getting tallow and soap is pretty complicated, so... It's not actually that complicated.
+
+[00:18:22] Drew:
+It's not actually as bad as all of that. It's good.
+
+[00:18:24] Kristin:
+We do have a lot of yaks that we can murder for it.
+
+[00:18:27] Drew:
+Yeah, it's much less complicated than clothing and dyeing and all of that stuff.
+[interjection] Kristin: "It's much less."
+
+[00:18:31] Kristin:
+That stuff. Yeah, well, maybe I'll explore that next, but I'm thinking of making some kind of meeting area in the misty area to see if they'll get some happiness from having someplace to go and chill with their friends and have small rain fall on their faces.
+
+[00:18:48] Drew:
+It's a good place to have a tavern. The only challenge with it being a tavern is that you have to make sure to at least try to put some sort of stop between them and the waterfall because dwarves will drink in the tavern, get drunk, and then slip a tile in a random direction. But...
+
+[00:19:04] Kristin:
+...and fall into the brook that goes down a couple of z-levels.
+
+[00:19:07] Drew:
+Yeah. 
+
+[00:19:08] Kristin:
+That's unfortunate. That would ruin the well, huh?
+
+[00:19:11] Drew:
+But that's your concern.
+
+[00:19:17] Drew:
+It was a lot of effort to make, though.
+
+[00:19:17] Kristin:
+It was a lot of effort to make that one. I put in a lot of work, and it was really confusing.
+
+[00:19:22] Kristin:
+We lost good men to that well.
+
+[00:19:23] Drew:
+Well, that's always the way it goes in Dwarf Fortress. I'm going to make a [interjection] Kristin: fortress. [interjection] Drew: simple well. Oh god, there are four bodies in the well, and one level is completely flooded.
+
+[00:19:39] Kristin:
+Yeah, it wasn't quite that bad, but it was pretty tragic, the journey of the well.
+
+[00:19:45] Drew:
+So the trick with that is to put up a wall where the mist comes and then carve out fortifications so they can shoot arrows through. The mist will float through the fortifications.
+
+[00:19:55] Kristin:
+All right.
+
+[00:19:57] Drew:
+And then they can't be stupid enough to fall off the edge.
+
+[00:19:59] Kristin:
+Maybe I'll try it.
+
+[00:20:01] Drew:
+They should really implement, like, a balustrade-type option or something.
+
+[00:20:04] Kristin:
+Right. Their happiness has just completely derailed me this week and what I was going to do with this fort because I was getting all geared up to start working with magma, and instead, I'm just trying to make these little grumpy bastards happy.
+
+[00:20:18] Drew:
+So that they don't just start throwing each other into the magma.
+
+[00:20:21] Kristin:
+Right, it's possible, although the magma is really far away, so I think it might be too much work for how grumpy they are.
+
+[00:20:27] Drew:
+Throw each other into the broken glass.
+
+[00:20:29] Kristin:
+Into the well. [interjection] Drew: Yeah.
+
+[00:20:33] Kristin:
+So that's what's happening in the wondrous planets, my world.
+
+[00:20:41] Kristin:
+No happiness. But speaking of mist and building for happiness, let's talk about fort design.
+
+[00:20:48] Drew:
+All right, so you've already got the start of an interesting design going.
+
+[00:20:54] Kristin:
+Well, it started that way, but then I started chasing down minerals and it got a little weird. That's always how it goes.
+
+[00:21:01] Drew:
+You always have to split your time between making your dream fort and pursuing what comes up as you go.
+
+[00:21:11] Kristin:
+Yeah, that's kind of what I've run into, that I always have a plan, go in with a plan, and then you know, find three layers of sand and suddenly, oh well, I guess let's farm and make glass, question mark, you know? So what worked in a previous fort is not necessarily going to work in this one. But I did, I am proud of some of my design things in this one, mostly the block of luxury dwarf apartments that you actually had told me about building bedrooms vertically, and so instead of...
+
+[00:21:43] Kristin:
+drawing walls and doors and zoning it all that way. You do Z levels and have stairs and they just walk through each other's rooms. But.
+
+[00:21:50] Drew:
+That one is pretty hilarious, the idea that you've built these kind of um what's will be a good word. We'll just kind of um block like they're like
+
+[00:22:01] Drew:
+reverse apartment blocks, right, or underground apartment blocks, where instead of having a central hallway for each level, you just have central shelves for each group of rooms. And so they just go down through each other's rooms to get to their own room. And I'm like, this seems like it would be awkward, but it works in Dwarf Fortress, and it's an important layout consideration, all of Dwarf Fortress, that going up and down stairs in Dwarf Fortress, one single step back.
+
+[00:22:30] Kristin:
+It's more efficient.
+
+[00:22:30] Drew:
+Yeah, so it costs one step to go up or down a flight of stairs, and it also costs one step to go, you know, in any of the cardinal directions on the same floor you're on, which just doesn't really match up that well with the real world to our intuition. We always think going up and down stairs is, you know, kind of...
+
+[00:22:50] Kristin:
+It seems like a lot of work when we're taking laundry from the basement to the bedroom.
+
+[00:22:54] Drew:
+It really does when you live in a three-story apartment. Yeah. Three-story condo thing.
+
+[00:22:57] Kristin:
+Condo. Yeah, it seems like so much work, but we're not dwarves. So what do we know? Exactly. But uh, so these bedrooms are all fully smoothed and engraved with inlaid golden floors and chest and bed and I started doing, oh no, cabinet and bed. I started doing a chest. I might put a table and chairs in there too, but I'm a little bit afraid of the problem of dwarves bringing food in there to rot.
+
+[00:23:28] Drew:
+I think that might be a concern there. It's a little easier if you separate, it's a little easier if you create a separate dining area. They do have a...
+
+[00:23:36] Kristin:
+They do have a dining area. Oh, for each apartment? Yeah. That sounds like more work for me.
+
+[00:23:42] Drew:
+It does.
+
+[00:23:43] Kristin:
+Yeah, they would probably like that though.
+
+[00:23:45] Drew:
+They like that, but then you also run into the problem that they're less social. 
+[interjection] Kristin: Like.
+
+[interjection] Drew: They don't spend time around other dwarves. And the tavern and dining halls are kind of where all those spend time with friends, movies, get satisfied.
+
+[00:23:58] Kristin:
+The food is also really far away from where those personal dining rooms would be. Mm. Oh well.
+
+[00:24:05] Drew:
+But just think about that vertical apartment concept and how well you get to know your neighbors. Yes, it is rich and powerful.
+
+[00:24:11] Kristin:
+Yes, they're probably on very good terms, or at least I hope they are. You know, they seem to not be quite as popular as my just horizontal, I guess, normal bedrooms, the two by two ones that I do, just in a long row. But I think that's a proximity thing. Yeah.
+
+[00:24:29] Drew:
+Yeah, I could see that. Yeah. Because are those two by twos closer to the workshops and stuff? It's one of the interesting push and pull things in Dwarf Fortress that your workshops actually generate noise, and noise affects how well dwarves sleep.
+
+[00:24:53] Kristin:
+I can relate to that.
+
+[00:24:54] Drew:
+Exactly. And so you want to be close to the workshop so it's quick and they're happy, you know, going back and forth with that, but not so close that you constantly hear noise.
+
+[00:25:04] Kristin:
+Right. Yeah, the design is a constant balance.
+
+[00:25:08] Drew:
+Yeah, it's a constant balancing act. So tell me about the different layouts that you've kind of thought that you might want to try for your bedrooms.
+
+[00:25:17] Kristin:
+Well, the next one that I kind of want to try is a sort of quad design with four staircases around a central large either storage area or work area and then carrying that down many, many levels and then going in the cardinal directions from that central area. And then the central area can have like storage on one level and workshops on another or both, you know, the storage for the workshops on that level.
+
+[00:25:44] Drew:
+So you're talking kind of like castle turrets, but going down instead of up? Yeah. No, I think that's a pretty good design idea.
+
+[00:25:52] Kristin:
+Yeah, and I think partly it might just be visually pleasing to me to have it be kind of a little bit more symmetrical, but I think I might try it.
+
+[00:26:00] Drew:
+Yeah, it seems like that would expand well, as well, like you just keep adding more and more turrets around.
+[interjection] Kristin: As well.
+[interjection] Drew: Okay.
+
+[00:26:06] Kristin:
+Exactly, and I think that the expansion is where my forts start to get messy. So I think that will be what I try next. This morning I saw on Reddit someone's fort that I can only describe as looking kind of like a rabbit warren in that there were lots of different separate rooms, and they were all separated by one wall. So it ended up looking kind of like a little labyrinth or maze or rabbit warren. Oh, that sounds cute. It was really cute. I don't know.
+[interjection] Drew: Terms.
+[interjection] Kristin: If they did it on purpose or if it just sort of happened, but I liked it.
+
+[00:26:42] Drew:
+Nice organic-looking thing. Was that the same one that had the tiny hamster man? I don't think so.
+
+[00:26:47] Kristin:
+I don't think it was the one with the tiny hamster man bard. Yeah. Squeak, squeak, squeak. Aw, so cute.
+
+[00:26:56] Kristin:
+But yeah, that one. 
+
+[00:26:59] Kristin:
+It seems like this sort of accidentally casual, carefully planned sort of thing. Like people, guys wear their hair very carefully messy, you know? It seems like it might be like that, and I'm not sure I'm quite up to that yet.
+[interjection] Drew: Uh-huh.
+
+[00:27:14] Drew:
+Fair enough.
+
+[00:27:15] Kristin:
+So do you have any favorite designs that you like?
+
+[00:27:18] Drew:
+I'm a pretty big fan of slightly more defensible designs. Like one of my favorite tricks is to build a tavern 
+[interjection] Kristin: Like...
+[interjection] Drew: right at the entrance of the fort so that way all of our foreign visitors and all those things today. Yeah, exactly. They serve as meat shields when an actual siege comes.
+[interjection] Kristin: Those things. Yeah, the first to die. Yeah, exactly. They serve as a.
+[interjection] Drew: It's a bit easier to do that once the fort is up and running because having all those people around kind of blocks the hauling things in and out when you're first like having to do a lot of gathering and woodcutting and all that. But once things kind of settle down there and you're more getting your resources from the caverns, you can rezone that whole entrance as a tavern and that helps, like, you know, really protect things there. Yeah. And then also people are relatively happy because it's usually close to where you put your workshops initially. I think everybody puts their workshops pretty close to the surface.
+
+[interjection] Drew: Not really.
+
+[00:28:26] Drew: I think some people do, but that's just so organized, and I'm usually off on my fifth idea by that point.
+
+[00:28:31] Kristin: It's really organized, but they don't take very long to tear down a workshop, and I don't know that the resource loss is great. I haven't. No, it's usually, yeah, mine was a little bit.
+
+[00:28:40] Drew: No, it's usually, yeah, my understanding is you usually recover about two-thirds of what you put in when you tear something down.
+
+[00:28:45] Kristin: Yeah, tear something down. Yeah. And I mean, everything I build typically is out of rock, and we have infinite rock for the most part. So...
+
+[00:28:52] Drew: Exactly.
+
+[00:28:54] Kristin: But I like the idea of trying to make some of my forts a little prettier. And remember, I went through that whole thing where I was like, what's that pink rock? And I had to go through and find what was pink and try to make doors and things out of the pink rock just to make it pretty. So I didn't have enough of whichever one I was using. Yeah, I think that's rock crystal. It could have been rock salt. Rock salt. Rock salt.
+
+[interjection] Drew: Yeah, I think that's rock crystal. That could be.
+[interjection] Kristin: Right. Rock crystal. And there's another one that looks pink, but I had some of whatever it was. 
+[interjection] Drew: Rock salt, rock salt, right. Rock crystal is salt. And there's another...
+[interjection] Kristin: And that was kind of fun. And then in Lore Copper Leopard's office, I put, I don't remember which mineral it was, but it made blue flooring. And it's really very pretty. Oh, that sounds nice. 
+
+[00:29:28] Drew: Well, near the hospital. 
+
+[00:29:38] Kristin: Mm-hmm. Yes, I think that now that I finally have a well, we'll put a hospital in there and it's near the living quarters, which, you know, it's not inconvenient. Yeah, it's always good. 
+
+[00:29:47] Drew: I think that's not inconvenient. Yeah, it's always a toss-up for me whether or not I put my hospital near the living quarters or down pretty far towards the caverns where all the fighting happens. 
+
+[00:29:57] Kristin: All the fighting happens. Yeah, it would make sense for it to be down there, but I'm still running into just having trouble getting them, gathering the resources that are in the caverns, and I don't know if it's logistical or just the constant grumpiness, but that's probably going to be my next task in that particular fort is trying to cut down trees from in the caves so we don't make the elves angry. 
+
+[00:30:21] Drew: We don't make it.
+[interjection] Kristin: Elves angry. 
+
+[00:30:33] Kristin: Yeah, reduce the anger from the elves and just keep finding new and exciting veins of minerals to mine until you finally go too deep and something terrible comes up from the depths. 
+
+[00:30:43] Kristin: Yeah, we definitely haven't gotten that deep, I don't think. I mean, we're quite deep, but haven't sprawled out in that region at all. So we just haven't woken anything yet. 
+
+
+Yeah, hopefully you can stay quiet for a while. Yeah. Especially as we get you down to magma and you can start experimenting with the various magma furnaces, which you'll find makes turning metal into valuable resources so much faster.
+
+[00:30:57] Kristin:
+It's been kind of a slog with just charcoal and I'm still getting trees from outside.
+
+[00:31:03] Drew:
+That's where I'm at in my fort right now too when it comes to the metal making, that all of my various metal crafting, including like metal crafts, you know, toys and all that sort of thing, are getting delayed because they're waiting for charcoal to be created. Because you need charcoal to turn the ore into metal and you need charcoal to turn the metal into actual things.
+
+[00:31:25] Kristin:
+Yeah, I helped myself out a little bit by finally putting a wood storage pile on the floor where I have all of those things and that sped it up a little bit, but wood is a resource that is definitely what's slowing me down right now. Yeah, that and unhappiness.
+
+[00:31:43] Drew:
+Where do you put your main resource pile?
+
+[00:31:45] Kristin:
+It's frequently, I have two, one close to where we started and where the workshops are, the initial workshops are, and then I've started putting one down near where the caverns are and where I put another tavern and dormitory to help them not die if they're down in the caves.
+
+[00:32:07] Drew:
+That's always a good tip.
+
+[00:32:09] Kristin:
+Yeah.
+
+[00:32:11] Drew:
+I usually have a resource pile near the entrance, and that holds the very rawest of things like wood and meat or whatever. And then I frequently make a very big hollowed-out resource pile in the first kind of real round layer, frequently that's maybe the third or fourth z-level down. I just hollow out a big cube, whatever's the easiest to select with my mouse in order to get a lot of rock available there from mining it. And then also just designate that whole thing as a finished goods pile. And so that way, everything that people build, they just, you know, take three steps down, chuck something in there, and then walk three steps back up and get back to work.
+
+[00:32:58] Kristin:
+Yeah, I haven't done that much experimenting with the finished goods pile versus just the pile pile yet.
+
+[00:33:04] Drew:
+I think it's important, especially if you've followed the kind of, I think, standard way of putting all of your workshops together, close together when you first start, to make sure that there are a couple of those, a couple of central stair shafts down to where your main store pile is. Because again, it gets back to that whole, they can just walk three steps down as opposed to walking 15 steps to your main stair thing,
+[interjection] Kristin: What?
+[interjection] Drew: and then down and back up again.
+
+[00:33:32] Kristin:
+That makes sense. I'm only just starting to feel the effects of efficiency in my fort or lack thereof in this case. So I think that means that I'm doing better because I've reached a point where I am thinking like, "Oh my God, it's taking you guys so long to get here."
+
+[00:33:48] Drew:
+Exactly.
+
+[00:33:49] Kristin:
+So that's good, even if everyone is angry while they do it.
+
+[00:33:52] Drew:
+Yep, but I've seen your fort, and you are making a lot of Finnish goods. You're making a lot of food and drink.
+We have quite a few artifacts now because everyone got weird after the zombie thing and went into fey moods and created musical instruments and crowns and earrings. So tell us about some of the artifacts.
+
+[00:34:07] Drew:
+So let's... An earring. So tell us about some of the artifacts you've made.
+
+[00:34:10] Kristin:
+Well, one of the more valuable ones is an os, os? I don't know how that accent works.
+
+[00:34:18] Drew:
+Let's call it "us". It's easy enough. Then a...
+
+[00:34:21] Kristin:
+It's an os. It's an instrument that apparently doesn't exist in the real world, or at least not that I could find with a cursory Google search. It is made of avocado wood. It is encircled with bands of avocado wood and round bituminous coal cabochons. This object menaces with spikes of silver and dolomite. On the item is an image of walnut trees and date palmwood. On the item is an image of a lime tree in cave spider silk. And then it goes on to describe what an os is.
+
+[00:34:51] Drew:
+Let's hear it.
+
+[00:34:52] Kristin:
+All right, well, the os is apparently a large, stationary ceramic metal instrument above which hang 65 stone bells. The musician uses a ceramic keyboard to select which of these bells are struck. The instrument has a seven-octave range going from very low to an extremely high pitch. The instrument has a delicate flat tenor.
+
+[00:35:13] Drew:
+I am frequently amused when I dig down into things in Dwarf Fortress for how detailed the musical generation is. Yeah. Yeah, because for poetry and song, like you go in, you pull that up and suddenly you've got five pages describing the sequence of meters in each verse for four periods on those pages and programming sounds and things like that into multiple musical codes is another thing I find really interesting. I do assign ideas for him that need your voice for. It's amazing.
+
+[00:35:31] Kristin:
+And it's like, I know this is Mad Libs, but it's still just a little crazy.
+[00:35:38] Kristin:
+Yeah, that's not even my favorite artifact that we got. We also got a Kaolinite crown that is encrusted with Kaolinite cabochons and oval moonstone cabochons, which sounds pretty. Moonstones, love moonstones. On the item is an image of Obscuracalls the Rainy, the dwarf, in moonstone. Obscuracalls the Rainy is striking a menacing pose. The artwork relates to the return of the zombie dwarf hollow slayer Obscuracalls the Rainy from the dead in Ragdreams in the mid-spring of 110. And you know, I went through the dead and the current residents looking for Obscuracalls the Rainy. I couldn't find him, but clearly it's someone who died in the massacre, so I'll have to hunt for him a little bit more.
+
+[00:36:24] Drew:
+I wonder if he was actually your necromancer because getting an epithet like the rainy usually means there was something special about him.
+
+[00:36:30] Kristin:
+Yeah, I knew the necromancer's name. Could it have been the necromancer that attacked us or someone involved with the necromancer that attacked us? I saw students working the opposite direction to assist us, but that didn't...
+
+[00:36:39] Drew:
+I certainly could believe that. Yeah. We'll have to investigate Legends mode for you.
+
+[00:36:43] Kristin:
+Yeah, I was gonna say we need to check that out and figure out who Obscuracalls the rainy is. But I love this idea of a crown with a zombie dwarf rising from the dead.
+
+[00:36:55] Drew:
+The funny part to me about that is, do you know what Kaolinite is in the real world?
+
+[00:36:59] Kristin:
+No, not really.
+
+[00:37:00] Drew:
+It's basically a very hard form of clay.
+
+[00:37:04] Kristin:
+Huh, so it's not really a great crown.
+
+[00:37:06] Drew:
+No, it's kind of like a chalky brown.
+
+[00:37:09] Kristin:
+With Moonstones.
+
+[00:37:10] Drew:
+Was this the one that also had coal? Or... No, that was the os.
+
+[00:37:13] Kristin:
+I'm just gonna say it every possible way to make sure I have all my bases covered. That makes sense. Yeah, so I should put the osu!s out somewhere. We have some musical instruments here and there, but are they supposed to play the instruments? Because I never see it happen. I put them in taverns and it never happens.
+
+[00:37:30] Drew:
+So this is something incredibly complicated in Dwarf Fortress, and I think one of the Dwarf Fortress [interjection] Kristin: Dwarf Fortress, and I think we're going to be able to do that. [interjection] Drew: makers views themselves as quite the musician, which explains, you know, the incredibly complicated musical forms and that sort of thing. But each culture has their preferred musical instruments [interjection] Kristin: Uh-huh. [interjection] Drew: when they're created, and so we'll choose to generally play from those. All right, so maybe I [interjection] Kristin: And so we'll... [interjection] Drew: just don't have one of those. Exactly, so you have to figure out, and it's like a group, there's usually five. There's somewhere between three to seven.
+
+[00:38:00] Kristin:
+Well, maybe since he made an osu! that's what they'll play. I don't know.
+
+[00:38:05] Drew:
+One can hope? I don't know. You think they can hope?
+
+[00:38:06] Kristin:
+I'm buying them from merchants in the hope that they'll play them.
+
+[00:38:10] Drew:
+Yeah, that's sort of how I roll with it too because trying to construct a musical instrument into our fortresses. It's a lot of steps. Yeah.
+
+[00:38:16] Kristin:
+Is the tavern the right place to put one? Yeah, definitely.
+
+[00:38:26] Drew:
+as well. Okay. But I don't know if for these bigger items if you have to put them there yourself. Yeah, I'm not entirely sure.
+
+[00:38:32] Kristin:
+I put them out as furniture, the ones that I have. And I haven't done anything with this one yet because it's worth, apparently, 6,000 coins. 
+
+[00:38:40] Drew:
+Yeah, you can also put a pedestal and then put a [bell] on the pedestal. Which I don't know how it worked because this says that the [organ] has what, 64? Did it say? Something like that.
+
+[00:38:50] Kristin:
+[something] like that yeah it's, I mean, it's like a kind of like a piano, yeah it's like with bells.
+
+[00:38:53] Drew:
+Yeah, it's like a bell piano.
+
+[00:38:56] Kristin:
+That's pretty cool though. Yeah.
+
+[00:38:58] Drew:
+Yeah, I would be interested in seeing one. So I decided to render it using the AI tool.
+
+[00:39:04] Kristin:
+Yes, so we'll have that in the show notes and on the website.
+
+[00:39:07] Drew:
+Yeah, it's interesting-looking, that's for sure.
+
+[00:39:10] Kristin:
+I would volunteer us to put some images of our fort design on there. Man, I feel like fort design is something that we could talk for another 45 minutes about, but I'm kind of thirsty and could use some water. Yeah, no, I think that's a good idea.
+
+[00:39:20] Drew:
+Yeah, no, I think this is probably a good place to cut it. But yeah, because there are also exciting new tools that have come out for the Steam version. They also existed for the older version of Dwarf Fortress that will let you do 3D renders of your fortress. So maybe we'll then jump into the new [certain] classes [of] interchangers that come out with the [rendering].
+
+[00:39:35] Kristin:
+[of] your [fortress]. So maybe when you have a design you like, you can render it 3D and we can show that off.
+
+[00:39:41] Drew:
+Yeah, at some point, I might go back to the green glass [fortress] and try rendering that.
+[interjection] Kristin: Mmm.
+[interjection] Drew: That'd be pretty cool. For the moment, I think this is probably a good place to sign off.
+
+[00:39:50] Kristin:
+Yeah, it's been, I wasn't sure we were going to have enough content for this episode and look at that we talked for 42 minutes.
+
+[00:39:56] Drew:
+There you go. Well, it'll be shorter than 42 after you [edit] it down.
+
+[00:39:59] Kristin:
+All right, all the ums and uhs and all those things that I cut out. So where can people find us, Kristen? They can find us at our website, astrangemoodpodcast.com, or they can email us at astrangemood@gmail.com. Well, that's it for today. Thanks for listening. We'll see you next time.
+
+[00:40:12] Drew:
+Well, that was, I think, a very interesting talk, Kristen.
+
+[00:40:16] Kristen:
+Yeah, that was super fun.
+
+[00:40:19] Kristen:
+All right, well until next week. We'll see you then.

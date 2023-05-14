@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:06,480
+I am frequently amused when I dig down into things in Dwarf Fortress for how detailed the musical
+
+2
+00:00:06,480 --> 00:00:13,760
+generation is. Yeah. Yeah, because for poetry and song, like you go in, you pull that up and
+
+3
+00:00:13,760 --> 00:00:18,960
+suddenly you've got five pages describing the sequence of meters in each verse for
+
+4
+00:00:18,960 --> 00:00:35,840
+four periods on those pages and programming sounds and things like that into multiple
+
+5
+00:00:35,840 --> 00:00:42,880
+musical codes is another thing I find really interesting. I do assign ideas for him that
+
+

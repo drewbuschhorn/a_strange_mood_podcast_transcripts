@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:03,040
+It's a good place to have a tavern.
+
+2
+00:00:03,040 --> 00:00:06,920
+The only challenge with it being a tavern is that you have to make sure to at least
+
+3
+00:00:06,920 --> 00:00:13,660
+try to put some sort of stop between them and the waterfall because dwarves will drink
+
+4
+00:00:13,660 --> 00:00:16,760
+in the tavern, get drunk, and then slip a tile in a random direction.
+
+5
+00:00:16,760 --> 00:00:42,040
+But...
+
+

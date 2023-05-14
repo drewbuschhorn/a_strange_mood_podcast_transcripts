@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,000
+Yeah, that's pretty much what happened here.
+
+2
+00:00:02,000 --> 00:00:04,000
+So, in our first test,
+
+3
+00:00:04,000 --> 00:00:24,000
+Zuggler Forbes-Knighted was stolen by one goblin before the militia was able to be deployed.
+
+

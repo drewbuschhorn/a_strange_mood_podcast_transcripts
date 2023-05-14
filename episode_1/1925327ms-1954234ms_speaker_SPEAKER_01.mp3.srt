@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:05,680
+Yeah, so this is something, you know, we've talked about on walks and that sort of thing.
+
+2
+00:00:05,680 --> 00:00:11,680
+That people call Dwarf Fortress a complicated game, but I'm not entirely sure that game
+
+3
+00:00:11,680 --> 00:00:19,600
+is the right word for it, because games usually imply some sort of end state, some sort of
+
+4
+00:00:19,600 --> 00:00:22,840
+there's winning and losing in a game.
+
+5
+00:00:22,840 --> 00:00:25,560
+And there's not really winning and losing in Dwarf Fortress.
+
+6
+00:00:25,560 --> 00:00:30,120
+Obviously if everyone in your fortress is killed, that's probably a loss.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,680
+And with that, you've now done the simplest thing in Dwarf Fortress.
+
+2
+00:00:03,680 --> 00:00:07,900
+Why do we play this game again?
+
+

@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:01,000
+Yes, yes I did.
+
+2
+00:00:01,000 --> 00:00:02,000
+Very cool.
+
+3
+00:00:02,000 --> 00:00:05,080
+Yeah, the challenge with the water though is that it will make obsidian when it hits
+
+4
+00:00:05,080 --> 00:00:07,560
+the lava and then seal itself off.
+
+5
+00:00:07,560 --> 00:00:12,200
+So for the water you have to dig a channel all the way to the edge of your map and then
+
+6
+00:00:12,200 --> 00:00:35,120
+smooth out that last wall, dig the...
+
+

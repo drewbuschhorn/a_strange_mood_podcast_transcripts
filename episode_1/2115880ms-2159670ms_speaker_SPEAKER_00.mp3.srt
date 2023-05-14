@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:05,200
+Right. I don't know that the game necessarily distinguishes in that nothing has happened
+
+2
+00:00:05,200 --> 00:00:11,760
+in a while. I think that it's more or less actually random, but it does have a built-in
+
+3
+00:00:11,760 --> 00:00:16,880
+passage of time and you are guaranteed certain events. So at this point you are going to turn
+
+4
+00:00:16,880 --> 00:00:25,120
+into an old man, Sim. And time does pass in Dwarf Fortress, but nothing is constant fort to fort.
+
+5
+00:00:25,120 --> 00:00:30,560
+So you're not going to see the same changes as time passes. And because of the way that you're
+
+6
+00:00:30,560 --> 00:00:36,720
+playing the world and not individual forts, that passage of time isn't necessarily even seen in
+
+7
+00:00:36,720 --> 00:00:41,280
+your current save. You might not see the pattern of things until you go into that Legends mode and
+
+8
+00:00:41,280 --> 00:00:53,840
+see what else is there and happening.
+
+

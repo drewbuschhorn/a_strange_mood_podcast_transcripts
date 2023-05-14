@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:04,400
+Now, in doing so you'll also get some seeds back, but in order to be able to do any of
+
+2
+00:00:04,400 --> 00:00:06,520
+that you have to have barrels.
+
+3
+00:00:06,520 --> 00:00:08,880
+In order to make barrels you need a carpenter.
+
+4
+00:00:08,880 --> 00:00:13,680
+For the carpenter to make barrels he needs wood that an axe dwarf has to go out and cut
+
+5
+00:00:13,680 --> 00:00:33,560
+down.
+
+

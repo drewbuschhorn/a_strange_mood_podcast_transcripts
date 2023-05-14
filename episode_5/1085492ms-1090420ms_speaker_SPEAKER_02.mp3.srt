@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,040
+channel channel option. Yes, you had to help me use that to get my magma working. Exactly.
+
+

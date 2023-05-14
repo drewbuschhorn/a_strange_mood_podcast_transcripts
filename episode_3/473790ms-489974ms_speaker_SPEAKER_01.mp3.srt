@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,360
+While Lore Goldenwhip worships a human god of necromancers, and is generally grumpy,
+
+2
+00:00:06,000 --> 00:00:12,320
+Ushat worships Shin, a female dwarf associated with wealth, jewels, and minerals,
+
+3
+00:00:12,320 --> 00:00:30,720
+and who has three major sects throughout the world.
+
+

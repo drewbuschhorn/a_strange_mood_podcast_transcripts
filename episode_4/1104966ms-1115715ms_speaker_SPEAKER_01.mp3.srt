@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,960
+you can set up a, you know, different work orders that create items of this type.
+
+2
+00:00:04,960 --> 00:00:05,460
+Yeah.
+
+3
+00:00:05,460 --> 00:00:30,460
+Well, for each level of your fortress, for each tier that we're talking about, you can set up a different order.
+
+

@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:00,500
+The end.
+
+2
+00:00:00,500 --> 00:00:01,600
+The end.
+
+3
+00:00:01,600 --> 00:00:04,300
+That's probably a good place to wrap up.
+
+4
+00:00:04,300 --> 00:00:08,180
+I think that in this coming week, assuming RAGDREAMS does not
+
+5
+00:00:08,180 --> 00:00:12,220
+succumb to the zombie invasion, we will try to do a Twitch stream
+
+6
+00:00:12,220 --> 00:00:30,220
+so that I can learn about magma and you guys can learn along with me.
+
+

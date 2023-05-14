@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,800
+I believe so.
+
+2
+00:00:01,800 --> 00:00:03,280
+I still see the item, but I can't
+
+3
+00:00:03,280 --> 00:00:30,840
+seem to find it through the UI, so it might just be gone.
+
+

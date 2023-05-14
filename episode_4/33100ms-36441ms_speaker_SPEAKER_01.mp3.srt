@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,880
+I'm doing great. It's been a week. How about you?
+
+2
+00:00:02,880 --> 00:00:04,880
+It has.
+
+

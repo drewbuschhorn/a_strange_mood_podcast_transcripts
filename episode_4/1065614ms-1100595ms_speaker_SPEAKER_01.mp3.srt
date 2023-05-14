@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:10,360
+So each tier depends mostly on your population, but also depends on how many work orders of
+
+2
+00:00:10,360 --> 00:00:18,800
+different types of crafts you've satisfied. Now that's a little complicated to explain on an
+
+3
+00:00:18,800 --> 00:00:25,320
+audio medium. Imagine that you have the different workshops and things that they can make divided
+
+4
+00:00:25,320 --> 00:00:34,720
+into a series of categories. Let's say craft items, metal, wood, gems, stone, and food.
+
+

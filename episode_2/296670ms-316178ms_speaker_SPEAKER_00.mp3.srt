@@ -1,0 +1,37 @@
+1
+00:00:00,000 --> 00:00:03,120
+He is not inherently proud of his talents and accomplishments.
+
+2
+00:00:03,120 --> 00:00:05,280
+He tries to do things correctly each time.
+
+3
+00:00:05,280 --> 00:00:06,280
+He is trusting.
+
+4
+00:00:06,280 --> 00:00:08,100
+He doesn't focus on material goods.
+
+5
+00:00:08,100 --> 00:00:10,120
+He generally finds himself quite hopeful about the future.
+
+6
+00:00:10,120 --> 00:00:12,240
+He tends to be swayed by the emotions of others.
+
+7
+00:00:12,240 --> 00:00:14,160
+He has little interest in joking around.
+
+8
+00:00:14,160 --> 00:00:16,280
+He doesn't tend to hold on to grievances.
+
+9
+00:00:16,280 --> 00:00:32,320
+He generally acts with a narrow focus on the current activity.
+
+

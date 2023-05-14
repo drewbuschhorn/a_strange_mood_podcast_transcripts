@@ -1,0 +1,37 @@
+1
+00:00:00,000 --> 00:00:08,000
+I liked the article talking about the new programmer they hired, where one of the first
+
+2
+00:00:08,000 --> 00:00:14,400
+things they started being defensive about in the article was about pathfinding.
+
+3
+00:00:14,400 --> 00:00:18,160
+Because in this version of Dwarf Fortress, we talked about it before, I think, in our
+
+4
+00:00:18,160 --> 00:00:24,080
+first episode, in the older versions you used to be able to mark doors as pet forbidden.
+
+5
+00:00:24,080 --> 00:00:29,520
+And they took that out of this version, supposedly to improve the pathfinding, so it doesn't
+
+6
+00:00:29,520 --> 00:00:32,960
+spend so much time trying to calculate where the pets go.
+
+7
+00:00:32,960 --> 00:00:39,120
+But it still seems to be that you have a lot of kittens, things start slowing down massively,
+
+8
+00:00:39,120 --> 00:00:42,840
+and so I'm left wondering, like, pathfinding?
+
+9
+00:00:42,840 --> 00:01:01,160
+What even is it?
+
+

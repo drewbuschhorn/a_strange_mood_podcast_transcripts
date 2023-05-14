@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,600
+It's important to remember in the Steam version, you will see an icon when dwarves are thirsty
+
+2
+00:00:05,600 --> 00:00:30,600
+of a little water droplet.
+
+

@@ -1,0 +1,736 @@
+[00:00:00] Kristin: The quality is of the highest quality.
+
+[00:00:16] Kristin: You.
+
+[00:00:18] Kristin: Hello and welcome to A Strange Mood, the couple's Dwarf Fortress podcast. I'm Kristen.
+
+[00:00:23] Drew: And I'm Drew.
+
+[00:00:24] Kristin: And we're a couple playing Dwarf Fortress.
+
+[00:00:26] Drew: Yes, we are.
+
+[00:00:27] Kristin: Not at this moment though.
+
+[00:00:29] Kristin: No, unfortunately. I played a lot this last week and it was fun. I had a lot happen. [interjection] Kristin: Lots. [interjection]
+
+[00:00:39] Drew: What's up, Kristen?
+
+[00:00:40] Kristin: Uh-huh. And you start to feel a little thirsty. But you have a lot of laundry.
+
+[00:00:48] Drew: Uh-huh.
+
+[00:00:49] Kristin: But you're a little thirsty.
+
+[00:00:50] Drew: I would just keep doing the laundry until I die of dehydration. I had a few.
+
+[00:00:53] Kristin: I had a feeling you would. I had a feeling you would. Because that's how normal people function.
+
+[00:00:58] Drew: I think it's always best to just keep doing the job you're doing no matter how important it is until you drop dead of dehydration.
+
+[00:01:05] Kristin: It's always dehydration too. I suppose that's what will kill most of us before starvation.
+
+[00:01:11] Drew: I mean, in the end, it's a lesson for us all, really. Never quit.
+
+[00:01:14] Kristin: See, I was going to guess carry a water bottle, because that's a good lesson too.
+
+[00:01:20] Drew: You can carry a flask around, your dwarves can carry flasks.
+
+[00:01:22] Kristin: That's true and I did make some flasks for them. I don't know. And then there was a whole wave of people losing their drink items or having it be destroyed. So after one drops dead of dehydration, you make a bunch of cups. That's what I did.
+
+[00:01:39] Drew: I think that's always a good plan. You can never have too many cups.
+
+[00:01:43] Kristin: Anyway, you want to tell us the news from the Realms of Myth?
+
+[00:01:49] Drew: Realms of Myth.
+Um, well, you'll remember last time I believe we left off, we had just started to seize a lot of nearby territories, including Dungsville.
+[interjection] Kristin: Yeah.
+
+[00:02:02] Kristin:
+Oh right, I do remember Dungsville.
+
+[00:02:04] Drew:
+Yes, I sent Lord Golden Whips to lead the attack on Dungsville, and as usual, he was very successful. Yes. And managed to seize it from the goblins. Nice. They formed a government there called the Contested Gem.
+
+[00:02:18] Kristin:
+The Contested Gem of Dungsville.
+
+[00:02:20] Drew:
+Interestingly enough, for reasons I don't totally understand in this game, Dungsville then became the capital of our civilization.
+
+[00:02:33] Kristin:
+Wow.
+
+[00:02:33] Drew:
+No, cancel it. Okay. For reasons I don't entirely understand, Dungsville then became the capital of our government. Whoa. Yeah, I'm not entirely sure what happened there. For more boring histories of-
+
+[00:02:43] Kristin:
+Were they already important?
+
+[00:02:44] Drew:
+Not really, they only had 15 approximate goblins there.
+
+[00:02:48] Kristin:
+Huh, that's so strange. No, I did.
+
+[00:02:50] Drew:
+Now I did send 20 dwarves over there for part of the attack, but I don't really understand that because believe me, by the time I get finished talking about Dwarf Fortress here, you'll see that there's no reason why Dungsville should be the top of it.
+
+[00:03:07] Kristin:
+Yeah, that's weird. Maybe it's because of the lore and that rivalry.
+
+[00:03:11] Drew:
+It could very well be. So he went and founded-
+
+[00:03:17] Drew:
+the Contested Gem government there, and after a year came back to be bookkeeper and militia commander back in Dobdpages.
+
+[00:03:25] Kristin:
+It seems kind of like a step down. Yeah, so so.
+
+[00:03:30] Kristin:
+Well, that is fair, but it's the capital.
+
+[00:03:32] Drew:
+Well, he'd want to be back with a good, dwarfy location instead of goblin pits.
+
+[00:03:37] Kristin:
+Understandable.
+
+[00:03:38] Drew:
+In the meantime, possibly as part of seizing that, uh, [dwarf] pages was upgraded to a county.
+
+[00:03:46] Drew:
+That meant that Lore's rival, Ushat, [our] previously [a] baron, was now upgraded to a count. Ooh! And of course his wife, a countess. Yes. As a result, I'm pretty sure that Lore did spend some time grumbling to himself that Ushat catches all the breaks. Yeah.
+
+[00:04:06] Drew:
+As part of the upgrade to a county, we also had a visit from the Goblin Lord, Udyll Drivenclosers, who I'm assuming maybe came from Dungsville? Maybe he fled or maybe he betrayed Dungsville to [Lore], I'm not entirely sure. But the interesting thing about him is he had, as one of his items, a goblin hair bracelet.
+
+[00:04:27] Kristin:
+Ew.
+
+[00:04:28] Drew:
+At some point I should probably look into the Legends mode and see where that goblin's hair bracelet came from. Yeah, is it named? It is not, so it might just be a generic one. I'm not sure.
+
+[00:04:37] Kristin:
+Right, maybe that's the thing that they wear.
+
+[00:04:39] Drew:
+But it sounds interesting. Yeah.
+
+[00:04:42] Drew:
+We also had at that same time the formation of one of our most expensive to date artifacts, which was a frilly cave spider mask.
+
+[00:04:52] Kristin:
+A frilly mask.
+
+[00:04:53] Drew:
+Yep, frilly cave spider mask. With brilliant cut rubies, reindeer leather, pecan wood, platinum cabochons, and menacing with spikes of cave spider silk.
+
+[00:05:04] Kristin:
+Hmm, well, until you said menacing with spikes, it sounded a little elvish to me.
+
+[00:05:10] Drew:
+[some] other exciting things that have happened. I can just keep going forever, pretty much. The Baroness, now Countess, requested that a temple to balance be dedicated,
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: in which we put a platinum sarcophagus.
+
+[00:05:25] Drew:
+causing it to become known as the Hug Sanctum of Harmonizing.
+
+[00:05:29] Kristin:
+The hug [sanctum]?
+
+[00:05:30] Drew:
+with 12 worshippers and a priest of the sacred balance.
+Oh, wait, priests. I haven't seen any priests. Is that something you appoint, like, within the temple?
+
+It is. The temple has to be above a certain value. I think 10,000 dwarf bucks to get a priest and [interjection] Kristin: I think. [interjection] Drew: 60,000 dwarf bucks to get a high priest.
+
+Interesting, okay. I only just started another temple that's maybe gonna be more valuable, so we'll see what happens.
+
+But after founding that temple, she took the lead in a martial trance against the Olm people. We had another invasion. We're now up to a total of 150 dead Olm people. What we're doing over in Lithuania is guarding a defensive invasion through our own 이쪽,
+
+and was seriously injured, which meant she lost her Baroness status. Wait. It seems to be a thing in Dwarf Fortress that they-
+
+Wasn't she Baroness by virtue of being married to the Baron?
+
+Yes.
+
+But she got injured and are they still married?
+
+They are still married. It seems to be some sort of severe injury or unconsciousness means they lose their noble status until they recover. Yeah. So she became seriously injured, lost her ability to stand, so she's walking around now despite Ushat's best efforts with a cane. Aww. And she felt guilty at resting.
+
+I feel called out.
+
+And then finally we established a second temple with a copper statue to Nikat, the god of dawn, sun, fire, volcanoes. And he is depicted as a fireman.
+
+made in copper, screaming.
+
+I always like my depictions of my gods screaming. Yes. So that's my first part of my update from DoBtPages. But I can pass it over to you to talk a little more before I get to the more technical side of things. Thanks a lot. 
+
+Kristin:
+Oh, okay. Well, we can trade back and forth a little bit because I have a whole lot to talk about happening from the Wondrous Planets, specifically Ragdreams, which is still my third fort. I think we've been going for more than five years, so it's doing okay in that way. So when I left off last week, everyone was really mad because we'd had that whole "wear monitor" thing and then some zombie "wear monitors" and just some zombies. So I was trying to figure out ways to make everyone less angry. So I did some banishing of the angriest, especially after one guy had a tantrum and knocked over a pedestal that had an artifact on it. I'm not entirely sure what happened to that artifact after that happened. I think it might be in a storage bin. Hopefully someone picked it up who wasn't a thief because we've had some of that happen too. 
+
+[00:08:06] Drew:
+I actually had my first thief as well in mine. Really? Yeah. 
+
+[00:08:11] Drew:
+I believe so. I still see the item, but I can't seem to find it through the UI, so it might just be gone. 
+
+[00:08:15] Kristin:
+Yep. That's what mine looked like and there have been no witnesses and I haven't figured out the justice system yet. But we're not going to go down that rabbit hole because we can talk about that for an entire episode probably. So anyway, I guess the solution to depression is just banishment. 
+
+[00:08:32] Kristin:
+Seems reasonable. 
+
+[00:08:34] Drew:
+Now when you say banishment, are you actually banishing them or are you sending them to one of your linked locations? 
+
+[00:08:40] Kristin:
+For these, I just banished them. 
+[interjection] Drew: Okay.
+[interjection] Kristin: I didn't get a linked location until later. Everyone was getting happier. Then we had another invasion, but this was just some vile force of darkness, I think they were called. And that's when I learned that hatches in the ground are OP. Those are OP. So the only entrance to my fort that people seem to find is the hatch in the ground. You lock it, they don't get in. They just sort of mill around for a while being angry and leave.
+
+[00:09:12] Drew:
+This is a common problem in Dwarf Fortress, that they seem to go back and forth. The Toady of the developers seems to go back and forth between making doors and hatches too powerful and having them be too weak.
+
+[00:09:26] Kristin:
+Right, there's got to be some happy medium because it's kind of anticlimactic when you see this army descending on you and they reach your stone hatch and are just like, "shrug."
+
+[00:09:36] Drew:
+What can you do?
+
+[00:09:36] Kristin:
+I guess we'll come back another day. But that was just, that one was pretty minor. The main thing that has been happening still after my last fort is zombies. So many zombies. You remember that I lost my last fort to zombies. I had zombies here and I was wondering about the zombies that just sort of hang around outside being, they're friendly, but I can't tell them to do anything. Whereas I have some zombies that are a part of my civilization. They're productive. There's one that's a master weaver who does most of my clothes making, and another one made us an artifact actually. Fair enough. But the ones that are outside, they're just friendly. They don't seem to belong to me or to anyone. And I can't do anything about them. They're just hanging out out there at the entrance with their guts hanging out.
+
+[00:10:20] Drew:
+In their defense, where else have they got to go? 
+
+[00:10:23] Kristin:
+Well, they could leave and not make my fort ugly because of the entrails hanging out, and she just walks around the same five tiles. It's yucky. But most of my resident zombies are not yucky. I don't see their entrails for the most part. The artifact that the one made is Ishen Thod, a tower cap mushroom wood door depicting Kogan Cobalt tattooed ascending to the position of king of the robust boulders, which I believe is something from our history because it had the year four on it. And I have not interacted with the robust builders that I know of. Fair enough. Yeah. So we also had a lot of other artifacts made by normal dwarfs. I think the upside of unhappiness is that we get a lot of strange moods. But then some of those have been stolen because we have a thief problem that I can't seem to solve.
+
+[00:11:18] Drew:
+Interesting, because I would think I would have more thieves in my world because there are so many goblins, and they are thieves and snatchers, but it seems like you have more thieves despite there being a lot of undead.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: 
+
+being a lot of undead.
+
+[00:11:30] Kristin:
+Most of the goblins that I've seen, they're like bards, or we do have one goblin, I think he's a snatcher, and he's just visiting, he just hangs out in the tavern. He hasn't done anything. He's just hanging out, he's just vibing.
+
+[00:11:41] Drew:
+Are you saying I'm racist against goblins? No, no!
+
+[00:11:43] Kristin:
+No, not at all. I'm just saying that your world is very different from my world. Fair enough. Yeah.
+
+[00:11:49] Kristin:
+That's okay. I mean, the word zombie is losing all meaning for me. Zombie, zombie, zombie.
+[interjection] Kristin: Cover of the 3rd movie.
+Let's see, so what else has been happening other than zombies? We did finally get the magma forge up and running. You did have to help me with that because I just could not make it work. It does work now. We've made lots of nice rose gold things with it, but the problem is that it's more than 100 Z levels from the main areas of my fort, so getting anything done down there, it just takes forever.
+
+[00:12:22] Drew:
+Yeah, you need to make a little living outpost nearby.
+
+[00:12:27] Kristin:
+Yeah, I do need to do that.
+
+[00:12:29] Drew:
+So how do you make rose gold?
+
+[00:12:31] Kristin:
+I have no idea. I select it from the options. Now, we discussed this, but I think that I might have seen you found rose gold somewhere in my mining. So you had suggested that it was a thing that I was making because I had bars of two other ores.
+
+[00:12:49] Drew:
+Copper and gold, I think.
+
+[00:12:50] Kristin:
+Right, but I think I might have also found just rose gold somewhere. So if you are listening to this and you know the story of rose gold or you can save us a Google and tell us. And before I swap back to you and then we swap back and you get the biggest news update from Rag Dreams, I have to say the bat people, man, those freaking bat people. I think that we're approaching a hundred dead bat people. They just keep swarming up from the caverns and at first they were sniping dwarves kind of because, you know, it's the caverns. There are lots of corners and lots of people down there gathering cave spider silk and they just get murdered. Finally, I was smart and had my squad do a patrol down there. So now every time I get the notification about the bat people, I just send them down to patrol. They take care of business and come back and down in the caverns is like a bat people graveyard.
+
+[00:13:46] Drew:
+Yeah.
+
+[00:13:47] Kristin:
+Yeah, there are so many skeletons, there's blood, there was miasma for a while, but that's...
+[00:13:51] Drew:
+Yeah, settles down as they dissipated. 
+
+[00:13:52] Kristin:
+And spears from the dead bat people. 
+
+[00:13:58] Drew:
+It's one way to get a lot of pre-made metal, that's for sure. 
+
+[00:14:03] Kristin:
+Yeah, that is true. I guess I could designate a lot of those for melting. 
+
+[00:14:07] Drew:
+Mm-hmm, especially now that you have the magma. 
+
+
+[00:14:11] Kristin:
+Well, let's hop back over to you and hear the rest of the stuff from DocPages. 
+
+[00:14:15] Drew:
+So for Dog Pages, the interesting thing there is that, matching up with what you just talked about, is that we hit magma as well. Yes. After which, forgotten beasts began attacking us. Oh. That seems to happen when you get to the magma level. Right? 
+
+[00:14:29] Kristin:
+I haven't had any. I did have some magma crabs. They just scuttled around. They're kind of cute. They are kind of cute. 
+
+[00:14:34] Drew:
+I kind of like them. But I've been able to deal with the forgotten beasts. I've had four so far, because I walled up my main staircase, which has worked out pretty well except for flying creatures. I did have to fight one forgotten beast that moved into our main fungus tree level that we harvest the fungus trees from, because it was following Olm people and killing them, and that led to us. Sure. The objective at this point is to reduce the number of dead Olm and Goblin people, over 200. Wow. But the main Forgotten Beast though that we had to fight there when he attacked through the Olm people was Sucker Dust, the Merc of Guts. 
+
+[00:15:20] Kristin:
+Ew, that's a yucky name. 
+
+[00:15:20] Drew:
+Who was basically killed in a hit. 
+[interjection] Kristin: No!
+[interjection] Drew: Again, because he was one of those forgotten beasts with an exoskeleton. So it was Dimetrodon with exoskeletal ribs, large mandibles, and a gaunt appearance. Ash-gray scales are large and close-set. Beware its secretions.
+[interjection] Kristin: Yeah.
+[interjection] Drew: And in a couple of smacks from a good dwarven hammer, I think his exoskeleton shattered and he was dead.
+
+[00:15:49] Kristin:
+No Forgotten Beasts leather from that though.
+
+[00:15:51] Drew:
+Alas, no, all we had were scales.
+
+[00:15:53] Kristin:
+Can you do anything with those?
+
+[00:15:55] Drew:
+Not that I've been able to tell. So I put them up for display on our pedestal.
+[interjection] Kristin: So I put-
+[interjection] Drew: As a warning. Exactly. So with the magma going, I was also able to find the unusual cave wall, unusual volcanic cave wall, studded with gems of all sorts. Oh.
+
+[00:16:15] Kristin:
+No, I got the notice that I see it, but I personally have not seen it. So I'm assuming some dwarf saw it or it's just visible from where we're at near the magma.
+
+[00:16:26] Drew:
+Yeah, I think you'll be able to identify it pretty easily once you start looking for it, because it really is studded with a lot of different types of diamonds and sapphires and all that sort of thing. But the challenge is that when you dig into that, it's usually got both water and magma around inside of it. So as you dig through, you'll get different pockets, along with either forgotten beasts or giant beasts.
+
+[00:16:49] Kristin:
+Yikes. Okay. Well, we definitely wouldn't be able to handle that.
+
+[00:16:52] Drew:
+Well, we didn't handle it great because as we were digging into that pocket, we actually had two of our dwarves die being burnt to crisps from the lava.
+
+[00:17:02] Kristin:
+No. So they were just incinerated?
+
+[00:17:06] Drew:
+Yes, so they catch on fire, flail around a little bit, then keep burning, keep burning, and then finally all that's left is anything metal they had.
+
+[00:17:15] Kristin:
+Oh wow.
+
+[00:17:15] Drew:
+Fun fact, diamonds can actually burn. More on diamonds in just one second.
+
+[00:17:19] Kristin:
+Is that true in real life or just in the game?
+
+[00:17:21] Drew: In real life, too.
+I don't think it's true in real life. I don't think if you put a diamond in magma, it will actually be destroyed. I do know that if you put it in liquid oxygen, they can be, because they're just carbon and they go to carbon dioxide. But I don't think [it's true for] lava.
+
+[00:17:37] Kristin:
+There's probably not a lot of research on what happens to diamonds in lava.
+
+[00:17:42] Drew:
+I would tend to think that people have better things to do [with] their time. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: But that's been the fun with magma and water. The other thing I did was [to] deal with that whole issue, I worked on draining my level of water and magma. And the way to do that basically is to carve out levels using the dig option, using the channel option. Yes, you had to dig. Thank you. 
+
+[00:18:09] Drew:
+Exactly. And so you dig a couple of Z levels of that and then you have [to] set it up so that the water and magma can flow into the main magma sea. 
+
+[00:18:19] Kristin:
+Okay, did you make [it into] obsidian? 
+[interjection] Drew: [I did] change-
+
+[00:18:21] Drew:
+Yes, yes I did. Very cool. Yeah, the challenge with the water though is that it will make obsidian when it hits the lava and then seal itself off. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: So for the water you have to dig a channel all the way to the edge of your map and then 
+[interjection] Kristin: [smooth it] out.
+[interjection] Drew: [Then] smooth it out to put the archery [and] channels in 
+
+[00:18:38] Drew:
+uh... [You need to] smooth it out to put the archery [and] channels in 
+[interjection] Kristin: Oh.
+[interjection] Drew: The idea there being that they're kind of like windows, you know, [I think] that. 
+
+[00:18:46] Kristin:
+Yeah, like a grate kind of. 
+
+[00:18:48] Drew:
+Exactly. And so then the water can just spill over there [and] out of the map. 
+
+[00:18:52] Kristin:
+Wow. 
+
+[00:18:53] Drew:
+And with that, we've been able to drain that layer of both water and magma and have gotten over 300,000 dwarf bucks worth of gems and magic items in there.
+[00:19:09] Kristin:
+Wild. I can't believe you're not the capital of your civilization and that it is Dunsville. 
+
+[00:19:15] Drew:
+Well, at the moment, we've just been promoted up to the next level, and we will see where we go from there. 
+
+[00:19:21] Kristin:
+Oh, that's pretty exciting. So back to me. Well, as you recall, last week I told the story of Cole Copper Leopard and her boyfriend. Well, I have a lot of Cole-related news to share with everyone. 
+
+[00:19:37] Kristin:
+Now, the first thing is that I do need to confess that I committed a small Dwarf Fortress sin. I save scummed. Oh no! I know. Well, I hadn't been playing for very long and Cole was down in the caverns doing whatever she was doing and she got murdered by a bat person. And I just, I wasn't ready for that to be how she died after everything that she'd been through and she's our expedition leader. So, yeah, I just popped back and she was alive again. 
+
+[00:20:08] Drew:
+The last time I mentioned that I save scummed, right? I don't know if... 
+
+[00:20:10] Kristin:
+I don't know if you mentioned it on the episode, but I did now. 
+
+[00:20:13] Drew:
+Okay, yeah, well, in case I didn't mention it in the episode, I save scummed either right before or right after we recorded our last episode in order to keep the Baroness alive because she was killed [interjection] Kristin: during an all-in-person thing when I screwed up and unselected her squad. 
+
+[00:20:32] Kristin:
+Oh whoops, well yeah, uh it happens and sometimes in the interest of the story and the characters [interjection] Drew: Yeah. [interjection] Kristin: because I was invested in Cole. 
+
+[00:20:42] Kristin:
+Well, it was a little foreshadowing. [interjection] Drew: was.
+[interjection] Kristin: Whoops. Um, but before that, we had some good news and she got made Baroness. Excellent. Which was so exciting because I hadn't had that happen. No baronies for me yet. And then the dwarves elected her mayor. So she was both mayor and Baroness. Nice. She was quite powerful, and she had a little bit of time to do some edicts, and mostly she just wanted us to make coins. I don't know what we're going to do with those coins. We have like nine or ten of them now.
+
+[00:21:12] Drew:
+You can trade them away, but I've never been able to understand why someone would find them valuable other than the metal that they have.
+
+[00:21:19] Kristin:
+Our new mayor doesn't want us to export buckets.
+
+[00:21:22] Drew:
+That's a weird thing to have strong feelings about, in my view.
+
+[00:21:23] Kristin:
+That's what I thought, but okay, we'll hang on to our buckets.
+
+[00:21:29] Drew:
+You know, coins I can understand, like these are important symbols of our civilization. Right.
+
+[00:21:33] Kristin:
+Right, it makes a lot more sense than buckets. Buckets. Buckets. So Cole was doing pretty well, and then there was more bat people invasion.
+
+[00:21:45] Kristin:
+She was down in the caverns, I saw that she was fighting.
+
+[00:21:48] Drew:
+There was nothing I could do. I sent the squadron in, and she was dead before they got there. And I was willing to save her once via save scum, but a lot had happened since the last auto-save. And also, like, if you get killed by bat people once, I'll save you. If you get killed by bat people twice, it might just be your time to go.
+
+[00:22:07] Drew:
+It might just be your time to go, right.
+
+[00:22:09] Kristin:
+Yeah, so maybe she lost her will to live after Vabok died and succumbed to the Bat People. I don't think that's really it. I think she just did every job in the Fort, including being Beredus. So, RIP Cole, Rip Cole.
+
+[00:22:24] Drew:
+Have you picked out a new pet to follow?
+
+[00:22:27] Kristin:
+I think I might have one. I have a spearman who was very upset and cancelling everything because they couldn't find their child, their infant. And so I went to look for their infant and realized it had become a ghost. So a ghost. Yes. So I'm going to look into that spearman and see what's going on there. I don't remember how the baby died.
+[interjection] Kristin: No, no, I-
+[interjection] Kristin: Like we've had a lot going on. So I'm going to try to figure out what happened to that baby and see where we're at. I keep fixating on the tragedies, but I mean with a fort like this, what else are you going to fixate on?
+
+[00:23:03] Drew:
+I think that's fair, and I mean, it's not like there's a whole lot of happy endings in Dwarf Fortress. But, of course, I was saying that for me.
+
+[00:23:09] Kristin:
+Yeah, fair. Right now we have been invaded by zombies again. There is a necromancer with them, a human necromancer. There's gotta be like more than 20, 25 zombies. And they came in from the corner of the map and I was all like, uh oh, this is gonna be the end of Reddreams. Um, nope, they've been stopped by the hatch.
+
+[00:23:29] Drew:
+Always the hatch.
+
+[00:23:30] Kristin:
+Yeah, and we do have a sort of secret second entrance that involves a waterfall and my not building walls. And I've had some dwarves come back in from the zombies after I've locked the hatch, but they don't seem to go out that way. So maybe it's inaccessible to go out, but you can come in. But then you'd think the invaders would come in. So now those zombies
+[interjection] Kristin: Yeah.
+[interjection] Kristin: are just camped out there. They kill all the scholars who come to visit because I finally have a library. I didn't even mention that. So I don't think that those scholars are being turned into zombies. So either that necromancer doesn't care or the necromancer got bored and wandered away, and now I'm just stuck with more zombies, but these aren't friendly.
+
+[00:24:15] Drew:
+That's a lot of zombies.
+
+[00:24:16] Kristin:
+Yeah, so now we no longer have our Baroness. We've been through two more mayors, not sure what's going on there. But now I'm wondering, when do I get to be a Baroness again? I've gone mad with power.
+
+[00:24:31] Drew:
+That's a fair question. I'm not entirely sure. I might have to wait until you get another visit from your civilization.
+
+[00:24:38] Kristin:
+Yeah, and unfortunately, they might be attacked by zombies if they try to come visit us.
+
+[00:24:43] Drew:
+Right, because they have to be able to leave again in order to be able to elevate you or appoint someone new.
+
+[00:24:49] Kristin:
+I don't even know if they'd make it to our fort. Yeah, so I don't know. This might be the final update from Ragdreams.
+
+[00:24:56] Drew:
+Well, there's nothing wrong with deciding to be done with a fort when things start to get unfun.
+[interjection] Kristin: Right.
+
+[00:25:02] Kristin:
+Yeah, and it's not that it's not fun, and I'm still learning a lot, but I'm not quite ready to quit them. I might, I might, because there was a part of me that was a little bit disappointed that the hatch stopped the zombies because I thought we were going to have some excitement.
+
+[00:25:15] Drew:
+I am still gonna stick with dog pages for a little bit longer. I'm starting to get a little... Like it's just ticking over too well, and I'm starting to get a little too much junk around.
+
+[00:25:27] Kristin:
+Oh yeah, I'm running into that too. Like it's just a mess.
+
+[00:25:30] Drew:
+Yeah, that tends to happen with Dwarf Fortress. They don't seem to prioritize cleaning high enough. And there are some hacks and stuff you can do to make that happen, but by and large, you know, at some point, you're just ready to move on to the next fort. I wanted to build this one to really start making a dent in the goblin pits around. And we've done five or six. What I'm curious about is if I leave it in such a militaristic state, go on, work on another fort for a couple of years, if they will continue to send out expeditions to conquer the nearby territories or not. We'll have to wait and see. But for the moment, I want to stick with it. You know, there's been a bunch of interesting stuff that has happened. One funny thing I forgot to tell in the previous [interjection] Kristin: Uh-huh. [interjection] Drew: update is that we have also created a temple for the leatherworkers called...
+
+[00:26:24] Kristin:
+They have a guild hall? A temple?
+
+[00:26:28] Drew:
+Yeah. And this is called the Pulpy Sanctuary, which is a part of the Fellowship of Hogs. Hogs. And their high priest is called the Sacred Buzzard. [interjection] Kristin: Hugs.
+
+[00:26:44] Kristin:
+That's kind of impressive, especially if they wear a buzzard headdress.
+
+[00:26:48] Drew:
+Exactly. I kind of like them, and I'm continuing to upgrade their temple. I want to make it [interjection] Kristin: What? [interjection] Drew: see what I can do about it after the next level. Interesting fact, you can only have priests as part of organized religions, not just temples dedicated to a god.
+
+[00:27:07] Kristin:
+Oh.
+
+[00:27:08] Drew:
+Because I've really...
+
+[00:27:10] Drew:
+I have a really fancy temple to Shen, the god of balance, but I can't appoint a high [interjection] Kristin: Mm-hmm. [interjection] Drew: priest there because it's not organized.
+
+[00:27:18] Kristin:
+Right, you haven't had the request to make the temple or whatever?
+
+[00:27:23] Drew:
+Exactly. Whereas the sacred balance, which is one level above and is a nice place, that I can't do a high priest there because the god of balance, whose name is escaping me, only has 12 worshippers as part of whatever the name of their little fellowship is.
+
+[00:27:44] Kristin:
+Yeah. So when you have temples that are to a specific deity and you haven't had a request for it, how are you deciding who to build the temple for? Rulacool?
+
+[00:27:55] Drew:
+Yeah, really cool mostly. Also, you can take a look and see how many worshippers they have, I think when you hover over their name.
+
+[00:28:02] Kristin:
+Okay, I should maybe check that out.
+
+[00:28:05] Drew:
+So you can choose the most, but honestly, like my biggest temple for a long time was Unaligned and then I just put it to Shen because I knew Shen has some, just about the most worshippers in our fort.
+[interjection] Kristin: Okay.
+
+[00:28:19] Kristin:
+Yeah. Boy, we are all over the place. We have flung our outline behind us and just ventured into unknown territory. But that's okay. Carbonating Dwarf Fortress.
+
+[00:28:30] Drew:
+It is. You just have things happen, and you have to create a narrative.
+
+[00:28:34] Kristin:
+Right. And oh, yeah, that reminds me. We got an economically linked, we got a second site to Rag Dreams. I don't remember what it's called, but that was also the first time that's happened to me. So when I had people angry later, I was able to send them there.
+
+[00:28:51] Drew:
+Ah, I think that's always good because you can eventually send messengers over there and reclaim workers if you want.
+
+[00:28:58] Kristin:
+Not with those 40 zombies outside. That may be the case there.
+
+[00:29:00] Drew:
+It may be a one-way trip.
+
+[00:29:04] Kristin:
+Right. Yeah. So what role do those play other than just existing?
+
+[00:29:11] Drew:
+So they improve your standing in your civilization and are part of the promotion system. Okay. To take another run at what I tried to explain last week, there are basically two separate tracks of fort importance and nobility. Nobility is completely controlled by how many of those linked economic sites you have, either founded by your people or conquered and subjugated or defeated to the point that 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: they become utterly dependent on you. 
+
+[00:29:47] Kristin:
+Right. So when the barony happened and the second site happened, it was basically concurrently, but that was maybe barony because the other thing was happening. 
+
+[00:29:58] Drew:
+Right, it was barony because the linked site happened. Yeah. And then you leveled up to a town because you had produced enough trade goods and value that you were recognized by the civilization. 
+
+[00:30:12] Kristin:
+Yeah, I did work really hard that next year to get a bunch of different crafts. So that paid out, I guess. 
+
+[00:30:20] Drew:
+Yeah, so the, uh, yeah, so you can go from the, um, barony to the county to the duchy. And then from there, you can't increase any higher until you, um, get the king or queen of your civilization to move into your, um, location, but they won't do that until you're a mountain home. And the mountain home is on the other track, which is where you go from an 
+[interjection] Kristin: Oh.
+[interjection] Drew: outpost to a town to a city to a metropolis, 
+[interjection] Kristin: to a city.
+[interjection] Drew: and then finally mountain home. Wow. 
+
+[00:30:58] Kristin:
+Mm-hmm. So, I don't know. I think it's just to confuse everyone more. In that way, they're not exactly two tracks. I mean, they're not exactly two tracks. 
+
+[00:31:05] Drew:
+Exactly. Yeah, they're linked at any rate. Yeah, well it's good to think of them as being two tracks I think that just happen to overlap at the end. 
+
+[00:31:14] Kristin:
+Mm, okay, they just come together. Fair enough, fair enough. Yeah, I don't know. I would like to become a barony again, but as I said, I might leave rag dreams behind.
+
+[00:31:23] Drew:
+Yeah, and I mean it's a population issue and if you have the zombies out there, then there's just not much you can do really. Yeah.
+
+[00:31:29] Kristin:
+Yeah, I mean the zombies aren't killing anyone, but it's not like we're going to get any new migrants because of it. And they've been there for, I think they came in the winter, and it is late summer now.
+
+[00:31:38] Drew:
+It might be time to try some "fun" and build ballistas or catapults that 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: can just shoot out from a safe place and attack and hit the zombies.
+
+[00:31:50] Kristin:
+Hit the zombies. Yeah, I might have to mine up from below and put those out there and try to entice them to come and get shot.
+
+[00:31:58] Drew:
+Yeah, you can mine up in a defensible location, build some walls, build a catapult, and then shoot over the walls onto them.
+
+[00:32:07] Kristin:
+The other thing maybe I could do is go out the side of the mountain at a lower elevation if the zombies ever go near the elevation. Do you know what I'm saying?
+
+[00:32:20] Drew:
+Yeah, it's hard to tell, and especially when you didn't plan it beforehand, having them all sitting out there, it can be tricky.
+[interjection] Kristin: Yeah.
+
+[00:32:27] Kristin:
+Also, the layout is not really very conducive to doing that, I think, because either way, I have to get the dwarves out to put them out there. And I'm afraid those zombies are just gonna pounce as soon as we open that hatch.
+
+[00:32:40] Drew:
+The thing you could do there is use cage traps. As we've talked about, cage traps are way overpowered at this stage. And so you could set up like, you know, 20 cage traps in a corridor,
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Block it off with walls so that they have to walk through there, and then open the hatch, send out one or two sacrificial super angry people as part of a militia.
+
+[00:33:01] Kristin:
+Yeah.
+
+[00:33:02] Drew:
+The zombies go after them, run through, all get captured.
+[interjection] Kristin: Please go after that.
+[interjection] Drew: And then we can figure out what to do with them after they've been captured.
+
+[00:33:09] Kristin:
+I mean, it is a definite possibility that I could put a bunch of traps down. I could also maybe put the ballista in that first level, you know, because the hatch works.
+[interjection] Kristin: You know?
+[interjection] Drew: So I could put the hatchet at the second level and just create a zombie death pit.
+
+[00:33:22] Drew:
+Yeah, I think that's an entirely valid idea. I have to confess, I've made ballistas five times. Never actually fired one.
+
+[00:33:33] Kristin:
+Did you just not get to the point of what?
+
+[00:33:35] Drew:
+Yeah, well, I mean, I built them to handle forgotten beasts, and it frequently seems as though the forgotten beasts, they just move so damn quick that the only way to deal with them is actual, like, angry dwarves. Yeah. So there are always solutions in Dwarf Fortress. The level, it just depends on how much micromanagement you're wanting to do, which is always going to be a lot,
+[interjection] Kristin: Mhmm.
+[interjection] Drew: and how much fun you're willing to risk. Right.
+
+[00:33:58] Kristin:
+Right. I mean, and that's the other thing about how you decide when to leave a fort. It's like, how much more of my brain power am I willing to put on this one fort that's already a mess, that's already lousy with zombie guts and all of that stuff? On the other hand, having a more advanced fort, even if I'm a little like, maybe a little ready to move on, I'm getting to do stuff like try to make paper. And I did successfully make one sheet of paper. Nice. And getting the.
+[interjection] Drew: Nah.
+[interjection] Kristin: Magma and all of that stuff. So I don't know, I'm gonna stick it out a little longer, I think.
+
+[00:34:29] Drew:
+Well, I think that's an entirely valid choice. I also...
+
+[00:34:32] Kristin:
+I also, from a scientific point of view, I'm really curious about whether they'll still be there when the caravan comes and what's going to happen.
+[interjection] Kristin: Okay.
+
+[00:34:40] Drew:
+Yeah, I mean that would be interesting. And you know, they might not even be that strong of zombies, and you just need to armor 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: up your people, and maybe the caravan will come with their...
+
+[00:34:51] Kristin:
+Yeah, if the necromancer is not there anymore, which I haven't checked, then I think that we have a much better chance. Yeah. I, one time, had zombies outside and the caravan showed up and they murdered the merchants and then I got all the stuff. So... After the zombies were gone. Win-win.
+
+[00:35:08] Drew:
+Unless you're the merchant.
+
+[00:35:09] Kristin:
+Right, I guess it's bad to be that merchant.
+
+[00:35:12] Drew:
+For all of the vile darkness, which are the goblins attacking my region, I have gotten our civilization to be expert trainers of elk birds.
+
+[00:35:24] Kristin:
+How do you train those?
+
+[00:35:25] Drew:
+Yeah, you can train almost any animal, really.
+
+[00:35:27] Kristin:
+Maybe I should start a yak army. You should. Alright, I have lots of yaks.
+
+[00:35:31] Drew:
+And so I'm thinking I'm going to start trying to station those elk birds outside. I wish I could train the old people because I got a bunch of them captured and I don't 
+[interjection] Kristin: Nah.
+[interjection] Drew: know what to do with them.
+
+[00:35:42] Kristin:
+That's unfortunate. Yeah. I've had a couple of those elk birds roaming around, and they're kind of cute. They are.
+[interjection] Drew: There!
+[interjection] Kristin: Their [spreads] very [antler-y], and they have surprisingly long legs.
+
+[00:35:52] Drew: They're not terribly violent, really.
+
+[00:35:54] Kristin: No, I think that they mostly cause problems just when they get terrified and defensive.
+
+[00:35:59] Drew: Mm-hmm. So the, but yeah, I've got a couple of breeding pairs going off [tied] to a rope so that they're close together, so they breed and then their children, [when] after they breed. Don't mess.
+
+[00:36:14] Kristin: [A]nd after they've been. Domesticated. Yep.
+
+[interjection] Kristin: Yeah.
+
+[00:36:15] Drew: [C]onstantly trained like every couple of months. But my understanding is the kids, I've only just [interjection] Kristin: Uh huh. [interjection] Drew: started with the children, they will be trained once and then will be domestic[ated] and stay trained. Very cool. I don't know if they can be taken as pets.
+
+[00:36:36] Kristin: Hmm. I guess you'll find out. Assuming you stick with your fort. Mm-hmm. Do we have any more to discuss about when to decide to leave a fort? I don't think so.
+
+[00:36:43] Drew: I think so. I think that's probably a pretty good place to leave it on there. Decide when to leave a fort when it's no longer fun.
+
+[00:36:50] Kristin: Yeah, fair enough. When to end the podcast? When you run out of things to say. Exactly. On that note, we do have some housekeeping to take care of because after this episode, we are going to go to an every other week schedule. That'll give us both more time to actually play the game and build up some narratives, give me time to write shorter stories, and give me time to do some Twitch streaming. Yeah, I think so.
+
+[00:37:12] Drew: Yeah, I think you'll have a lot of fun Twitch streaming, and we'll see if we can get some listeners to play. That would be lovely.
+
+[00:37:18] Kristin:
+Yeah, if we can get some of you listeners into chat to talk to us. So I don't have a schedule on that yet. Um, but I am thatKristin, K-R-I-S-T-I-N on Twitch. You should be able to find me. My picture is my warrior of light though from Final Fantasy 14, because that is my true, true deep gaming love.
+
+[00:37:36] Drew:
+Well, I think people will be able to find you on Twitch and yeah, I think Dwarf Fortress does pretty well on Twitch. It doesn't take up too much of the CPU so it's able to actually do all the rest of the streaming at the same time. As a result, I'm sincerely happy that the game is on the net and Governor Quist currently plays it.
+
+[00:37:47] Kristin:
+My poor computer will be able to handle that I think.
+
+[00:37:50] Drew:
+Yeah, unlike trying to stream Final Fantasy 14. That would be a disaster.
+
+[interjection]
+
+[00:37:52] Kristin:
+You can email us at astrangemoodpodcast@gmail.com. Find us on our blog website hosting place, astrangemoodpodcast.com. And I think that's it.
+
+[00:38:06] Drew:
+Yeah, I think that's it.
+
+[00:38:07] Kristin:
+Well, we will talk to you in two weeks.
+
+[00:38:10] Drew:
+Alright, talk to you later guys.
+
+[00:38:12] Kristin:
+Bye!
+
+[00:38:12] Drew:
+Bye.

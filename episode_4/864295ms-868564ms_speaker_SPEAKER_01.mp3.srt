@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,320
+Is your temple functioning well? Is it assigned to any particular god?
+
+

@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:06,800
+Yeah, so I started out using the ASCII version, which is, if you do any searching around on the web for Dwarf Fortress,
+
+2
+00:00:06,800 --> 00:00:10,880
+you'll see the sort of ASCII tile sets that it was originally made with.
+
+3
+00:00:10,880 --> 00:00:20,320
+And then there was a whole community of fans who made tile sets that would be applied kind of on top of those ASCII characters.
+
+4
+00:00:20,320 --> 00:00:22,160
+So you could see a little better what was going on.
+
+5
+00:00:22,160 --> 00:00:28,880
+But now they've come out with what they call Dwarf Fortress Premium, I think, or the Steam version,
+
+6
+00:00:28,880 --> 00:00:36,240
+which contains built-in graphics that are of a higher quality than the tile sets that were made previously.
+
+7
+00:00:36,240 --> 00:00:40,720
+And yeah, it just makes it a much more, I think, interesting and approachable experience.
+
+

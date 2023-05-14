@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,000
+What instruments your dwarves like to play is again, randomly generated.
+
+2
+00:00:05,000 --> 00:00:13,000
+So not just the instrument itself is randomly generated, but which instruments the dwarves prefer in their civilization is randomly generated.
+
+3
+00:00:13,000 --> 00:00:31,000
+And then what each dwarf wants to play is randomly generated from that list.
+
+

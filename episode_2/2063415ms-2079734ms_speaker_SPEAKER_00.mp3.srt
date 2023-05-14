@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:06,960
+cooking screen, go down and disable the cook seeds for making meals for all the different types of
+
+2
+00:00:06,960 --> 00:00:12,080
+seeds. They don't make good enough meals to actually be useful and if you let them make
+
+3
+00:00:12,080 --> 00:00:30,480
+meals out of those seeds then you won't have enough to do your next round of farming.
+
+

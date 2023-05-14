@@ -1,0 +1,541 @@
+
+[00:00:00] Drew:
+podcast is of the highest quality. 
+
+[00:00:20] Kristin:
+Hello and welcome to A Strange Mood, the couple's Dorf Fortress podcast. I'm Kristen. 
+
+[00:00:25] Drew:
+And I'm Drew. 
+
+[00:00:26] Kristin:
+and we are a couple who are playing Dwarf Fortress. 
+
+[00:00:29] Drew:
+Yes, we are. 
+
+[00:00:33] Kristin:
+You don't have any witty banter? No. Okay. All right. So, Drew, what is Dwarf Fortress? 
+
+[00:00:39] Drew:
+Dwarf Fortress is a simulation game that attempts to simulate an entire fantasy world from the gods down to the earthworms and does a pretty good job of it. 
+
+[00:00:52] Kristin:
+And when did you start playing this game? 
+
+[00:00:54] Drew:
+I started playing Dwarf Fortress probably about five years ago. I'm not sure which of the versions that have come out that was, but about five years ago, before the Steam release. The Steam release, I think, is what's gotten you interested in it now. 
+
+[00:01:07] Kristin:
+I think I tried when it was the ASCII version and you had some of the tilesets, is that what it's called? 
+
+[00:01:16] Drew:
+Yeah, so I started out using the ASCII version, which is, if you do any searching around on the web for Dwarf Fortress, you'll see the sort of ASCII tile sets that it was originally made with. And then there was a whole community of fans who made tile sets that would be applied kind of on top of those ASCII characters. So you could see a little better what was going on. But now they've come out with what they call Dwarf Fortress Premium, I think, or the Steam version, which contains built-in graphics that are of a higher quality than the tile sets that were made previously. And yeah, it just makes it a much more, I think, interesting and approachable experience. 
+
+[00:01:57] Kristin:
+Right. Yeah, I tried the ASCII version, like I said, and then I just I couldn't see what was happening even a little bit. I was very confused by it. So we at that point knew that the Steam version was forthcoming, and it seemed like it was at question mark, question mark, question mark date in the future. And it just dropped, which presumably, if you're listening to this podcast, you know, and might be playing. And I'm really enjoying the Steam version. I like the music. I like the graphics. It's been really enjoyable, especially I've played a lot of city builders and other simulation type games. And I think every single one that I do, you were asking me about it and kind of gauging it on how dwarf fortressy it is. 
+
+[00:02:38] Drew:
+Yeah, I think that's definitely the case. I think Dwarf Fortress, which has been, you know, existing for 20 plus years, I believe, by the brother, two brothers team that has been writing it. And yeah, that 20 years has resulted in a lot of very complicated systems all interacting together. So. 
+
+[00:03:03] Kristin:
+Yeah, it's a level of detail that is daunting, to say the least. 
+
+[00:03:09] Drew:
+But the nice thing about that level of detail, I think, is that you can kind of choose where you want to interact with it. You can only be concerned about your fort. You can be concerned about where your fort fits in the larger fantasy world that the game is procedurally creating as time goes on. Or you can be concerned about individual dwarves and their individual happiness, moods, traits, characteristics. I mean, you've dug into the different characteristics and details you can see in your dwarves. How have you been thinking of that level of detail? 
+
+[00:03:44] Kristin:
+You know, I'm still I feel like I'm still kind of learning my way around in in this world. But I do enjoy checking in. And I remember I had one my first fort. People got fae moods just just constantly like that was the only thing that was interesting about that fort until I later abandoned it. But there was a child who had gotten into a fae mood and it was after he saw someone who had gone into a fae mood and didn't have what they need and went berserk and got murdered. And he was just permanently unhappy after that. And I just sort of kept an eye on him as things went on and thinking he would do something interesting and make a bracelet or whatever it was that he made. And he didn't really. And I did eventually abandon that fort because I felt like I had my feet under me a little bit better. But in the next one, I don't think that I followed individuals quite as much. And I am only a little bit into my third fort. And I'm still considering kind of what what my angle of approach is going to be, if it's going to be individual story level or the whole fort or just pursuing the goals of things that I need to learn. It's open ended, which is, I mean, foreshadowing a little bit of what we'll talk about later in this episode. 
+
+[00:04:54] Drew:
+But yeah, it's very open-ended, and the, you know, what we'll kind of talk about later is it's. 
+
+[00:05:01] Drew:
+called the game, some have called it the most complicated game ever made, but there's a question as to whether or not it really is a game, but let's circle back to that later. 
+
+[00:05:10] Kristin:
+Yeah, that's going to be our topic for today. But first, I wish I could do like a news beepy thing, you know, the news alert noise. I'm not going to even try. But so let's hear the news from the Dimension of Myth. 
+
+[00:05:24] Drew:
+So the dimension of myth is my game that I've started up within Dwarf Fortress. 
+
+[00:05:28] Kristin:
+And that's your world and not your fort, right? 
+
+[00:05:30] Drew:
+That's correct. When you start a game in Dwarf Fortress, it's not actually the fort that you hear people talking about, but rather it's the entire world that you're creating, and you will create multiple forts within that world over the course of the game. not super great for Dwarves world that, as it starts, is kind of overrun by Goblins. It's just infested. Yeah, it's infested left and right, because you look at the map that it generates, and you can see, you know, Goblin pits and Dwarven civilizations, Elf civilizations, human civilizations, and all their locations, and the Goblins are just getting out of control. So that's something that I think my Dwarves are going to have to learn to deal with. 
+
+[00:06:21] Drew:
+But with this being the Steam release, I wanted to get my feet under me with the new interface and all those other things. And so I started Fortress Torchmoicined. 
+
+[00:06:34] Drew:
+This fort did not last super long because I was trying to get the hang of the new interface, which is different than obviously the ASCII version. And it was actually abandoned after the discovery of a murdered child on the altar of its main temple. That's grim. Yeah. Blame was initially placed on the ghost of a drowned child whose ghost rose after being unburied too long, because if someone is unburied in Dwarf Fortress after they die, then they stand a decent chance of coming back as a ghost and haunting your fort slash people who were important to them in life if there is anyone left like that. 
+
+
+[00:07:14] Drew:
+However, later it was shown to actually be the work of a mad craft dwarf who apparently went insane after not being able to complete one of his tasks. And as a result apparently murdered a child on an altar in the temple. 
+
+[00:07:28] Kristin:
+Yeah, that's quite a bummer for those dwarves who saw it. Didn't one of the child's parents see it? 
+
+[00:07:35] Drew:
+Yes, yes they did. 
+
+[00:07:36] Kristin:
+Ooh, yeah, that's not what you want. 
+
+[00:07:38] Drew:
+Yeah, so at that stage I was like, I feel like I've got a handle on the new interface and also I'm not dealing with this anymore. And so I retired that fort. So what retiring a fort means is that you're designating this fort to now be controlled back by the world in the normal flow of the game. And so then after you do that, you can go and choose and create a new fort or take over another fort that you had retired previously or that just existed in the world but had been abandoned because of reasons. So after that, for my second fort in the Dimensions of Myth, I created Fortress Hatchet Basin. Nope, nope. 
+
+[00:08:28] Kristin:
+Hatchet Bastion doesn't roll off the tongue very well. 
+
+[00:08:30] Drew:
+No, there's a lot of different things you want to say instead of hatchet. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: That's Jin when you say it. I want to say hatchet. 
+
+[00:08:37] Drew:
+basin. 
+
+
+[00:08:39] Drew:
+Yeah, but that one that one actually did pretty okay That was where I started trying to actually do a halfway real fort with this new steam version and Some interesting things that happened over the course of that one were a jabber attack whose name was soul feed Jabber is sort of like a boogeyman that comes out of the depths as you dig down into the into the earth. Yeah, and made a let's see. What did we get here? We got the dwarven dwarven loot of the tight bolts and a toy hammer called the divine cudgel And a copper axe called the sound of strangling. I love that 
+
+[00:09:21] Kristin:
+Ooh, was this your green glass fort? No. all right. 
+
+[00:09:26] Drew:
+Ah, so we'll get to that. 
+
+[00:09:27] Kristin:
+Are you on your fourth fort now? 
+
+[00:09:29] Drew:
+I'm on my fourth Ford now. 
+
+[00:09:30] Kristin:
+Okay. 
+
+[00:09:31] Drew:
+Um, so the, uh, only other kind of, uh, interesting thing that happened with Fortrete, uh, hatchet bastion. So yeah, I had to pause. 
+
+[00:09:40] Kristin:
+Yeah, it's hard to say. Yeah. 
+
+[00:09:42] Drew:
+It's easier to say the words than the dwarven phrasing that they use. 
+
+[00:09:46] Kristin:
+Well, yes, I mean, I will jump in here and say that we're using these English names that are provided and not attempting to pronounce the dwarven names that you do get. 
+
+[00:09:56] Drew:
+A fun part of the game is that basically every name in there is in two forms. The native name for the culture slash race it's from, and then also the English translation. 
+
+[00:10:07] Kristin:
+Yeah, it's crazy. 
+
+[00:10:08] Drew:
+So the last kind of interesting thing from that fort before I decided to move on from there and started going for some real challenges was the arrival of Lady Consort Veilstopped, a basically a dwarven princess. And she came to my fort and to the tavern, rented rooms and stayed there, was frequently entertaining. And she was incredibly goth and she came to the fort and wore the entire time she was there an outfit made of goblin bone including the drum that she played, bracelet, an amulet made of goblin teeth. 
+
+[00:10:51] Drew:
+A ring made of goblin fingers and a crown made of goblin bone. It's just pretty metal. That's that's pretty metal. Like I said, the one thing this world seems to have a lot of is goblins. They're kind of a renewable resource. 
+
+[00:11:03] Kristin:
+Right, I mean, it's just what you have lying around, some cobbled teeth, you know. 
+
+[00:11:08] Drew:
+So that fort was going along pretty okay. There were no problems with it, but I decided to leave that one behind and start moving into more interesting areas because throughout Dwarf Fortress, when you choose where to settle, each area kind of has a sort of what we would think of as a world biome, and then also a sort of malign or benign influences on it. And so I moved from what was basically a very middle-of-the-road location to a slightly more exciting location on the coast for my third fort, which is Swordbegins, which I decided to make as a green glass fort, meaning I would take sand and create glass blocks and then use those glass blocks to build turrets and living areas that, in this case, I made a path out into the ocean. I'll see you in the next video. 
+
+[00:12:00] Kristin:
+It was very pretty. 
+
+[00:12:02] Drew:
+Yeah, and to build up like that. And the dwarves are actually very happy when you do that sort of thing, because windows, even if the windows don't look out on anything inside the earth, windows make them happy. Right. They like looking out of the windows, even if there's nothing on the other side. And in this case, they would be, well, they wound up being pretty happy because 
+[interjection] Kristin: It's relatable.
+[interjection] Drew: the windows would look out on the ocean and they would see various types of fish and other things swim by. That's so cute. That would delight them. Yeah. 
+
+[00:12:32] Drew:
+So that, Fortress Sword Begins, was an interesting one and pretty successful in being able to dig down to magma. An important part of any dwarf fortress is getting down to the magma. 
+
+[00:12:45] Kristin:
+which I have yet to accomplish. I just got an alert in my current fort that I've reached magma and I clicked on the alert and I didn't see the magma. So, all right, it's still something I have to learn. 
+
+[00:12:58] Drew:
+The upside to magma is that basically it provides a free way of turning metal, turning ore into metal and sand into glass, obviously because of the heat. Normally in Dwarf Fortress, in order to accomplish those changes, you have to cut down trees and turn them into coal and use that coal to... Right. Yeah. 
+
+[00:13:18] Kristin:
+And that is a lot of work and you risk pissing off the elves. 
+
+[00:13:22] Drew:
+Exactly. So all of this obviously is a lot of detail that we'll go into more as the podcast go on. And I'll definitely get into more of that as I go. 
+
+[00:13:28] Kristin:
+You'll get to hear our worlds develop. 
+
+[00:13:31] Drew:
+Yeah, but it's good to kind of start from this layer of just too much information, I think. 
+
+[00:13:36] Kristin:
+I think so. And you have more information about your forts than I do because I'm still figuring out what the hell is going on most of the time. 
+
+[00:13:44] Drew:
+It's very easy that, again, in being able to choose what layer you drop down into in Dwarf Fortress, it's very easy to miss interesting things going on on lower levels than what you're even aware exists. So, Sword Begins. I'll continue on with that. Sure. So that was part of the Ceilings of Combat civilization. And the main dwarf of interest in Sword Begins was Reg Matkib, or Ben Nutz, and she was the Baroness slash Countess by the end of the existence of Sword Begins. She was of unknown parentage, and she basically rose from almost nothing to Baroness Countess of Sword Begins over the course of about four years. Years are kind of both very long in Dwarf Fortress and then don't seem to be very long for what happens in them. 
+
+[00:14:40] Kristin:
+Yeah, it depends on the year. Although when you go out and are able to look at Legends mode, it's seeing how much you didn't know about is kind of amazing. 
+
+[00:14:49] Drew:
+Mm-hmm. So with Sword Begins, we dug deep really fast in order to get down to the lava because I knew I wanted to do the green glass fort. And so in order to really be able to accomplish making hundreds of glass blocks, I needed to get down to magma so that I could just turn sand straight into glass. So in the course of that, we found some interesting metal veins, decided to start mining those out, a lot of platinum. 
+
+[00:15:18] Drew:
+And so by the time we got down to magma, we were able to set up a glass furnace and a magma smelter to be able to turn ore into raw metal. And started just running those gangbusters. 
+
+[00:15:31] Kristin:
+And what happened? 
+
+[00:15:34] Drew:
+And after about two years of good progress towards making the glass fortress and building out glass turrets and everything out in the ocean, good success there, we apparently started to wake up forgotten beasts. Forgotten beasts are a thing that are created at the start of a door fortress world. There's usually somewhere in the range of like 200 or 300 maybe total. And they exist down in the bowels of the earth and only become aware of you if you start making noise or break into their territories. 
+
+[00:16:09] Kristin:
+So if you delve too greedily and too deep... 
+
+[00:16:12] Drew:
+That's exactly right. And so in this case, we, I guess, did that and started having, started having forgotten beast invasions. 
+
+[00:16:24] Kristin:
+I mean, I was sitting on the couch behind you reading a book, and I think in the course of maybe two or three chapters, you had had three or four Forgotten Beasts. It was wild. 
+
+[00:16:34] Drew:
+Yeah, and as a little treat, Kristen, you're going to show them the graphics of the forgotten beast that we created. A little sense. 
+
+[00:16:40] Kristin:
+Yes, there are some really, really wonderful ones and one of them was kind of cute. 
+
+[00:16:46] Drew:
+The, yeah, so the forgotten beasts, they were, let's see, we've got the forgotten beast, Omethu Alphysi. Let's see here. 
+
+[00:16:59] Kristin:
+I'm going to hop in here and for our listeners at home, if you hear strange noises, that is our dog entertaining himself. I'm not going to tell you how he's entertaining himself but he is having fun, I think. 
+
+[00:17:11] Drew:
+um the forgotten beast uh omath afesu i thought i had translations of these 
+
+[00:17:17] Kristin:
+Do the Forgotten Beast names have translations? Yeah. Oh, right. Well, that's OK. 
+
+[00:17:22] Drew:
+An invasion of forgotten beasts began. So the first one to come was Omathu Afeski, a gigantic three-eyed swift. It has three long curly tails and it is ravening. Its beige feathers are long and narrow. Beware its deadly dust. So- It's deadly dust. That one didn't go great because we haven't really set up our military yet. And a well-functioning military is an important part of any fortress as you. 
+
+[00:17:55] Kristin:
+As I did learn and yeah, my squadron of five poorly trained dwarves was taken out in moments, but we'll talk about that soon. 
+
+[00:18:06] Drew:
+So, uh, the invasion of that, uh, of that, uh, forgotten beast led to the death of Reg Bennet. She was the, uh, she was killed by the first one. She was actually the first dwarf to be killed by it. So first dwarf killed by our first, uh, forgotten beast invasion was also our Baroness and Countess. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: And, uh, yeah, she was, uh, she was killed by that. And also sadly, the fun part of Dwarf Fortress, her doe rabbit that was her pet died of sadness 
+[interjection] Kristin: Cut. Die.
+[interjection] Drew: after her death because it was adopted by another dwarf, but it wouldn't eat out of sadness. 
+
+[00:18:50] Kristin:
+It was too sad. 
+
+
+[00:18:53] Kristin:
+That makes me sad. I don't think that our bunny feels that strongly about me. 
+
+[00:19:00] Drew:
+So after the first forgotten beast, we then had our second forgotten beast. Um, I'm not going to try to say the names. A huge chicken with, uh, uh, with lidless eyes. It has a stubby horn and it squirms and fidgets. It's light brown feathers are long and narrow. Beware. It's poisonous. Sting. Stinging chicken. We dealt with that one pretty quick at that point because we had gotten, we had 
+[interjection] Kristin: Oh, good.
+[interjection] Drew: had a little bit of time between the first one we were able to get people trained up a little bit enough to fight that. Then in the same month, the forgotten beast Ascombe has come a towering feathered click beetle. It has a square shell and a bloated body. It's Auburn feathers are long and sparse. Beware. It's poisonous. Bite. Actually that one we killed in like one fight. And that was another Chur geek that was taken down with one blow and they are going to deal with that super Tad Eggman. Okay, so we've got three shorted beasts left, one weakness, then 
+
+[00:19:47] Kristin:
+Oh wow. 
+
+[00:19:47] Drew:
+Was pretty okay with that yeah lost one dwarf I think the other two both got the you know both got the trait of Forgotten beast killer and everybody was relatively happy except the dead guy But then immediately after that one came the forgotten beast Berkey a Towering hairy lobster it has a round shell and it is slavering its lilac hair is very curly beware It's noxious secretions 
+
+[00:20:15] Drew:
+So yeah. 
+
+[00:20:18] Drew:
+Again, that one did okay. I feel like when they have an exoskeleton, they usually die decently fast. 
+
+[00:20:25] Kristin:
+That's odd. You'd think it would protect them. 
+
+[00:20:27] Drew:
+No, it seems like the exoskeletons are frequently just registered the same way as bone, but without flesh, I think, protecting them from the impact. Dwarf Fortress is ridiculously modeled in how it deals with bodies. 
+[interjection] Kristin: Yes.
+[interjection] Drew: Like there's not HP and that sort of thing. Basically, you can have teeth go flying out of a dwarf's skull when they're punched, and just all sorts of weirdly detailed bits. 
+
+[00:20:53] Kristin:
+Yeah. 
+
+[00:20:55] Drew:
+So, tearing hairy lobster attacked, we killed that. Then came an enormous hornbill with external ribs, four stubby horns, fidget, and squirms. Had poisonous gas. That one, I think, took out ten. 
+
+[00:21:11] Drew:
+Then in the next month, we had the forgotten beast, Asno, an enormous feathered iguanodon. Uh, iguanodont. It is actually a thing, apparently. 
+
+[00:21:23] Drew:
+It has a pair of knobby antennae and it undulates rhythmically. Its eyes glow azure. Its orange feathers are patchy. Beware its webs. Its webs. Webs are not great because your doors get stuck in them, 
+[interjection] Kristin: because your door is locked.
+[interjection] Drew: can't move, and then the forgotten beast can just kill them. That took out another 10. 
+
+[00:21:42] Drew:
+Then we have another one. Oh my gosh. A towering feathered earthworm. It has wings and it squirms and fidgets. Its midnight blue feathers are long and broad. Beware its fire. This is the one that really did the job for my fort. 
+
+[00:21:56] Kristin:
+It was the fire, right? 
+
+[00:21:58] Drew:
+It was the fire. The fire going around and causing smoke was just suffocating dwarves left and right. And also bringing my frames per second within the game down to a crawl. I was afraid I was going to abandon the game because of that. But eventually they were able to kill it, but in the course of it, it did kill 45 dwarves. 
+
+[00:22:20] Kristin:
+Aww, that's a lot of dwarves. 
+
+[00:22:22] Drew:
+out of a population of 110. 
+
+[00:22:24] Kristin:
+Oh no. 
+
+[00:22:25] Drew:
+So they killed that, everyone was starting to get their, take a breath again. 
+
+[00:22:32] Kristin:
+I spoke free breath. Yeah, exactly. 
+
+[00:22:33] Drew:
+or tan its skin hide into Forgotten Beast leather and then use the Forgotten Beast leather to make Forgotten Beast armor for my new mayor to wear. Wow. As a, you know. That's pretty cool. Symbol of office. Yeah. 
+
+[00:22:52] Kristin:
+It didn't last long though. 
+
+[00:22:53] Drew:
+No, because then finally the forgotten beast, uh, blah blah blah has come. A huge eyeless salamander. It has a broad horn and gaunt appearance. Its pale skin is wrinkled. Beware its webs. Again, we're back to the webs. So that one burst up from the bottom of the mines, went through and basically rampaged, killing the squads that I had assigned to try to hold back any future forgotten beasts. And, uh, so that took out, I think, probably 15 out of the remaining 60 dwarves. Then another 25 as it came up the, uh, and at that point it got to the hospital where everyone recovering from the previous, uh, forgotten beast fights were currently still recouping. That then meant that it basically rampaged through that, killing everyone. And that was the end of the fortress. Thank you all so much for watching! 
+
+[00:23:48] Kristin:
+I can't believe it went to the hospital. I guess that's where the easy prey was. That was where the, yeah. I mean, it sounds like that's where all the remaining prey was. 
+
+[00:23:55] Drew:
+Exactly. So it went there. I mean, it deliberately went there to hunt them down. Yeah. Brutal. Yep. 
+
+[00:24:03] Drew:
+So the only survivor of Fortress Sword Begins was a single dwarven child who was up with the recently arrived traders, traders, people who were coming to trade. And yeah, I'm assuming that after he saw the forgotten beast burst into the hospital, he fled back with the traders and left, told them to get the hell out of there. 
+
+[00:24:30] Kristin:
+Man, he probably had some serious trauma. 
+
+[00:24:32] Drew:
+Uh huh. 
+
+[00:24:33] Kristin:
+I wonder if you'll see him again. Maybe he'll show up at another fort. 
+
+[00:24:36] Drew:
+Entirely possible that does actually happen within the game 
+
+[00:24:39] Kristin:
+That's pretty cool. 
+
+[00:24:40] Drew:
+So. 
+
+[00:24:42] Drew:
+That is the current history of the Dimensions of Myth. Those are the major events for my forts. But meanwhile, a whole other series of events have been occurring within the fortress, within the Dimensions of Myth, which when you retire a fortress, or one fails like Sword Begins did, then you can pull up what's called Legends Mode, which basically lets you view the entire history of your world as has happened so far, including all of the civilizations that you haven't interacted with. For an example, besides apparently the goblins we do seem to have a problem with kidnapping necromancers, necromancers who kidnap people, and then convert the people they've kidnapped into kind of white walkers or some sort of... 
+
+[00:25:43] Drew:
+some sort of spy type undead that is able to go into other towns and convert people, and bring them over to the necromancer's cause. 
+
+[00:25:55] Kristin:
+Wow, that's creepy. 
+
+[00:25:56] Drew:
+I mean, it seems to be happening a fair bit in that world from what I could see. So you're gonna... 
+
+[00:26:00] Kristin:
+So you're going to be wary of white walkers, I guess. 
+
+[00:26:04] Drew:
+Exactly. So that's the dimensions of meth. So what's been going on in your world? 
+
+[00:26:10] Kristin:
+My world, my world is the wondrous planets, which I actually really like as a world name. As I said, I'm on my, I guess I'm on my third fort now, but third fort hasn't been going on for very long, so wanted to give you the tale of Treasure Treaties, my poor, sad second fort. It was ticking along really well. Like we had quite a few gems and quite a bit of ore, and I was finally starting to trade, and we were getting the value of the fort up. Finally had my first mayor. It was very exciting. The expedition leader who had been the manager then got elected mayor. Things were going well. 
+
+[00:26:48] Kristin:
+And then the necromancer appeared. 
+
+[00:26:51] Kristin:
+with the zombies. And they weren't just zombies, these were cave crocodile zombies. Which was, I don't know if it's actually ironic, but fitting because our primary pest in this particular fort from the caverns, cave crocodiles, these little lizardy dudes would just come up and murder you. 
+
+[00:27:10] Kristin:
+get murdered. I mean, they'd do some... they'd try to do some murder. I think they might have killed, like, a bard who was gathering silk or whatever in the caverns, but for the most part, we just murdered them, put them out in the refuse pile. Putting them outside in the refuse pile, apparently, big, big mistake, because some goblin necromancer turned all of those dead cave crocodiles into zombies, which then started to attack my fort. This fort was actually great. My current fort is not far from it, and I'm like, can I reclaim it? But it's close to the goblins, unfortunately, and I'm definitely not prepared to venture up there. But I built into the side of a mountain, so I had one door going in, and when bad things came, I would just lock the door. We'd stay in there. 
+
+[00:27:56] Kristin:
+This time I locked the door. There were still quite a few people outside, which was a little concerning to me. But I had a very small squad. They'd done some training, and I was finally like, all right, it's now or never, we gotta open the door. And that was a terrible, terrible, very, very bad idea. And at that point, you could see the population of my fort ticking down by the constant new mayors. And these cave crocodiles just kept going. And we looked at them a couple of times, and I think Drew noticed that one of them was not actually a cave crocodile. It was the scales of a cave crocodile. So it's the zombie scales, like a skin, I'm assuming, dragging itself around, murdering people. And then there was the arm of a dwarf, which I'm sure for the dwarves that it killed was pretty disturbing. 
+
+[00:28:46] Drew:
+That's a fun part of necromancy in Dwarf Fortress is that basically almost everything can be necromanced back into a zombie. So that includes arms, you can have fingers. Probably teeth. I don't know if you can zombify teeth. I'm going to keep an eye out for it. Yeah, I would watch out for that too. I think it has to have, with the way Dwarf Fortress models things so carefully, I think they have to have some means of locomotion. But then the scales. I mean the scales, yeah. Yeah, I don't know. I think it's a good thing. Yeah. 
+
+[00:29:16] Kristin:
+Hard to imagine. 
+
+[00:29:17] Drew:
+But yeah, so you can have, you know, spleens hauling themselves around and... 
+
+[00:29:24] Kristin:
+Yeah, doing the murder. And eventually it was down to just the, I think she was a planter who was mayor. And I think that there were two bards and three children. She was the mayor of two bards and three children. And as the fighting was going and the zombie crocodiles were spilling through the hallways of the fort, she was still there planting, planting the plump helmets. 
+
+[00:29:49] Drew:
+She wanted to die the way she lived. 
+
+[00:29:50] Kristin:
+I guess so. And at one point I went and she was just snoozing in her bedroom. And then I followed her around for a little while and she did eventually get murdered. She was not the last to get murdered. I think, again, it was either. No, it was a bard. It wasn't a child. A visiting bard. It was a visiting bard who was the last to die. I bet he's really glad that he went to Treasure Trees. 
+
+[00:30:11] Kristin:
+So that was the end of that one. My first fort I abandoned because I didn't know what I was doing. Second fort I was really enjoying and then everyone got murdered. So now I'm on my third fort, which is called Rag Dreams. And we're not super far into it yet. Me and the dwarves, we're still figuring out what to specialize in and what's gonna be our whole. 
+
+[00:30:32] Kristin:
+Deal. 
+
+[00:30:33] Drew:
+Yeah, that's one of the interesting challenges of Dwarf Fortress is that... 
+
+[00:30:39] Drew:
+Each place you decide to settle, you can get some information about it beforehand, like what metals it has, if there's water, lots of trees, that sort of thing there. But once you get there, sometimes you'll get there and there'll be basically nothing useful except maybe clay. And then you're like, I guess we're potters, guys. 
+
+[00:30:57] Kristin:
+That's what we're doing now. 
+
+[00:31:00] Drew:
+And other times you may get to a place that didn't even look that promising, but you dig down two layers and you start finding platinum and gold everywhere. I had one fortress that never even tried to do farming at it, to make plump elements and make dwarven wine and all of that. Instead, we had gold basically one layer down, just the seams of it. Wow. And so we just made gold crafts and traded everything for that, and that fort did pretty decently. Now that was back in one of the older versions. Right. But yeah, so it's always open to you to decide what you're going to specialize in, or if not open to you for anything, it's open to you to figure out, with the resources I have on hand, what am I going to do. Each game is different. 
+
+[00:31:50] Kristin:
+There's some problem solving involved. And this actually takes us into our topic for the day a little bit, which is the very big question that I pose both to you and to me and to our listeners. Is Dwarf Fortress a game or a toy? 
+
+[00:32:05] Drew:
+Yeah, so this is something, you know, we've talked about on walks and that sort of thing. That people call Dwarf Fortress a complicated game, but I'm not entirely sure that game is the right word for it, because games usually imply some sort of end state, some sort of there's winning and losing in a game. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: And there's not really winning and losing in Dwarf Fortress. Obviously if everyone in your fortress is killed, that's probably a loss. 
+
+[00:32:34] Kristin:
+Right. 
+
+[00:32:35] Drew:
+But there's not really like a win condition. I believe nominally you can get your fort to become so valuable and so politically important that it becomes the center of your civilization. But even then, you can still just then keep playing and civilization's the thing. So I think calling it a game isn't quite the right word. The other thing as well is we talked about in the beginning that kind of all simulation games since Dwarf Fortress first kind of became popular are measured to one degree or another against Dwarf Fortress. 
+
+[00:33:13] Kristin:
+Yeah, it's true. Like I said earlier, most of the city building games that I played inevitably get compared to this game. And now I can finally join in that comparison rather than just asking you, but do you do this? Do you do that? And in Dwarf Fortress, it turns out the answer is always yes. You always do that and more. But in some ways, it... 
+
+[00:33:34] Kristin:
+reminds me, not actually of The Sims, because in gameplay it doesn't remind me of The Sims, but in the way that people create their own fun. And in The Sims, they create their own kind of challenges. And like, here's a legacy challenge, and you play the same family for as long as possible. Or you start with no money or things like that. And in this game, you also have to choose what kind of story you want to be telling. And it does seem to lend itself to storytelling in that way, and not being told a story. 
+
+[00:34:05] Drew:
+I think that's fair. I think it's also interesting to kind of talk about how Dwarf Fortress differs from The Sims, for example. There's another game called RimWorld that's very popular that also is... RimWorld is obviously a descendant of Dwarf Fortress. 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: Something in that same vein. But where, again, they've taken Dwarf Fortress and for RimWorld turned it into more of a game. What I mean by that is that it's focused around providing the player with entertainment in a way that Dwarf Fortress isn't. Dwarf Fortress expects you to find some fun, but it doesn't change itself to give you that fun. RimWorld, and I believe The Sims as well, when things aren't happening, the game will change a rule, basically. It'll make a decision on its own that, okay, I'm going to add this complexity in. 
+
+[00:35:06] Drew:
+do some sort of, have some sort of event happen to keep the player interested. And the Sims, you know, that's your Sim loses their job or... 
+
+[00:35:15] Kristin:
+Right. I don't know that the game necessarily distinguishes in that nothing has happened in a while. I think that it's more or less actually random, but it does have a built-in passage of time and you are guaranteed certain events. So at this point you are going to turn into an old man, Sim. And time does pass in Dwarf Fortress, but nothing is constant fort to fort. So you're not going to see the same changes as time passes. And because of the way that you're playing the world and not individual forts, that passage of time isn't necessarily even seen in your current save. You might not see the pattern of things until you go into that Legends mode and see what else is there and happening. 
+
+[00:36:00] Drew:
+Yeah, I mean, that's exactly right. To go back to the RimWorld example, RimWorld does have a thing they call the producer AI, which within it basically will decide that like, okay, nothing much has happened, you've got everything ticking along fine. So in RimWorld, the producer AI will decide, okay, you're going to have an invasion now or something like that. And Dwarf Fortress doesn't do that. Dwarf Fortress is pretty, has a high level of fidelity with its simulation. Like it all just, there are rules that they've set up at the beginning and it just keeps ticking along, applying those rules rather than kind of doing things ad hoc. The only thing, the only ad hoc thing in Dwarf Fortress is you. 
+
+[00:36:48] Kristin:
+Right. It seems like some of the major events are a consequence of the player's action. So you were being noisy in low levels and that attracted the player to you. 
+
+[00:37:00] Kristin:
+forgotten beast. I don't know what I did to attract the goblin necromancer. That might 
+[interjection] Drew: Yeah.
+[interjection] Kristin: have been inevitable because I didn't really realize just how close we were to the goblin civilization. 
+
+
+[00:37:15] Kristin:
+Ultimately it was my fault for choosing that spot. So in some ways I think that the game requires more of the player in that what happens is a consequence of your choices, but also you do have to bring a level of creativity to it in order to see patterns and to get attached to particular dwarves or see the stories that are emerging. 
+
+[00:37:39] Drew:
+I mean, the reason why I find it difficult to call it a game or to, you know, only call it a game is because I think of it more as a toy. And by that, I mean something like an ant farm. You know, kids get ant farms and those are, you know, science toys. I think they're frequently called nowadays. But for an ant farm thing, science when they say oh, you know, I've actually played a video game before. Yeah. With a lot of claseur, I mean, Yeah, right. Uh. Like by stardome Click, click, click. Oh, maybe in a go hang out with your friends. I understand that. But from an, 
+
+[00:37:59] Drew:
+You'd really struggle to call that a game, but with an ant farm you do kind of all the same things as best I can recall from being seven? 
+
+[00:38:06] Kristin:
+I don't think I ever had an ant farm or interacted with one. Maybe it's like having fish. 
+
+[00:38:11] Drew:
+Yeah, I mean that sort of thing of like, you know, you can choose to decide to give them names and imbue them with personalities and all these sorts of things. But they're really, you know, just doing their ant thing, doing their fish thing. 
+
+[00:38:26] Drew:
+So... 
+
+[00:38:27] Kristin:
+I think fish have personalities. 
+
+[00:38:30] Drew:
+Maybe so, in which case we probably shouldn't call them toys. But let's, let's go. 
+
+[00:38:33] Kristin:
+All right, well, fair. 
+
+[00:38:35] Drew:
+Let's go with the ant farm example. We can all be like, an ant farm is a toy. 
+
+[00:38:40] Kristin:
+It's hard to get in touch to an aunt, I think. 
+
+[00:38:43] Drew:
+But you can, you can give them names, you can say that they're working on making a home over in this location. 
+[interjection] Kristin: Right.
+[interjection] Drew: And so that's kind of how I think of Dwarf Fortress, that you have to create a narrative out of the events that are happening within the game. 
+
+[00:38:58] Kristin:
+Mm-hmm. 
+
+[00:39:00] Kristin:
+And I mean, sometimes the narratives are like life and things just happen. What the hell? Exactly. 
+
+[00:39:06] Drew:
+to do in the future, Kristen? 
+
+[00:39:20] Kristin:
+Well, we have actually a lot of exciting plans. So this is sort of our pilot episode. Obviously, it's not exactly how the show is going to go in the future. But we have planned some fiction from me. I am actually a professional writer of words. It may not sound like it as I'm speaking, but I do that for a living at times. 
+
+[00:39:44] Drew:
+This is how humans talk. 
+
+[interjection] Drew: waiting and hiding."
+
+[00:39:52] Kristin:
+So there will be some of those as various characters emerge from our worlds. I will speak directly through this cat who is between me and the microphone and read those stories to you. And hopefully that'll be fun. Those will be short. And look into detail. I'm sorry, the cat. 
+
+[00:40:11] Kristin:
+Okay, a bit. And those will be short and tell in detail some of the stories that we tell you when going to spearhead this for us, but we're tentatively calling it wrong answers only. 
+
+[00:40:33] Drew:
+That's right, wrong answers to Reddit questions and other tips and tricks to help you with your Dwarf Fortress playing. Even if you're an experienced player of Dwarf Fortress, there are things you've missed. There are certainly things I've missed. And so it'll be good to go through some of them and also use that to illustrate some of the humor that is Dwarf Fortress. 
+
+[00:40:52] Kristin:
+Right. And the fact that, you know, sometimes there is concrete advice that can be given to answers or to questions like, how do I deal with all these crundles? That was one that a problem that I had. And I asked you, how do I deal with all these crundles? So there are multiple. Just our animals are going crazy over here. It's like a zoo. So in answering those questions, I think that we'll be able to go through some of the ways that you can both correctly answer a very basic question, like how to deal with crundles. We'll deal with the fun way of how to deal with crundles and maybe just some silly and creative ways to deal with problems in your fort as well. And then as time goes by, I think that we will also talk about other city builders that we play. I think that 2023 is going to be an exciting year for city builders. At least I see those clickbaity headlines and you do kind of see them every year. But we always play some of the new ones and we'll talk about those and give our recommendations. 
+
+[00:41:55] Drew:
+Yeah, and kind of talk about it again in relation to Dwarf Fortress, because I think now that you've played Dwarf Fortress, you can see how much it's influenced all of the city builders and sim games that have come out since it started 20 years ago. 
+
+[00:42:08] Kristin:
+Yeah, so we have a lot of big plans. You can see show notes and get in touch with us at our website, A Strange Mood Podcast dot com, or email us A Strange Mood Podcast at gmail dot com. Typically, it'll be me getting back to you. So if you want real answers, real knowledgeable answers about Dwarf Fortress. 
+
+[00:42:29] Kristin:
+You might get them. 
+
+[00:42:31] Drew:
+Oh yeah, in the show notes we will try to create images for each of the forgotten beasts or other interesting things that are great. Artifacts. Artifacts that are created with Dwarf Fortress and you can see those on the show notes as well. 
+
+[00:42:45] Kristin:
+Yep, you'll see art and transcripts of stories that I tell, not the episodes. No heckin' way that I am transcribing the things that we say. So until next time, thanks for listening. 
+
+[00:42:57] Drew:
+Yeah, we'll talk to you later. I'm Drew. I'm Kristen. 

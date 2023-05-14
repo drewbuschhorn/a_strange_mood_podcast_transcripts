@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:03,240
+drawing walls and doors and zoning it all that way.
+
+2
+00:00:03,240 --> 00:00:05,200
+You do Z levels and have stairs
+
+3
+00:00:05,200 --> 00:00:07,480
+and they just walk through each other's rooms.
+
+4
+00:00:07,480 --> 00:00:34,700
+But.
+
+

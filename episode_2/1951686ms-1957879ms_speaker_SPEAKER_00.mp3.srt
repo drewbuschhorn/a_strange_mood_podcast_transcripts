@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,200
+So, you need to make a 3x3 farm, because any larger is just wasted.
+
+

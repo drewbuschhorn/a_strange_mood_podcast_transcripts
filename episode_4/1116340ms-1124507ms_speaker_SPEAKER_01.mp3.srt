@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,840
+Completing 25 of an X number of those categories
+
+2
+00:00:06,840 --> 00:00:09,440
+will cause you to level up.
+
+

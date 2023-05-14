@@ -1,0 +1,801 @@
+[00:00:00] Kristin:
+The quality is of the highest quality. 
+
+[00:00:15] Drew:
+Hey, you. 
+
+[00:00:18] Kristin:
+Hello and welcome to A Strange Mood, the couple's Dwarf Fortress podcast. I'm Kristen. 
+
+[00:00:24] Drew:
+And I'm Drew. 
+
+[00:00:25] Kristin:
+And we are playing Dwarf Fortress. 
+
+[00:00:27] Drew:
+That we are, Kristen. That we are. 
+
+[00:00:33] Drew:
+It has. 
+
+[00:00:35] Kristin:
+It has been a week. I feel like we need to work on our little witty banter intros that Justin and Sydney McElroy have. 
+
+[00:00:43] Drew:
+Yeah, they seem to do a pretty good job with it, but, you know, we'll get there. 
+
+[00:00:47] Kristin:
+Yeah, and neither of us is professionally funny. 
+
+[00:00:51] Drew:
+I don't know. I don't know. No, that was a non sequitur. Now, Matt. 
+
+[00:00:55] Kristin:
+No, that doesn't go with that. You can at least listen to me before you respond. Ha ha ha, marriage. 
+
+[00:01:01] Drew:
+Oh, marriage. You keep staring at me. 
+
+[00:01:06] Kristin:
+Alright, well that's where we're at on this fine Monday. 
+
+[00:01:13] Drew:
+Yep, it's a Monday. It's a Monday, Monday. 
+
+[00:01:16] Kristin:
+So Drew, tell us the news from the realms of myth. 
+
+[00:01:20] Drew:
+The realms of myth, Fort Dobbed Pages. Fort Dobbed Pages continues apace. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: We have a couple of interesting things going on there. One of the biggest new things is that we've taken to taming elk birds. 
+
+[00:01:36] Kristin:
+Elk birds? Do they have antlers? 
+
+[00:01:38] Drew:
+They do indeed have antlers. 
+
+[00:01:40] Kristin:
+What are you doing with your tame elk birds? 
+
+[00:01:42] Drew:
+Well, they come up from the depths, and then we capture them in cages, and then we train them. And then people take them as pets. 
+
+[00:01:49] Kristin:
+That's adorable. 
+
+[00:01:50] Drew:
+We also use them as kind of military fodder for the periodic, continues to be periodic, invasion of old people. 
+
+[00:01:58] Kristin:
+Old people!
+Yes, the slaughter of the Olm people continues unabated. We are now up to over 150 dead Olm people.
+[interjection] Kristin: We are now up to...
+
+[00:02:07] Kristin:
+It's a shame you can't make, like, old people leather.
+
+[00:02:10] Drew:
+I know, right? It's a-
+
+[00:02:11] Kristin:
+It's maybe a little horrifying.
+
+[00:02:12] Drew:
+Well, it's a rule in this version of Dwarf Fortress, apparently, that you can't make leather out of intelligent creatures.
+
+[00:02:19] Drew:
+Or kittens. Well, I think if you could get the skin from the kittens, you could make the leather. No, I don't think you could.
+
+[00:02:24] Kristin:
+No, I mean, I tried because...
+
+[00:02:27] Kristin:
+I had to kill a lot of kittens, you guys. Sweet. I did a lot of kitten murder.
+
+[00:02:32] Drew:
+That's unfortunate.
+
+[00:02:33] Kristin:
+Anyway, I'm sorry. Carry on.
+
+[00:02:35] Drew:
+So, the Olm people. Yes, we've killed 150 Olm people in several more waves of invasions. I generally dispatch five fully-armored dwarves down there and take out 25 Olm people with nary a scratch. But that is continuing on. It's doing pretty well. In the meantime, we are also starting our invasion of the various goblin pits around Daubed Pages.
+[interjection] Kristin: Hmm
+[interjection] Drew: We're up to five places invaded, four of them conquered.
+
+[00:03:08] Kristin:
+Nice.
+
+[00:03:08] Drew:
+Including one interesting place called Torment Wanders, which was a population 20 goblin pit. We actually wound up destroying the civilization that had occupied that. They fled and instead were replaced with a dark human civilization of about 50, called the Council of Candies.
+
+[00:03:31] Kristin:
+The Council of Candies, they seem like fun.
+
+[00:03:34] Drew:
+Yes. They are in alliance with us because we conquered that area and I guess let them in. So they are the fourth linked economic territory to Daubed Pages. And then we have two more, kind.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: All right, ready for joining as a result of some raiding that we've got going on, all led by the world's grumpiest dwarf, Lore Goldenwhips. 
+[interjection] Kristin: Wow.
+
+[00:04:00] Kristin:
+Is he still grumpy? 
+
+[00:04:02] Drew:
+He is still indeed grumpy. 
+[interjection] Kristin: Hmm.
+[interjection] Drew: Still irrationally angry at all times. Fair enough. But it seems to make him a good military commander. Yeah, it sounds like it. 
+
+[00:04:09] Kristin:
+Yeah, it sounds like he's pretty successful. 
+
+[00:04:11] Drew:
+Yeah, so the other exciting events that have happened include... 
+
+[00:04:19] Drew:
+that Ushat, the baron of doped pages, has become obsessed with chains. Chains? Chains. Having us make chains. 
+
+[00:04:30] Kristin:
+That's weird. 
+
+[00:04:31] Drew:
+and forbidding us to export them. 
+
+[00:04:34] Kristin:
+Do you get to do anything with them or do they just sit around in bins or barrels or whatever? 
+
+[00:04:39] Drew:
+Well, we can use them. I think it's important to him that he sees them being put to use. Oh, okay. So he created a mandate for ten chains to be made and for no chains to be exported. So I made some fancy chains, we put them in the dungeons, he seems to be happy enough. 
+
+[00:04:55] Kristin:
+[laughter] 
+
+[00:04:56] Drew:
+Meanwhile, you remember that Ushat, in addition to being the baron of the fort, is also our 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: chief medical dwarf. He is also a multi-tasker. 
+
+[00:05:04] Drew:
+And unfortunately, one of his doctors went mad from overwork under him as a result of people coming back injured from one of the raids. Oh dear. No doubt he and Lore had words over this. 
+
+[00:05:17] Kristin:
+I'm sure they did. 
+
+[00:05:19] Drew:
+So that is kind of the highlights of what has gone on there. Nothing super duper exciting, but some other interesting facts include that we have had two new human immigrants. Both of them are monster hunters. 
+
+[00:05:36] Drew:
+And one of them has the copper shield Odasamar, which we will include in the show notes.
+
+[00:05:44] Drew:
+which is a copper shield that menaces with spikes of alabaster.
+
+[00:05:48] Kristin:
+Ew.
+
+[00:05:49] Drew:
+On the item is an image of Bak's cursed nature, the goblin, and goblins in Selenite. Bak's cursed nature is surrounded by goblins. The artwork relates the ascension of the goblin Bak's cursed nature to the position of the Lady of the Circumstantial Evil in the early winter of the year 1.
+
+[00:06:06] Drew:
+This is interesting because it actually came from the dark goblin pit I mentioned previously.
+[interjection] Kristin: Oh!
+[interjection] Drew: as a result of that raid. They came along with and came back with that item.
+
+[00:06:16] Kristin:
+That's pretty cool.
+
+[00:06:17] Drew:
+The other fun immigrant who is a human is Oni Segobe, a female human spearwoman.
+
+[00:06:29] Drew:
+who is an interesting character because she actually carries around with her the Secret Surgery, a book.
+
+[00:06:40] Drew:
+This is a Kunzite-bound codex. I don't actually know what Kunzite is. The written portion consists of a 70-page manual entitled Secret Surgery, authored by someone. It concerns the surgical method of incision. The writing is reasonably serious, and it has rare but particularly exquisite turns of phrase. Overall, the prose is passable, and it is spattered with giant owl-person blood.
+
+[00:07:06] Kristin:
+Well, of course it is because of all the dead old people.
+
+[00:07:11] Drew:
+That, in a nutshell, is the summary from Fort Dobphages. It's nothing too terribly exciting this time because we've been focusing more on our military and conquering those other regions, so what's been going on within our fort has been fairly tame.
+
+[00:07:26] Kristin:
+Yeah. I'm, well, no, I'm not exactly jealous, but also I am jealous because mine's just been an absolute shitshow.
+
+[00:07:36] Drew:
+Identify typos to correct in the following transcript of a podcast about the video game Dwarf Fortress. Make the corrections. Make the text more readable and natural. Do not change any content between '[' and ']'. Do not remove lines starting with '[interjection]'.
+
+----
+
+Really, what's been happening in the wondrous planets?
+
+[00:07:39] Kristin:
+Well, things at Fort Ragdreams are not going well. As you recall, we had the zombie and were-monitor lizard invasion, and everyone was extremely angry. So my focus has been trying to get them to be happy again. It's not going great. The first thing that I did was set up a squad because we heard from Sal that military training can perk up angry dwarves, and it didn't help even a little bit. I was extremely frustrated with this, and then later when I was assigning more angry dwarves to a different squad, I realized that I had set up a torture squad.
+
+[00:08:22] Kristin:
+In that I assigned them to a squad, told them to train, and then in their barracks, I set it for no training, only for sleeping. And there were no beds. And it's no wonder that they were all extremely grumpy.
+
+[00:08:38] Drew:
+So they were grumpy before, then they became extremely grumpy.
+
+[00:08:41] Kristin:
+Yes, they're all enraged. And then they were slipping into a depression and wandering around obliviously, all kinds of things. So...
+
+[00:08:50] Kristin:
+Things not going great on that front. And I sent them out on a mission. We'll come back to that though because I have other things to talk about because so much has just been going so poorly. I also did meals, and I found them some mist in a place and got my hospital set up finally because we got a well. The well was a tragedy that you all will hear about later in the episode when I read to you a little story that I wrote about it.
+
+[00:09:19] Kristin:
+But with the well, I did set up a hospital.
+
+[00:09:22] Kristin:
+It doesn't work quite how I thought it would work because it's quite big, and you know there are beds and a traction bench and all the things that you need to have. But all of the ill dwarves are standing on one corner tile.
+
+[00:09:37] Kristin:
+And there's just a stack of like seven of them, five of which are zombies.
+
+[00:09:42] Drew:
+Huh.
+[00:09:42] Kristin:
+Yes.
+
+[00:09:43] Drew:
+Why are there zombies in the hospital?
+
+[00:09:45] Kristin:
+Well, I'm assuming that they want to see the doctor. They're getting diagnosed.
+
+[00:09:50] Drew:
+I wonder if a human doctor can diagnose zombies, or if it has to be a zombie doctor.
+
+[00:09:56] Kristin:
+Well, they haven't left. That just seems to be where zombies go to stand. And it seems like the diagnosis would be pretty obvious anyway.
+
+[00:10:04] Drew:
+Yes, terminal zombie-itis.
+
+[00:10:06] Kristin:
+Yes, ma'am. Please pick up your entrails and leave.
+
+[00:10:09] Drew:
+On a serious note, I guess maybe to deal with that you should undesignate the hospital and see if they all unpack themselves.
+
+[00:10:16] Kristin:
+It doesn't matter. Everything is spiraling out of control now. As I was playing this afternoon, we sent our squad of angry dwarves that had been in the torture squad off to raid another place, and nothing really happened. And then they came back, and I just sent them out again to see if maybe they could actually conquer it this time. And I guess we angered a necromancer, because then we had another zombie invasion.
+
+[00:10:42] Drew:
+Was it a tower?
+
+[00:10:43] Kristin:
+Yes.
+
+[00:10:44] Drew:
+Yeah, fun part about the towers, they frequently say something like, population of one or population of ten.
+
+[00:10:51] Kristin:
+I did say population of 10.
+
+[00:10:52] Drew:
+And then it turns out that they mean living population.
+
+[00:10:55] Kristin:
+And then there's an army of zombies. Yeah, so I'm pretty sure that our squad did come back, but they were zombies. So that's ongoing. It's not going great, and while this was happening, we had someone in a fey mood just meltdown and go berserk and get murdered, and their corpse is now rotting in the workshop where they were failing to make their artifact.
+
+[00:11:22] Drew:
+Hmm. Yeah, it's more important to haul these stones around rather than put the rotting corpse of my friend into a tomb somewhere.
+
+[00:11:31] Kristin:
+Right, you only have yourself to blame at that point if you get the decay of a friend making you sad, witnessing the decay of a friend. Oh, these dwarves. I don't know what to do with them, man. Like, I'm at this point where...
+
+[00:11:44] Kristin:
+you know, we could still save it. Like, the zombies haven't gotten in, but at the same time, like, how long am I going to keep beating this zombie horse? You know?
+
+[00:11:53] Drew:
+Mm-hmm. Just have to say, abandon fort. Let them deal with it. I'm moving on to my next fort.
+
+[00:12:00] Kristin:
+No, I'm going to stick with it. I have a hard time abandoning them. And we just got our hospital working. I got the glass working. And then I was trying to make an instrument that they all prefer, but I need clay to do ceramic, to make the keyboard, to make the... Anyway, you get the idea.
+
+[00:12:18] Drew:
+Everything in this game involving music in some way winds up being hideously complicated.
+
+[00:12:24] Kristin:
+And we did learn today that the instruments are randomly generated per world.
+
+[00:12:29] Drew:
+Yes, so the instruments and the musical forms are all randomly generated per world, so you can't just google a particular instrument.
+
+[00:12:36] Kristin:
+Yeah, that's what I was trying to do. Because...
+
+[00:12:38] Drew:
+Because the word is randomly picked from its Mad Libs generator. Mm-hmm. And then also what it's made out of and all of the pieces are randomly generated from, I guess, within a set of options per piece type.
+
+[00:12:53] Kristin:
+Yeah, so I needed workshops that I didn't have, and now I have all the components except the ceramic and I can't find clay.
+
+[00:13:01] Drew:
+Yeah, finding clay can be difficult, especially because you do have sand. 
+
+[00:13:05] Kristin:
+I'm in a really sandy zone. Yeah, I have red sand and white sand and no clay so far. 
+[interjection] Drew: Sir.
+
+[00:13:10] Drew:
+I don't know if you need to, it might be one of those cases where you need to dig down and try to find one of the watery caverns that might have a clue. 
+
+[00:13:17] Kristin:
+That might have a clue. I didn't think of that. I don't know. Everyone's so mad that they might not do it if I tell them to go down there. 
+
+[00:13:24] Drew:
+Are you at the point in Anger where the managers and stuff are refusing to fulfill work orders? They just tear up the sheets. 
+
+[00:13:33] Kristin:
+Um, not exactly, but I did have one manager have a tantrum and just start knocking over pedestals and being a giant baby. I put him into the squadron, the torture squadron, and he's gone now. He's dead. 
+[interjection] Drew: He is.
+[interjection] Kristin: So I made some poor peasant the new manager. I don't know how he's doing yet. 
+
+[00:13:54] Drew:
+Fun fact, the tantrum action is part of how were-creatures get created because it happens when you have a tantrum in a temple and knock over the altar, you have a chance of either being afflicted with were-ness or vampirism. 
+
+[00:14:14] Kristin:
+Oh, man. 
+
+[00:14:16] Kristin:
+Well, luckily he didn't go in the temple. Because that's the last thing I need is more were-creatures. 
+
+[00:14:22] Kristin:
+Oh boy, so... 
+
+[00:14:24] Drew:
+Is your temple functioning well? Is it assigned to any particular god? 
+
+[00:14:28] Kristin:
+It's just general details at the moment, but that was the other discovery, like the torture squad that I made, that these zones were incomplete because I was looking at the hospital zone needs. And then I was like, wait, do all zones have needs? And I went and looked at my taverns and they needed to have a chest and an instrument and a tavern keep. And then the temple wanted a chest and an instrument. So I fixed all of that. Now we just have instruments they don't play, which is how I ended up trying to make the instrument.
+
+[00:14:59] Drew:
+The fun part about instruments, of course, again getting back to music being hideously complicated in this game, is that your instruments...
+
+[00:15:07] Drew:
+What instruments your dwarves like to play is again, randomly generated. So not just the instrument itself is randomly generated, but which instruments the dwarves prefer in their civilization is randomly generated. And then what each dwarf wants to play is randomly generated from that list.
+
+[00:15:25] Kristin:
+Yeah. So I went through the dwarves' knowledge and just looked at random musical forms that they knew and found an instrument that two of them were listed in two of the musical forms and assumed they'll probably know how to play it. I found two that overlapped and the other instrument I couldn't find the pieces at any of my workshops. So I was like, well, I guess not that one. Could be Elvish for all you know. Yeah. So that's what's happening there. I'll probably play some more tonight and by the time we record next week, it will have all gone to pieces. This might be the very last update from Rag Dreams, we'll see.
+
+[00:16:02] Drew:
+Poor Rag Dreams.
+
+[00:16:03] Kristin:
+I know. Poor Cole. I'll be sad when she inevitably dies to a zombie attack.
+
+[00:16:09] Drew:
+Remind me who is Cole.
+Cole is our expedition leader, and she's the very empathetic one that had... "I am so empathetic" on being empathetic after they yell at her. So I guess that helps keep her pretty cheerful. She became empathetic after entering a relationship with a fellow settler that has now ended tragically.
+
+[00:16:33] Drew:
+Tragically.
+
+[00:16:34] Kristin:
+Yeah, so you guys can hear about that in the story that I'll read.
+
+[00:16:38] Drew:
+Oh boy. Yeah.
+
+[interjection] Kristin: Yeah.
+
+[interjection] Drew: We'll look forward to it. Every story in Dwarf Fortress ends happily.
+
+[00:16:45] Kristin:
+Yeah, so Cole's actually the one that I'm hoping will end up mayor, but we can't seem to cross that hump and get to whatever the next tier of fort is. So today you're going to tell me a little bit about how those work.
+
+[00:17:04] Drew:
+Yeah, tiers in Dwarf Fortress are a little bit challenging to conceptualize because when you start off, your fort is considered to be an outpost.
+
+[00:17:17] Kristin:
+Outpost, okay.
+
+[00:17:18] Drew:
+And then pretty rapidly, kind of the first time a person from your civilization, a trader from your civilization shows up, you'll probably get upgraded to Hamlet, which happens when you have a population of 20.
+
+[00:17:32] Kristin:
+Mmm, yes.
+
+[00:17:33] Drew:
+So each of those tiers-
+
+[00:17:36] Kristin:
+"We're a village now." "Oh, you are a village." "Yes, we graduated a village."
+
+[interjection] Drew: "Oh, you are a village." "Yes, we ride the..."
+
+[interjection] Kristin: "When we talked about this earlier, I was still a Hamlet. And today I noticed that we are a village. Village."
+
+[00:17:45] Drew:
+So each tier depends mostly on your population, but also depends on how many work orders of different types of crafts you've satisfied. Now that's a little complicated to explain on an-
+
+[interjection] Kristin: Okay.
+[interjection] Drew: Welcome to the audio medium. Imagine that you have the different workshops and things that they can make divided into a series of categories. Let's say craft items, metal, wood, gems, stone, and food.
+
+[00:18:23] Drew:
+Each of those, you can set up different work orders that create items of this type. Yeah. Well, for each level of your fortress, for each tier that we're talking about, you can set up a different order.
+
+[00:18:36] Drew:
+Completing 25 of an X number of those categories will cause you to level up.
+
+[00:18:51] Drew:
+That's correct. And frequently, you know, like the stone, wood, and food, you get that knocked out real quick. But then when it comes to, say, needing 35 gems, gem orders completed, that one can be more of a challenge.
+
+[00:19:07] Kristin:
+I typically set up gems right away because I found them really valuable for trading.
+[interjection] Drew: Mm-hmm.
+[interjection] Kristin: Unfortunately, it hasn't helped.
+
+[00:19:14] Drew:
+Well, then you get back to the population issue a little bit. Yeah.
+
+[00:19:17] Kristin:
+A little bit. Yeah, mine is, it's not dwindling but it has gone down a little bit since the new zombies.
+
+[00:19:23] Drew:
+The population change per tier is the same, but even though it's only a difference of 30 dwarves for each level, getting over the hump from say 50 to 80 dwarves is a big challenge. Getting from 80 to 110 and keeping more than 110 is hard.
+
+[00:19:42] Kristin:
+So I'm not going to go to the next village until I hit 80? Oh, yeah, that's rough.
+
+[00:19:49] Drew:
+And you have to have those 80, not the same 80, but you have to have a total population of 80 for a year.
+
+[00:19:56] Drew:
+And also have a trader from your civilization come in and tell you that you're being leveled up.
+
+[00:20:02] Kristin:
+Okay. See, I don't, with treasure treaties, we had a mayor get elected in the middle of the, whatever, I think it was zombies again, because everything in my world is zombies. Mm-hmm. And I, so I really had no idea what triggered it because I was putting out zombie fires.
+
+[00:20:18] Drew:
+Well, the mayor, you can start to have a mayor as soon as you hit the town level. Which is, meaning above 50. But you have to have had a trader from your civilization, your specific civilization, not just a dwarven civilization.
+
+[00:20:36] Kristin:
+EWWWWWWWW!
+
+[00:20:37] Drew:
+Come by and you have to have been above 50 for more than a year.
+
+[00:20:41] Kristin:
+Okay, well, maybe it's coming. I would rather not abandon this fort until we get a mayor because I really want to see Cole get elected.
+
+[00:20:49] Drew:
+I think that...
+
+[00:20:49] Kristin:
+If she doesn't, I'm going to be very disappointed. I will be knocking over pedestals and having a tantrum.
+
+[00:20:54] Drew:
+She really seems to have put in the work, you know what I mean? Interestingly, there is also a second system, which is the nobility system.
+[interjection] Kristin: Whoa.
+[interjection] Drew: Because, as I've said, I have my baron in my fort, and I have my lord in my castle.
+[interjection] Kristin: Okay.
+
+[00:21:11] Drew:
+And he is not the mayor.
+
+[00:21:14] Kristin:
+So there's a bear in Animare?
+
+[00:21:15] Drew:
+There's a baron and a mayor.
+
+[00:21:17] Kristin:
+Wow, and we haven't even heard about your mayor.
+
+[00:21:19] Drew:
+No, my mayor has been pretty boring actually. Um, I...
+
+[00:21:24] Kristin:
+Stays out of the baron's way and the grumpy guy's way.
+[interjection] Drew: I-
+
+[00:21:27] Drew:
+That's pretty much it. I mean, my mayor is also my manager, bookkeeper person. Oh, okay.
+[interjection] Kristin: Go to Beadaholique.com for all of your beading supply needs!
+[interjection] Drew: So I tried at one point to get Laura elected as mayor because I thought that would be interesting, but he did not do well in the vote.
+
+[00:21:41] Kristin:
+How did you trigger that?
+
+[00:21:43] Drew:
+Um, just when the previous mayor, who was the expedition leader, automatically became mayor, I expelled him.
+[interjection] Kristin: Uh huh.
+[interjection] Drew: Oh!
+
+[00:21:51] Kristin:
+Oh, okay, okay.
+
+[00:21:52] Drew:
+And so then I guess they did some sort of whip-around vote. That's amazing. Yeah, and Laura did not do well. I didn't get any numbers, but the other guy won like that.
+[interjection] Kristin: I didn't know.
+
+[00:22:04] Kristin:
+Yeah, fair enough.
+
+[00:22:05] Drew:
+Laura just doesn't stay on the good side of people. Yeah.
+
+[00:22:08] Drew:
+So, the nobility system, which goes from baron to count to duke to king and queen,
+
+[00:22:16] Drew:
+That depends not on the various items I talked about before in population but instead by how many economically linked sites you have.
+[interjection] Kristin: Population. And a good thing about this addition is that it's just an opportunity for me to expand on some of my theories, just for labor athletes first even now.
+
+[00:22:25] Kristin:
+Oh, so that involves military going out and conquering areas.
+
+[00:22:28] Drew:
+Conquering areas. Or also if you're doing well and generating a lot of money, people from your fort will go and found other regions. I have one of those that I talked about in the last
+[interjection] Kristin: Oh, cool.
+[interjection] Kristin: Oh, cool. I have a couple of questions. I'm going to go ahead and get started.
+[interjection] Drew: video. I can't remember without digging up the info.
+
+[00:22:46] Drew:
+Listen to our previous episode if you're interested. If you really want to know. Yeah. But in order to achieve the sort of final state to win the game of Dwarf Fortress.
+
+[00:22:58] Kristin:
+There's winning.
+
+[00:22:59] Drew:
+There is winning. You need to have your fort leveled up to a metropolis.
+
+[00:23:06] Drew:
+which means more than 140 dwarfs.
+
+[00:23:10] Kristin:
+I think my computer would just burst into flames.
+
+[00:23:12] Drew:
+having completed five jobs of at least 50 items each for craft, metal, gem, and stone.
+
+[00:23:22] Kristin:
+Mmm.
+
+[00:23:24] Drew:
+and then also having achieved enough success in those economically linked sites to have seven economically linked sites. Wow. Which will have gotten you past Baron, through Count, to Duke,
+
+[00:23:41] Drew:
+and then the king or queen of your civilization will possibly, over time, migrate to your metropolis and settle there.
+
+[interjection] Kristin: Mhm.
+
+[interjection] Drew: 
+
+[00:23:52] Kristin:
+Wow. I did hear a story of someone who, I guess, the king or queen or whatever of their civilization got died. Got died.
+
+[00:24:01] Drew:
+Let's try that from the top.
+
+[00:24:03] Kristin:
+This is when I need to start doing outtakes for the show. Um, okay. I did hear a story about how someone had the king or queen of their civilization die and their heir was in their fort and so some lowly little person suddenly became like king and they were the rulers ruling site. Words. Hard. Bad. Good.
+
+[00:24:26] Drew:
+It's not a great sign when that happens though because it usually means that your civilization is starting to collapse.
+
+[interjection] Kristin: Mhm.
+
+[00:24:34] Kristin:
+Yeah, it's starting to decay. Oh, OK. Yeah. Fun story, though.
+
+[00:24:38] Drew:
+It is. And you can actually wind up with everyone, like, everyone involved in the civilization dying and then you being the last bastion of the civilization. And then that fort collapses.
+
+[interjection] Kristin: Oh, dear...
+
+[interjection] Drew: 
+
+[00:24:54] Kristin:
+Yeah, that would be unfortunate.
+
+[00:24:57] Drew:
+The exported wealth is also another issue that plays into the land holdings. So you need a created wealth of 300,000 dwarf bucks, exported wealth of 30,000 dwarf bucks, and then also the seven land holdings to get to Duke.
+
+[00:25:15] Drew:
+And then once all of those things are accomplished and you get the king and queen, then begins the end [interjection] Kristin: Uh-huh. [interjection] Drew: game for that particular world, which is you dig down. This starts as a mandate from the king and queen. The king and queen will issue a mandate that says, find me seven ruling artifacts or [interjection] Kristin: Yeah. [interjection] Drew: seven renowned artifacts. And to do that, you have to dig down until you find a particular wall that says something along the lines of an unusual gem-encrusted volcanic wall.
+
+[00:25:59] Kristin:
+Oh, yes, I've seen people asking about that.
+
+[00:26:04] Drew:
+So somewhere within there, you can start digging and you will find adamantine, which is the super dwarf metal.
+
+[00:26:15] Drew:
+But you will also find within there divine artifacts, [interjection] Kristin: Oh! [interjection] Drew: but also many, many monsters, forgotten beasts. [interjection] Kristin: I forgot. [interjection] Drew: And eventually you find all seven of those, you put them on pedestals around in the throne room for your king or queen, and that will then mean that you have achieved the end goal for your civilization.
+
+[00:26:39] Kristin:
+Hooray!
+
+[00:26:40] Drew:
+Yes, I've never heard of anyone actually completing that.
+
+[00:26:42] Kristin:
+I'm sure it's happened. Someone has to have done it just as an experiment.
+
+[00:26:47] Drew:
+And I think possibly then the world will actually move into a different era in the game. Ooh! That's fun. It doesn't really change anything, you just get a notice that the age of myth has ended. Yeah. 
+
+[00:26:58] Kristin:
+Yeah, I was gonna ask, at what point do you end up just being like, "it's time for a new world"? 
+
+[00:27:05] Drew:
+I mean, that's kind of it. Like, you could say the era has ended, but you can keep playing the Dwarf Fortress game forever. It's just that there'll be fewer and fewer interesting things happening until you get bored and leave. 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: It's kind of a metaphor for life. Oh no, let's hope not. 
+
+[00:27:23] Drew:
+It is Monday. Well, I just meant gods in general. Ah. 
+
+[00:27:26] Kristin:
+Oh, okay. I see. Yeah. This world is boring now. I'm out. I'll go create a new one. Yeah. So how many of the tiers are there? 
+
+[00:27:37] Drew:
+So, for the Fortress tiers, there are Outpost, Hamlet, Village, Town, City, Metropolis, Capital, Mountain Home. So why are there eight tiers? Because Camden is a place that has a think tank. 
+
+[00:27:56] Drew:
+And then there are the three noble regions. Okay. 
+
+[00:28:08] Kristin:
+Fair enough. Duchy. That's a funny word. It is. 
+
+[00:28:12] Kristin:
+Okay, so I begin to despair of ever getting beyond town, but then I remind myself that I 
+[interjection] Drew: Thank you.
+[interjection] Kristin: am still learning. Like, I thought I was doing pretty okay, and then I realized that I didn't have my taverns correctly, or they didn't meet the tavern criteria, so that explains why, you know, maybe those weren't as successful as they could have been, and I only just got a hospital. We planned for me to get started on magma, but then things just kind of went crazy, so I still have a really long way to go with this fort, if we can hold on. Yeah. I don't... 
+
+[00:28:47] Drew:
+Yeah, Fort Dob pages is uh... 
+
+[00:28:50] Drew:
+Doing pretty well in terms of its metal refinery and all that, but I really need to get down to magma. I've been doing everything with burning cavern trees to generate charcoal, and that really, really slows down your metal forging process because you need charcoal to convert the ore to metal bars and then charcoal again to convert the metal bars into an actual metal object. 
+[interjection] Kristin: Bars.
+
+[00:29:17] Kristin:
+Object. Yeah. Oh, and I'm going to run into not being able to go outside because of the zombies, and I still haven't gotten them to cut down trees in the caverns because of [unclear]. Don't know why. 
+
+[00:29:29] Drew:
+Didn't you say you ran out of tools? Like maybe all of your axes and picks? No, they'll still be there. 
+
+[00:29:33] Kristin:
+No, they'll still cut trees down outside. 
+
+[00:29:37] Drew:
+Okay. 
+
+[00:29:38] Kristin:
+Yeah, we'll have to do a little diagnostic on my trees. Although, I mean, it's so low priority because of the zombies. 
+
+[00:29:47] Drew:
+Well, yeah, at some point you can just say, "Nope, nope, nope. Time to try again." Yeah, I'm surprised the zombies haven't banged down your hatch yet. 
+
+[00:29:56] Kristin:
+The zombies don't seem to be capable of it. They just sort of wander around. And I thought that they would get into a fight with my friendly zombies. No, they just sort of walk around each other. 
+
+[00:30:05] Drew:
+They all belong to the Confederation of Zombies. 
+
+[00:30:08] Kristin:
+I was really hoping that those friendly zombies would earn their keep. I did turn them into janitors. I can't remember if I said that. That I put them on a work detail cleaning. Which was nice. 
+
+[00:30:18] Drew:
+I was going to say, you said that they were doing work for you. Yeah. But maybe they need a necromancer to direct them to actually fight in defense. 
+[interjection] Kristin: Bye.
+Yeah, I don't know what their situation is. And then there are the ones on the mystery tile in the hospital that I still have to deal with.
+
+[00:30:35] Drew:
+There's something to be said about how Dwarf Fortress is a perfectly programmed game with no bugs.
+
+[00:30:42] Kristin:
+It's so hard to tell when I encounter things if it's a bug or a me problem or possibly a my computer problem because it was running at a crawl earlier and I'm like, is this because I have too many cats? Is it because my PC is old or is it because this is a good game with no bugs?
+
+[00:31:02] Drew:
+I liked the article talking about the new programmer they hired, where one of the first things they started being defensive about in the article was about pathfinding. Because in this version of Dwarf Fortress, we talked about it before, I think, in our first episode, in the older versions, you used to be able to mark doors as pet forbidden. And they took that out of this version, supposedly to improve the pathfinding, so it doesn't spend so much time trying to calculate where the pets go.
+[interjection] Kristin: Where'd the pets go?
+[interjection] Drew: But it still seems to be that if you have a lot of kittens, things start slowing down massively, and so I'm left wondering, like, pathfinding? What even is it?
+
+[00:31:46] Kristin:
+Right, like I don't feel good about the kitten murder, but...
+
+[00:31:51] Kristin:
+I would like to keep playing, please.
+
+[00:31:53] Drew:
+I would like to keep playing this fort and why do the kittens generate so much pathfinding? People are [interjection] Kristin: Great.
+
+[00:32:02] Kristin:
+And then you can't turn them into leather, but I think you can turn their tiny little kitten skulls into crafts. So I think I have a lot of kitten bone amulets and things.
+
+[00:32:12] Drew:
+Yeah, I have a lot of people going around wearing crundle bone, crundle finger bone rings.
+
+[00:32:19] Kristin:
+That's way better than kitten skull rings. Oh, that's so terrible. Is it better?
+
+[00:32:27] Kristin:
+I think it's worse because kittens are just so tiny and helpless and fluffy.
+
+[00:32:32] Drew:
+Oh, but the puppies are so trusting.
+
+[00:32:35] Kristin:
+Oh no, I didn't even think about that. And I'd already done the puppy murder. Hahahaha, rip.
+
+[00:32:41] Drew:
+Yeah, this game makes monsters of us all.
+
+[00:32:44] Kristin:
+Right, and it gives you the notification with the skull and crossbones. "The stray kitten has been butchered." And on that depressing note, I think we'll leave it there for my super fun depressing story.
+
+[00:32:55] Drew:
+Sounds good. Let's all pop some popcorn and listen to the story of coal.
+
+[00:33:01] Kristin:
+Yes, and her boyfriend. Thanks for listening, and you can reach us at astrangemoodpodcast@gmail.com or on our website astrangemoodpodcast.com. And you can subscribe wherever you're listening to this, probably.
+
+[00:33:17] Drew:
+Yeah, I think so.
+
+[00:33:17] Kristin:
+All right. Talk to you next week. Bye. In memory of Vavok Kattelsigin, born 40, went missing in the year 111. Slayer of Clove and Fish the Fated Sadness, united with Black Bronze.
+
+[interjection]
+The pinkish rock salt tablet seemed woefully inadequate to the bearded man that had changed Cole Copperlepper's world. They hadn't noticed each other at first. On the long, cold journey to the New Fort in the lean early years of Ragdreams, when all had been dolomite dust and cold berry mush for dinner, he had simply been another dwarf in the mix. He was an adequate miner, a decent conversationalist, but not really noteworthy in any respect. Unlike many of the others, however, he didn't yell at Cole. Somehow he had recognized that being the expedition leader did not truly make her the arbiter of the Fort's fate. It might have been his politeness that made her appreciate him at first, or maybe his pleasant tenor singing voice. Or maybe it was just his complete and cheerful disinterest in what anyone else thought of him.
+
+[interjection]
+
+Kristen: So, this is a story about Dwarf Fortress, right?
+
+[00:34:44] Joe:
+
+Yes, it is.
+
+[interjection]
+
+Kristen: Okay, just making sure. So, who is this bearded man?
+
+[00:34:49] Joe:
+
+His name is not given in the story, but he is a character in the game.
+Regardless, it started with shared laughter over the manager's complaints to Cole, overheard by Vavok one evening in the dining room. The manager was always complaining. Nothing pleased him, possibly because he'd inherited the job after his predecessor died in the great zombie attack of 110, and he had no idea what he was doing. As his complaints echoed off the unsmoothed walls, Cole felt the familiar exasperation sinking in, the despair that somehow everything was always her fault. But Vavok met her eyes and smiled comfortingly. Gravity shifted. The inexorable pull of their minds eased, and she felt the knot of volcanic fear and stress ease, seeing for the first time the calm warmth of his sepia-toned eyes. Stolen moments turned into a lingering little [moment]. "They act as though I can stitch the zombies back together," Cole ranted to Vavok one peaceful night over plump helmet beer. "The same old boos and other sorts of [dwarven] angst that Cole had to hear about, as if she could control even the crops. What do they want me to do? I'm helping carry the bodies? I helped mine out the tombs for the truly dead? I even sorted through that pile of teeth to get the right bits into the right coffin. They act like I just sit in the depot all day, gossiping with merchants. What more can I do?" Vavok leaned over and kissed her smooth scalp. "They know you can't fix it," he said. "They don't expect you to fix it, but they trust you with their fears." Cole took a long pull of her beer. She could taste the grit of the rock mug through the rough sourness of the mushrooms. Maybe the dwarves' complaint about the booze was fair. Maybe she understood. The words settled into her buried bones. She found a core of empathy she never knew existed, and listening to the haranguing voices became a gift she could offer to her fellow settlers.
+
+[interjection]
+[00:35:49] Kristin:
+"I'm very empathetic," Cole told herself. "I can help my fellow dwarves. They trust you with their fears." She carried those words close to her heart.
+[00:35:58] Kristin:
+While she could indeed do nothing about the zombies, the were-monitor lizard attacks finally ceased. Thank the gods. Things in Ragdreams began to approach normalcy.
+
+[00:36:07] Kristin:
+They mined deeper, as dwarves will. They began to smooth and engrave their walls and floors in an attempt to create peace and beauty in their dirty and blood-smeared world. There was talk of starting a hospital to treat the numerous injuries from the were- and zombie invasions. No one felt happier, not really, but Cole felt as if she was helping, finally, and that made the entire world feel lighter. All because of Babock's warm, gentle presence in her life. Cole felt herself becoming lighter, too. Months passed, and uneasy peace settled over their hamlet like a fine mist. Things occasionally took a turn for the strange, admittedly. Zombie janitors carted away waste, children played make-believe in the numerous tombs, peasants, unable to find their calling, created extraordinary artifacts. And Babock found a battle axe he liked. He came into the bedroom that morning as Cole shaved her scalp, a daily routine made worse by the lack of soap and a mirror, but it was what she did and had done for years, and it made her feel like herself. He wrapped one arm around her waist, the axe in his other hand, and kissed her on the neck. "Look at this axe," he said.
+
+[00:37:06] Kristin:
+"Hmm?" Cole said, drawing from her well of empathy. "What about it?" 
+
+[interjection]
+"It's a really great axe," he said. "I just—I really like it." He gazed fondly at the axe. As far as Cole could see, it was nothing special. A battle axe with an avocado-wood handle and a copper blade. She had bought it herself from the merchants the previous fall, intending it for their newly formed squad. But she was very empathetic, and anything Vabok liked, she liked too. "That's—well, that's great, dear," she said meekly. He beamed at her. "I think I'll take it with me today. We're digging out that ramp to the water in the second cavern so that the new hospital can have a well." "Perfect," Cole said, her enthusiasm genuine this time. The hospital was her idea, and if any miner could get that ramp done, it was Vabok. And if having this axe with him helped him feel good about the job, all the better for everyone.
+
+[interjection]
+The door banged shut behind him, and Cole smiled to herself as she scraped the blade over her scalp once more. The news of Vabok's death, or rather the news of his ghostly apparition wafting into the tavern near the caverns, took time to reach Cole, who was sleeping peacefully in her engraved bedroom, dreaming of the newly engraved temple. When she woke, she stretched, smiling to herself, warm in the belief that life and rag dreams had turned a corner. She stopped in the temple on her way to the tavern, a brief moment to herself to thank the gods for her blessings. Sure, the zombie preying beside her smelled a bit bad, and the manager had yelled at her again on her way here, but she had a plan to order some better meals from the kitchen, and there were enough yaks to slaughter one for meat and tallow. Soap at last. And best of all, she had Vabok with his warm smile and his really great axe. The good mood carried Cole through the rest of her day, even though lunch was mussel pancakes, again, and she even felt up to the task when the first reports of the ghost reached her. Ghosts were nothing new, after all. After the Were-monitor lizard attacks, most of their resources had gone to entombing the remains they could identify and engraving slabs to honor those they could not bury. More than one ghost had spurred them to speed the enterprise.
+
+[interjection]
+
+Kristin: So when the manager approached her, his face grim, she felt well-steeled to deal with his complaints. Only when his words sank in did her smile begin to fade. The ghost, he said. It's Vabok. The ramp he was digging to the underground lake must have collapsed. His voice faded into noise, his mouth moving, but few of the words penetrating Cole's shock. No body, Cole heard. We can only guess what happened. They engraved a memorial slab, of course. Cole stood before it, still in shock. 
+
+[interjection]
+The lack of a tomb felt wrong, but no one had ventured down the collapsed tunnel to seek his body. His sister cried to Cole, who held her hand and spoke gentle comfort. She was so empathetic, after all.
+
+[00:39:32] Kristin:
+And when everyone else left, Cole remained, staring at the pinkish slab with its profoundly inadequate memorial text. There was no mention of his singing voice or his warm sepia eyes or his favorite axe. They didn't even have the axe. It remained in the tunnel with his dear lost body.
+
+[00:39:46] Kristin:
+Perhaps he would send someone to revisit that tunnel.
+
+[00:39:49] Kristin:
+They needed the well for the hospital after all. And it really was a great accident.

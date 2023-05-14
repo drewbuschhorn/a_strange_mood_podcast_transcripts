@@ -1,0 +1,1224 @@
+[00:00:00] Drew:
+This podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the couple's Dwarf Fortress podcast. I'm Kristin. 
+
+[00:00:24] Drew:
+And I'm Drew. 
+
+[00:00:26] Kristin:
+And you know, for a minute there, I thought I said the Dwarf Portrait Podcast. 
+
+[00:00:30] Drew:
+Is that where you're at today? 
+
+[00:00:31] Kristin:
+I apparently am. I would not have thought so, but yeah, so that's where I'm at. How are you doing? 
+
+[00:00:38] Drew:
+I'm doing pretty good. I'm excited to talk about Plump Helmets. 
+
+[00:00:42] Kristin:
+Ooh, yay. Are you going to tell me all about how to milk Plump Helmets? 
+
+[00:00:45] Drew:
+I absolutely am. 
+
+[00:00:47] Kristin:
+Oh, it's time for a naughty, naughty lesson. Except it won't be naughty, naughty. It's going to be pretty tame, actually. 
+
+[00:00:55] Drew:
+Yeah, Plump Helmets are kind of the bread and butter of your dwarves. I don't know if they would really be considered bread and butter, but yeah. Your dwarves want to eat them. And drink them. 
+
+[00:01:06] Kristin:
+I don't know, man. 
+
+[00:01:06] Drew:
+You gotta tell them not to eat them though, because you need those for the drinking. 
+
+[00:01:10] Kristin:
+No, no, well, we're getting into too much detail here. Not that we got to it. 
+
+[00:01:12] Kristin:
+We're getting ahead of ourselves. 
+
+[00:01:13] Drew:
+Yes, they eat the Plump Helmets, they don't eat the Plump Helmet spawn, which are the Plump Helmet seeds. This doesn't get less dirty the more you say it. 
+
+[00:01:23] Kristin:
+No, no. Maybe it's like tulips. Are tulips dirty? 
+
+[00:01:28] Drew:
+Is it tulips? Is that the... I don't know. I always... 
+
+[00:01:33] Kristin:
+The artist, Georgia O'Keeffe. 
+
+[00:01:35] Drew:
+used your technique. 
+
+[00:01:36] Kristin:
+No, I don't think she's into tulips. 
+
+[00:01:37] Drew:
+What was it that she was into? 
+
+[00:01:39] Kristin:
+Irises? 
+
+[00:01:40] Drew:
+Piracies? No, that's not right either.
+
+[00:01:42] Kristin:
+And making it dirtier.
+
+[00:01:45] Drew:
+Well, you can find out all the different flowers that Kristin thinks are dirty.
+
+[00:01:49] Kristin:
+Just by listening to this episode, apparently.
+
+[00:01:51] Drew:
+It's exciting.
+
+[00:01:52] Kristin:
+So it's not really clear from that little interlude, but we're going to be talking about drinks, Dwarf Fortress drinks.
+
+[00:02:00] Drew:
+Or rather, Dwarf Fortress farming, to get drinks and all the different things you have to do in order to get the drinks.
+
+[00:02:05] Kristin:
+So are we going to talk about what you do after you have the drinks? Because I did run out of cups once, apparently, and everyone was pretty angry.
+
+[00:02:13] Drew:
+I think we'll cover that, but we're just going to try to cover basically the entire process from the moment you land in a new place, start building your location, and then how you can keep your dwarves happy at the barest subsistence level.
+
+[00:02:30] Drew:
+Basically dirt scrabble.
+
+[00:02:32] Kristin:
+Dirt Scrabble. Water. Growth. Yeah. Right? We don't want water. All right, so why don't you tell us before we get into drinks about the news from the realms of myth.
+
+[00:02:43] Drew:
+So, I have started the fourth fort. I'd actually started it when we did our last recording, but since I had some interesting forts to talk about before that, I didn't want to get into too much detail.
+
+[00:02:55] Drew:
+Now that we're in the fourth one, I've decided to work on a military-focused fort to see if we can push back the Goblins.
+
+[00:03:02] Kristin:
+Oh, those Goblins. Pesky Goblins. So... I will say, you seem to have a lot more Goblins than I do.
+
+[00:03:09] Drew:
+It happens in some worlds. I think if they get a foothold, it's like fungus. You just can't ever quite rip it out again.
+
+[00:03:15] Kristin:
+Hmm, gross.
+
+[00:03:17] Drew:
+Yeah.
+
+[00:03:18] Drew:
+So, Fortress Daubed Pages.
+[interjection] Kristin: Huh
+[interjection] Drew: Okay. As in "daubed" with ink. Or in this case, possibly daubed with blood. Daubed with goblin blood. Right. Again, you have to make use of what you've got. Renewable resources. Goblin blood.
+
+[00:03:39] Drew:
+In becoming a military-focused fort, we need to establish a Smithy and a Militia Commander and get the Militia Commander training. Unfortunately, our designated Militia Commander, Lor Goldenwhip, is the unhappiest dwarf who's ever lived, as far as I can tell.
+
+[00:03:58] Kristin:
+Even with a name like Lore Golden Whip?
+
+[00:04:02] Kristin:
+That is 100% going to be my next D&D character.
+[interjection] Drew: Okay.
+
+[00:04:06] Drew:
+I think it's pretty good. Honestly, it doesn't sound that much like a dwarf to me.
+
+[00:04:10] Kristin:
+Mmm, fair. It's a little elvish. A little suspect.
+
+[00:04:11] Drew:
+It is a little out there. I mean, maybe that's why he's the unhappiest one.
+
+[00:04:15] Kristin:
+Hmm, yeah, that could be it. He's settled with this name from his parents.
+
+[00:04:20] Drew:
+After all, he wants a family but has no family.
+
+[00:04:23] Drew:
+Unfortunately, this is a common problem in Dwarf Fortress.
+
+[00:04:25] Kristin:
+Yeah, I'm noticing that.
+
+[00:04:27] Drew:
+Bye.
+
+[00:04:29] Drew:
+Let's hear a description of the world's unhappiest dwarf.
+
+[00:04:33] Drew:
+He has a way with words, but he has a shortage of patience, a meager ability with social relationships, and a very bad sense of empathy. Not so bad so far. He is in a constant state of internal rage. He is stingy with resources on projects and refuses to expend any extra effort. He is intellectually stubborn, rarely changing his mind during a debate, regardless of the merits.
+
+[00:04:54] Kristin:
+Well, that's very dwarfish, I would think.
+
+[00:04:56] Drew:
+He is not inherently proud of his talents and accomplishments. He tries to do things correctly each time. He is trusting. He doesn't focus on material goods. He generally finds himself quite hopeful about the future. He tends to be swayed by the emotions of others. He has little interest in joking around. He doesn't tend to hold onto grievances. He generally acts with a narrow focus on the current activity.
+
+[00:05:16] Kristin:
+You know that whole "doesn't need acquisition"? How was that described? That's what my brain translated it to.
+
+[00:05:22] Drew:
+He's not so swayed by material. He doesn't focus on material.
+
+[00:05:26] Kristin:
+Yeah, that's the one. Man, that's a great trait in a dwarf because mine are constantly mad that they haven't gotten to acquire something recently.
+
+[00:05:34] Drew:
+Yeah, well, despite that being on his little character sheet there, he is magical. And he always tries to describe his character.
+
+[00:05:39] Kristin:
+That's how we describe these character sheets. Yeah.
+
+[00:05:42] Drew:
+He is actually, well, when I took this one, he is angry about the fact that he doesn't have any copper bracelets.
+
+[00:05:51] Kristin:
+For now.
+
+[00:05:53] Drew:
+That's relatable, but you know bud, those will turn your skin green.
+
+[00:05:57] Kristin:
+Maybe not dwarf skin. I don't know. Although on the other hand, he's a militia commander, so he's sweating a lot. So, six of one, half a dozen of the other, I think.
+
+[00:06:05] Kristin:
+You just paint some nail polish on the inside of those bad boys and you're good to go though.
+
+[00:06:09] Drew:
+That sounds pretty elvish to me.
+
+[00:06:10] Kristin:
+Uh oh, I've revealed myself.
+
+[00:06:13] Drew:
+So, for a while, he was kind of our first seven dwarves, he was the unhappiest in all respects. And, in order to make him happy, I made him a militia commander, so he got some martial activity going.
+
+[00:06:28] Kristin:
+That's good.
+Then we gave him a good bedroom, office, and dining room, which, even though he wasn't a noble at the time, now I guess he's a militia commander, so that does make him a little bit of a noble.
+
+[00:06:42] Drew:
+He's not required to have these things in the same way, like my expedition leader/mayor is. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: So by having those, he's become happier. We moved him firmly from the "I want to burn this place down" into the "I really hate living here." And you know what? I'm fine with "I really hate living here." Nobody's happy about living in a fair place they've dug right out of the mountain at the start. 
+
+[00:07:10] Kristin:
+Important question. Does he have someone to yell at? Because they seem to find that very satisfying. 
+
+[00:07:16] Drew:
+You know, I haven't looked into that. I should see if he's spending a lot of time yelling at the mayor. But honestly, I've kept him doing militia training of other people 100% of the time. 
+
+[00:07:27] Kristin:
+So he's really busy. 
+
+[00:07:28] Drew:
+He's really busy, and it just seems to keep him out of trouble, I think. 
+
+[00:07:31] Kristin:
+Yeah, fair. 
+
+[00:07:33] Drew:
+So after we've had him training up everyone constantly for a while, we've moved on to our first real test of the militia: goblin snatchers coming in to steal the children. 
+
+[00:07:42] Drew:
+Two very weak goblins came in. I was gonna say. 
+
+[00:07:48] Kristin:
+I was gonna say, those guys tend to either run away or die like little bitches. 
+
+[00:07:51] Drew:
+Yeah, that's pretty much what happened here. So, in our first test, Zuggler Forbes-Knighted was stolen by one goblin before the militia was able to be deployed. 
+
+[00:08:04] Drew:
+And the militia killed the two goblin snatchers with zero wounds among them. 
+
+[00:08:10] Drew:
+They also rescued Zuglar, and he felt relief after being released from confinement. Which I guess he was listed as being confined by the goblin as it was dragging him away.
+
+[00:08:19] Kristin:
+Yeah.
+
+[00:08:20] Drew:
+So that seemed to go pretty well.
+
+[00:08:23] Kristin:
+Sounds like it.
+
+[00:08:24] Kristin:
+Next, ego boost from it.
+
+[00:08:27] Drew:
+Yeah, I think everybody seemed a bit happier about actually, you know, killing some goblins. Like, that's what we're here for.
+
+[00:08:31] Kristin:
+Right.
+
+[00:08:33] Drew:
+After the Goblin Snatchers came our next notable event, the application of firm dwarven justice.
+
+[00:08:41] Drew:
+Rovod, the precious metalsmith, was beaten with a hammer by the appointed hammer dwarf of our mayor...
+
+[00:08:53] Drew:
+It's shocking.
+
+[00:08:54] Kristin:
+Thank you.
+
+[00:08:54] Drew:
+Our mayor decided that he wanted three helms made of iron. Mm-hmm. 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: And poor Rovod decided that instead of them all being made of iron, two of them would be made of iron and one would be made of copper. Again, we were working with copper for the bracelets, so we had copper around and didn't specify a block of cloth. Yeah. Unfortunately, this seemed to enrage the mayor. Wow. And he ordered his... For this.
+
+[00:09:16] Kristin:
+Sure this isn't the angriest, unhappiest, wharf around. Oh no, the mayor's there!
+
+[00:09:20] Drew:
+No, no, the mayor is actually very happy. Oh, okay. He enjoys meeting people with hammers. I got it. No, no, no. Yes, he is.
+
+[00:09:26] Kristin:
+order. Oh, okay, okay. My mistake. That's very different.
+
+[00:09:31] Drew:
+So he ordered his designated hammer dwarf, which is sort of like a sheriff in some cultures and a torturer in other cultures.
+
+[00:09:39] Drew:
+to punish poor Rovod.
+
+[00:09:43] Kristin:
+Poor Rovod.
+
+[00:09:44] Drew:
+And Rovod was beaten to a serious pulp.
+
+[00:09:50] Drew:
+After which point, he was then dragged by the hammer dwarf to the hospital.
+
+[00:09:56] Kristin:
+"Let's beat this guy up. Can you deal with it?" "Yeah."
+
+[00:10:00] Drew:
+So the hammer dwarf beat him, then dragged him to the hospital to get medical attention.
+
+[00:10:05] Kristin:
+"Well, you know, that's good. I mean, that seems like justice for making a helmet out of the wrong thing. As I started talking, it sounded reasonable. And then the more I said, the more unreasonable it got."
+
+[00:10:17] Drew:
+So, the final event that I will walk you through from Fortress Dob Pages was an Olm person invasion from the Cavern Depths. Olm is a type of snake. "Yeah, I've seen..."
+
+[00:10:33] Kristin:
+"Yeah, I've seen, I had a port with lots of homes."
+
+[00:10:36] Drew:
+"Yeah, I'm not sure if they're snakes or reptiles."
+
+[00:10:39] Kristin:
+"Well, we'll look it up."
+
+[00:10:41] Drew:
+"Thank you."
+
+[00:10:45] Kristin:
+"But the Olm humans, Olm men have legs."
+
+[00:10:49] Drew:
+"Legs. Definitely those have legs. At any rate, 15 Olm men and women, Olm persons, Olm people, Olm people invaded from the cavern depths, resulting in two Olm women being captured in cages and placed in our dungeon, and the other 13 being soundly beaten with one dwarven axe."
+
+[00:11:11] Kristin:
+"Well."
+
+[00:11:12] Drew:
+"Like a decent ratio, I think, especially given the fact that we don't have steel armor and all that. Fair enough, yeah."
+
+[interjection] Kristin: "Yeah."
+
+[interjection] Drew: "But I think we're making progress. We seem to be holding our own against the various vicissitudes that are being thrown at our dwarves."
+
+[00:11:27] Kristin:
+"No."
+
+[00:11:28] Drew:
+"In Fort Restable."
+
+[00:11:33] Drew:
+"The next plan is to continue to build the militia. We've jumped up from 25 people to 50 people."
+
+[00:11:42] Drew:
+"Total population. So I need to make a couple more squads and start getting a higher quality of armor being built."
+
+[interjection] Kristin: "Okay."
+[interjection] Drew: Currently everything is iron and I'd like to upgrade that to steel if I can, but that takes a fair bit of effort.
+
+[00:11:55] Kristin:
+Yeah, there are a lot of steps in there.
+
+[00:11:59] Drew:
+So, tell me about the updates from your fort.
+
+[00:12:02] Kristin:
+News from the wondrous plains. So, Ragdreams is my third fort.
+
+[00:12:09] Kristin:
+And it was going really okay. You know, I had some big plans for things that I wanted to do.
+
+[00:12:15] Kristin:
+And then things went really, really badly south very quickly. So we were just ticking along. I think I was in the process of starting to make luxury apartments for my dwarves. And I did the whole like building rooms vertically and you put the stairs and I was engraving the floors and they were getting all this nice furniture. And they were everyone was actually pretty happy. I'm looking at a screenshot from when that happened and there were 53 dwarves. 27 were yellow, meh, you know, totally neutral. Two were the one slightly more orange than that and everybody else happy. They're all good. And then I got the following message. The were-monitor, fences, sibilisk, roods, okay, all right. The were-monitor has come, a large monitor twisted into humanoid form. It is crazed for blood and flesh. Its eyes glow green. Its charcoal scales are blocky and set far apart. Now you will know why you fear the night.
+
+[00:13:14] Kristin:
+And at first, I was like, oh, it's a forgotten beast. And then I was like, oh, it's not a forgotten beast. This is just a were-monitor lizard man.
+
+[00:13:21] Kristin:
+Which is a little disappointing. But then, you know, I went and looked at him and it was actually pretty cool-looking. And I maintain that, you know, if we're going to start having problems, this was a cool place to start.
+
+[00:13:33] Kristin:
+Um, I also didn't, like, I don't know where this dude came from, but he's 241 years old. He's married and has eight children. The were-monitor lizard.
+[00:13:45] Drew:
+With that sort of thing, I kind of wish that the Legends mode was easier to access while you're playing a section, because it would be interesting to go and see what those children were like before he was turned into a monitor lizard and made immortal. I don't really know the answers to that. 
+
+[00:14:00] Kristin:
+Right. How old was he? What was he? I think that if I dug deeply enough into his background that is available to me, I could maybe see. But then another one showed up and another one showed up. 
+
+[00:14:16] Kristin:
+That's a lot of were-monitor lizards. There were three were-monitor lizards altogether coming in a gang. 
+
+[00:14:26] Drew:
+I wonder if they were related to the first one. 
+
+[00:14:28] Kristin:
+Oh, maybe there were eight of them or nine of them. I guess ten of them because he's married. Look at me counting live on the air. So I sent my squad out. They all died. 
+
+[00:14:39] Kristin:
+Temporarily, because it turns out that I had a necromancer living in my fort, which I did not realize. This is why you should go in and look at your dwarves and see who your new migrants are, because apparently some of them have special gifts that they will use to your advantage. 
+
+[00:14:58] Drew:
+Yeah, in old versions of the game, I believe that having a necromancer in your fort would result in raising all of the dead and they would be hostile, but now apparently they'll be friendly-ish to the dead. 
+
+[00:15:13] Kristin:
+Yeah, so Sarvesh Med Tobostov, the dwarven necromancer, we'll just call her Sarvesh moving forward, was out. I don't know what even she was doing. I can probably look back at who she was when I get to Legends mode. She wasn't anyone remarkable, just a necromancer. She must have been out there when the Were-monitor lizard, because a lot of things string together, showed up. And she started turning the dead into zombies. So we have a whole lot of zombies in my fort now. And at first, I was really freaked out and I was like, oh, well, this is just the end because I thought, you know, zombies are just going to, you know, shuffle around and eat the other dwarves. No, these are friendly zombies. They just kind of hang out and live. I don't know if they work. I can click in and see if any of them are doing any jobs.
+
+[interjection] Kristin:
+
+But before I do that, 
+
+[interjection] Kristin:
+
+I thought that we were okay, we just now had a sort of neutral zombie problem. 
+
+[interjection] Kristin:
+
+And then some of my people and zombies started turning into Were-monitor lizards. 
+
+[interjection] Kristin:
+
+So we had another three who I guess must have been exposed. And they got killed. More people died, including Sarvesh, but not before she made some more dwarven zombies. So we got zombies and I think enough time has passed now that maybe we're not going to have another Were-monitor lizard outbreak, but I'm not a hundred percent sure on that because all of this was happening and I was just overwhelmed and like freaking out in my chair and time was passing and I didn't know what, I didn't even know there was a necromancer. 
+
+[interjection] Drew:
+
+No one ever expects the Were-monitor lizard zombies. 
+
+[interjection] Drew:
+
+So are there actual Were-monitor lizard zombies? 
+
+[interjection] Kristin:
+
+Um, not currently, but I do think some of the zombies turned into Were-monitor lizards. 
+
+[interjection] Drew:
+
+I'm not sure what the order of operations for all of this is. 
+
+[interjection] Kristin:
+Right, like are they a zombie first or a were-monitor lizard?
+
+[00:17:20] Drew:
+Yeah, I do know the only way that you can recover limbs is by becoming a werecreature.
+
+[00:17:27] Kristin:
+Does that mean you regrow the limbs? Uh huh.
+
+[00:17:31] Kristin:
+I definitely haven't seen anyone regrow a limb, but I don't know that I would have, given that I didn't even know that I had a necromancer living in the fort.
+
+[00:17:40] Drew:
+I mean, that's exactly right.
+
+[00:17:41] Kristin:
+Yeah. So after that outbreak, we did have one more. A child turned into a were-monitor lizard and was disposed of.
+
+[00:17:49] Drew:
+Stuff.
+
+[00:18:02] Kristin:
+They were all dead. This was like planters and fisherpeople until apparently.
+
+[00:18:08] Drew:
+Yeah, and then if you've got zombies infected, you're going to turn into [them]. You can't, I don't think you can control them to be able to make them go somewhere in quarantine. Oh my god, that's a mess.
+
+[00:18:16] Kristin:
+Right. And so I wasn't prepared for that particular meeting. And I had no coffins, I hadn't dug out any tombs. So the entire exterior of my fort is just puddles of blood and zombies dragging around their intestines. Like actually, you can see that in their sprite, they've got the trailing intestines and, you know, feet and teeth and were-monitor lizard bits, and some traders rolled up.
+
+[00:18:43] Kristin:
+And they were just like, hey, you want to trade? And I was like, yeah.
+
+[00:18:46] Kristin:
+I look around [at] you, I don't have anything to trade. It's like the set of The Walking Dead here. So I'm pretty sure I bought a little bit from them. I think I probably bought plump helmets because you can never have too many plump helmets. But yeah, so things went south pretty badly in there. But since you brought up your unhappy dwarf and I was asking about the yelling, I did want to give a shout-out to Cole Copperleopard, who is our expedition leader.
+
+[00:19:21] Kristin:
+And I made her our broker. I don't know if she has another job, but people yell at her a lot. And she has recently developed some empathy and compassion. I'm going to read a little bit of this to you guys. So she is prone to strong feelings of lust. Oh my. She only rarely feels strong cravings or urges. Those don't really seem to, oh well. She does not generally seek retribution for past wrongs. She can sometimes act without deliberation. She is somewhat quarrelsome, and she is bothered by this since she values friendship. She often acts with compassion, a turnaround after a new romance in 108.
+
+[interjection] 
+
+[00:19:58] Kristin:
+Aww. Isn't that adorable? 
+
+[00:20:01] Drew:
+Yeah. Romance made her lustful. 
+
+[00:20:03] Kristin:
+She's got a new boyfriend who's a miner. 
+
+[00:20:09] Kristin:
+I thought that was kind of nice and lots of friends. 
+
+[00:20:12] Drew:
+I mean, he digs, not that he's too young for it. 
+
+[00:20:14] Kristin:
+Oh, I see what you did there. Yes, he digs. These are dwarfs. And her most recent thought is, "I was yelled at by an unhappy citizen. I'm very empathetic." I couldn't want that on a t-shirt. 
+
+[00:20:29] Drew:
+It's one of the most interesting things about her. 
+
+[00:20:32] Kristin:
+So, yeah, she has felt a lot of empathy while being cried on by an unhappy citizen, while discussing an acquaintance's problems, and while being yelled at by an unhappy citizen. So things are not going great. I genuinely thought this fort was done, so, like, we were goners. We've had two waves of migrants. 
+
+[00:20:56] Kristin:
+And we're still cleaning up all the dead bodies outside, and they just moved in. They were like, "Oh, you got some empty rooms now then I guess." Which we do. We also have a lot of coffins with only like an ear in them. 
+
+[00:21:10] Drew:
+There's something to be said for dwarven pragmatism. Mm-hmm. Ah, a lot of dead bodies. Well, probably some new rooms and, uh, yeah, I'll just pitch in. Yeah! Where are we gonna throw them? That's it!
+
+[00:21:23] Kristin:
+Like a corpse pile out there. Is that where we're putting them? Cool. The corpse pile might be full.
+
+[00:21:29] Kristin:
+So that's what's happening in Ragdreams. I think I'm still going to keep going with them and clearly we need a new squad since they're all dead. Probably a hospital. And we just had someone in a fey mood make a legendary splint. So it seems like maybe that's a sign. A good omen.
+[interjection] Drew: Good on them.
+[interjection] Kristin: Yeah, good omen for the hospital.
+
+[00:21:52] Drew:
+So, with your militia squad that was killed, what were they armed with?
+
+[00:21:58] Kristin:
+Probably crap.
+
+[00:22:02] Drew:
+What's frequently happened to me is I will make marksdwarves, which are dwarves using crossbows, and I'll screw something up in equipping them and they'll just go and try to beat things to death with a crossbow. It never goes great.
+
+[00:22:18] Kristin:
+I mean, for all I know, they were using their goblets or I apparently had a standing work order for doors. So we have infinite doors. They might have been grabbing doors and just smacking the war monitor lizards. That's an image. That is a good one. Yeah, so.
+
+[00:22:38] Kristin:
+It's been a fun week for me, not so much for the dwarves, not for, uh, Cole Copperleopard or whatever her name is.
+
+[00:22:45] Kristin:
+Yeah, it is Copperleopard.
+
+[00:22:47] Kristin:
+Yeah, so that's the news from the wondrous planets.
+
+[00:22:51] Drew:
+Nice.
+
+[00:22:52] Kristin:
+And I had just hit magma too. I was so excited to try to figure out what to do with that.
+
+[00:22:58] Drew:
+Oh, and before we leave behind news from our forts, I actually had one more item that I wanted to say, which is that in looking at the civilizations that you can see on the map for the Dimensions of Met,
+[interjection] Kristin: Yeah.
+[interjection] Drew: I found out that the nearest goblin civilization that we're at war with, there are several that we're at war with, but you know, that's how it goes.
+
+[00:23:23] Drew:
+is actually ruled by a Grandmaster.
+
+[00:23:28] Drew:
+I don't know if it's Grandmaster or Goblin Master, it just says G-Master for Goblins. I never looked it up.
+
+
+[00:23:33] Drew:
+who is actually not a goblin, but instead is a Moose Fiend Admiral.
+
+[00:23:40] Kristin:
+Moose feed.
+
+[00:23:41] Drew:
+Moose. Fiend. Admiral.
+
+[00:23:44] Kristin:
+Okay. I don't know what that means. Other than maybe he's like some kind of demonic moose?
+
+[00:23:49] Drew:
+I think it means he's a demonic moose because you can get...
+
+[00:23:53] Kristin:
+I'm there for that.
+
+[00:23:54] Drew:
+Yeah, who is apparently leading a goblin civilization, because if you're a goblin and I guess a demonic moose sails up, I'm assuming over magma from underground.
+
+[00:24:05] Kristin:
+Right, because the... yeah.
+
+[00:24:07] Drew:
+Yeah, I wouldn't argue too terribly much with it. Yeah.
+
+[00:24:10] Kristin:
+No, no, definitely would not argue with the demonic moose.
+
+[00:24:14] Drew:
+Just kind of comes along and is like, all right, I rule all of you now. Oh, okay. Okay.
+
+[00:24:23] Drew:
+Cool. Don't eat me or step on me.
+
+[00:24:27] Kristin:
+Hit me with your flaming antlers.
+
+[00:24:29] Drew:
+I'm very confused. Yeah, I don't know. Scarecrows.
+
+[00:24:34] Kristin:
+Oh no, we don't need to talk about those kinks.
+[interjection] Drew: Um
+[interjection] Kristin: I did want to mention, apropos of nothing, that the main human civilization in the Wonders Planets is called the Fancy Nation.
+
+[00:24:47] Drew:
+I remember this now, yes. The fancy man shit.
+
+[00:24:51] Kristin:
+The fancy nation. They're fancy.
+
+[00:24:53] Drew:
+I kind of always expect...
+
+[00:24:58] Kristin:
+I've met some people from the Fancy Nation. They've been okay. We trade with them.
+
+[00:25:04] Drew:
+I was trying to remember what the name of that column civilization is, but I don't have it written down.
+
+[00:25:07] Kristin:
+Oh well, we'll save it for next time.
+
+[00:25:09] Drew:
+Yep, I'm sure we'll encounter the demonic moose more.
+
+[00:25:13] Kristin:
+Desperately hope so.
+
+[00:25:16] Kristin:
+Well, since we've covered our news, why don't we move on to drinks, farming, plump helmets?
+
+[00:25:23] Kristin:
+Dimple cups!
+
+[interjection] Kristin: Yes.
+
+[00:25:29] Kristin:
+Oh, they know.
+
+[00:25:30] Drew:
+They know, yeah.
+
+[00:25:32] Drew:
+So farming of plants, because there's also the farming of animals, like animal husbandry.
+
+[interjection] Kristin: Right, yeah.
+
+[interjection] Drew: Is there a word for just the farming of plants specifically? Don't say plant husbandry, do you?
+
+[00:25:44] Kristin:
+No, agriculture.
+
+[00:25:46] Drew:
+Well, people always put the animals under the agriculture. Do they?
+
+[00:25:49] Kristin:
+I don't know. This is fascinating. At any rate, yeah.
+
+[00:25:53] Drew:
+For farming, there are a wide variety of indoor and outdoor plants that can be grown in Dwarf Fortress for various uses. These include food, drink, clothing, and more.
+
+[00:26:10] Drew:
+Dyes, structures, and just a wide variety of other resources.
+
+[00:26:17] Kristin:
+Probably a million things that we don't know of and wouldn't think of.
+
+[00:26:20] Drew:
+Exactly. But there is one staple that all dwarven civilization relies upon, and that is...
+
+[00:26:27] Kristin:
+Plump helmets.
+
+[00:26:31] Kristin:
+I'm sorry.
+
+[00:26:32] Drew:
+You just get so excited for plump helmets.
+
+[00:26:34] Kristin:
+I was really overcome by my excitement to talk about plump helmets.
+
+[00:26:38] Drew:
+So, the humble plump helmet...
+
+[00:26:41] Drew:
+Is at its best.
+
+[00:26:41] Kristin:
+Sorry, I just would have definitely said like, plump helmet or something.
+
+[00:26:46] Drew:
+Gotta be proud that I can do it.
+
+[00:26:50] Kristin:
+I'm extremely proud.
+
+[00:26:52] Drew:
+It's at its heart a mushroom.
+
+[00:26:55] Drew:
+A quite rudely shaped mushroom by all illustrations. Isn't this true?
+
+[00:27:00] Drew:
+And like all mushrooms, it wants to grow in the damp and dark. Yes. This makes it ideal for dwarven civilizations that want to dig straight into mountains and get going.
+
+[00:27:10] Kristin:
+Mm-hmm, which is, well, I didn't dig into a mountain, but I had two layers of sand and mossy, dirty stuff, so first thing I did, plant some plump helmets.
+
+[00:27:21] Drew:
+And plump helmets, like most other dwarven crops, need to be planted indoors and on either mud or soil.
+
+[00:27:30] Drew:
+Or cave moss, right? Cave moss counts as soil. So why do they often call it, uh...
+
+[00:27:35] Kristin:
+Okay.
+
+[00:27:36] Drew:
+And so those materials can be either found or you can create mud by dumping water onto rocky surfaces or even gem-encrusted surfaces, metal surfaces, anything like that. You dump water, eventually it becomes muddy, and then you can plant on it.
+
+[00:27:53] Kristin:
+That sounds very high-tech to me. I'll just keep up with the sandy and the cave moss that develops naturally.
+
+[00:28:00] Drew:
+The other trick to remember when starting a farm in Dwarf Fortress is that smaller is actually better.
+
+[00:28:06] Kristin:
+Yeah, this befuddles me. I'm pretty sure that my farm is like 5x5, 6x6, 12x12. No, I'm done.
+
+[00:28:15] Drew:
+When I first started Dwarf Fortress, I tended to make something like 10 by 5 or something like that because it just always seems like you need to have a huge...
+
+[00:28:22] Kristin:
+Rain.
+
+[00:28:23] Drew:
+Gotta have a lot of drinks. Everyone tells you, you need drinks more than food. 
+
+[interjection]
+But in reality, you only need about a 3x3 farm of plump helmets in order to keep your dwarves reasonably happy and well-fed.
+
+[00:28:39] Drew:
+The soda? The drink? Isn't that the first?
+
+[00:28:40] Kristin:
+Does that make sense? I don't know. Something like that.
+
+[00:28:42] Drew:
+You plant your plump helmets, and then you let them start to grow. Yes.
+
+[00:28:54] Drew:
+Well, eventually you'll be able to...
+
+[00:28:57] Drew:
+Harvest those and then you have these plump helmets that your dwarves want to eat.
+
+[00:29:04] Drew:
+But they also have seeds in them. And so the dwarves will eat the plump helmets.
+
+[00:29:09] Kristin:
+And you don't get the seeds.
+
+[00:29:10] Drew:
+No, you do get the seeds when they eat them because they're good dwarves and they know to save the seeds.
+
+[00:29:15] Kristin:
+Oh.
+
+[00:29:16] Kristin:
+But this is where the spawn comes in, right?
+
+[00:29:19] Drew:
+Exactly.
+
+[00:29:22] Kristin:
+Yeah, all right.
+
+[00:29:24] Drew:
+Because apparently you call the sort of sprouting sections of mushrooms spawn in technical terms.
+
+[00:29:29] Kristin:
+Yeah, I don't know. I wouldn't know. The mushroom kit I got us for Christmas didn't work. All it grew was mold.
+
+[00:29:37] Drew:
+Yeah, that did not work out great for us, did it?
+
+[00:29:40] Kristin:
+No.
+
+[00:29:40] Drew:
+So.
+
+[00:29:42] Drew:
+So you've got your plants on the soil, and now they've eaten some and gotten seeds. Well, unless you tell the dwarves not to, they'll cook those seeds and turn those into their own meal.
+
+[00:29:54] Kristin:
+Delicious!
+
+[00:29:54] Drew:
+Which I guess is delicious, I don't know. But at any rate, the first thing you've got to do in Dwarf Fortress is tell them, "Don't do that," because you need those seeds. Bad dwarves. You need those seeds to be able to plant them again.
+
+[00:30:07] Drew:
+But instead of just eating your plump helmets, you can also take them and put them in a still in order to turn them into [dwarven] wine. The backbone of all of this. 
+[interjection] Kristin: Mmm
+
+[00:30:16] Kristin:
+rewind 
+
+[00:30:18] Drew:
+[Mushroom] wine. 
+
+[00:30:19] Kristin:
+[to] genuinely makes me want [to] Barf-a-lil. 
+
+[00:30:21] Drew:
+Yeah, it does not sound great to me, but apparently dwarves like it and they're perfectly happy to live on that. 
+
+[00:30:27] Kristin:
+Yeah. 
+
+[00:30:28] Drew:
+[to] the exclusion of water. A fun fact, Dwarf Fortress, dwarves will avoid water. 
+
+[00:30:34] Drew:
+Water is gross. [But] delicious. 
+
+[00:30:39] Drew:
+So. 
+
+[00:30:40] Drew:
+[Add] plump helmets to the still to make wine. You also get seeds from that. 
+
+[00:30:45] Kristin:
+You need bags. 
+
+[00:30:47] Kristin:
+This is like the one helpful contribution I can make on the education front [–] bags. 
+
+[00:30:53] Drew:
+That's right, because seeds have to go in bags. Otherwise, you'll just... You'll have dwarves dropping seed everywhere. 
+
+[00:30:59] Kristin:
+[O]r I don't know, my seeds just mysteriously vanished. But then when I made bags, that problem went away. 
+
+[00:31:05] Drew:
+That's right, because they'll be good little dwarves and [put] them in bags. 
+
+[00:31:09] Drew:
+[But] the bags themselves then need to be stored in barrels, which you also need barrels in order to hold the wine. 
+
+[00:31:15] Kristin:
+Yeah, well they store the bags in bins. 
+
+[00:31:18] Drew:
+[They] will not store the bags in bins. 
+
+[00:31:20] Kristin:
+Oh, this is so confusing. 
+
+[00:31:21] Drew:
+[It's] because reasons. And the reasons [are] it was programmed that way. 
+
+[00:31:25] Kristin:
+I probably need to start making some barrels in my game. 
+
+[00:31:29] Drew:
+You always need to have barrels. Or pots. 
+
+[00:31:32] Kristin:
+Oh, the pots, yeah. 
+
+[00:31:33] Drew:
+[Because] pots are stone barrels. 
+
+[00:31:36] Kristin:
+Yes. 
+
+[00:31:37] Drew:
+So I'm doing all this in order to illustrate how ridiculous Dwarf Fortress actually is.
+[00:31:41] Kristin:
+It's delightful.
+
+[00:31:43] Drew:
+If you're not following along, that's fine, because when you play the game it'll all make a little more sense. But this is the absurdity. Let me just say it from the top. You need to make a tiny farm. You need to plant in it, plump helmets spawn. All seasons.
+
+[00:32:05] Drew:
+Of the four dwarven seasons.
+
+[00:32:07] Kristin:
+Yeah.
+
+[00:32:08] Drew:
+And not all things can grow in all seasons, but luckily the humble plump helmet will grow in all.
+
+[00:32:13] Kristin:
+You're just showing off with your humble plump helmet now. Oh, I did it.
+
+[00:32:18] Drew:
+Good for you. Thank you. So let's start from the beginning.
+
+[00:32:21] Kristin:
+Wait, no, you just did start from the beginning.
+
+[00:32:23] Drew:
+Will you let me finish? 
+
+[00:32:24] Kristin:
+Oh, so we have to start completely over? Uh huh.
+
+[00:32:26] Kristin:
+Sorry.
+
+[00:32:28] Drew:
+You're saying that to our listeners, not to me.
+
+[00:32:30] Kristin:
+He's used to it.
+
+[00:32:31] Drew:
+So, you need to make a 3x3 farm, because any larger is just wasted.
+
+[00:32:38] Drew:
+Then you need to put plump helmet spawn in there. Not plump helmets themselves, which you do start out with, but your dwarves have to eat some and generate seeds, and then you can plant the seeds.
+
+[00:32:48] Drew:
+Then when those seeds grow, you can turn them into... you can take them to the still to turn them into dwarven wine. Because dwarves want to drink more than they want to eat food or drink water.
+
+[00:33:02] Drew:
+Now, in doing so you'll also get some seeds back, but in order to be able to do any of that, you have to have barrels. In order to make barrels, you need a carpenter. For the carpenter to make barrels, he needs wood that an axedwarf has to go out and cut down.
+Then in order to save the seeds that you also get from the still, so that you can plant them again in the next season, you need bags. Bags are made at the loom or maybe by the cloth person. Oh shoot, I was trying so hard not to interrupt.
+
+Well, you can actually make bags directly from a different type of crop that we'll go into another time called pigtails. Oh, right, pigtails. Pigtails can be turned directly into bags, but they're not as good as the ones that are generated by... I didn't know the word.
+
+Yeah, it's a process. Plant into bag option.
+
+And with that, you've now done the simplest thing in Dwarf Fortress. Why do we play this game again?
+
+Because it's fun!
+
+So, all of that is relatively intuitive actually in the course of the game. But one thing you do need to remember, dear listener, is that when you start that cooking screen, go down and disable the cook seeds for making meals for all the different types of seeds. They don't make good enough meals to actually be useful and if you let them make meals out of those seeds then you won't have enough to do your next round of farming.
+
+Now, with all that being said...
+
+After you've made alcohol, then you can actually start doing the things that will make your dwarves happy instead of just alive. That includes making mugs, a tavern, dining halls, tables, chairs, and cooking fancy meals and onward.
+
+You know, I don't think I'm even cooking meals in my fort. We have a lot of food, so much food. I don't make it into meals. Maybe they would be happier if I did.
+The nice thing about prepared meals that come from the cookery [kitchen], is that they are faster to transport and can be stacked into barrels better. And so then the barrels full of prepared food can be taken down to the other region more effectively than hauling individual raw food items. Yeah.
+
+[00:35:27] Kristin:
+Yeah, fair enough.
+
+[00:35:29] Drew:
+Also, if you actually look at the prepared meals, they are frequently horrific.
+
+[00:35:32] Kristin:
+Oh, I know. I had someone who was cooking meals enough [often] at my first fort that we were getting like masterwork. And it was like muscle pancakes.
+
+[00:35:42] Kristin:
+Like muscle, like not, you know, cow flesh muscle, like from a river. Do muscles come from rivers?
+
+[00:35:49] Drew:
+They didn't come from...
+[interjection]
+[00:35:50] Kristin:
+We were on a stream, so they were freshwater mussels.
+
+[00:35:53] Drew:
+Yeah, freshwater mussels. But yeah, I've had a lot of, in Sword Begins, the green glass sport, we had a thriving business in masterwork cuttlefish, cuttlefish stew.
+
+[00:36:12] Drew:
+Chris. Yeah, which is sad because cuttlefish are kind of cute.
+
+[00:36:16] Kristin:
+Cuttlefish are kind of cute, but that does kind of sound better than mussel pancakes.
+
+[00:36:19] Drew:
+Yeah, we also have a lot of octopus leather wind up being. Okay, thanks.
+
+[00:36:21] Kristin:
+That's pretty cool.
+
+[00:36:22] Drew:
+Yeah, octopus leather I think is a pretty cool concept.
+
+[00:36:26] Kristin:
+So, related to drinks, before we move on.
+
+[00:36:29] Kristin:
+Dwarves, when you get down to the deep levels, tend to die of dehydration.
+
+[00:36:34] Kristin:
+How do you fix that?
+
+[00:36:35] Drew:
+The simplest way is first to designate a stockpile somewhere near there and designate that as being for drinks only or drinks and prepared food. But you usually have too much of one or the other. Once you get the drinks machine going, you can frequently wind up with 500 units.
+
+[00:36:52] Kristin:
+I haven't managed that yet. I always have like 50, but that's probably more to do with my work order.
+
+[00:36:57] Drew:
+Yeah, work orders are definitely something we'll have to cover.
+
+[00:36:59] Kristin:
+Oh yeah, that's a huge topic. I did just remember that before the were-monitor lizard showed up, 
+[interjection] Drew: That's a great question.
+[interjection] Kristin: that's what I was doing. I was making the below-ground cavern level stockpile with drinks and a nice little tavern down there and a dormitory for them to sleep if they got tired going to and fro.
+
+[00:37:16] Drew:
+And if they have the option, they will go to the tavern, and then in the tavern, there needs to be a chest, and the chest needs to have mugs because they will rather dehydrate themselves than drink without a mug.
+
+[00:37:32] Kristin:
+Definitely need to work on the mugs thing too.
+
+[00:37:34] Drew:
+Yeah, they don't seem to care too terribly much about the quality of the mug. Obviously, a nicer mug makes them happier, but you know, you need to have probably at 
+[interjection] Kristin: Thank you.
+[interjection] Drew: least one mug per dwarf throughout your entire fortress, even if they don't all wind up in one tavern or the other.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Then they'll use that to go, I guess, goop out.
+
+[00:37:55] Drew:
+It's important to remember in the Steam version, you will see an icon when dwarves are thirsty of a little water droplet.
+
+[00:38:03] Drew:
+Is that what that means? Ignore the water droplet. That's not what that means. No, it means that they are thirsty. Uh-huh. But they're thirsty for alcohol, not water.
+
+[00:38:13] Kristin:
+Oh, okay.
+
+[00:38:15] Drew:
+Yeah, they needed to change the color because it's a little blue droplet.
+
+[00:38:20] Kristin:
+Yeah, but if you make it like beer-colored, that just looks like a problem.
+
+[00:38:23] Drew:
+Yeah, I don't know. They needed to work on the icon there a little bit too much because...
+[00:38:27] Kristin:
+I mean, it could just be like a little mug.
+
+[00:38:28] Drew:
+Yeah, a mug. I think a mug would have been a better call. Yeah. You know, a little frothy mug of the dwarves.
+
+[00:38:33] Kristin:
+Hmm, well, they should consult me before they do more of their design.
+
+[00:38:36] Drew:
+Yeah, exactly.
+
+[00:38:38] Drew:
+At any rate, that's something to remember. Not water. It's a little too intuitive to just try to make sure that they have plenty of water. They don't care. Water bat. Yeah, water bat. The only water a dwarf wants is when he's sick.
+
+[00:38:50] Kristin:
+Yes, which is a topic for a future episode.
+
+[00:38:54] Drew:
+And that is the beginning of farming in Dwarf Fortress.
+
+[00:38:58] Kristin:
+and drinking probably. Yeah, and drinking. Well, do you have a Reddit or Facebook question for us to see if we can have a wrong answers only?
+
+[00:39:08] Drew:
+I can go with this Reddit question that someone posted on the subreddit.
+
+[00:39:14] Drew:
+Is that right, Paul? Subreddit. On the subreddit.
+
+[00:39:17] Drew:
+How do I deal with all of these damn crundles?
+
+[00:39:21] Drew:
+Toastie and cruddles.
+
+[00:39:22] Kristin:
+I had this problem, man. Well, what is a cruddle? I'm not sure. It's kind of gremlin-y.
+
+[00:39:27] Drew:
+Yeah, it seems to be somewhere kind of like an Arthropod, Gremlin type thing that comes up out of the depths when you open up a cavern in some areas.
+
+[00:39:38] Drew:
+And as they come up, they are regarded as vermin by the game.
+
+[00:39:43] Kristin:
+I didn't know that, so probably the correct answer is vermin catcher, right?
+
+[00:39:48] Drew:
+Vermin catcher is definitely, I think, one of the options. The problem is that there are so many crundles, apparently even if you assign a permanent vermin catcher, he'll just spend all his time trying and not actually accomplish anything.
+
+[00:40:01] Kristin:
+You know what my solution was?
+
+What's that?
+
+I didn't know about gelding in my first fort, so I had so many dogs. There were dogs everywhere. And I started having them trained to be war dogs and hunting dogs. And the war dogs took care of the crundles. Unfortunately, some of the dwarves seemed to find it upsetting to have dogs and crundles fighting all over the fort.
+
+[00:40:25] Drew:
+
+Yeah, the problem there then is that you wind up with so many crumpled body parts everywhere. More scrap metal pieces on top after wearing off.
+
+[00:40:29] Kristin:
+
+Yeah, that was its own problem. I think I did get some miasma from dead crundles.
+
+[00:40:35] Drew:
+
+Yeah, and the dwarves are just, they're never good enough about actually picking up and cleaning up all of that mess, especially when it's from the vermin.
+
+[00:40:43] Kristin:
+
+Yeah.
+
+[00:40:44] Drew:
+
+So the dogs are a pretty good solution from what I've seen. One that I've always wanted to do is create a sort of dog zone on your main shaft going down.
+
+[00:41:00] Drew:
+
+And so you have like a level maybe, you know, two or three levels before you actually get back up to where you're doing all of your work. And you just carve out a little zone and designate the whole thing as a sort of dog pen. That way your dwarves can come up through there without any problems from the dogs.
+
+[00:41:16] Drew:
+
+Dogs like it probably. Dogs are happy to have their nice little area. And then whenever a crundle tries to sneak up the stairs, the dogs will murder them and it'll all be stuck right there.
+
+[interjection] Kristin:
+
+The dog's soul.
+
+[00:41:33] Kristin:
+
+That's always the challenge.
+
+[00:41:36] Kristin:
+
+Can you mark dead crundles for dumping and have like a designated crundle number?
+
+[00:41:41] Drew:
+I think you can. And of course, Dampir. Yeah, I think that's probably the best solution there. Of course, the right solution is to make sure that when you open up a pathway into the caverns, you always make sure to block off all of the area and have a door, because apparently, the crundles cannot open doors.
+
+[00:42:02] Kristin:
+I think I remember trying to put a hatch in.
+
+[00:42:07] Kristin:
+I don't know that it helped. Yeah. I don't know that they ever put the hatch in. I think they were just constantly crumbles blocking it so we could never get the hatch constructed.
+
+[00:42:15] Drew:
+On the upside, crundles can be cooked. Oh, delicious!
+
+[00:42:18] Kristin:
+It's crundle pancakes.
+
+[00:42:21] Drew:
+Yes, so I actually, when I had an invasion of crundles, I did wind up with a lot of, I believe, crundle biscuits.
+
+[00:42:28] Drew:
+Hmm. Truly a delicacy. I bet they taste like long johns.
+
+[00:42:31] Kristin:
+And that they're high protein.
+
+[00:42:32] Drew:
+They probably are high protein. We also had a fair amount of, I think, crundle bones. I don't know if we actually had crundle bones or not.
+
+[00:42:41] Kristin:
+Those could be useful. Renewable resource, again. Although you do have to watch out, like with the cave crocodiles, that you don't end up with zombie crundles. Although, you don't seem to have experienced nearly as many zombies as I have.
+
+[00:42:53] Drew:
+Yeah, I think it's because you don't have as many goblins and so they don't keep the necromancer population.
+[interjection] Kristin: Yeah.
+[interjection] Drew: At least that...
+
+[00:42:59] Kristin:
+Last time it was a goblin necromancer who attacked us. I didn't even mention that we had another necromancer come with her zombies, and my zombies killed her zombies and her, so that ended up not being a problem.
+
+[00:43:10] Drew:
+Sometimes problems solve themselves.
+
+[00:43:12] Kristin:
+Yeah, go zombies.
+
+[00:43:13] Drew:
+Yeah, so that's the answer for how to deal with crundles the wrong way.
+
+[00:43:20] Kristin:
+Yes.
+
+[00:43:21] Drew:
+Dogs.
+
+[00:43:22] Kristin:
+I wonder if you could get attack pigs, probably.
+
+[00:43:25] Drew:
+Oh, you absolutely can. I actually captured one with a trap. In the military port, I'm trying to use the trap system more in Dwarf Fortress, which is very important and surprisingly effective. Overpowered, because a good metal trap can actually capture a dragon. That's intense. And then, when a nonsentient creature is captured, they can be trained and then controlled as part of your fort. Nice. So, I actually captured a careless...
+
+[00:43:57] Drew:
+Yeah, uh, I captured naked mole dogs.
+
+[00:44:01] Kristin:
+Bulldogs. Oh, that's a scary fighting force. Maybe. Do you have enough? Do you have a breeding pair?
+
+[00:44:07] Drew:
+I did. I had five actually that were captured and trained. They were immediately trained, so they weren't particularly vicious. But they were immediately trained and I set them to keep an eye out at the start of my cavern area. And they were the first ones to die to the own person invasion.
+
+[00:44:27] Kristin:
+Oh, well. Alas. I'll try.
+
+[00:44:28] Drew:
+It was a good try. But then in the process, I also captured two elven women who are now the first prisoners I've ever had in Dwarf Fortress, and I'm not entirely sure what the hell I'm supposed to do with them, per se. So that is something I will learn about and report back to you.
+
+[00:44:42] Kristin:
+The only thing I've ever caught in a trap was a grasshopper. And then I had a grasshopper in a trap in a storage pile.
+
+[00:44:49] Kristin:
+The end. That's probably a good place to wrap up. I think that in this coming week, assuming RAGDREAMS does not succumb to the zombie invasion, we will try to do a Twitch stream so that I can learn about magma and you guys can learn along with me.
+
+[00:45:05] Drew:
+Sounds like a good plan to me.

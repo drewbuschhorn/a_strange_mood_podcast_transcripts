@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:05,840
+Well, the mayor, you can start to have a mayor as soon as you hit the town level.
+
+2
+00:00:05,840 --> 00:00:06,480
+Okay.
+
+3
+00:00:06,480 --> 00:00:09,680
+Which is, meaning above 50.
+
+4
+00:00:09,680 --> 00:00:10,180
+Okay.
+
+5
+00:00:11,120 --> 00:00:14,320
+But you have to have had a trader from your civilization,
+
+6
+00:00:14,320 --> 00:00:30,640
+your specific civilization, not just a dwarven civilization.
+
+

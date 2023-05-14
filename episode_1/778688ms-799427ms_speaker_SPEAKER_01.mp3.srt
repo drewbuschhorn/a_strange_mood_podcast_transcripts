@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:05,440
+The upside to magma is that basically it provides a free way of turning metal,
+
+2
+00:00:05,640 --> 00:00:11,080
+turning ore into metal and sand into glass, obviously because of the heat.
+
+3
+00:00:12,040 --> 00:00:15,440
+Normally in Dwarf Fortress, in order to accomplish those changes,
+
+4
+00:00:15,440 --> 00:00:19,800
+you have to cut down trees and turn them into coal and use that coal to...
+
+5
+00:00:19,800 --> 00:00:20,800
+Right. Yeah.
+
+

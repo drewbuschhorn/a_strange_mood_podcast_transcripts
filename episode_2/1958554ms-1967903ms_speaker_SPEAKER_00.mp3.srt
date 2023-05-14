@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,920
+Then you need to put plump helmet spawn in there. Not plump helmets themselves,
+
+2
+00:00:04,560 --> 00:00:08,000
+which you do start out with, but your dwarves have to eat some and generate seeds,
+
+3
+00:00:08,000 --> 00:00:30,240
+and then you can plant the seeds.
+
+

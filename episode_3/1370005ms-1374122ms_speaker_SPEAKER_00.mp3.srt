@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,080
+It seems like a lot of work when we're taking laundry from the basement to the bedroom.
+
+

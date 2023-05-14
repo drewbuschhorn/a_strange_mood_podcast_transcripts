@@ -1,0 +1,73 @@
+1
+00:00:00,000 --> 00:00:02,520
+Yeah, I mean, that's exactly right.
+
+2
+00:00:02,520 --> 00:00:05,520
+To go back to the RimWorld example,
+
+3
+00:00:05,520 --> 00:00:09,800
+RimWorld does have a thing they call the producer AI,
+
+4
+00:00:09,800 --> 00:00:14,440
+which within it basically will decide that like,
+
+5
+00:00:14,440 --> 00:00:16,320
+okay, nothing much has happened,
+
+6
+00:00:16,320 --> 00:00:18,200
+you've got everything ticking along fine.
+
+7
+00:00:18,200 --> 00:00:21,220
+So in RimWorld, the producer AI will decide,
+
+8
+00:00:21,220 --> 00:00:23,400
+okay, you're going to have an invasion now
+
+9
+00:00:23,400 --> 00:00:25,720
+or something like that.
+
+10
+00:00:25,720 --> 00:00:28,000
+And Dwarf Fortress doesn't do that.
+
+11
+00:00:28,000 --> 00:00:30,680
+Dwarf Fortress is pretty,
+
+12
+00:00:30,680 --> 00:00:33,600
+has a high level of fidelity with its simulation.
+
+13
+00:00:33,600 --> 00:00:35,800
+Like it all just,
+
+14
+00:00:35,800 --> 00:00:37,940
+there are rules that they've set up at the beginning
+
+15
+00:00:37,940 --> 00:00:39,840
+and it just keeps ticking along,
+
+16
+00:00:39,840 --> 00:00:43,680
+applying those rules rather than kind of doing things ad hoc.
+
+17
+00:00:43,680 --> 00:00:44,600
+The only thing,
+
+18
+00:00:44,600 --> 00:00:49,600
+the only ad hoc thing in Dwarf Fortress is you.
+
+

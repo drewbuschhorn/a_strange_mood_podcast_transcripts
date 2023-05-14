@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:04,040
+I would tend to think that people have better things to do at their time.
+
+2
+00:00:04,040 --> 00:00:07,880
+But that's been the fun with magma and water.
+
+3
+00:00:07,880 --> 00:00:13,000
+The other thing I did was to deal with that whole issue, I worked on draining my level
+
+4
+00:00:13,000 --> 00:00:14,880
+of water and magma.
+
+5
+00:00:14,880 --> 00:00:22,160
+And the way to do that basically is to carve out levels using the dig option, using the
+
+6
+00:00:22,160 --> 00:00:23,160
+channel option.
+
+7
+00:00:23,160 --> 00:00:24,160
+Yes, you had to dig.
+
+8
+00:00:24,160 --> 00:00:25,160
+Thank you.
+
+

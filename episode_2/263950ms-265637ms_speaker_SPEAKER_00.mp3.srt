@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:02,000
+Unfortunately, this is a common problem in Europe.
+
+

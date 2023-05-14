@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:04,100
+It doesn't work quite how I thought it would work because it's quite big and
+
+2
+00:00:04,100 --> 00:00:07,100
+you know there are beds and a traction bench and all the things that you need
+
+3
+00:00:07,100 --> 00:00:07,560
+to have.
+
+4
+00:00:07,560 --> 00:00:29,560
+But all of the ill dwarves are standing on one corner tile.
+
+

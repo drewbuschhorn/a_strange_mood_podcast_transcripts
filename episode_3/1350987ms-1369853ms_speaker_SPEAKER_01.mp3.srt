@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:08,160
+Yeah, so it costs one step to go up or down a flight of stairs, and it also costs one step to
+
+2
+00:00:08,160 --> 00:00:12,720
+go, you know, any of the cardinal directions on the same floor you're on, which just doesn't
+
+3
+00:00:12,720 --> 00:00:16,880
+really match up that well with the real world to our intuition. We always think going up and
+
+4
+00:00:16,880 --> 00:00:31,440
+down stairs is, you know, kind of...
+
+

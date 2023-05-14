@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:02,000
+He is still indeed grumpy.
+
+2
+00:00:02,000 --> 00:00:04,640
+Still irrationally angry at all times.
+
+3
+00:00:04,640 --> 00:00:05,560
+Fair enough.
+
+4
+00:00:05,560 --> 00:00:07,800
+But it seems to make him a good military commander.
+
+5
+00:00:07,800 --> 00:00:29,800
+Yeah, it sounds like it.
+
+

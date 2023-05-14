@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:05,440
+It's just general deities at the moment, but that was the other discovery, like the torture
+
+2
+00:00:05,440 --> 00:00:10,240
+squad that I made, that these zones were incomplete because I was looking at the hospital zone needs.
+
+3
+00:00:11,200 --> 00:00:15,280
+And then I was like, wait, do all zones have needs? And I went and looked at my taverns and
+
+4
+00:00:15,280 --> 00:00:21,680
+they needed to have a chest and an instrument and a tavern keep. And then the temple wanted
+
+5
+00:00:21,680 --> 00:00:28,080
+a chest and an instrument. So I fixed all of that. Now we just have instruments they don't play,
+
+6
+00:00:28,080 --> 00:00:30,880
+which is how I ended up trying to make the instrument.
+
+

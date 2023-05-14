@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:04,320
+Because the word is randomly picked from its Mad Libs generator.
+
+2
+00:00:04,320 --> 00:00:05,120
+Mm-hmm.
+
+3
+00:00:05,120 --> 00:00:09,560
+And then also what it's made out of and all of the pieces
+
+4
+00:00:09,560 --> 00:00:32,840
+are randomly generated from, I guess, within a set of options per piece type.
+
+

@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:09,840
+having completed five jobs of at least 50 items each for craft, metal, gem, and stone.
+
+

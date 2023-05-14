@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:07,200
+Dwarf Fortress is a simulation game that attempts to simulate an entire fantasy world from the
+
+2
+00:00:07,200 --> 00:00:31,200
+gods down to the earthworms and does a pretty good job of it.
+
+

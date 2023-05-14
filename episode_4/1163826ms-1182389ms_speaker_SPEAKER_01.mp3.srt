@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,520
+The population change per tier is the same, but even though it's only a difference of
+
+2
+00:00:05,520 --> 00:00:13,760
+30 dwarves for each level, getting over the hump from say 50 to 80 dwarves is a big challenge.
+
+3
+00:00:13,760 --> 00:00:31,280
+Getting from 80 to 110 and keeping more than 110 is hard.
+
+

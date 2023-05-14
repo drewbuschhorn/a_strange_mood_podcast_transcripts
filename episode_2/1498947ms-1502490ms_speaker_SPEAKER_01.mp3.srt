@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,680
+I've met some people from the Fancy Nation.
+
+2
+00:00:01,680 --> 00:00:02,640
+They've been okay.
+
+3
+00:00:02,640 --> 00:00:28,640
+We trade with them.
+
+
