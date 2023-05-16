@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:07,520
+So an aquifer in real life is a patch of ground that has water within it.
+
+2
+00:00:08,800 --> 00:00:14,800
+And so like if you were to dig down with your hands, it would slowly start to seep and fill up
+
+3
+00:00:14,800 --> 00:00:21,840
+that hole that you've dug with the water. Dwarf Fortress replicates this by when making an
+
+4
+00:00:21,840 --> 00:00:29,520
+embark zone, it will decide that some regions have this water and some number of Z levels.
+
+5
+00:00:29,520 --> 00:00:38,480
+So it's basically like a cloud in the ground full of water. The challenge is that that zone,
+
+6
+00:00:38,480 --> 00:00:44,400
+the stone or dirt that is wet inside there that's damp,
+
+7
+00:00:44,400 --> 00:00:59,920
+will continue leaking forever if you don't excavate it completely.
+
+

@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:06,600
+So I've been talking for a while now, but yeah, I'm actually really happy with how it looks as well in the game.
+
+2
+00:00:06,600 --> 00:00:07,100
+Yeah.
+
+3
+00:00:07,100 --> 00:00:10,960
+And I did, you know, the AI rendering and I'm like, yeah, no, this is really pretty.
+
+4
+00:00:10,960 --> 00:00:16,000
+Having it just kind of cascade down over the entrance and everyone's happy when they walk around.
+
+5
+00:00:16,000 --> 00:00:36,000
+I need...
+
+

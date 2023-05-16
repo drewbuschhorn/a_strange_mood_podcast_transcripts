@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,600
+This week we are going to talk about ages, world age, world generation, all those things.
+
+2
+00:00:06,600 --> 00:00:30,000
+What goes into the world of Dwarf Fortress.
+
+

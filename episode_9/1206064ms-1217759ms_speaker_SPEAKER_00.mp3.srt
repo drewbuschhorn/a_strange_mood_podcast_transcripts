@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,000
+There's a bunch of other steps when it comes to actually hooking up the power from the windmill to the pumps,
+
+2
+00:00:05,000 --> 00:00:24,000
+but let us know if you actually want me to do a full detailed instruction on how to do that sometime.
+
+

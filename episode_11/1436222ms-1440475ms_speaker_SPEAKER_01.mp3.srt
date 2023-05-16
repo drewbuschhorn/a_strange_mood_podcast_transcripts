@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,320
+We haven't gotten to magma yet, so there's gonna have to be more digging.
+
+

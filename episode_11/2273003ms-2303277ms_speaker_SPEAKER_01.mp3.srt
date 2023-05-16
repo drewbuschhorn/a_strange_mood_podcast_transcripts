@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:02,800
+So now I try to
+
+2
+00:00:03,720 --> 00:00:07,400
+wall off every point as soon as there is access. So
+
+3
+00:00:08,160 --> 00:00:12,880
+even if I'm not on the cavern ground and I can see down into the cavern, flying creatures or
+
+4
+00:00:12,880 --> 00:00:18,200
+climbing creatures can come up that wall and enter my fort that way. So I've been walling off really carefully.
+
+5
+00:00:18,200 --> 00:00:24,940
+It's also important to, if you are in the cavern at the edge of your map, to still wall off that edge of the map
+
+6
+00:00:24,940 --> 00:00:30,040
+because creatures will spawn at the edge of the map like forgotten beasts and wander in.
+
+

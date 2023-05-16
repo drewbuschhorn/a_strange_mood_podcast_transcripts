@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,880
+Quite exciting, a little microphone.
+
+2
+00:00:01,880 --> 00:00:28,120
+It's a little tiny microphone.
+
+

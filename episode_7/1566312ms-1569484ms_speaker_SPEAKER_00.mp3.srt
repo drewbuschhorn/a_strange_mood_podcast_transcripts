@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,360
+It's zombies all the way down.
+
+2
+00:00:01,360 --> 00:00:02,640
+It's zombies all the way down.
+
+3
+00:00:02,640 --> 00:00:30,640
+It's just not.
+
+

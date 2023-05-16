@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,640
+It really does. It seems like they should be smart enough to know that like,
+
+2
+00:00:02,640 --> 00:00:06,400
+I want to be on the side of the wall that I can move again after I'm done.
+
+

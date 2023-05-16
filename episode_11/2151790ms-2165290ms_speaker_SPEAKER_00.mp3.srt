@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,000
+Yeah, I think that's the right strategy to take.
+
+2
+00:00:02,000 --> 00:00:08,000
+When doing that, one thing to also keep in mind is to make sure that when you decide to do your exploratory shafts,
+
+3
+00:00:08,000 --> 00:00:13,000
+that you do it on a layer where you don't have super duper hard material like granite.
+
+4
+00:00:13,000 --> 00:00:31,000
+So, you can't just do it on a layer where you don't have super duper hard material like granite.
+
+

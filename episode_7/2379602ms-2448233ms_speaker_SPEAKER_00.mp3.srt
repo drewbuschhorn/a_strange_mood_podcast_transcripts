@@ -1,0 +1,81 @@
+1
+00:00:00,000 --> 00:00:04,760
+So that's one need that I've been struggling to keep up with a little bit.
+
+2
+00:00:04,760 --> 00:00:05,760
+Hopefully it'll be better now.
+
+3
+00:00:05,760 --> 00:00:11,400
+I've also had some of the clothing problem, which is why we had our little skit about
+
+4
+00:00:11,400 --> 00:00:13,200
+dwarves taking off their clothes.
+
+5
+00:00:13,200 --> 00:00:16,960
+And apparently this is an ongoing problem to the point that there are jokes about it
+
+6
+00:00:16,960 --> 00:00:18,960
+in the wiki.
+
+7
+00:00:18,960 --> 00:00:24,100
+And the dwarves will indeed take off their clothes when they are worn out and then go
+
+8
+00:00:24,100 --> 00:00:26,000
+naked to get new ones.
+
+9
+00:00:26,000 --> 00:00:27,840
+If new ones exist.
+
+10
+00:00:27,840 --> 00:00:28,840
+If new ones exist.
+
+11
+00:00:28,840 --> 00:00:31,640
+Otherwise they'll just be naked and angry.
+
+12
+00:00:31,640 --> 00:00:36,760
+And they also don't really throw old clothes away.
+
+13
+00:00:36,760 --> 00:00:41,960
+So you have to kind of make that happen and there are ways via the atom smasher.
+
+14
+00:00:41,960 --> 00:00:47,280
+And I have not started to run into the problem of being completely overrun with trash, which
+
+15
+00:00:47,280 --> 00:00:51,240
+I think that with this many dwarves we are probably going to get there.
+
+16
+00:00:51,240 --> 00:00:54,640
+And I am still struggling with my magma dump area.
+
+17
+00:00:54,640 --> 00:01:01,320
+And I think that it's something to do with needing a refuse stockpile and a dumping zone
+
+18
+00:01:01,320 --> 00:01:03,600
+in the same tile.
+
+19
+00:01:03,600 --> 00:01:06,080
+You have to layer those together to get it to work.
+
+20
+00:01:06,080 --> 00:01:26,080
+So we're still just using garbage piles.
+
+

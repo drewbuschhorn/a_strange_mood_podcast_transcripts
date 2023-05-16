@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,500
+exposed at least one gem wall.
+
+2
+00:00:02,500 --> 00:00:05,840
+I'm thinking that I got more than one notification.
+
+3
+00:00:05,840 --> 00:00:08,820
+So that could have either been more than one notification
+
+4
+00:00:08,820 --> 00:00:12,180
+or there are two places that have the gem wall.
+
+

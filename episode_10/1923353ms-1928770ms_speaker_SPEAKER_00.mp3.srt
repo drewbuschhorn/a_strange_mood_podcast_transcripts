@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,000
+That's nice.
+
+2
+00:00:01,000 --> 00:00:05,400
+That's also a surprisingly dirty description when you combine all of the adjectives together.
+
+3
+00:00:05,400 --> 00:00:29,400
+That's also a surprising description when you combine all of the adjectives together.
+
+

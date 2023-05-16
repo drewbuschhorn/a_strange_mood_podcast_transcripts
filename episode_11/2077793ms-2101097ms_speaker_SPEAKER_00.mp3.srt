@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:06,400
+So I generally just try to get down to where I think about height-wise it should be,
+
+2
+00:00:06,400 --> 00:00:08,800
+though it varies wildly. Oh it does, yeah.
+
+3
+00:00:09,440 --> 00:00:14,560
+Because it's kind of calculated at world generation, like where the layer is, and then
+
+4
+00:00:16,080 --> 00:00:19,680
+the rest of the world is kind of layered on top of that. Yeah.
+
+5
+00:00:19,680 --> 00:00:29,280
+So especially if you're in kind of a hilly area it can be a little bit more difficult.
+
+

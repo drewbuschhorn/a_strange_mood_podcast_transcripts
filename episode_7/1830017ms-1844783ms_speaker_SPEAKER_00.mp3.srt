@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:02,000
+It lets some time pass.
+
+2
+00:00:02,000 --> 00:00:04,000
+Yeah, it does seem that way.
+
+3
+00:00:04,000 --> 00:00:05,000
+That's fair.
+
+4
+00:00:05,000 --> 00:00:08,000
+It's funny that you can ask, like, what is the age of your fort?
+
+5
+00:00:08,000 --> 00:00:11,000
+And that can mean, like, what is the age of your fort?
+
+6
+00:00:11,000 --> 00:00:13,000
+Like, how many years have you been at this settlement?
+
+7
+00:00:13,000 --> 00:00:32,000
+What is the age of your world?
+
+

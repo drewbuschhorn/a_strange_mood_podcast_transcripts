@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,040
+I'm sure I can persuade you.
+
+2
+00:00:04,040 --> 00:00:24,040
+But yeah, we're not quite as happy at our fort, but we're doing better happiness-wise.
+
+

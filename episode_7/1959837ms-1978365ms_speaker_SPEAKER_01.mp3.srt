@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:06,080
+Yeah, actually export it because in the older versions, I may have said this before, I've
+
+2
+00:00:06,080 --> 00:00:12,320
+said that a lot during this podcast, in the older versions, DFHack allowed you to export
+
+3
+00:00:12,320 --> 00:00:31,200
+that out into some computer-readable files and basically view it in a webpage.
+
+

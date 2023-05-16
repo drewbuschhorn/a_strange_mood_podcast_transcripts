@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:02,280
+There's some weird rules about that,
+
+2
+00:00:02,280 --> 00:00:04,400
+like if it's ever touched the outside, I think,
+
+3
+00:00:04,400 --> 00:00:08,400
+or if there's one square that can see the outside.
+
+4
+00:00:08,400 --> 00:00:10,280
+So I don't know about that.
+
+5
+00:00:10,280 --> 00:00:13,480
+But if you set it up in sort of a closed environment
+
+6
+00:00:13,480 --> 00:00:16,320
+and then do the circular pump thing,
+
+7
+00:00:16,320 --> 00:00:29,320
+that might keep it moving enough.
+
+

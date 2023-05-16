@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,880
+And that'll dump out the water.
+
+2
+00:00:01,880 --> 00:00:05,080
+But in order for that to be able to dump out the water,
+
+3
+00:00:05,080 --> 00:00:30,680
+it has to either be powered by a dwarf.
+
+

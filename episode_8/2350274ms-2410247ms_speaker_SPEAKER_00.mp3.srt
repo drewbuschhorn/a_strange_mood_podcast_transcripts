@@ -1,0 +1,53 @@
+1
+00:00:00,000 --> 00:00:06,040
+You had gotten actually a pretty good start to it, but the problem when dealing with water in Dwarf Fortress
+
+2
+00:00:06,040 --> 00:00:09,320
+is that you have to get everything absolutely right or it becomes
+
+3
+00:00:10,120 --> 00:00:11,640
+problematic quickly.
+
+4
+00:00:11,640 --> 00:00:15,160
+And you had, I think, missed basically
+
+5
+00:00:15,840 --> 00:00:19,760
+four squares of smoothing that needed to happen.
+
+6
+00:00:20,480 --> 00:00:27,760
+So I went and started the... I started kind of from the last point where you had gotten everything smoothed properly.
+
+7
+00:00:27,760 --> 00:00:32,240
+Mm-hmm. Then I went off in another direction. Mm-hmm.
+
+8
+00:00:32,760 --> 00:00:34,760
+For, you know, five tiles, whatever.
+
+9
+00:00:35,440 --> 00:00:38,800
+And then started digging down as well. Hit the aquifer again.
+
+10
+00:00:38,800 --> 00:00:43,480
+Yeah. And then set the smoothing on each level and what you kind of have to do is
+
+11
+00:00:44,160 --> 00:00:46,840
+dig out a hole, you know, dig a stair.
+
+12
+00:00:47,400 --> 00:00:54,280
+Then smooth around and not dig the next stair until that level is smoothed and then do it again and again and again until
+
+13
+00:00:54,280 --> 00:00:59,600
+they get through the aquifer. Usually ten levels. Okay. And... Wow. That's not fun.
+
+

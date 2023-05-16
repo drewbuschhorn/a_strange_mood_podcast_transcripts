@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:07,280
+So I cleared it again and this time I had them put in a door, a hatch, on that stairwell.
+
+2
+00:00:07,280 --> 00:00:08,280
+To contain the smoke?
+
+3
+00:00:08,280 --> 00:00:09,920
+Yeah, on the same level.
+
+4
+00:00:09,920 --> 00:00:11,760
+And that seemed to fix the problem.
+
+5
+00:00:11,760 --> 00:00:15,320
+So even though it was still generating smoke, it was keeping it on one level.
+
+6
+00:00:15,320 --> 00:00:38,600
+And so my personal like...
+
+

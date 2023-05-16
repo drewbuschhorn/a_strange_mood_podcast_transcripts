@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,880
+I think they're all still negative one, so I'm thinking that it's something about like new children being born.
+
+

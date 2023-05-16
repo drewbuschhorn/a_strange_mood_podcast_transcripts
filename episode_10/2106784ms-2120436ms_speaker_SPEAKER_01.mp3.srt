@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,840
+Actually, with the repeating door order, our woodworker has gotten really, really good.
+
+2
+00:00:05,840 --> 00:00:10,000
+So we have a lot of fine doors, and if you click on a door frequently, they have the
+
+3
+00:00:10,000 --> 00:00:28,400
+happy from being near a fine door.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:09,280
+Yes, and it was apparently the smoke because when I ran DFHack has an option to remove all smoke on all levels.
+
+2
+00:00:09,280 --> 00:00:29,280
+I ran that frames per second, went back to perfect.
+
+

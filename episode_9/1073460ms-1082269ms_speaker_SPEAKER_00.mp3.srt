@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:08,640
+Exactly. So usually a windmill is the easiest way to do it. And windmills will make some amount of power.
+
+

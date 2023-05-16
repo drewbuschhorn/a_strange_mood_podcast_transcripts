@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,680
+Because we were fine inside.
+
+2
+00:00:01,680 --> 00:00:28,840
+I don't think we've even cut down a tree outside.
+
+

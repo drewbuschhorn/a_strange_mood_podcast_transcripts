@@ -1,0 +1,958 @@
+[00:00:00] Kristin:
+This podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress Podcast. I'm Kristin. 
+
+[00:00:24] Drew:
+And I'm Drew. 
+
+[00:00:24] Kristin:
+And we're a couple playing Dwarf Fortress. 
+
+[00:00:27] Drew:
+That we are, Kristin. That we are. Hey, Kristin. 
+[interjection] Kristin: Yeah?
+[interjection] Drew: You know, last time we talked about birds stealing from us. Uh-huh. And so we decided we should move to a new fort. 
+
+[00:00:35] Kristin:
+Yeah, so I mean that's what you do if you have thieving birds. 
+
+[00:00:39] Drew:
+Exactly. But now in our new fort, I think our neighbors are stealing from us. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Oh. 
+
+[00:00:43] Kristin:
+Oh no! What did they do? What did they steal? 
+
+[00:00:46] Drew:
+So they stole several masterwork artifacts that our friends have made. 
+
+[00:00:51] Kristin:
+Wait, where were you keeping the masterwork artifacts from our friends? 
+
+[00:00:55] Drew:
+On pedestals along the common corridors. 
+
+[00:00:57] Kristin:
+Oh, okay. Well, why do you think the neighbors are stealing them? 
+
+[00:01:00] Drew:
+Well, I don't know, but some are missing. Uh-huh. And then also, I've seen one of our new neighbors, who is a cave fishman, slithering around with bunches of stuff kind of in his backpack. 
+
+[00:01:14] Kristin:
+Oh, do you think it's our Baron? 
+
+[00:01:17] Drew:
+Our Baron? Yeah, our Baron. 
+
+[00:01:18] Kristin:
+Yeah, because he's a monster. 
+
+[00:01:20] Drew:
+The Visitor Baron? 
+
+[00:01:21] Kristin:
+Yeah, the one who's visiting us, he's... 
+
+[00:01:23] Drew:
+I don't know, Kristin. That might be racist to consider that just because he's a monster. 
+
+[00:01:27] Kristin:
+But I call them a Baron. 
+
+[00:01:30] Kristin:
+So, we didn't actually move. We don't have neighbors that steal things. 
+
+[00:01:36] Drew:
+Certainly not Fishman Fisherman. Cave Fishman Fisherman.
+
+[00:01:39] Kristin:
+Or a Monster Baron.
+
+[00:01:42] Kristin:
+Monster Baron.
+
+[00:01:42] Drew:
+But we do have both of those in our shared succession fort.
+
+[00:01:46] Kristin:
+Yeah, so this is our 10th episode, and we are doing something new and different, which is we actually played the same fort this time.
+
+[00:01:54] Drew:
+That's right, not at the same time, however.
+
+[00:01:56] Kristin:
+No, that would be complicated, and you'd have to sit on my lap probably.
+
+[00:02:00] Drew:
+I think you would sit on my lap.
+
+[00:02:01] Kristin:
+Oh, okay. Well, at any rate, we just took turns a year at a time playing the same fort.
+
+[00:02:07] Drew:
+And this is known as a succession fort in the biz.
+
+[00:02:11] Kristin:
+Now, what do you know about succession forts?
+
+[00:02:13] Drew:
+I know that they're relatively popular among streamers as a way of generating interest/slash bonding with other streamers. Of course, this time we're just kind of bonding with each other, but that's the whole point of the podcast. Bonding with each other and bonding with you, our lovely listeners. Yes.
+
+[00:02:31] Kristin:
+Yes, it's true. So speaking of our lovely listeners, we have some things to discuss with you and ways you can discuss things with us.
+
+[00:02:40] Drew:
+That's right. We have a Facebook group, of course. We've plugged that before. And Kristin has also started now a Discord. I have.
+
+[00:02:48] Kristin:
+I have launched our Discord, and I will put the link both in the show notes and just on our website, and you can come and chat with us there.
+
+[00:02:57] Drew:
+Yeah, we've got a bunch of great people who are talking with us there. I think it's a great place to just kind of chill out. It's a little smaller than the bigger Dwarf Fortress things. You know, with Dwarf Fortress getting so much attention right now, I feel like the Kit Fox and the other ones have exploded a little bit. So if you want something smaller and people who have also kind of enjoyed this podcast, hop on over and say hi to us.
+
+[00:03:20] Kristin:
+Yeah, and you can share your artifacts and your monsters and your ways of pulling monsters out of your fort so you can look at the bestiary.
+
+[00:03:27] Drew:
+That's right! One of our listeners has built a nice little website where you can upload a copy of your fort and it will pull out a list of a bunch of the procedurally generated weirdnesses that come with creating a new Dwarf Fortress world such as the various horrible rains that can occur and zombify people or the musical instruments that are randomly generated throughout the thing and a couple of the other procedural monsters, stuff like that.
+
+[00:03:56] Kristin:
+Yeah, it's really cool. And you can also share pet pictures in our discord. We have a lot of those and our listeners have some really cute pets.
+
+[00:04:05] Drew:
+They really do.
+
+[00:04:06] Kristin:
+So, come and join us!
+
+[00:04:07] Drew:
+So I think that's kind of the bookkeeping. We've explained what we're doing. Yeah. And so let's explain what happened.
+
+[00:04:14] Kristin:
+Yeah, so this was an interesting experiment and it did not go quite how I thought it was going to go in the way that Dwarf Fortress things always do.
+
+[00:04:23] Drew:
+Now are you talking about the technical aspects of it or how the actual world worked?
+
+[interjection]
+There are no typos to correct in this transcript.
+Kind of all of the above. But I had thought that we'd just sort of play and tell stories back and forth, but instead it ended up being a really educational experience as well for me, certainly as a newer player. And then of course there was some weirdness. So, you know, it didn't let me down in any way.
+
+[00:04:45] Drew:
+Well, I guess we should start talking about this world that we've created to play together. Yeah. So the world is called the World of Portents. Which I love. And our [fort] was called Grovings.
+
+[00:04:58] Kristin:
+Our [fort] was called Grovings.
+
+[00:05:00] Drew:
+What did we do to decide where we were going to have that [fort]?
+
+[00:05:03] Kristin:
+Well, we went through and assigned random numbers to different biomes and we picked one. And then we didn't like that, so we picked a different one. But we decided to go with an evil location. Ooh, spooky. Spooky.
+
+[00:05:15] Drew:
+[BOO!] 
+
+[00:05:16] Kristin:
+But even before that, we did do some different things in the world generation in that we generated a longer history with more civilizations because we wanted this world to be busy.
+
+[00:05:27] Drew:
+And we did get a lot of fun civilizations popping up in the course of the 250 years that we ran it before we stopped to pick our [fort], including a bunch of civilizations based around pillows in one way or another.
+
+[00:05:41] Kristin:
+Right, and that sounds nice. Did we end up going with like the blanket [fort]?
+
+[00:05:46] Drew:
+Alas, we did not. The blanket [fort] actually got wiped out by goblins.
+
+[00:05:51] Kristin:
+Aww, too bad. Alas. I don't remember what our civilization is. But anyway, we went through, we carefully picked out an evil haunted biome. So we didn't go with savage just because we thought it would be scary. And then the haunted one was not that scary.
+
+[00:06:06] Drew:
+No, it wasn't really that bad. So far, the big parts about it are that we have a nearby necromancer tower that we'll talk about a little later. And then also the unfortunate part of this sort of evil haunted biome is that all of the plant life around us is dead.
+
+[00:06:26] Kristin:
+Oh yeah, that is kind of spooky. And the sound effect is spooky. It's like, "woo, woo" at the surface level.
+
+[00:06:35] Drew:
+Just do some ASMR for our listeners.
+
+[00:06:37] Kristin:
+Ambience. Okay, I'm not gonna say what I'm trying to say because I apparently can't say it.
+
+[00:06:45] Drew:
+Ah, but the upside to the grass being dead did give me a direction. I decided to take the first year. Yes. And that immediately gave me a direction for what I needed to do, which was to get to a cavern as quickly as possible. The reason for that being, our animals were going to starve if I didn't. Right. And so, yeah, year one was devoted, not entirely to digging down to the cavern, but it was devoted a lot of it to digging down to the cavern, getting some, you know, the usual things to get the stuff up and running with a dwarf fortress going. Mm-hmm. Unfortunately, I had to kind of be an elf and make a lot of things out of wood to start with because we started in a very sandy, dirty, tree-loamy area.
+
+[00:07:32] Kristin:
+Yeah, when I inherited it, I wondered why there were so many wooden everything.
+
+[00:07:38] Drew:
+Yeah, well, that was also a mistake by me.
+
+[00:07:40] Kristin:
+Oh, that's okay. And we'll get to that because we both did this.
+
+[00:07:43] Drew:
+But we had an aquifer. And so part of the fact that we had an aquifer meant that I wanted to kind of go first because I know that they're a little bit of a challenge.
+
+[00:07:51] Kristin:
+It's still kind of challenging for me, yeah. 
+
+[00:07:53] Drew:
+Yeah, you just, you really have to have some persistence and a little bit of luck to get through them. And so I was able to dig down for a while until we got through the aquifer, get to some good solid rock. And then from there it was a pretty straight shot down to the caverns, opened them up. Nothing too terribly exciting down there. I hadn't actually yet run into any cavern dwellers actually in my two years that I've played.
+
+[00:08:16] Kristin:
+No, I haven't either. No Kevin Doyle. Lots of other stuff though.
+
+[00:08:20] Drew:
+But we haven't gone too... No, you did go down further some.
+
+[00:08:23] Kristin:
+Oh yeah, we've gotten to all the cavern layers, all the way down to the magma sea.
+
+[00:08:27] Drew:
+Well, maybe we'll luck out and they're all trapped off somewhere. Hopefully. Yeah. But, some interesting things from that first year. Mm-hmm. We had a monster baron consort show up. He was a, or he is a baron consort for a nearby dwarven civilization called Dive Peak. And the interesting thing about him is, one, that he was originally a human.
+
+[00:08:51] Kristin:
+Oh, originally a human.
+
+[00:08:51] Drew:
+His name originally was a human pest rat lured lips from Knife Fog.
+
+[00:08:57] Kristin:
+Nice fog.
+
+[00:08:58] Drew:
+Knife fog, I'm assuming was a human settlement. And, uh, this night creature was first created by the human necromancer Nethu Furnace-mas of Amaze Weakened after horrible experiments.
+
+[00:09:11] Kristin:
+Hmm.
+
+[00:09:11] Drew:
+He's a small, scaly humanoid with thin-stretched wings, charcoal scales blocky and set far apart.
+
+[00:09:18] Kristin:
+Interesting.
+
+[00:09:19] Drew:
+Um.
+
+[00:09:20] Kristin:
+But he's the baron of something, apparently.
+
+[00:09:22] Drew:
+That he is. A baron consort.
+
+[00:09:24] Kristin:
+Mm. So he's married to a baron. Yes. Aww.
+
+[00:09:28] Drew:
+Or baroness. I'm not entirely sure what the baron... I think baron consort goes with the gender of the person whose title it is. Okay. I think that's the case. Yeah.
+
+[00:09:36] Kristin:
+Yeah, at any rate.
+
+[00:09:37] Drew:
+Because if you had someone who was called Baroness Consort, you wouldn't expect that then she was married to a Baroness. That is true, no.
+
+[00:09:44] Kristin:
+That is true. No, I would think that she was a Baroness. Yeah, I'm curious about this now. Well, we'll see him again, because he pops up repeatedly.
+[interjection] Drew: Yeah, I'm curious about this now. But...
+
+[00:09:51] Drew:
+He spends a lot of time in that tavern.
+
+[00:09:52] Kristin:
+He really likes it.
+
+[00:09:55] Drew:
+But interestingly enough, we also have a couple of other monsters from Forgotten Beasts show up.
+
+[00:10:03] Kristin:
+I mean, maybe it's just not a very nice place if they're doing experiments to create monsters and whatnot.
+
+[00:10:09] Drew:
+Yeah, maybe those people retreat. They don't ever seem hostile.
+
+[00:10:13] Kristin:
+No! No.
+
+[00:10:14] Drew:
+But yeah, we had one other one in my first year here who did not rate a name. She was just listed as a warrior of Forgotten Beasts. But she was incredibly quick to heal. Then we had a whole bunch of naked elf dancers. They were awesome.
+
+[00:10:33] Kristin:
+There are so many naked elf dancers in this region.
+
+[00:10:36] Drew:
+Normally, when you have naked dwarves running around your fort after a while, you're like, okay. I just didn't make clothes and I'll throw them new clothes or whatever and they're fine with it.
+[interjection] Kristin: For them.
+[interjection] Drew: But no, this just seems to be an entire culture of naked elves. Yeah, they show up and...
+[interjection] Kristin: Yeah.
+
+[00:10:47] Kristin:
+They're just naked. They're naked dwarf, or they're naked elf dancers, and that's just their nudist lifestyle.
+
+[00:10:54] Drew:
+Yeah, and one of them asked to be admitted and then became kind of our regular butcher. She seems to grab a lot of the butcher jobs.
+
+[00:11:04] Kristin:
+Yeah, and those elves, the elves that migrate there, they play a major part as we will see.
+
+[00:11:09] Drew:
+Yeah, I'm going to start moving over towards you, but I wanted to end with two other things. One is that I worked on making a waterfall to make everyone happy. That has been an ongoing project.
+
+[00:11:22] Kristin:
+Mm-hmm. It's still an ongoing project.
+
+[00:11:24] Drew:
+Yeah, I didn't do the best setting that up for you, so I apologize that you had to deal with that.
+
+[00:11:29] Kristin:
+That's okay, it was good practice. And we learned about people falling through wall grates or something like that. Thanks!
+
+[00:11:35] Drew:
+Yeah, the other fun part was we only had one artifact created in that first year. I don't think the dwarves are super happy working with wood so much.
+
+[00:11:44] Kristin:
+Probably not. They're not very inspired by it.
+
+[00:11:47] Drew:
+But a wooden cage was created called Mouth Caves.
+[interjection] Kristin: Mouth Caves.
+[interjection] Drew: I'm not gonna do all the description for it because most of it was related to the founding of this fort. Yeah. But it was still hilarious to me that they made a cage called Mouth Caves. So that was kind of my year. What happened in yours?
+
+[00:12:06] Kristin:
+Well, the first thing that I did was turn on the waterfall and not understand how to work it.
+But then he gave me some lessons and we got it going. But it was kind of flooding the outside. So I put in some grates and it's, you know, maybe one of us will do a YouTube stream or a Twitch stream and put it on YouTube and we'll do a tour of our shared fort. I think that's a good idea. Yeah, so people can see that then. And then I was having problems with it just sort of flooding the outside so I dug around a little bit and eventually I just turned it off because it was troublesome. But then I decided to do what I can do pretty well, which is to make attractive places for dwarves to hang out. So I made us a really big tavern that ended up being called the Gloved Syrups.
+
+[00:12:54] Kristin:
+And it is quite large and fully engraved and very colorful because we have a lot of microcline. 
+[interjection] Drew: Microcline.
+[interjection] Kristin: Microcline. So it's very beautiful light blue and then it's got marble accents and it's just very pretty and I'm very proud of it. 
+
+[00:13:10] Drew:
+You also have a lot of statuary in there, I think, right? 
+
+[00:13:13] Kristin:
+Um, I... 
+
+[00:13:15] Drew:
+Or is that the temple next door? 
+
+[00:13:16] Kristin:
+That's the temple next door. Yeah. Um, but it has proved to be extremely popular and has attracted even more naked elf dance troops. I'm still like, I just did year four, finished it today, and I'm still turning away. 
+
+[00:13:31] Drew:
+Yeah, I had fun in my second year just approving everyone that showed up because I was like, fine, we're the party fort. 
+
+[00:13:37] Kristin:
+Right. I just deny everyone at this stage in year four. But so that was a lot of fun. And I was really pleased with the result, especially because that got us a little bit of a population spike. I also had the Cult of Cages, which is a religious sect, want their temple. And so I 
+[interjection] Drew: Oh boy.
+[interjection] Kristin: I built them a temple next door to their tower. 
+
+[00:13:59] Drew:
+I was very impressed with how rapidly your tavern became popular in the world. Yeah, people show up. 
+
+[00:14:09] Drew:
+Yeah, it's amazing to me and it's really caused me to want to improve my own taverns and my personal forts because I've always felt like I don't get quite the same draw that the ones that you make do. So, wow. 
+
+[00:14:23] Kristin:
+Well, thank you. And the monster Baron just hangs out in there sometimes. He still comes back. Like every year he comes back for a little while. He just hangs out in there, listens to stories. He seems to be a pretty chill dude. 
+[interjection] Drew: Yeah.
+
+[00:14:33] Drew:
+Yeah, at some point I really need to dig into his relationships and see like what relationships he's building up in our fort. 
+
+[00:14:42] Kristin:
+It's kind of delightful to think of him making dwarf friends and coming back every year to visit them. And he's, I mean, he's kind of scary-looking. He's got like wings and he's all pitch-black and demonic-looking. 
+
+[00:14:55] Drew:
+Yeah, he really looks like he's a monster who's just there to tear shit up. And he seems to just be perfectly nice. 
+
+[00:15:01] Kristin:
+Yeah, so the next thing that I really focused on was just getting us down to magma. So that was a lot of digging and then we hit two more cavern layers along the way and I made an effort to wall off our staircases because I saw how you had done that with the first cavern layer. I was like, this is a good idea and I did that and that's not something that I was really [interjection] Drew: good about in our own forts and now I think I will be. So yeah. 
+
+[00:15:28] Drew:
+I feel like it really helps to be able to deal with the Forgotten Beasts and invasions on your own terms. Yeah. And it's a little easier right now because you don't have Walled of destroying Forgotten Beasts. Right.
+
+[00:15:40] Kristin:
+Right, if they change that, it's definitely going to be different.
+
+[00:15:44] Drew:
+Yeah, the door-destroying Forgotten Beasts weren't too bad in the old version. The wall-destroying ones though, when they could just start kind of, you know, going ham. Is that what the kids say?
+
+[00:15:54] Kristin:
+You're asking the wrong person. With the TikToks. Bold.
+
+[00:15:56] Drew:
+I'm old. Um, going ham on your fortifications. It doesn't work out great.
+
+[00:16:04] Kristin:
+Yeah. So we got to Magma, and I started the workshops down there. But around the end of the year, I started to realize, like, I was looking at a stockpile and I was like, "Wow, we have a lot of doors. Why do we have so many doors?" And I looked at the stocks, and we had over 150 doors because you had sent a repeating work order, and it was just repeating. Oopsie. So we've been the export center of shell helms and doors, except not the doors, because doors are useful.
+
+[00:16:37] Drew:
+Yeah, the shell helms were because I couldn't come up with, I didn't find a whole lot of gems in that first year, and I was like, "Alright, I gotta have something together to trade for Kristin to trade to people when they show up," and I thought, "Well, we've got a lot of shells out here because it seems like every fish that comes into our biome from the start dies immediately."
+
+[00:16:59] Kristin:
+Aww, yeah. I did see a lot of dead fish just lying around, and I didn't even think to associate that with the evil biome, but yeah. 
+
+[00:17:07] Drew:
+Yeah, and so the fisher dwarf will go and collect them and I think possibly cook them. I'm not entirely sure about that. But we did wind up with a lot of shells that could be turned into things. So I just put them.
+
+[00:17:23] Kristin:
+I don't know. Seems portable, yeah. Well, we have a lot of them.
+
+[00:17:26] Drew:
+Did you have any visitors in your year?
+
+[00:17:29] Kristin:
+Um, you know, we had a couple and, um, they weren't like my first year, I was a little concerned. I was like, this is not going to be an interesting enough thing to do on the podcast. But, um, we also had a goblin monster slayer, gaunt zombie. So this is a goblin monster slayer zombie who hunts other monsters, I guess.
+[interjection] Drew: I got it.
+[interjection] Kristin: That, uh, and she, um, came and hung out. Nice. Um, she's also a legendary wood burner and an adequate cook.
+
+[00:18:09] Drew:
+Adequate?
+
+[00:18:09] Kristin:
+Yeah, but that was fun. She does not seem to hunt monsters. She just hangs out in the tavern, like everybody who comes to this fort does. We also had our first artifact made, which was a pearwood toy boat. But on the toy boat was an image of a forgotten beast. Yeah.
+
+[00:18:33] Drew:
+It's kind of a macabre toy.
+
+[00:18:35] Kristin:
+Toy? Yeah, it's a giant alligator named Taper Chokes the Primitive. But, um, so yeah, we got that artifact toy boat. But it was a pretty unexciting year overall. Well.
+
+[00:18:47] Drew:
+When I came in for year three, after having been roundly castigated by you earlier in our day-to-day life about leaving that on repeat.
+
+[00:18:59] Kristin:
+I did tease you a lot, yes.
+
+[00:19:02] Drew:
+I turned that off and started looking for places to use those doors.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: So, we now have a lot of good locations, doored and ready to go. Also, I found that you had left me a little present when I started up the fort, which was that elves had arrived.
+
+[00:19:21] Drew:
+And these were odd elves because they were, they came with elephants, elephant elves. Oh, these were the...
+
+[00:19:27] Kristin:
+Oh, these were the trader elves.
+[interjection] Drew: Yeah.
+[interjection] Kristin: Yes, that's merchant elves, not traitors. Yes.
+
+[00:19:32] Drew:
+Merchant merchant elephant elves, merchant merchant elves with elephants. Yes.
+
+[00:19:37] Kristin:
+Yes, we haven't seen them again, or at least I didn't in my year.
+
+[00:19:40] Drew:
+No, I think I saw them again. You saw them again? Um...
+
+[00:19:43] Kristin:
+I was afraid I had traded them something wood and alienated them forever. Now really I don't care.
+
+[00:19:48] Drew:
+Don't care. Don't care. The fun part for me with that was that the Elf and Elves were led by Cinera Sparklebud. Sparklebud? Sparklebud.
+
+[00:20:00] Drew:
+Which if I've ever heard a more elfin name, I never have. That's okay.
+
+[00:20:02] Kristin:
+That is extremely Elven, and I like it. Next time I play D&D, I'm gonna use that as my Elf character last name.
+
+[00:20:09] Drew:
+Yeah. Instead of... Maybe.
+
+[00:20:10] Kristin:
+Oh, maybe that'll just be the first name and the last name.
+
+[00:20:14] Drew:
+Sparklebud. Is that better or worse than your other go-to, April Showers, April Showers?
+
+[00:20:20] Kristin:
+April Showers and Misty Meadows. I had too much fun with my RPG characters.
+
+[00:20:24] Drew:
+So then I took those [doors] off and after a bit, I realized, maybe about one season in, I realized that I was running us into the ground in terms of food and drink. Oh dear. We're just running completely out. And I finally looked around and realized the reason for this was I had, in the course of redoing some stuff to use some of the doors and do all of that, I had messed up my manager's office. Oh. The door was open, and people were walking through it, and I think apparently if he's trying to work there and people walk through it, it interrupts him at his validating of the work orders, and so food and drink orders weren't getting sent out and all that. So I fixed up his room, and I also kind of forced everybody to start cooking and making drinks, and that started resolving it.
+
+[interjection]
+
+[00:21:15] Kristin:
+Oh good, yes. And when I took over, we were good to go on food and drinks.
+
+[00:21:19] Drew:
+Partly that was because the elves had come back. And I traded them some of the goods from the magma furnaces that you had. Oh, yeah. Because you had gathered a decent amount of gold.
+
+[00:21:32] Kristin:
+Yes, we have been very rich in gold. Not quite as much as gemstones. We have quite a few now, but this area has just tons and tons of gold. So has Elgar too.
+
+[00:21:41] Drew:
+So I was able to trade them a decent amount of gold to kind of buy them out of their...
+
+[00:21:47] Kristin:
+...to buy them out of their fruits and berries.
+
+[00:21:50] Kristin:
+Ah, yes. So. I promptly went to the kitchen menu and told them not to cook with those.
+
+[00:21:56] Drew:
+Yeah.
+
+[00:21:57] Drew:
+Oh, but I also had fun because I went down and you had used up our anvils, but it also generated a lot of iron, so I set the creation of iron anvils on, came back a little while later and had enough anvils to go make us eight magma workshops of different sorts.
+
+[00:22:15] Kristin:
+Yeah, and we have glass. It's pretty exciting.
+
+[00:22:18] Drew:
+Yep, glass and the pottery kiln. Pottery Barn.
+
+[00:22:20] Kristin:
+Yeah, and I've been putting those fancy pottery statues around to make places more appealing. Yeah, I like it.
+
+[00:22:25] Drew:
+Yeah, I've been pretty happy actually at this stage with how our industry is going in our fort because we've got, I want to say, I think we've got six magma smelters, four or five magma forges, a glass furnace that I, just for the fun of it, set to be making glass terrariums.
+
+[00:22:46] Kristin:
+Yeah, and that I didn't, I meant to experiment with those. I put one out on display and I was like, this is nothing. So we need to capture something and put it in a terrarium.
+
+[00:22:57] Drew:
+Yeah, I think when I play my year again, I'm going to try to capture something from water into the glass terrarium because it can hold water and then you can put water creatures in. Yeah. What I should do is go find that freaking thief, that freaking thief cave fish man, fisherman, and lock him. You mean our neighbor. Exactly. Lock him into a water terrarium, put him on display as an object lesson for anyone else who would try to steal from us. Nice. The other fun thing was I turned the waterfall back on and we got some decent happiness from that. I think that's draining good now. But eventually it did freeze in the winter. And then the giantess Eda arrived, the contested, and she came and killed a fisher dwarf. And I was a little worried because she was marked as tough. But that fisher dwarf was then immediately raised by a human monster slayer necromancer. Wow. Like literally one turn after she died.
+
+[00:24:00] Kristin:
+Man, talk about jobs that go well together. Exactly. You slay the monsters, and then you raise them up, and you've got a pet monster zombie.
+
+[00:24:09] Drew:
+And so, well, it was the Fisher dwarf that was raised.
+Oh, okay. Well, I just meant in general.
+
+[00:24:15] Drew:
+Yeah.
+
+[00:24:16] Drew:
+and then killed the, uh, killed the giantess Eda lickety-split. Um, but that also got me interested in the necromancer, and I'm going to tell you a little bit about him. His name is Atel Stablebrews, a medium-sized creature prone to great ambition, which is what they say about humans. Ah, okay. He is basically unbreakable, extremely agile and strong. His hair is extremely long, very narrow chin, tall ears, fused lobes, skin of cinnamon, eyes are brass. Brass eyes, I'm not entirely sure what that means, yeah, but this man, in addition to apparently being a great necromancer since he raised the fisher dwarf in one turn who then just kicked the ass of a giant.
+
+[interjection] Kristin: Uh-huh.
+
+[00:24:57] Drew:
+who had murdered her. He is a former member of the Euphoric Doctrines religion, the former sacred mystery of the Euphoric Doctrines, which I'm assuming means he was their high priest.
+
+[00:25:07] Drew:
+A former member of the Creative Twinkles.
+
+[00:25:10] Kristin:
+Creative Twinkles!
+
+[00:25:12] Drew:
+The Brass Subtleties, the Sweltering Chambers, the Truthful Haze, the Defensive Axes, and 
+
+[interjection] Kristin: It's a round.
+
+[interjection] Drew: the Palace of Blankets. He was a citizen of that before it was destroyed.
+
+[00:25:20] Kristin:
+Aww, the Palace of Blankets. How old is he?
+
+[00:25:24] Drew:
+He is 106. Wow. The Seal of Oak, the Defense, oh, but so he was a member of the Seal of Oaks, the Palace. He was also a member of the Defense of Axes. In fact, he was the overlord there. And now he's currently the Baron of Beer Sizzled.
+
+[00:25:47] Kristin:
+Beer Sizzled.
+
+[00:25:49] Drew:
+Beer is, I think plural beer is beer.
+
+[interjection] Kristin: It's hard to say.
+
+[00:25:53] Drew:
+
+[interjection] Drew: and also the Baron consort of Bitten Tribes.
+
+[00:26:04] Kristin:
+Okay. Wow, man, this guy's well-connected and a leader.
+
+[00:26:09] Drew:
+and a necromancer and a monster slayer. Yeah. So, he's an interesting guy. I'm gonna try to follow him. 
+[interjection] Kristin: Yeah, definitely.
+[interjection] Drew: If we get back to Legends mode for this fort eventually, I'm definitely starring him to find out what all went on in his life. Yeah, good plan. That was about the highlights. I guess the one other thing I want to mention is a couple of artifacts. Or, a couple of items. They're not artifacts, in fact. One is a book called The World of the Author, which is poorly written, apparently. It's... 
+
+[00:26:42] Kristin:
+It's so meta though. 
+
+[00:26:44] Drew:
+and a bone crown where the bone is made from a wire of furnace knots. 
+
+[00:26:50] Kristin:
+Oh. 
+
+[00:26:51] Drew:
+So apparently one of those monsters was killed. I don't think either of the ones we care about. Yeah. But yeah, bone was found and turned into a bone crown. 
+
+[00:27:02] Drew:
+Interesting. 
+
+[00:27:03] Kristin:
+Yeah, it was a little macabre. 
+
+[00:27:05] Drew:
+The other fun part was that our manager and expedition leader, the other interesting thing is that our expedition leader, Itan, she's got the little hat over the eye, 
+[interjection] Kristin: Oh, yeah.
+[interjection] Drew: is apparently obsessed with goblins because in their workroom, in their office, they have two books lying out. The Goblin, A Quandary, and The Goblin After the End. 
+
+[00:27:38] Kristin:
+She was mayor for a while, right? 
+
+[00:27:39] Drew:
+I think so. Yeah. So, I'm not entirely sure why she's quite so obsessed with goblins when we haven't even really had goblins in our life. 
+
+[00:27:48] Kristin:
+Oh, maybe she was reading up.
+Yeah, well. Can you tell me about that? It hasn't served her well. Well, we had two goblin invasions during my year. The first we fended off pretty handily. I think that we lost maybe four people. I'm not going to say dwarves, because some of them were elf parts that died.
+
+[00:28:06] Kristin:
+But our squad took care of that really quickly. So it wasn't a big deal, but I took back over and was absolutely overwhelmed at the industry that was thriving from your leadership and the number of work orders that you had going. Many of which I canceled because I was having a really difficult time getting stuff done. And so you mentioned the office thing, and I was wondering if the manager was tripped up because there were so many that were not able to be fulfilled, like making soap and stuff once we'd run out of the stuff that it couldn't repeat. And so every month they're checking it and having to say no and my gold altars that I wanted to make more temples were not getting made.
+
+[00:28:47] Drew:
+Entirely possible.
+
+[00:28:48] Kristin:
+Yeah, so that's a working theory. I don't really know. But my year was extremely exciting. So we had two goblin invasions, so the one that I just mentioned, and four forgotten beasts. Four? Four. One of them was actually a Minotaur, but I'm counting it as a forgotten beast because it's just on the outside. That one was really interesting because it was killed by one dude who was a bowyer, and he was just out fishing, and he killed Radiant Whispers the Minotaur. He was just out fishing and ran into this thing and straight up murdered it. It was amazing. So he was injured and got helped off to the hospital. And unfortunately, I have kind of lost track of him. If I had... Oh, no, he died. But I do know he died. Because we also got made a barony during that last year, and I definitely would have made him baron, but he did. NEXT ON NESFA 그 클래기는 ordnung한 ís
+
+[00:29:44] Drew:
+I don't know what a good epithet for a Minotaur Slayer would have been. I mean, you could call him Theseus, I guess.
+[interjection] Kristin: Mmm.
+[interjection] Drew: Oh yeah.
+
+[00:29:52] Kristin:
+Oh yeah, that'd be a good one. So I'm just going to run down our other forgotten beasts real quick.
+
+[00:29:58] Drew:
+Bull Rider!
+
+[00:29:59] Kristin:
+Oh my. So we had the Minotaur. We had also a Weregila monster, that is a, oh, so I counted that as a forgotten beast and that was just a Were-monster. This was a goblin actually, underneath being a Weregila monster. And I took a picture of its sprite because it looks kind of stained glassy with its scales, like some of them are sort of black and blue, and some of them are gold. And that was really cool. He also died really quickly. I think he got in a fight with a couple of people and they fell into some water and died.
+
+[00:30:33] Drew:
+Interesting. Yeah. So did he die in the water, or did they die in the water?
+
+[00:30:38] Kristin:
+They all died in the water.
+
+[00:30:40] Drew:
+Well, that's probably for the best with a were-creature. End Video
+
+[00:30:42] Kristin:
+Yeah, and so I was kind of worried that I was going to have to expel people or quarantine them. Didn't have to do that, so it worked out pretty well. We also had a forgotten beast, Rusmo, a huge quadruped composed of precious fire opal. It has three short horns and it squirms and fidgets. Beware, its deadly dust.
+
+[00:31:01] Drew:
+Maybe that's one I'll render. 
+
+[00:31:02] Kristin:
+Yeah. Well, you can still see that one because I trapped it in our caverns. Oh. It actually came up through the caverns into our area where we were farming and had all of our animals. It killed all of our animals. Alas. Yeah, and then cut us off from our plump helmets. So that was bad for a little while. But it's still there, not causing problems. It's very cranky because of the miasma from all of the animals that it killed. And its own dust. It's mad about its own dust.
+
+[00:31:33] Drew:
+I've noticed that they tend to get that way when you trap them. They're like, "I breathe fire and generate smoke. That angers me. I don't like it."
+
+[00:31:41] Kristin:
+So he's still hanging out in there. We also had a snake-like forgotten beast, an enormous python with external ribs. It has a broad horn and it undulates rhythmically. Its gray scales are jagged and set far apart. Beware its webs. That one was actually not much of a problem because I just locked the doors and it eventually wandered back off the map.
+
+[00:32:03] Drew:
+That's nice.
+
+[interjection] Kristin: Yeah.
+
+[interjection] Drew: That's also a surprisingly dirty description when you combine all of the adjectives together.
+
+[00:32:08] Kristin:
+"It's ribbed for someone's pleasure," not the dwarves. They wouldn't have liked it at all. So that was the monsters, and I did leave one of them for you to deal with since it's just trapped down there. It hasn't broken down any walls or doors.
+
+[interjection] Drew: Does it?
+
+[interjection] Kristin: It's just hanging out, and I moved our farming area, got the drinks back under control.
+
+[00:32:29] Drew:
+"I'll consider it. Yeah."
+
+[00:32:30] Kristin:
+And I was going to maybe make some archers, but I was running out of time in my year. And I was like, "This can be for Drew. He'll love this." He's got a project now. And then we had another goblin invasion in which they showed up and wanted to parlay.
+So I was like, okay, yeah, we'll parley. And that's the point that I realized that our expedition leader mayor had not been reelected and the dwarves had elected an elf.
+
+[00:33:01] Kristin:
+Why would they do that? I don't know! And it's not even one of the naked elves. It's just an elf. So I followed him as he was going down to parley, and the diplomacy button appeared and disappeared so quickly that I didn't have... I didn't get a say in it. And the elf mayor just started roaming around the map, presumably hopelessly, because he'd failed in his duties, while the goblins then attacked. And the dwarves took care of that pretty easily, but we did lose like eight people, I think. And not all dwarves. Some of them, again, were elves. So... Thank God you did that.
+
+[00:33:36] Kristin:
+Not a huge loss, but I'm very disappointed in our dwarves that they elected an elf mayor.
+
+[00:33:41] Drew:
+That does seem a little odd. We'll have to go back through and learn the history of what happened there. You,
+
+[00:33:46] Kristin:
+Yeah, but it was quite an exciting year. There was so much going on and I was like, at any moment we're going to get cavern dwellers as well and I'm going to have to deal with that.
+[interjection] Drew: Cavern dwellers.
+[interjection] Kristin: Too. But all of the invaders were all surface level and easily dealt with.
+
+[00:34:00] Kristin:
+Our population is, well it was, like almost 150, but now it's back in the 130s. And we are a metropolis now. Nice. Yeah.
+
+[00:34:08] Drew:
+Yeah, did you say that we got a second promotion or we have very, we are.
+Oh, we are a barony now, yes, and I was not sure who to select to make baron, so I went through and found someone who was happy and had a lot of friends and family in our fort, and he was a leatherworker, and I made him some nice chambers and a tomb, and he's very happy. Excellent. Oh yeah, and that was another thing. I made a green glass coffin for the former mayor. 
+[interjection] Drew: Mmm.
+[interjection] Kristin: I missed him, her, I think it was a her, not getting reelected, so she still has her office and tomb, and the elf mayor, well, I made him an office. It's not very nice. Did you put a lot of work into it? 
+
+[00:34:48] Drew:
+Did you put a lot of wood in there? Oh, I should have. I know you guys like wood. I'm sorry. 
+
+[00:34:50] Kristin:
+Actually, I think I did because we had a bunch of wooden tables. So, haha. 
+
+[00:34:55] Drew:
+You guys love trees, right? Well, here you go. We made you some wooden tables. 
+
+[00:35:00] Kristin:
+Chairs and look at this masterpiece almond wood door. Don't you love it? 
+
+[00:35:04] Drew:
+Exactly. Yeah. 
+
+[00:35:06] Kristin:
+Actually, with the repeating door order, our woodworker has gotten really, really good. So we have a lot of fine doors, and if you click on a door frequently, they have the happy from being near a fine door. 
+
+[00:35:21] Drew:
+So that was an accidentally on purpose, let's say. 
+
+[00:35:24] Kristin:
+Uh-huh, yeah. So let's see, lots of copper, lots of gold, still got our booming industry. When the merchants from our civilization appeared again, we are so much better off than they are that I was like, I don't want to buy any of this crap. So I bought a little and sent them on their way, but we're not hurting for population or stuff. 
+
+[00:35:45] Drew:
+Nice, yeah, I think we're going along. I think we'll eventually get the option to be mountain home. I feel like population is always what's killing, like not having enough population is what's always killing my forts from getting upgraded, and I'm hoping if I take over some of the lessons I've learned from you about the tavern and temple construction, because I never actually realized [interjection] Kristin: instruction. [interjection] Drew: that there is a minimum size requirement for the tavern before they'll really start partying.
+
+[00:36:15] Kristin:
+Yeah, they need a 10 by 10 dance floor. They apparently also want a big space for their temple too. I can't remember what the dance floor for the temple, the church dance floor needs to be, but they do want their temples to be nice as well.
+
+[00:36:30] Drew:
+Yeah, so I'm gonna try to put more effort into that and then see if I can't because again, you know, like my fort that eventually we'll talk about in a different episode is going pretty good right now. But I did just have a Forgotten Beast come through that we had to deal with. It'll be up on Twitch because it was pretty hilarious. Yeah, I put it on.
+
+[00:36:51] Kristin:
+Put something like the forgotten beast fight club or something in it because you had so [interjection] Drew: something in it. [interjection] Kristin: many forgotten beasts fighting each other.
+
+[00:37:01] Drew:
+Yeah, I think that one was from Aaron Zarin from, uh, say, Oh, right, yeah. The Forgotten Beast Fight Club, uh, in the Twitch stream. Yeah. But yeah, there were two, like, big kaiju battles, and then after the, um, second one I was like, okay, I gotta, I gotta get rid of this, this Forgotten Beast because I had had him trapped and he had actually killed the other two Forgotten Beasts, like, through, through, um, the, the gratings. Yeah, oh my gosh. And through fortifications because he was a fire breather. Mm-hmm. I have to take care of this, and he, he killed, like, 45 out of my 110. How?
+
+[00:37:33] Kristin:
+Wow. I don't, that's, sometimes there's no recovering from that I feel like because you start the tantrum spiral after that.
+
+[00:37:41] Drew:
+Yeah, I'm trying to clean this up. So far everybody seems pretty happy because that one I was pretty effective with the waterfall design and everything and it's keeping people pretty happy. So I'm 
+[interjection] Kristin: Yeah.
+[interjection] Drew: hoping I can recover. For now, we're just working really hard on getting people into coffins so we don't get miasma and unhappiness from seeing bodies rot. At any rate, that's for a different episode.
+
+[00:38:02] Kristin:
+Right. I am amazed at how much our fort is thriving in an evil biome.
+
+[00:38:06] Drew:
+I am too. I think as long as you know not to try to plan on collecting plants outside and all that sort of thing. As long as you get to that cavern fast. And that needs to be a topic for one of our podcasts. Yeah, I think we might do that.
+
+[00:38:20] Drew:
+Yeah, because you got it. You got to keep digging guys. Yeah, like we need to keep digging.
+
+[00:38:23] Kristin:
+Like, we- That's why we say it on every stream and at the end of every episode.
+
+[00:38:27] Drew:
+Of the resources, not just the metal, but also where you can actually grow things effectively.
+
+[00:38:36] Kristin:
+Dwarf plants want to be underground.
+[00:38:39] Drew:
+Exactly. 
+
+[00:38:39] Kristin:
+Yeah, but we also wanted to talk a little bit just about kind of what we learned from each other while doing this because it was an odd challenge taking over a fort that I hadn't built because the way that you structure things and what is intuitive to you is not intuitive to me and um 
+[interjection] Drew: Yeah.
+[interjection] Kristin: just in terms of layout and we do a lot of the same work orders. I think so at least that was not too bad but um like you like your vertical bedrooms and that I'm still kind of slow at doing that. I was able to furnish them easily though because of the repeating work orders. Yeah, no. 
+
+[00:39:11] Drew:
+Yeah, no, people were really happy with the bedrooms because I dug them out, but I left them pretty unfinished because I was doing other stuff. And people were really happy when I took back over with their bedrooms. A lot of positive mood boosts were from sleeping in a great bedroom or a magnificent bedroom. 
+[interjection] Kristin: Now.
+
+[00:39:28] Kristin:
+Yep. Got to fully engrave them. They like it. But so one of the biggest things that we noticed that we do differently was how we use space. In that, I tend to cut out really, really big areas to then see what resources I have on that floor. And then I'll build rooms inside of it. That's how I built the tavern. I carved out a giant room and then walled it and floored it and chose what it was decorated with based on what kind of stone I had to make the walls and stuff. Whereas you build almost like a warren-like structure that's really interesting to me. 
+
+[00:40:05] Drew:
+Yeah, I tend to build small little rooms off central shafts, either central horizontal shafts or central vertical shafts. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: And I tend to do that because I'm like, they have all of these needs that they want met, and so I'm trying to kind of fulfill them and make sure that there are a bunch of small taverns so they can always go and get a drink and are happy drinking in a tavern with them.
+
+[00:40:27] Kristin:
+In a tavern with them. Yeah, and you had like some bonus dormitories and stuff that I found really, really helped with dehydration and stuff like that.
+
+[00:40:35] Drew:
+Yeah, but on the other hand, I don't ever, I've noticed that I tend not to really make really big taverns, and I think I need to try to at least make one or two really big taverns in each fort so that we get that happiness of people coming in because new people to make friends and satisfy the "be with friends" moodlet I think is really important. I don't think I satisfy that. And they make connections.
+
+[interjection] Drew: Yeah.
+
+[00:40:57] Kristin:
+
+[interjection] Kristin: And that tavern is constantly packed. You know, I do build big taverns like that, and I don't think I've ever seen one that's quite as successful as this one. So apparently there was just a need for a good venue in this world.
+
+[00:41:15] Drew:
+Yeah, I mean, naked elves are great, but you don't want to spend all of your time out in the rain under trees with them. You've got to get them into the nice tavern to really appreciate the sight. Oh yeah.
+
+[00:41:25] Kristin:
+The exotic dancing. Well, I mean, if you don't like being caught out in the rain. But the other thing that I got to see you do was the mist generator. And I'm still struggling with fluid mechanics in Dwarf Fortress. But I was able to see what you had done and then like by trying to fix it, remedy some of the stuff. So I was able to do a little bit more channeling that solved the outside flooding and put in some floor grates that kind of 
+
+[interjection] Drew: Mm-hmm.
+[interjection] Kristin: Sort of helped with the inside flooding.
+
+[00:41:57] Drew:
+Yeah, somewhat. It's hard to get everything right with the fluid mechanics. There's a reason why people have said... Did I say this last episode? Anyway, there's a reason why people have said that Dwarf Fortress is a fluid mechanics simulator with a fantasy world tacked on. 
+
+[00:42:12] Kristin:
+Yeah, and then in my final year, I was turning the waterfall off and on because occasionally people would stop going to that level because of the dangerous terrain. 
+
+[00:42:21] Drew:
+Yeah, that's a problem with my setup in our fort here because I kind of rushed it a little bit and I didn't think it all the way through. So there are a couple of places where the water, as it falls down to the section where it'll make mist, will pool up and cause dangerous terrain, which is like level three or four out of that one to seven thing that water does. And that will cause them to drop their items. 
+
+[00:42:52] Kristin:
+Yeah, and so I would just turn it off and on if needed. Yeah, I think that's... It would give a little boost here and there. People have gotten a lot unhappier since all of these attacks, so that's something that's going to... I think will work. 
+
+[00:43:06] Drew:
+Yeah, when I take back over, I'm also going to try to see if we've got enough equipment and everything to send some people off to conquer some nearby territories. 
+
+[interjection] Kristin: Oh, nice.
+[interjection] Drew: One, that will make it more likely that we get our promotion because you have to have a certain amount of related territories. And then that will also give us somewhere to send some of our unhappier people. 
+
+[00:43:27] Kristin:
+Happy people. I did have a monster hunter who was one of the unhappier people at the fort and then I went and looked at him and he was hanging out in, I think, a temple and he was meditating on rainbows.
+
+[00:43:41] Drew:
+I'm unhappy about rainbows. Wait, no. What?
+
+[00:43:43] Kristin:
+Human monster hunter who was unhappy, so I sent him off on his miserable way.
+
+[00:43:52] Drew:
+Yes, go contemplate rainbows somewhere else.
+
+[00:43:55] Kristin:
+And be cranky about it. Who can be cranky about a rainbow?
+
+[00:43:59] Drew:
+I don't know. Yeah.
+
+[00:44:01] Kristin:
+Mm-hmm.
+
+[00:44:02] Kristin:
+Well, did you learn anything else during our time sharing a fort?
+
+[00:44:06] Drew:
+No, I think that that was really valuable. And like you said, seeing our different play styles really made me rethink a lot of what I do.
+
+[00:44:15] Kristin:
+Yeah, me too. I started a new fort the other day on stream just because I wanted to, and I've already adapted some of your techniques for walling off caverns, and I picked a location that I think I can build an entrance and then a waterfall if I can figure out how to do a waterfall, but fingers crossed.
+
+[00:44:33] Drew:
+Yeah, I think you've started to get the hang of how mechanics work in the game and about building a windmill.
+
+[00:44:39] Kristin:
+Yeah, and I also learned about how some of the wiki is still dated and doesn't have a disclaimer on it that it's dated because I was asking these complicated questions about windmills and Drew is just looking at me and shaking his head going nope, nope, that's old information.
+
+[00:44:56] Drew:
+Yeah, yeah, the wiki I think still has the information that...
+
+[00:45:00] Kristin:
+It has to be a Z level above what it's powering. Right. Directly above, like on the tile above.
+[interjection] Drew: Right. Like on the top.
+Yeah, only the central shaft of the windmill starts power flowing. And with the current version, you can connect as long as you're touching, I think, any block of the windmill. You're good to go to start collecting power from it.
+
+[00:45:23] Kristin:
+Yeah, so that's good to know.
+
+[00:45:25] Drew:
+Yeah, but overall, no, I think that this has been a really fun and valuable experience, and I'm excited to keep this fort going off and on. Yeah.
+
+[00:45:33] Kristin:
+Yeah, I think we'll check back in on this fort and do another run at this in another 10 episodes. We'll just see how we feel.
+
+[00:45:41] Drew:
+Yeah, beyond that, how's your fort? How's your personal fort doing? Well, it's...
+
+[00:45:45] Kristin:
+Well, it's still brand new. I really like the layout, and I'm working on... I'm gonna try to make it really defensible. So I'm gonna line a hallway with traps and do that kind of stuff because I feel like my world is starting to skew just towards zombies. Like, it's all zombies. Every single fort I'm losing to zombies, which is a bummer. And I don't, like... I'm not ready to leave this world. I know I could generate a new world, but that one might tend towards zombies too.
+
+[00:46:13] Drew:
+Yeah, I thought that they had fixed that, and I think maybe it's better than it used to be, but there has been a problem with Dwarf Fortress tending towards zombies.
+
+[00:46:24] Kristin:
+Or weres or something. It seems like something just gradually becomes more and more powerful.
+
+[00:46:29] Drew:
+Yeah, because it's just the sort of accumulation, agglomeration type thing, because with the zombies and the necromancers, you know, they can live forever, so they don't, so they just then they start just changing everybody. I think vampires used to be a problem for that, again, because they live forever. I have no idea.
+
+[00:46:50] Kristin:
+I haven't seen a vampire yet.
+[00:46:52] Drew:
+I've never actually seen a vampire in Dwarf Fortress. Interesting. So. 
+
+[00:46:56] Kristin:
+Oh, the other interesting thing that I did with my new fort is put it on a different continent. Oh, really? Yeah. I was really concerned that maybe we weren't going to get merchants, but it was in a location where I felt like we could handle that. But we do. Nice. So apparently your civilization's people will cross water to come and visit you. Go get on a boat. It's a savage location as well, so that'll be a fun challenge for me, because this is my first non-neutral location. 
+
+[00:47:23] Drew:
+They're really wanting whatever you're selling. And eventually, I'll talk about mine with the Kaiju Fight Club. 
+
+[interjection]
+
+[00:47:29] Kristin:
+Oh my gosh, that's going to be an exciting one. 
+
+[00:47:31] Drew:
+Yeah, so we'll see if I can recover it by the time we actually talk about it. Otherwise, I'll have to abandon it, but I still got 65 people and everybody's medium or better. So I'm hopeful. Yeah. So send your good wishes, friends, that we can recover Copper Stream. 
+
+[00:47:51] Kristin:
+Yeah, that's a cool fort. I hope you don't lose it. 
+
+[00:47:53] Drew:
+I hope so too. Like, it's got a lot of copper. I'm enjoying just plastering copper all over the place, calling it Copper Streams. And a very sophisticated... 
+
+[00:47:59] Kristin:
+And a very successful mist generator, that one. 
+
+[00:48:01] Drew:
+Yeah, it really is. Everybody seems pretty happy when they don't have a direct reason not to be. Yeah. 
+
+[00:48:06] Kristin:
+Yeah, so we're both feeling optimistic about our dwarves' futures. 
+
+[00:48:11] Drew:
+So, I hope your dwarves are having a good time, or a bad time if you're being a cruel god and trying to make them have a bad time. Either way, I hope your dwarves are successful in what their gods want them to be doing. Thank you for watching. 
+
+[00:48:22] Kristin:
+Yeah, I think that about sums everything up. We've had a good run in our forts and on the podcast. So thank you so much for listening. Some of you have been here since the very beginning. We really appreciate it.
+
+[00:48:34] Drew:
+We really do. You know, when we started this, we did it partly because Dwarf Fortress seemed like it was having a moment, and we just wanted to kind of find a way to be a part of the community in Dwarf Fortress. Yeah. And you guys have really responded. I found this to be a really rewarding thing to do with you.
+
+[00:48:52] Kristin:
+Yeah, we've met some really fun people and really bonded together.
+
+[00:48:55] Drew:
+Yeah, the Dwarf Fortress Roundtable people are just great to talk to. They're great.
+
+[00:48:58] Kristin:
+And our listeners who are joining our Discord are great.
+
+[00:49:02] Drew:
+The one thing I would say again, for those of you who are listening, if you enjoy making podcasts and that sort of thing, you should start one about Dwarf Fortress. There's so much in this game that everybody could talk about different aspects. Oh, for sure. Let's build a community. Let's try to build a community. We're about to do one.
+
+[00:49:17] Kristin:
+Yeah, let's do it. Well, until next time, remember, just keep digging.
+
+[00:49:21] Drew:
+Just keep digging!

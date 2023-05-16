@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:07,000
+That's right! One of our listeners has built a nice little website where you can upload a copy of your fort
+
+2
+00:00:07,000 --> 00:00:15,000
+and it will pull out a list of a bunch of the procedurally generated weirdnesses that come with creating a new Dwarf Fortress world
+
+3
+00:00:15,000 --> 00:00:21,000
+such as the various horrible rains that can occur and zombify people
+
+4
+00:00:21,000 --> 00:00:26,000
+or the musical instruments that are randomly generated throughout the thing
+
+5
+00:00:26,000 --> 00:00:30,000
+and a couple of the other procedural monsters, stuff like that.
+
+

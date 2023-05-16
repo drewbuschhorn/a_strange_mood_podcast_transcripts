@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:07,400
+Magic explanation is that there's some sort of calculation issue when smoke rises up from one level to another
+
+2
+00:00:07,920 --> 00:00:11,080
+or possibly in like the path again, maybe
+
+3
+00:00:11,760 --> 00:00:13,760
+Maybe the stairway
+
+4
+00:00:13,920 --> 00:00:18,800
+Smoking in there screws with the pathfinding again, and then that results in this but at any rate
+
+5
+00:00:18,960 --> 00:00:24,920
+If you ever run into FPS stuff like you just got to sit down and figure it out go look for something weird
+
+6
+00:00:24,920 --> 00:00:32,500
+Yeah, or get DF hack installed relatively easy to install. Mm-hmm, and then run clear trash clear smoke clear kittens
+
+

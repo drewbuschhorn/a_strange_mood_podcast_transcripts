@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:01,280
+We have a Facebook group.
+
+2
+00:00:01,280 --> 00:00:06,600
+And if you're interested in having us
+
+3
+00:00:06,600 --> 00:00:10,200
+render any forgotten beasts of interest you have or items
+
+4
+00:00:10,200 --> 00:00:13,480
+or artifacts that your dwarves have created,
+
+5
+00:00:13,480 --> 00:00:14,880
+just post a description in there,
+
+6
+00:00:14,880 --> 00:00:31,920
+and we can run it through our AI generator.
+
+

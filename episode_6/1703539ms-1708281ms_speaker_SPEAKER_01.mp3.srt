@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,680
+Do you usually use the scanner to set your criteria in that you're looking for?
+
+

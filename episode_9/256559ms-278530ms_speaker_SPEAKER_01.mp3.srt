@@ -1,0 +1,41 @@
+1
+00:00:00,000 --> 00:00:02,300
+And some of their stuff was still at the trading post,
+
+2
+00:00:02,300 --> 00:00:04,140
+and now that stuff is mine.
+
+3
+00:00:04,140 --> 00:00:08,020
+Then the next year, my civilization did not come back.
+
+4
+00:00:08,020 --> 00:00:08,660
+Fair enough.
+
+5
+00:00:08,660 --> 00:00:10,740
+They did come back the following year after that.
+
+6
+00:00:10,740 --> 00:00:12,980
+So still don't know what was up with that.
+
+7
+00:00:12,980 --> 00:00:16,180
+I'm assuming pathing, because it seems like any time I
+
+8
+00:00:16,180 --> 00:00:18,700
+have a problem with Thor Fortress, I can say,
+
+9
+00:00:18,700 --> 00:00:21,100
+oh, well, they're probably having trouble with the pathing.
+
+10
+00:00:21,100 --> 00:00:23,080
+And then I sound smart.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,400
+That is, what days are those?
+
+2
+00:00:03,400 --> 00:00:04,920
+Thursdays and Sundays.
+
+

@@ -1,0 +1,1067 @@
+[00:00:00] Kristin:
+The quality of this podcast is of the highest quality. 
+
+[00:00:18] Kristin:
+Hello and welcome to A Strange Mood, the couple's Dwarf Fortress podcast. I'm Kristin and I'm Drew. 
+[interjection] Drew: And I'm Drew.
+
+[00:00:26] Drew:
+That we are, Kristin. That we are. 
+
+[00:00:28] Kristin:
+You always sound like a sitcom newscaster when you say that. Listen to the RightAnkleTV IG story. 
+
+[00:00:36] Drew:
+[Jane, you ignorant slut.] Ignosce
+
+[00:00:38] Kristin:
+That I am, Jim. That I am. 
+
+[00:00:42] Kristin:
+Oh my goodness. 
+
+[00:00:43] Drew:
+Oh. So, Kristin. Yeah. Have you ever found that after not going to church for a few years... 
+
+[00:00:51] Kristin:
+A few years? 
+
+[00:00:53] Kristin:
+We're not talking decades. 
+
+[00:00:55] Drew:
+...when you find a church that you actually like, that you then go in there. 
+
+[00:01:00] Drew:
+And start worshipping. Uh-huh. And keep worshipping. 
+
+[00:01:04] Drew:
+...and then spend about six months worshipping in there without ever stopping to eat or drink. 
+
+[00:01:08] Kristin:
+Right, well I did that a couple of years ago, but then I tired. 
+
+[00:01:12] Drew:
+Well, in that way, you're much like a Dwarf Fortress dwarf. 
+
+[00:01:15] Kristin:
+I'm exactly like a Dwarf Fortress dwarf. 
+
+[00:01:18] Drew:
+It's always fun to realize when you're first starting a fort that if you don't build the temple early enough, the need for religious piety will just keep building and building and building for your dwarves until when you finally do get around to building a temple because they demand one and are unhappy, they'll just simply go there and begin worshipping and never stop for like two years. 
+
+[00:01:41] Kristin:
+Did you have anyone die of excessive praying? 
+
+[00:01:44] Drew: No.
+No. Thankfully I built it early enough, but I'd kind of forgotten for a little while, and so instead, one person did sit there and pray for three months.
+
+[00:01:53] Kristin:
+I don't remember when I built my temple, but I didn't notice anyone staying in there. So, next time I'll keep an eye on it.
+
+[00:02:00] Drew:
+So, remember, go to the temple often. Don't be like a dwarf and be there forever.
+
+[00:02:06] Kristin:
+I'm screwed. Next time I go into a church, I'm just gonna be stuck there forever. So before we get into the meat of the episode, we want to do some housekeeping up front because we usually leave it to the end, and sometimes people don't listen at the end. How dare they.
+
+[00:02:25] Kristin:
+So the first thing we want to do is thank the fellows of the Dwarf Fortress Roundtable podcast. That's Roland, Jonathan, and Tony for mentioning us on their episode. That was quite the signal boost. And you're a great podcast. We love hearing you.
+
+[00:02:39] Drew:
+And all those people who are showing up now because of that, I guess, welcome. I'm sorry you wound up here.
+
+[00:02:46] Kristin:
+Aww, well, it's better than praying yourself to death. Probably. We also want to thank Skeletornator, Skeletornator, Kevin. He's been hanging out with us on Twitch and sent us a very kind email that we really appreciate.
+[interjection] Drew: Yeah?
+[interjection] Kristin: Yeah. So thank you to him. We also want to thank Aaron from Facebook who mentioned our podcast there in the Dwarf Fortress group. And, um, thank you.
+
+[00:03:08] Drew:
+I think that got us some traffic there as well.
+
+[00:03:10] Kristin:
+Yeah, so also if anyone has mentioned us somewhere and led to these new listeners, thank you as well. Just because we didn't see it doesn't mean it didn't happen.
+
+[00:03:20] Drew:
+And that it wasn't important.
+
+[00:03:21] Kristin:
+That's true. We are in lots of places. We are in several Dwarf Fortress Discords. I'm not very active though. The Kitfox one really ticks along. So yeah.
+
+[00:03:32] Drew:
+Yeah, it's hard to keep up with that one given the popularity that Dwarf Fortress is having right now. But we're there. If you ever want to talk to us, just go ahead and reach out. You can definitely find us on that Discord.
+
+[00:03:43] Kristin:
+Yes. Through the magic of editing, I also want to thank Fat Danny P on iTunes for the very kind review. And just remind you all that liking, subscribing, reviewing, all those things actually do help. I also want to apologize because of some of that crackling on the laugh, man, you guys are bearing with me while I deal with this whole microphone gain setting thing. So, yeah, thanks.
+
+[00:04:06] Drew:
+I also want to say that anyone who's not actually encountered the Dwarf Fortress Roundtable, one, how the hell did you wind up here with us without hearing about them in the first place?
+[interjection] Kristin: with that hearing loss.
+[interjection] Drew: But if you haven't heard about them, I mean, go find them on your podcast device of choice because they're a great podcast, and they've had five years? They know so much more than we do. Yeah.
+
+[00:04:27] Kristin:
+What else? We've been streaming on Twitch. It's mostly me, but also sometimes Drew. Mostly Dwarf Fortress, but occasionally some other games.
+
+[00:04:38] Drew:
+Yeah, it's been fun.
+
+[00:04:40] Kristin:
+So that Twitch channel for me is ThatKristin. That's the main one that we're using right now. I did finally put the podcast into my bio, so I am recognizable. Kristin is spelled K-R-I-S-T-I-N. I'm going to be streaming mostly on Thursday afternoons. Sundays, wintery streams, it'll probably be on those Sundays, but not every Sunday. And we could do more, maybe, if there's interest. So if we see some more of you, say hello, and we'll see how that goes.
+Yeah, I will be streaming some Dwarf Fortress, some other city-building games, and that sort of thing. I think Kristin will maybe play some other games on occasion as well.
+
+It's possible. Yeah, see how my forts are going. It's good to do some of the fort off the air so that I have things to talk about on the podcast. Because you can't really have like multiple – I'm sure you can have multiple forts going at once, but that seems beyond my ability to manage at this stage of my life. So yeah.
+
+Yeah, and so we're trying out this new schedule of every other week because when we were doing it every week it seemed sometimes like we were playing Dwarf Fortress in order to have [interjection] Kristin: Right. [interjection] Drew: But now two weeks, we both kind of feel like we've got more material than we could really Yeah.
+
+Yeah, so we're gonna have to figure that out. I mean, it didn't help that I did stream for a couple of hours last week, so I had a lot of dwarfing time then, and I think it was Sunday, maybe Saturday, I sat down and was like, oh, I'm gonna, you know, I have a couple of things I want to take care of in the fort, and like three hours later, I stood up and was like, oh, my mouse hand hurts. So that, I was very dwarfish in that way because I had a need to play Dwarf Fortress, and then I did it until I was in physical pain.
+
+I can't remember which of the Roundtable guys in either the most recent episode where they mentioned us or the one before that talked about running that same thing. Maybe it was actually at the start of their new season. They talked about how in the premium version of Dwarf Fortress, you know, it's now designed to be a mouse-driven game, and you do really build up a little bit of mouse carpal tunnel if you keep going for multiple hours with it.
+Well, you would think that I would have that down from playing Final Fantasy with my MMO mouse, but...
+
+[00:06:49] Drew:
+No, I think Final Fantasy breaks it up enough that you move around a lot. Like you... Yeah, better.
+
+[00:06:52] Kristin:
+Yeah, I don't know. But anyway, it doesn't matter. Pain. Pain for art.
+
+[00:06:59] Kristin:
+It was fun. It was fun. But the Twitch streaming has been kind of a trip. Like I've never done it before. And the first time I did, I kept losing my internet connection. I was trying to deal with the zombie problem in Ragdreams. And it just kept dropping. And I was getting so mad because if you recall from previous episodes, we had a zombie invasion in which the necromancer abandoned like 30 zombies outside my fort. And then every time we had a visitor, those zombies would kill that visitor.
+
+[00:07:38] Kristin:
+Sometimes I feel like the number of zombies seemed to increase. So maybe the necromancer didn't leave immediately. But, um, I decided I wasn't ready to just abandon Ragdreams. Um, even though the traders and guests and things obviously couldn't make it. So we were just closed in with the extremely overpowered hatch in the ground that kept anything from getting in. Um, so I got the idea to build a bunch of cage traps surrounding the staircase. And then I would open the top hatch, let the zombies into that level with a hatch to keep them from going lower. And, um, then we deal with them in batches and take them off and drop them into magma or whatever, whatever you do with zombies. Um, but then I realized that, um, they weren't like opening the hatch and coming in anyway. I kind of had to beat them with some dwarves, which was terrible, but, um, I was willing to accept the sacrifice. So I opened the hatches, um, and then found out that the, um, the cage traps were around the stairs and the zombies just zoomed right down the stairs without ever getting trapped. As this was going on, the internet was dropping repeatedly and I was struggling to see that it was dropping because the software that I was using for Twitch was not telling me when it was dropping. And I had no idea. So I'd just be happily talking up here to myself and you would have to come up into my studio and say, "Hey, by the way, that stream dropped again."
+
+[interjection]
+Drew: Yeah, I would keep coming and kind of knocking at the door because by the third time you were pretty actively angry.
+
+Kristin: I was so mad and I was so done with the zombies that I just let the massacre happen. So many dwarves died. We did have a few left. And I think that the fort probably could have kept limping along, but I was just, I was done. I was ready for a new fort. So I abandoned it and let nature take its course. Depths only fight!
+Nature and Necromancy: The End of Ragdreams
+
+[00:09:34] Kristin:
+Yeah, and I looked at it in Legends mode and basically everyone starved to death. So I guess they lost their ability to tell themselves to farm. I don't know. Yeah. It was fun while it lasted.
+
+[00:09:46] Drew:
+Ragdreams was a pretty good fort.
+
+[00:09:48] Kristin:
+It was. We did pretty well there for a while, and I learned a lot.
+
+[00:09:52] Kristin:
+So now we have a repeater for the Wi-Fi. And I was so mad, I went out and bought a new laptop. So I have a much more powerful machine and a new Embark, and things are looking good.
+
+[00:10:06] Drew:
+It is kind of funny to watch the dwarves on your super new laptop because the frame, we don't have frame rate limiting in Dwarf Fortress much right now. They just zoom around. Yeah, they're moving about three times faster than they do on my machine. And you can control that, guys, like you can, I think you can hit period maybe to slow down the frame rate some, but yeah, it's hard to set, and I guess we all just let it run as best it can.
+
+[00:10:32] Kristin:
+Right, I just pause frequently and frequently feel panicked.
+
+[00:10:36] Drew:
+That's fair.
+
+[00:10:37] Kristin:
+Sounds about right, huh? Yeah. So, what's happening in Daubed Pages?
+
+[00:10:42] Drew:
+Alas, we also have the end of Daubed Pages. Alas. While we were digging out the volcanic wall we talked about last time, with plenty of gems and exciting gifts from the gods to be found in there worth all sorts of money, under the direction of our Countess, three dwarves have burned to ash. But in the course of that, we found another 200,000 dwarf bucks of treasures of the gods. And at one point, hundreds of adamantite wafers, I'm not sure if I'm saying adamantite quite right. Sounds like-
+
+[00:11:14] Kristin:
+Mm, sounds right to me.
+
+[00:11:16] Drew:
+But, alas, as she became greedier and directed the poor dwarves under her to dig further and further into the lava and water, they uncovered Silvergran the Golden, a very large, one-eyed monkey twisted into human form. It squirms and fidgets, its gray hair is long and straight. Beware its webs!
+
+[00:11:39] Kristin:
+Ooh, it's a webbed one-eyed monkey. A web-shooting one-eyed monkey.
+[interjection] Drew: That's a web shooter.
+[interjection] Kristin: 
+
+[00:11:44] Drew:
+Gross. That's definitely not dirty.
+
+[00:11:49] Kristin:
+Oh no, I didn't even think about that.
+
+[00:11:52] Drew:
+A one-eyed, hairy, webbed, web-shooting monkey.
+
+[00:11:55] Kristin:
+It's gray-haired.
+[interjection] Drew: Great. Great.
+[interjection] Kristin: With squirms and fidgets. OK.
+[interjection] Drew: Okay.
+[interjection] Kristin: There's your lovely mental image for the day. You're welcome. Bye.
+
+[00:12:02] Drew:
+Exactly. So when Silvergran appeared, we sent all 40 of our trained-up dwarves in their various squads. And they died. Oh.
+[interjection] Kristin: Go!
+[interjection] Drew: Almost instantly.
+
+[00:12:16] Kristin:
+Was it the webs or the squirming?
+[interjection] Drew: Which is?
+
+[00:12:19] Drew:
+It was mostly the webs. Webs are hard to deal with.
+[interjection] Kristin: Yeah.
+[interjection] Drew: And while those 40 were dying, the countess decided bravely to retreat and go get the rest of the nobles who had all been trained up as well and were actually, a lot of them, experts in various types of combat.
+
+[00:12:38] Drew:
+The nobles came, they died.
+
+[00:12:40] Kristin:
+Everybody died.
+
+[00:12:41] Drew:
+Insert heroic story here. Yay, yay!
+[00:12:42] Kristin:
+Stories of dwarves trying to bite the forbidden beast to death and being shredded limb from limb.
+The last one to die of the nobles was, of course, the Countess, bravely leading from the back.
+
+[00:13:00] Kristin:
+Yeah, sounds about right for that Countess.
+
+[00:13:02] Drew:
+Then, Silvergrand the Golden climbed up the stairs and began hunting on our main level. We fired the ballista at it. The first time I personally have ever fired a ballista in anger.
+
+[00:13:14] Kristin:
+Oh, wait, or at all.
+
+[00:13:16] Drew:
+Or at all.
+
+[00:13:18] Drew:
+Um, that wounded it.
+
+[00:13:19] Kristin:
+That's not my laugh. Anyway.
+
+[00:13:25] Drew:
+We fired the ballista. Uh-huh. I have a whole story. I'm sorry. It ran back to the caverns. But we were at 20 dwarves, so I retired the fort to its fate with Silvergrand the Golden lurking in the catacombs for whoever would try to recover this fort.
+
+[00:13:41] Kristin:
+And will that be you?
+
+[00:13:42] Drew:
+Probably eventually.
+
+[00:13:43] Kristin:
+Yeah. Well, I mean, that's kind of a more epic end than just getting mad at your internet connection and quitting.
+
+[00:13:51] Drew:
+I don't know, I mean, you don't think there's ever been a god who's been like, "I'm just tired of trying to manage these people. I'm out."
+
+[00:13:57] Kristin:
+Well, I mean, that does sound like many, many deities from mythology. So yeah, fair enough. Um, well, so that leaves us, left us, I should say, both fortless briefly. And I had in my head that I wanted to start a sparkle fort. And you, I don't know, I think you decided to follow me and do a sparkle fort as well, since you've never done any of the good locales. So before we talk about our new forts, we're going to talk about embark locations.
+
+[00:14:26] Drew:
+So what is a sparkle fort?
+
+[00:14:28] Kristin:
+A Sparkle Fort is a Kristin Turm TM. It is a fort in a good zone with good surroundings. We have not talked about surroundings before, I don't think. And when you embark, you choose a sort of tone of your zone. And it has kind of like a D&D alignment chart, maybe that makes sense to some other nerdy people, in which you can have good, neutral, and evil locations. And then they are divided up by how calm they are. So a benign location has not a lot of attack, there's not a lot of aggro in the environment. Neutral is neutral. And savage means super aggro. So you can have savage good, in which case you might get murdered by unicorns.
+
+[interjection] Exactly.
+
+[interjection] You can have Savage Evil in which it might rain blood.
+
+So I decided that I wanted to try a good location in the hopes of maybe seeing a unicorn. Spoiler alert.
+
+[interjection] Good aligned location.
+
+But I have not seen a unicorn.
+
+[interjection] I actually in my good aligned location have seen a unicorn and we have some unicorn leather.
+
+Aww, that's so sad. Well, is your good location benign, neutral, or savage? So that would mean serene, mirthful, or joyous.
+
+[interjection] I believe it's neutral. I believe I'm in a mirthful zone. Yeah.
+
+Mirthful zone. Yeah, it doesn't have a second word like some of the other ones. But yes, I'm also in a mirthful region. I, when I was looking through the sparkly areas, the good areas, I did not see a joyous wilds. Just because I didn't see it doesn't mean it doesn't exist. And I'm not a hundred percent sure that all of the good zones have sparkles. They might not.
+
+[interjection] My mirthful location actually has a lot of fairy vermin.
+I have not seen that either. My, see, my good, my mirthful location is not very magical. All we have are the fluffy wamblers.
+
+[00:16:31] Drew:
+Fluffy, fluffy, fluffy wamblers. Man, I cannot say that word.
+
+[00:16:34] Kristin:
+And we have a lot of hamsters.
+
+[00:16:36] Drew:
+Well, can you ever have too many hamsters? Yes.
+
+[00:16:38] Kristin:
+Yes, the cats kill them and then just leave their corpses around. It's gross. But let's back up a second because we're throwing around the word embark and we haven't really talked about what that means.
+
+[00:16:51] Drew:
+It's funny because we've talked a lot about Dwarf Fortress on this podcast, but we haven't really talked about how you start in Dwarf Fortress. Yeah.
+
+[00:16:57] Kristin:
+Yeah, and I have to assume that a lot of people who are newcomers like me, and maybe just a lot of people coming to the Steam version, they did the tutorial that is currently built-in, in which the computer chooses your embark location for you. What's funny about that is apparently it does not look at the surroundings. So there were a lot of people who got their first fort in Savage locations, Savage Wilds.
+
+[00:17:24] Drew:
+Yeah, savage evil or whatever.
+
+[00:17:27] Kristin:
+So they'd be like, is it supposed to be raining human blood?
+
+[00:17:31] Drew:
+You're dwarves, why are you bothered by human blood? Just move on.
+
+[00:17:33] Kristin:
+Better than dwarf blood. So embarking, we're not going to get into very much custom embarks in which you allocate points for skills and items and animals because I went to do that when starting my new fort and it was so complex that I was like, never mind, you guys can pick for me. I'll enjoy this surprise.
+
+[00:17:54] Drew:
+It's kind of a fun thing with all of the...
+
+[00:17:59] Drew:
+Um.
+It's kind of a fun thing with all the Kitfox YouTube streams, which I really appreciate them doing, but they're four hours long, each of them. So as weeks pass and months go by, it's not as if Kate Knox is sitting blind in a studio penthouse home...
+
+[00:18:06] Kristin:
+They are very long.
+
+[00:18:07] Drew:
+And frequently, I feel like an hour to an hour and a half of that with the people is frequently them setting up their embark.
+
+[00:18:16] Kristin:
+A couple of the beginner streams were like that, and a lot of people really like optimizing and care about that. I kind of like the randomness, honestly. Like I'll complain about not having a breeding pair of any animals, but it's fun to just see what I get and make the best of it.
+
+[00:18:32] Drew:
+Yeah, I mean, it's again the challenge. What are you wanting to get out of your Dwarf Fortress experience? Are you wanting to, you know, I guess, win a game without a win condition?
+[interjection] Kristin: Sorry.
+[interjection] Drew: Or are you wanting to just start with a bunch of weirdos and see what you can make?
+
+[00:18:47] Kristin:
+Embrace the chaos. That's my strategy.
+
+[00:18:49] Drew:
+Create a narrative, like in life.
+
+[00:18:50] Kristin:
+Yeah, something like that. Well, so that's surroundings. You can pick your location on your world map, and the world map has everything. It has elevation, it has metals, it has how many trees and what the soil is like and what the water in the ground is like.
+
+[00:19:12] Drew:
+And the water in the ground, you wouldn't think would matter that much, but when you're going to be digging through a lot of it, the question of what is an aquifer and why does the game try so hard to keep me from starting a fort in a place that has an aquifer comes up pretty frequently.
+
+[00:19:28] Kristin:
+Yeah, I had an aquifer for the first time in this location, and I solved the water problem by just digging around it.
+
+[00:19:38] Drew:
+And what was the water problem?
+
+[00:19:40] Kristin:
+The water problem is the dwarves, while they are digging, encountering wet stone.
+
+[00:19:45] Kristin:
+They refuse to dig when they find wet stone. And then you do get some seepage.
+
+[00:19:50] Drew:
+So an aquifer in real life is a patch of ground that has water within it. And so like if you were to dig down with your hands, it would slowly start to seep and fill up that hole that you've dug with the water. Dwarf Fortress replicates this by making an embark zone, it will decide that some regions have this water and some number of Z levels.
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: So it's basically like a cloud in the ground full of water. The challenge is that that zone,
+[interjection] Kristin: Hmm.
+[interjection] Drew: the stone or dirt that is wet inside there that's damp will continue leaking forever if you don't excavate it completely.
+
+[00:20:39] Kristin:
+Like just dig out the stone? And I assume you have to drain the water. Like let the water go somewhere.
+
+[00:20:45] Drew:
+Exactly. And so there are a couple of ways to deal with that. Yeah. The first is you can smooth the damp stone.
+
+[00:20:52] Kristin:
+Okay, I did do that. That seemed to stop some of the seepage. We still have a little bit in a couple of places. I'm not entirely sure where it's coming from. Also, now that I'm talking, I'm realizing I never clicked on those puddles, and they look like water, but they could be some other fluid or have gotten there from one of the many buckets the dwarves are carrying around.
+
+[00:21:13] Drew:
+There is a lot of fluid that seems to just appear from nowhere in Dwarf Fortress.
+[interjection] Kristin: Yes.
+
+[00:21:18] Drew:
+The challenge though is that with dirt areas, you can't smooth those because you can only smooth stone.
+[interjection] Kristin: Oh.
+[interjection] Drew: So those will continue leaking until you completely excavate them. Completely just dig through them.
+
+[00:21:30] Kristin:
+Yeah.
+
+[00:21:31] Drew:
+So you can build a wall, but what I've found to be the most effective mechanism is to dig a drain off your map.
+[interjection] Kristin: Mhm.
+[interjection] Drew: Wow.
+[interjection] Kristin: Wow.
+
+[00:21:40] Kristin:
+Oh, what if off my map is nowhere near where the water problem is?
+
+[00:21:46] Drew:
+You dig a very long drain.
+
+[00:21:47] Kristin:
+Mm, okay. And the other question is, like, I wasn't actually accessing the water because the dwarves would just refuse to dig there.
+
+[00:21:55] Drew:
+So you can dig in kind of a dry area around the aquifer and then like do a channel in order to get the water to drain over there into that drain. The other option is to be very frustrated and dig each section to get through because even when they refuse to dig somewhere, be it because of damp stone or hot stone because lava gives you the same thing.
+
+[00:22:24] Drew:
+They will do it if you redesignate it.
+
+[00:22:27] Kristin:
+Redesignate it? Just tell them again? Yeah.
+
+[00:22:28] Drew:
+Yeah. But then you have to do it for the next layer after that and so on.
+[interjection] Kristin: Oh gosh.
+[interjection] Drew: So it becomes very frustrating if there's a lot of them.
+
+[00:22:35] Kristin:
+Okay, yeah, I don't think I bothered because I just didn't. It was the day that I was angry at the zombies, and I didn't feel like trying again.
+
+[00:22:43] Drew:
+But yeah, so if you find a dry channel that you can dig to the edge of the map, and then you smooth out the very edge of the map because the edge of the map is always stone.
+[00:22:56] Kristin:
+Mm-hmm. 
+
+[00:22:57] Drew:
+So you smooth that out, and then you dig fortifications so that you basically are digging the gaps into the wall there. 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: The water will just flow through that and then off your map. 
+
+[00:23:10] Kristin:
+Okay, that sounds easier than the whole pumps and pump stacks. And I don't, 
+[interjection] Drew: Yeah.
+[interjection] Kristin: I, at some point, need to both watch a video about fluid mechanics in Dwarf Fortress and learn about mist generators and things because I don't know anything about them. But that's an entire podcast. Yes, that might be more than one. So, for the meantime, I'll just use about half of my map. I suppose that I could go into that area deep enough that it's not happening anymore. 
+
+[00:23:38] Drew:
+Yeah, you can definitely get down through there. Although sometimes there are multiple layers of aquifer. There's also light aquifer and heavy aquifer. Light aquifer is what we're dealing with, and it's pretty easy to work around using those tricks. Don't start an embark with a heavy aquifer. If you do, it will flood your fortress. It's basically like digging into a pressurized spring or something. It will just gush. 
+
+[00:24:05] Kristin:
+Yeah, I don't think that I'm up for messing with that yet. Yeah. Or possibly ever. 
+
+[00:24:10] Drew:
+The other thing I will say with digging to the edge of the map and smoothing and all that stuff, unfortunately, in some cases, if there is water on the other side of the map, it will then flow back through. So you're rolling the dice a little bit, but it's about a 1 in 100 chance I've found. 
+[interjection] Kristin: It's about a one in...
+[00:24:28] Drew:
+I've probably done that 20 times, and I've never had it happen to me. But people say it does happen, and I can believe it. 
+
+[00:24:34] Kristin:
+Right.
+Fair enough. So that's the water element. The other thing that I wanted to talk about a little bit was choosing your location visually rather than necessarily scanning for things that you want. I put down my embark location sort of in the crook of a Y of a brook. I was like, oh, we'll have plenty of good water streams. And I've had good luck with fishing being a primary food source. And then you get all the shells and it's a good starting industry. But when I got into the embark location, it was like just a black screen because it put them in like this teeny little hollow in the midst of a bunch of hills, which at first was just like, oh, no, what have I done? But then I realized I just tunneled sideways into the hill and it was totally fine. It was in some ways easier. But I was a little bit worried about caravans and things getting to us, especially because for me, at least the good location was really far from most of the Dwarven civilizations. Like my nearest neighbors are elves and more elves and more elves. The elves are... 
+
+[00:25:38] Drew:
+Yeah. 
+
+[00:25:42] Kristin:
+Yeah, but that worked out and 
+
+[00:25:45] Drew:
+And you haven't had any problem with caravans really, right? No. 
+
+[00:25:47] Kristin:
+No, not at all, other than the goblin siege that I'll talk about in a little bit. What else do you look for when you're embarking? 
+
+[00:25:55] Drew:
+Me personally, I do try to choose something that has soil and deep metal. Soil so that I can get the farming pretty easily. And then deep metal because that usually is the better types of metal. 
+
+[00:26:10] Kristin:
+Deep metal, what versus... 
+
+[00:26:12] Drew:
+So there's usually, I forget what it is, I can't remember if it's metal or like light metal, something like that, that basically means you will find metal in the first 10 layers or so. 
+[interjection] Kristin: Sab.
+[interjection] Drew: Deep metal means you're going to be down like 20 levels below the Z zero, so negative 20 or something like that, which is usually 60-ish levels from where you start before you'll find metal, but before you'll find large seams of it. That's pretty good usually in my view because that's frequently where you'll start to find like zinc and copper, gold and silver. Usually the higher levels are just iron, some copper, that sort of thing. 
+
+[00:26:58] Kristin:
+Right. It's interesting because I didn't look at the metals present at my location at all. And while we have a fair bit of silver and a little bit of gold, I haven't really seen a lot of platinum. I have a lot of the iron ore things, but it took me a long time to find the more valuable metals. We had a lot of gems, really shallow, not a lot of high-value gems. So not as many diamonds and emeralds and things like that. 
+
+[00:27:26] Drew:
+Yeah, you don't find those until you get closer to the lava levels. 
+
+[00:27:29] Kristin:
+Yeah, and I have gotten to the lava and not really found a ton of those yet. We have tons of gems. I still maintain that the gem industry is a really good way to support your dwarves and it is very dwarvish. 
+
+[00:27:43] Drew:
+Yeah, and trading gems to traders, to dwarf traders when they come by, I guess gives you like the value of the gems is multiplied by five in terms of your influence points that your civilization gets, something like that. Attractiveness to migrants. 
+[interjection] Kristin: Yeah.
+
+[00:28:02] Drew:
+I guess one thing we should really say, we maybe should have said it earlier, is that when choosing an embark location, it's very important when you're a beginning player to choose somewhere with trees. You do need trees. 
+
+[00:28:13] Kristin:
+Yeah, you do need the beds. And it can take a really long time to get to the caverns and get the cave trees.
+
+[00:28:20] Drew:
+Yeah, so you need access to trees.
+
+[00:28:23] Kristin:
+Do you usually use the scanner to set your criteria in that you're looking for?
+
+[00:28:28] Drew:
+I do. I really love the scanner for some reason. It amuses me. We've got that nice map and you set your settings and then it goes through and slowly scans each zone.
+[interjection] Kristin: and it amuses me. We've got that nice map.
+[interjection] Drew: It's kind of weird because it makes you really realize that the game doesn't really have a reference for all this or isn't making it up on the fly.
+
+[00:28:45] Kristin:
+Yeah, it does seem like the world is an existing thing that it is looking through. I really like the scanner too. I didn't use it this last time because I just knew that I wanted to go sparkles and wasn't in the mood to be planning very far into the future. But it's gone really, really well for me. So we'll get to that. Is there anything else that we need to cover with Embarks?
+
+[00:29:06] Drew:
+No, I think we've covered the big things there, which is, I think, trees, aquifer, and then
+[interjection] Kristin: Mhm.
+[interjection] Drew: making sure that you've got the resources you want. If you want to do a glass fort, you need to make sure you've got sand. If you want to do a lot of ceramics, you need to make sure you've got clay. But by and large, you also do want to make sure you've got some metal there because you need some iron to really be able to fend off invasions and stuff.
+
+[00:29:29] Kristin:
+And stuff. Yeah, in short, do better than I did. I will describe my fort shortly and we're doing pretty well. I have gotten very lucky and to some degree, I think that I continue to be very lucky with this current fort.
+
+[00:29:44] Kristin:
+So shall we talk about those? Yeah. 
+
+[00:29:47] Drew:
+So, tell me about your new fort.
+
+[00:29:48] Kristin:
+Well, my new fort is called Curlkey. It's in a mirthful good location at the crook of this brook, the crook of the brook. The brook I have not used at all. So visually, I chose it based on that and it has not factored into my play at all, especially because it's so hilly around there that just looking for the brook and sending dwarves over there is just way too much work.
+
+[00:30:11] Drew:
+Do you have a fisher dwarf who's fishing there at all?
+
+[00:30:13] Kristin:
+No, because I have a fisher dwarf fishing in the caverns. That was the next thing I was gonna say. I hit the cavern really, really early. I think that it's only, it might be like negative 10, and I only started at like a plus four. So I hit the cavern really early. It had lots of fungus. It had water. So I immediately plopped down a bunch of farms, put all the animals in the caverns, cut down a bunch of mushroom trees, started fishing, and we were good to go. The other really odd thing is that we have not come across any cavern dwellers. 
+
+[00:30:53] Drew:
+Well, that's nice.
+
+[00:30:55] Kristin:
+Yeah, and I don't know if it's because some of the cavern I haven't accessed. So my openings are just not connected to the caverns in that way. And maybe in this shallow cavern where we're just ran amok, there's none. It could be that. And as I had been chasing down metals and things, I've been really careful to leave a wall between the cavern and where we're going so that I don't end up with the constant Batmen sieging from within, because that can be really a pain.
+
+[00:31:19] Drew:
+I don't know with the cavern dweller invasions if that depends on the like alignment or what. I wonder that.
+
+[00:31:28] Kristin:
+I have not yet. I have opened up the caverns and I have not run into any yet. So maybe that's something about good locations. What is your activity level that you chose? Do you remember for that one? Is it neutral, savage?
+[00:31:43] Kristin:
+Oh, it's neutral, so it's mirthful as well as yours. Yeah. Yeah, so you would think that that would be what would affect the cavern dwellers. Maybe listeners, if you know more than we do on this subject, you can tell us if there are any cavern dwellers in good locations.
+
+[00:31:56] Drew:
+Yeah, or do some exploring for Dwarven science.
+
+[00:31:59] Kristin:
+Yes, I did have some goblins in... it took me a minute to remember the word goblins. I did have some goblins and they laid siege to my fort. They actually wanted to parley.
+
+[00:32:14] Kristin:
+But nothing came of that because I just built a wall. And in the passing months, got my squad good and trained, then tore down the wall and took out these, I think it was 10 or 12 goblins. We lost two dwarves, but for the most part, it was really quite easy to take out these goblins. So no parlay necessary.
+
+[00:32:33] Drew:
+So you just built a wall, stood up in front of it, and said, "I bite my thumb in your general direction."
+
+[00:32:39] Kristin:
+Well, I stationed the squad there and then told the dwarves to take down the wall, and the goblins came rushing in and immediately got murdered.
+
+[00:32:48] Drew:
+I really need to, I haven't done it for like four forts and definitely not in the Steam version, but I need to do the carving out the fortifications in the wall and then letting them shoot crossbows through it.
+
+[00:33:01] Kristin:
+Yeah, I hear that the archery stuff is really hard to get functioning. Yeah. Well, thanks for listening.
+
+[00:33:08] Drew:
+We'll talk about that sometime. I think I've managed it in the new version, but I haven't ever actually used it in anger. I thought my performance was enough to make a little attempt at regret and publish to my boyfriend, answering to Moore's Question six months ago. Our standards were set to earn ten original points.
+
+[00:33:16] Kristin:
+I have a bowyer who's unhappy, so I'm thinking maybe it's time to build him a workshop. And I have a lot of peasants who will become unhappy, so they could go on to an archer squad.
+
+[00:33:28] Drew:
+Yeah, you just have him build a bunch of those, build a bunch of bolts, build a bunch of quivers, build a bunch of... I'm trying to remember all the things you need to actually have the archery stuff work. You need to build them a training range, a shooting range.
+
+[00:33:40] Kristin:
+And make sure no one can walk into it and be shot. Exactly. Yeah, I might. We have fun here. Yeah. Shooting each other. So I might try that. The goblin siege did mean that we didn't get migrants for a little while, but this fort is at like 120 dwarves right now. Jeez. And because the goblins were out there, we didn't get our civilization visitors last autumn, so we are very clearly due a barony. So hopefully, I will play some more this week and that will happen for us. I'm very excited.
+
+[00:34:16] Drew:
+Do you have any pets picked out to become the Baron?
+
+[00:34:19] Kristin:
+Ooh, good question. I have a couple of ideas. There is a tavern keeper, her name is Nish. I think I might just like her because her sprite is really, really cute. But also, she was one of the many dwarves that have had babies in this fort. So I checked her out and she was very happy about being a parent and she is enjoying being a tavern keeper, and she is married. Her husband is funny because in his thoughts he is uneasy at having gotten married and has a lover who is uneasy at being with him, and he seems to be uneasy at being with the lover. It seems like quite the tangled mess.
+
+[00:35:00] Drew:
+It's important to remember that if you don't want to deal with babies in Dwarf Fortress, do not settle, do not choose an embark that is far away from your civilization. Right.
+
+[00:35:10] Kristin:
+Right, which I did. And within not very long of starting this fort, we had some newlyweds from the original seven, which I actually think is so cute because they travel together for a long time and they fall in love and they get married as soon as they can once they're settled. I think it's sweet.
+
+[00:35:27] Drew:
+Also, they were probably bored on the trip, so they all are pregnant by the time they get there. I don't think they are.
+
+[00:35:30] Kristin:
+But we did, we've had just so many babies. And it's really hard to keep babies happy, man. It really is. They're always so mad. And like, I make them silver toys. I don't know what else to do for them, but I make them a lot of silver toys. A lot of them are naked. And I don't know if that's because, you know, they're babies, naked dwarf babies.
+
+[00:35:54] Drew:
+I think there are separate types of clothing.
+
+[00:35:56] Kristin:
+I can't find special baby clothes.
+
+[00:35:58] Drew:
+Okay, I gotta look that up because there's this weird thing in Dwarf Fortress about the sizes of clothing.
+
+[00:36:02] Kristin:
+Right, like they can't wear human clothing. And those are always marked as large. So it seems like there would be small silk trousers. It just sounds so cute. Speaking of silk though, we've gone through two mayors. I don't remember who the first one was, but they weren't in office very long. And the dwarves have now elected, I think two or three times, Carol, the legendary weaver, and she spends most of her time weaving masterpiece cave silk cloth. And I guess sometimes she takes meetings. She has quite a nice office with engraved marble floors that I made her, but yeah.
+
+[00:36:40] Drew:
+Yeah. So she's happy enough with it, but she prefers to be weaving.
+I, yeah, and she's actually a pretty happy dwarf. Probably, I mean, I gave her her own workshop and best I can tell that is all she is doing. And we have, we have so much cloth. I'm not even telling her to make cloth and she just is making it for the sheer joy of making it, which, knowing your mother, who is a weaver, I'm like, that makes sense. Yeah, this is very realistic.
+
+[00:37:04] Drew:
+And also that they tend to be grumpy.
+
+[00:37:06] Kristin:
+She's not crappy. Oh, fair enough. Yeah, this one's not.
+
+[00:37:09] Drew:
+I guess it's just my mom.
+
+[00:37:09] Kristin:
+I mean, maybe because she keeps winning the popularity contest in the fort over and over again. Fair enough. I wonder how dwarves pick their mayors. I think you said it was something about their people skills or something like that. Yeah, they have a lot of talent.
+
+[00:37:21] Drew:
+Yeah, they have different people skills, and then they go into a lottery, which is weighted by some factor or combination of their people skills and their number of relationships. It's a very complicated formula that is on the Dwarf Fortress wiki. We should talk about it sometime.
+
+[00:37:38] Kristin:
+I want to know about this, especially because when she was re-elected, I'm like, was anyone running against her? And I don't know. I wish I could find out, but I might make up an opponent and tell a story about them.
+
+[00:37:51] Drew:
+I think that's a good idea.
+
+[00:37:52] Kristin:
+So that might be a future episode.
+
+[00:37:54] Drew:
+And I mean, do you remember your first mayor, right? You know who your first mayor was? No, I don't remember. Okay.
+
+[00:37:58] Kristin:
+Half of them. So, I guess, I mean, most of everything that's come out of Kerlkey has been really positive. We have a lot of artifacts, including a table that features an engraving of boogeymen. Boogeymen, plural. Not just one boogeyman, many boogeymen. And I put that in.
+[interjection] Drew: Boogeymen. Plural.
+[interjection] Kristin: The tavern. They love their tavern. They are always partying in there. We had a minotaur come. It was very scary. You get the little scary beast image notification in the upper left. He came. He ran inside before I could stop him and was promptly murdered by someone who just happened to be at the trade depot. Huh. He did take out one dwarf and that dwarf's pet bunny. Aw. So that was pretty sad. I might carve a slab for the pet bunny. Might as well. Yeah. So I, 
+[interjection] Drew: Ohhh!
+[interjection] Kristin: I have to think that maybe the mirthful location is just a little on the easy side. And there's nothing wrong with that. Danger. Yeah. I'm having a lot of fun, so I might see how far I can get in terms of barony and all that stuff before I leave this one. 
+
+[00:39:05] Drew:
+Yeah, and maybe we won't get attacked quite so hard by forgotten beasts as we go down into the magma. Yeah, I suppose. 
+
+[00:39:12] Kristin:
+Yeah, I have gotten to magma. That also felt shallower than at my previous fort, so we're using that for making things. 
+
+[00:39:20] Drew:
+I also keep using the words lava and magma wrong here. For anyone listening, I do know the difference. 
+
+[00:39:25] Kristin:
+Mm. Magma. 
+[interjection] Drew: Magma!
+[interjection] Kristin: Drew, I'm going to send you a stern email about how you're using the word lava wrong and that you mean magma. 
+
+[00:39:33] Drew:
+I know I mean magma. I know that I know the difference. 
+
+[00:39:36] Kristin:
+Okay. 
+
+[00:39:37] Drew:
+The upside is you can use stalactite and stalagmite in an audio medium and no one will ever know which one you were referring to. 
+
+[00:39:44] Kristin:
+Next time I say it, which I don't know why I would, I will enunciate very carefully. 
+
+[00:39:49] Drew:
+Sounds good. 
+
+[00:39:50] Kristin:
+I actually know the difference because I grew up in the Ozarks and there are just so many caves, and as a kid, I liked rocks, so I learned a lot about caves.
+
+[00:40:00] Drew:
+And then he lost $5.
+
+[00:40:01] Kristin:
+No, a stalactite, it comes down and it has to hang on tight. That's how you remember.
+
+[00:40:06] Drew:
+Gotcha. And stalagmite comes up from the bottom because it's mighty and strong. Again.
+
+[00:40:11] Kristin:
+I guess so. They didn't give us that one, just the tight one. They figured... It grows up with all its might, but then maybe it gets a little dirty, and you don't want to tell that to elementary school kids.
+[interjection] Drew: They figure - I was, uh -
+
+[00:40:19] Drew:
+Absolutely.
+
+[00:40:21] Kristin:
+I spent a lot of time thinking about this, apparently.
+
+[00:40:24] Drew:
+More time than you actually realized. Yes.
+
+[00:40:25] Kristin:
+Yeah, so I've been talking way too much. Why don't you tell us about your new fort?
+
+[00:40:29] Drew:
+Well, unfortunately, my fort, Golden Bars, which is in the Myrtle Wilds, not a whole lot has actually happened to us so far. We've gotten started, we've done some good digging, we've cleared out a lot of good area to build workshops and everything. But so far, it's been a little bit of a snooze, I've got to say.
+
+[00:40:48] Kristin:
+I gotta say. Really? Hmm. So are you focusing on anything to learn or try?
+
+[00:40:54] Drew:
+Well, right now, we're up to about 70 dwarves, and we're really getting the training going to be able to start attacking some goblin pits that surround us. We're pretty far away from our other dwarven civilizations, as we talked about, that tends to happen with the mirthful wilds. So, with that, we've got a lot of peasants, and we're getting them trained up into their squads to be able to go out and fight.
+[interjection] Kristin: Yeah.
+[interjection] Drew: We've got a lot of iron around, so we've been making a lot of good armor and weaponry with that. Because we've got two legendary metalsmiths. They've also been making a lot of platinum goblets.
+[interjection] Kristin: Yeah, yeah, no.
+[interjection] Drew: I decided this time to see if I can boost happiness with platinum goblets. Honestly, it's kind of working.
+
+[00:41:47] Kristin:
+Oh really? I've been making silver goblets and I don't know, I know they've been taking them. I don't know if it's been a happiness boost yet but silver is less valuable, maybe I could encrust them with gems.
+
+[00:41:59] Drew:
+That's definitely an idea.
+
+[00:42:00] Kristin:
+Mm-hmm.
+
+[00:42:02] Drew:
+So instead, what I've actually focused on right now is picking out some pets to watch.
+
+[00:42:08] Kristin:
+Anyone fun? Yes, I actually have.
+
+[00:42:09] Drew:
+Excellent! So let's start out with Ulstiff Released Paint.
+
+[00:42:22] Drew:
+She's a female miner, she is zany.
+
+[00:42:26] Kristin:
+Zany?
+
+[00:42:27] Drew:
+One of her characteristics is zany.
+
+[00:42:30] Kristin:
+That's hilarious.
+
+[00:42:31] Drew:
+So she's essentially a Manic Pixie Dream Girl Death Worshipper.
+
+[00:42:35] Kristin:
+Ooh, I like her already.
+
+[00:42:38] Drew:
+So she's a manic pixie dream girl because she's bouncing around zany, happy-go-lucky about [interjection] Kristin: Mhm.
+[interjection] Drew: basically everything, but the god that she worships and would like to be a priest of is a god of death. [interjection] Kristin: Mm-hmm.
+
+[00:42:50] Kristin:
+Hmm. She doesn't meet the most important manic pixie dream girl criteria though, in that she doesn't have an angsty white dude in love with her and she's coming and making his life better.
+
+[00:43:01] Drew:
+We'll see if that happens. It might happen. So far, she doesn't have a husband or lover. But she does have two pet war dogs.
+[00:43:10] Kristin:
+Oh, nice.
+
+[00:43:11] Drew:
+Which actually, now that I'm describing her, I think she might be Harley Quinn.
+
+[00:43:14] Kristin:
+Oh, huh. Yeah, she might be.
+
+[00:43:18] Drew:
+Um, so some interesting characteristics about her is that she loves large gems. Again, Harley Quinn.
+
+[00:43:24] Kristin:
+Yeah. I mean, who doesn't, though?
+
+[interjection] Drew: Um...
+
+[00:43:27] Drew:
+I guess that's fair. She loves Sasquatches for their reclusive nature.
+
+[00:43:32] Kristin:
+That's quirky. It's very Taylor Smurl.
+
+[00:43:35] Drew:
+And she loves the words of the laconic bride.
+
+[00:43:38] Kristin:
+What's that?
+
+[00:43:39] Drew:
+It's a song common in their culture that is apparently slightly ribald and focuses around approximate rhyme.
+
+[00:43:49] Kristin:
+Okay, yeah.
+
+[00:43:50] Drew:
+Sometime I'll post an entire description of that, but I thought Laconic Bride was hilarious to begin with, and then that it is of a slightly ribald nature.
+
+[00:43:59] Kristin:
+Yeah, that is hilarious.
+
+[00:44:01] Drew:
+So the second person I'd like to talk about is our mayor, who was elected pretty rapidly, again, with all the platinum exports we've done pretty well with the traders that have come by. And that is Raoul Flaggleder. Again, another woman.
+
+[00:44:18] Drew:
+She is our mayor. She's also extremely racist.
+
+[00:44:21] Kristin:
+Oh no!
+
+[00:44:22] Drew:
+And a female wrestler.
+
+[00:44:24] Kristin:
+Who does she hate?
+
+[00:44:25] Drew:
+She hates all other races besides dwarves.
+
+[00:44:26] Kristin:
+Oh, okay. Besides dwarves. Nice. That's very dwarvish.
+
+[00:44:30] Drew:
+She has great creativity and surprisingly is an accomplished weaver as well.
+
+[00:44:35] Kristin:
+Oh, I wish that you could set up like recreational wrestling for the dwarves because you know, they would all really like that.
+That is actually a pretty funny idea. And there must be a way of accomplishing that.
+[interjection] Kristin: Yeah.
+[interjection] Drew: Since wrestling is one of the fighting skills that they can have.
+
+[00:44:47] Kristin:
+I think they would like doing it and watching it.
+
+[00:44:51] Drew:
+Yeah, I don't know if you can really select a particular skill to work on in training mode, or if you can do something to focus them on that particular thing. I'll have to do some thinking about that. But anyway, we basically have a female Jesse the Body Ventura as our mayor, whose greatest desire in life is to create a great masterwork.
+
+[00:45:16] Kristin:
+Oh, and she hasn't done it yet. No, she has not. She needs to practice her weaving.
+
+[00:45:19] Drew:
+Yeah, she's accomplished, but she's not legendary yet. And so I'm not sure if a great masterwork can come from legendary alone, or if it has to be a fey mood.
+
+[00:45:28] Kristin:
+Mmm, yeah.
+
+[00:45:30] Drew:
+We'll have to see.
+
+[00:45:31] Drew:
+We've also had one person die from a fey mood at the very start of Fort Goldenbars because they desperately needed shells and we have nothing that yields shells.
+
+[00:45:44] Kristin:
+I've lost two to fey moods. One because something else was happening in the fort and I forgot about him. I usually try to babysit them to make sure they have what they need. So I don't even know what he needed. And the other guy, I was watching his needs and I was trying to accommodate them. I made rock blocks. We actually had rock blocks. He needed... One was tree life. And I have assumed that's wood because I've seen that with other dwarves and they find whatever it is. Wasn't that. So maybe there was another one that I'm not remembering. But he died.
+
+[00:46:16] Drew:
+The final dwarf that I'm watching is our Baron because Goldenbars is already up to a Barony.
+Showing off. You didn't have a goblin siege.
+
+[00:46:26] Drew:
+We did not. So that is Baron Solon Tempted-Mind.
+
+[00:46:32] Drew:
+That's funny. It is. I'm not sure what to say.
+
+[00:46:33] Kristin:
+That's a fun name. Kind of hard to say. Ah, scans nicely. Tempted Mind.
+
+[00:46:38] Drew:
+Tempted-Mind. Are we just gonna keep saying Tempted-Mind forever?
+
+[00:46:42] Kristin:
+I can't say it that many times.
+
+[00:46:44] Drew:
+So, Baron Solon Tempted-Mind is a dyed-in-the-wool quarreler, very greedy, and he also wishes to create a great masterwork.
+
+[00:46:54] Kristin:
+Oh, you gotta get on this. Give them workshops.
+
+[00:46:57] Drew:
+I can't believe they have so many workshops and Solon is a gem worker and he has a dedicated [interjection] Kristin: Hmm. [interjection] Drew: workshop.
+
+[00:47:03] Kristin:
+Well, they're just not dedicated enough, like my mayor, who never seems to do anything else.
+
+[00:47:09] Drew:
+I guess not. So I'm kind of thinking I'm going to move his workshop closer to all of his offices and everything, and then maybe he'll spend less time commuting back and forth.
+
+[00:47:20] Kristin:
+You could give him a gem stockpile too.
+
+[00:47:23] Drew:
+Oh, that's a good idea. Yeah. We also have... I'm trying to steer heavily in this fort into both religious temples. Mm-hmm. So temples dedicated to specific gods is what I mean there. [interjection] Kristin: That's what I mean.
+
+[00:47:37] Drew:
+And then also building a lot of guild halls. Not craft halls. Guild halls. I think that that has a very positive effect on the mood and also tends to increase their skills faster.
+
+[00:47:52] Kristin:
+Oh, that's interesting. I only have built those things when they request them. So I think we have a farmer's and maybe a stone worker's. I also had my first request for a temple. And the priest that I appointed is called the Sacred Shell.
+
+[00:48:05] Kristin:
+I should look into that person and see if they're interesting in any way.
+
+[00:48:09] Drew:
+Yeah, do you know anything about the god of that temple?
+
+[00:48:12] Kristin:
+Yes, but I don't remember.
+
+[00:48:14] Drew:
+I'm assuming they're water-themed in some fashion.
+
+[00:48:17] Kristin:
+I don't think so.
+
+[00:48:18] Drew:
+Oh, I wonder why, though.
+
+[00:48:19] Kristin:
+I could be wrong.
+
+[00:48:21] Drew:
+It does seem like the priests for different temples, gods, whatever you want to call it there, their words do frequently relate to the sphere of influence for the gods.
+
+[00:48:33] Kristin:
+I might be wrong. I also, as I'm thinking about it now, can't remember if I tried to actually find one of the worshippers for this particular deity or just picked someone. I should look into that.
+
+[00:48:44] Drew:
+I think you can only pick those people. Yeah, because in order to have a priesthood, it must be an organized congregation, 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: not just a temple dedicated to a particular god. It has to be a congregation dedicated to a god. 
+[interjection] Kristin: Right.
+[interjection] Drew: And then the selection of the priest has to be from within that congregation. Yeah.
+
+[00:49:04] Kristin:
+Yeah, it's weird to me that I was the one doing the appointing. Seems like they would take care of that themselves. Yeah, in the same way as the mayor. You don't appoint the mayor. Yeah, good point.
+
+[00:49:10] Drew:
+They do the whip-round and decide who.
+
+[00:49:22] Drew:
+Yeah, who are they asking when you get that prompt?
+
+[00:49:26] Kristin:
+Maybe it's just a collective ask.
+
+[00:49:29] Drew:
+Yeah, so maybe they just, you know, gather everybody up into a room and say, "All right, so who should be baron?" Um... 
+
+[00:49:38] Kristin:
+Yeah, me, me, pick me. I made, I think my expedition leader is my broker, but she didn't really have any other useful skills. And so she's not very happy because sometimes she doesn't have a job because she doesn't need to be at the depot all the time.
+
+[00:49:53] Drew:
+I always wonder what the expedition leader is like, how they decide the skill set for that, for that expedition leader, because
+[interjection] Kristin: Mhm.
+[interjection] Drew: it seems like to be an expedition leader, you need to at least be a competent persuader or something. I mean, it's true.
+
+[00:50:08] Kristin:
+Yeah, I think that she had something like that because I did make her the broker. I don't know. I should try to figure out how to make her happier.
+
+[00:50:17] Drew:
+I was reading somewhere on Reddit, people were asking about the difference between the broker and the trader. And apparently, any dwarf can be a trader, but the broker is only appointed by you.
+[interjection] Kristin: Mm-hmm.
+
+[00:50:33] Kristin:
+Okay.
+
+[00:50:34] Drew:
+Yeah, I'm not entirely sure about that, but it's, you know, again, the question of noble positions versus official positions and all of that.
+
+[00:50:42] Kristin:
+Yeah. So did you have anything else from your fort?
+
+[00:50:47] Drew:
+No, I think that's kind of the status at Fort Goldenbar at the moment. We're doing okay. It's about time to dig deeper and start causing fun.
+
+[00:50:59] Kristin:
+I feel like there's a lot from my fourth that I didn't even cover, but there's so much within two weeks, you know. So we would like to hear from you listeners if you made it this far. Let us know, do you want a shorter weekly episode or a longer every two weeks episode? Every two weeks probably means more Twitch streaming if you're into that. So let us know what you think. You can reach out to us at our email, which is a strangemoodpodcast@gmail.com. You can probably contact me on Twitch. I'm thatKristin, K-R-I-S-T-I-N.
+
+[00:51:35] Drew:
+I don't... T-H-A-T. Yeah. A-R-I-S-T-I-N.
+
+[00:51:40] Kristin:
+I assume our listeners can spell that. Well, it's hard.
+[interjection] Drew: I'm out.
+[interjection] Kristin: I think I'm funny. I'm still getting my Twitch legs, so I'm assuming you can contact me. Probably.
+
+[00:51:54] Drew:
+What days do you normally stream again?
+
+[00:51:55] Kristin:
+That is, what days are those? Thursdays and Sundays.
+
+[00:52:02] Drew:
+And then I'll usually take a day on Saturday or Sunday, take an hour. Yeah. Are you going to do that weekly? I'm going to try to. Okay. Yeah. I can broadcast to your channel and all that.
+[interjection] Kristin: Great.
+[interjection] Drew: I'm not sure people get notifications when I broadcast to your channel. It's all very... Everything about Twitch is very confusing to me because I'm old...
+
+[00:52:20] Kristin:
+Right, I think we might be dating ourselves a little bit, but that's okay.
+
+[00:52:25] Drew:
+Twitch and TikTok are the same thing, right? No.
+[interjection] Kristin: Now.
+
+[00:52:31] Kristin:
+I do feel adrift about what social media we have because I would like to share memes and stuff with our listeners, but we don't have a place to do that.
+
+[00:52:39] Drew:
+Yeah, we have a bunch of Discords that people are sometimes in and out of. 
+
+
+Yeah, there's, I'm in some really active Discords under an entirely different name, and I don't know if they care about memes. So maybe look for us on Facebook. That's a safe place to find us.
+
+[00:52:54] Drew:
+Yeah, there are some good Facebook communities out there.
+
+[00:52:57] Kristin:
+Alright, and we're in one of the groups and there's some good stuff on there.
+
+[00:53:00] Drew:
+Yeah, I've gotten a lot of engagement from my last meme post, which was about the fact that apparently whales [interjection] Kristin: Mm-hmm. [interjection] Drew: Have milk and because of their high-fat content, uh, you know, out in the ocean in the cold parts of the ocean. It is apparently, uh, the consistency of toothpaste.
+
+[00:53:19] Kristin:
+Who milked a whale to find this out?
+
+[00:53:22] Drew:
+I don't know, but apparently, if you do milk a whale, you can chew it.
+
+[00:53:26] Kristin:
+Eww. Okay, that's gross. And very dwarven, so you found the right place for that factoid.
+
+[00:53:32] Drew:
+That factoid. Everyone's enjoyed it. Yeah. Except for the occasional person who posts, "that's not actually cheese," you know.
+
+[00:53:40] Kristin:
+That's okay.
+
+[00:53:40] Drew:
+Yeah, I know it's not cheese, man. Get out of here, Party Pooper. I didn't say it was cheese, I just said it was cheese-like and also that you can chew their milk.
+
+[00:53:50] Kristin:
+"Cheese-like" has to be one of the yuckier words. All right, we're getting weird up in here. So I think that we'll call it for this week. I assume we'll be back in two weeks, unless you guys bang down our doors and say you wanna hear from us weekly. We hope to see you in the various communities and in the Twitch chats.
+
+[00:54:09] Drew:
+And again, if you haven't already been listening to the Dwarf Fortress Roundtable, go listen to that.
+
+[00:54:15] Kristin:
+Yeah. Bye.
+
+[00:54:16] Drew:
+Bye! Should we do it again?
+[interjection] Kristin: Three.
+Hello and welcome to this episode of our podcast about the video game Dwarf Fortress. Today we're going to be discussing some of the most common mistakes that new players make when starting out in the game.
+
+Kristin: Yeah, I remember when I first started playing, I had no idea what I was doing. I kept [accidentally] digging into the aquifer layer and flooding my entire fortress.
+
+SPEAKER_02: Oh yeah, that's definitely a classic mistake. Another one is not setting up [proper] food and drink production early on, which can lead to your dwarves starving or dehydrating.
+
+Drew: And don't forget about not [adequately] preparing for attacks from goblin sieges or other hostile creatures. It's important to have a well-trained military and [sufficient] defenses in place.
+
+Kristin: Absolutely. And one more mistake that I made when I first started playing was not [effectively] managing my dwarves' stress levels. It's important to give them breaks and keep them happy, or else they might go on a rampage and start attacking each other.
+
+SPEAKER_02: That's a good point. And speaking of stress, it's also important to [properly] manage your dwarves' [mood] by giving them bedrooms and other [comfortable] living quarters.
+
+Drew: Right. And one final mistake that we see a lot of new players make is not [thoroughly] understanding the game's complex mechanics. It can be overwhelming at first, but taking the time to learn the ins and outs of Dwarf Fortress can really pay off in the long run.
+
+Kristin: Definitely. And if you're ever feeling stuck or confused, there are plenty of [helpful] resources available online to assist you in your journey.
+
+SPEAKER_02: So there you have it, some of the most common mistakes that new players make in Dwarf Fortress. We hope this episode has been helpful, and as always, happy gaming!

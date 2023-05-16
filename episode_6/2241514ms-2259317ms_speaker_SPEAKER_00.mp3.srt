@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:07,520
+Yeah, they have their different people skills and then they go into a lottery, which is weighted
+
+2
+00:00:07,520 --> 00:00:12,240
+by some factor or combination of their people skills and their number of relationships.
+
+3
+00:00:12,240 --> 00:00:16,800
+It's a very complicated formula that is on the Dwarf Fortress wiki. We should talk about it
+
+4
+00:00:16,800 --> 00:00:28,080
+sometime.
+
+

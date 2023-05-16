@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:07,040
+Yeah, that only the center shaft of the windmill starts power flowing. And with the
+
+2
+00:00:07,600 --> 00:00:14,080
+current version, you can connect as long as you're touching I think any block of the windmill,
+
+3
+00:00:14,080 --> 00:00:31,600
+you're good to go to start collecting power from it.
+
+

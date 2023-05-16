@@ -1,0 +1,37 @@
+1
+00:00:00,000 --> 00:00:05,000
+It really was. Yeah, I'm not entirely sure what's going on there.
+
+2
+00:00:05,000 --> 00:00:11,000
+It's a common complaint amongst all Dwarf Fortress people about what is killing my FPS.
+
+3
+00:00:11,000 --> 00:00:17,000
+Because Dwarf Fortress is an interestingly programmed game.
+
+4
+00:00:17,000 --> 00:00:22,000
+You can find large speculations online about like,
+
+5
+00:00:22,000 --> 00:00:28,000
+Am I having extreme FPS issues because my Dwarves are having trouble pathfinding?
+
+6
+00:00:28,000 --> 00:00:30,000
+Like trying to figure out their way around.
+
+7
+00:00:30,000 --> 00:00:37,000
+Is it because they're all making googly eyes at each other in the tavern trying to decide who to build relationships with?
+
+8
+00:00:37,000 --> 00:00:42,000
+And this is a complicated calculation that goes through all these different things.
+
+9
+00:00:42,000 --> 00:00:52,000
+Is it because I have so many kittens around trying to figure out their pathfinding?
+
+

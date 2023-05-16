@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,160
+Hello and welcome to A Strange Mood, the couple's dwarf fortress podcast.
+
+2
+00:00:04,160 --> 00:00:32,160
+I'm Kristen and I'm Drew and we are playing Dwarf Fortress.
+
+

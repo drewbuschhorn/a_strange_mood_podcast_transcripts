@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,000
+There's a rumor that they're made of amethyst.
+
+2
+00:00:02,000 --> 00:00:28,000
+I think people decided they were mad.
+
+

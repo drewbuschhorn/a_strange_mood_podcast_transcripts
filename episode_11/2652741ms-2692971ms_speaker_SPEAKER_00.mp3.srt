@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:06,400
+So the major way to do it again is to adopt an airlock strategy, either with doors or,
+
+2
+00:00:07,120 --> 00:00:13,440
+in the previous version, where door busters were a thing, with lever-controlled bridges
+
+3
+00:00:13,440 --> 00:00:21,520
+so you can bring it up and down. And then you spend a lot of time channeling rather than mining,
+
+4
+00:00:22,480 --> 00:00:27,440
+because channeling is the way that you can kind of dig underneath where you're standing.
+
+5
+00:00:27,440 --> 00:00:34,960
+Yeah. And that way, when you do that, your dwarf doesn't fall into the lava.
+
+6
+00:00:34,960 --> 00:00:52,960
+You know, they're not breaking down a wall, basically, and then having a wall of lava.
+
+

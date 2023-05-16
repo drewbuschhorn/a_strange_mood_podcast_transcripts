@@ -1,0 +1,1091 @@
+
+[00:00:00] Kristin:
+is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress podcast. I'm Kristin. 
+
+[00:00:23] Drew:
+and I'm Drew. 
+
+[00:00:25] Kristin:
+And we're back after two weeks. 
+
+[00:00:27] Drew:
+because we're now recording every two weeks. Yes. 
+
+[00:00:29] Kristin:
+Yes! We played a lot of George Fortress. 
+
+[00:00:31] Drew:
+We really did, actually. 
+
+[00:00:32] Kristin:
+It's been, you know, Drew, it's been a pretty hectic couple of weeks. Like, there's the patch, and then I got sick, and oh, goddammit, will you look at that? 
+
+[00:00:40] Drew:
+Huh, do you have a hole in your shirt? 
+
+[00:00:41] Kristin:
+hole in your shirt? Yeah this is... man. Alright, hang on. 
+
+[00:00:47] Kristin:
+Just give me one second, okay? 
+
+[00:00:50] Drew:
+Okay. 
+
+[00:00:52] Drew:
+Kristin, you're naked! 
+
+[00:00:53] Kristin:
+So, I'm gonna go get new clothes. 
+
+[00:00:57] Drew:
+So instead of going and going to your new clothes and then taking off your clothes, you instead just stripped down here and went over there and now you're going to get new clothes? Yep. Well I have to admit I enjoy it. 
+
+[00:01:06] Kristin:
+Well, that's fine. I'll just leave those there. 
+
+[00:01:10] Drew:
+But I think anyone else would find your behavior extremely weird. Is there anyone who wouldn't? 
+
+[00:01:15] Kristin:
+Which is the weirdest part? Going to look for new clothes naked or just leaving the old discarded clothes there? Really both of it. Yeah, that's fair. 
+
+[00:01:22] Drew:
+So is there anyone you could think of who would think that that wasn't a weird behavior? Well may I web— 
+
+[00:01:26] Kristin:
+Well now I'm mad. I'm mad because I'm naked. 
+
+[00:01:30] Kristin:
+And I don't have any new clothes. 
+
+[00:01:33] Drew:
+So now you're just wandering around mad and naked. Uh huh. 
+
+[00:01:36] Drew:
+I'm a bap bap bap bap bap bap bap bap. 
+
+[00:01:38] Kristin:
+Because I'm a dwarf. Because you're a dwarf. I'm not actually naked. And I'm not going to go get new clothes. I do kind of want my sweatshirt though. 
+[interjection] Drew: I'm not actually naked and I'm not gonna go get new clothes.I do kind of want my...
+
+[00:01:46] Kristin:
+Okay, I'm back. That was fun. 
+
+[00:01:48] Drew:
+That was some excellent Foley work. Thank you. I hope it comes through in the microphone. 
+
+[00:01:50] Kristin:
+We haven't done a little skit like that in a couple of weeks, that was fun. So, Kristin. 
+
+
+[00:01:59] Kristin:
+This week we are going to talk about ages, world age, world generation, all those things. What goes into the world of Dwarf Fortress. 
+
+[00:02:09] Drew:
+That sounds like a fun topic. Do we have anything to do first? 
+
+[00:02:12] Kristin:
+We do have some housekeeping to take care of. First thing is that we are still doing some Twitch streaming. That's mostly happening at my channel, ThatKristin. That's T-H-A-T-K-R-I-S-T-I-N. And to add to that, we now have a YouTube channel that is just At A Strange Mood. And YouTube now uses that at thing, so it's useful. Yeah. I didn't put the podcast on there, but A Strange Mood wasn't taken, so. 
+
+[00:02:40] Drew:
+No, I think that's a good call, but we should probably add the podcast to it. 
+
+[00:02:43] Kristin:
+Yes, well... 
+
+[00:02:45] Kristin:
+Great, now we're confusing everyone. For now, it's just out of strange mood. You can see old Twitch streams there. 
+
+[00:02:55] Kristin:
+they will stay there, not like on Twitch where they go away. 
+
+
+[00:02:59] Kristin:
+We do want to thank the people who have been hanging out with us on Twitch. That's Skelly and Aaron and that guy who keeps dropping by with the rock puns. 
+
+[00:03:11] Drew:
+I'm not sure if that's a compliment or an insult that he keeps dropping by, because he doesn't seem to remember that he was there. 
+
+[00:03:16] Kristin:
+He didn't remember that he'd pun-bombed us before, and apparently he does it to just watch people's channels. 
+
+[00:03:22] Drew:
+It's a community. 
+
+[00:03:23] Kristin:
+I don't know, sometimes he hangs out for a while, so thanks for doing that, I guess. The other little bit of housekeeping is that there's been a little bit of interest in maybe having a Facebook page or a Discord server or something for our fans, such as it is, and us. I hope I'm not too late! 
+
+[00:03:39] Drew:
+And us too. Our single fan. Our ones of fans. We're the ones of fans. 
+
+[00:03:43] Kristin:
+We have like, we probably have tens of fans. 
+
+[00:03:46] Drew:
+Possibly tons of things. 
+
+[00:03:47] Kristin:
+of fans? I don't know. At any rate, a place to hang out and we don't have anything like 
+[interjection] Drew: Jonah.
+[interjection] Kristin: that set up right now, but we could. 
+
+[00:03:55] Drew:
+Yeah, so if you guys have any preference between Facebook or Discord, let us know and we'll probably set something up eventually. Yeah. 
+
+[00:04:02] Kristin:
+Yeah, we are not on Twitter and not going to be on Twitter. Facebook's possibility. I'm already on discord a lot Yeah, that might be my preference Anyway, if you want to weigh in on that you can weigh in on that any other housekeeping? 
+[interjection] Drew: Anyway.
+
+[00:04:15] Drew:
+No, I think that's everything I had on my list. 
+
+[00:04:17] Kristin:
+All right, well, you want to give us an update from your fort? 
+
+[00:04:21] Drew:
+an update from Fort Goldenbars. You'll remember when we talked about Goldenbars last week, we had just kind of gotten set up there. And we were starting to dig down deep through the aquifer that had formed. Call back to our talking about aquifers last time. Ah, nicely done. I know. I'm quite smart. Yes. 
+
+
+[00:04:45] Drew:
+And so we've been digging down and we have actually managed to get down to the strange volcanic wall with the gems and all that sort of thing. So I'm hoping at some point with this fort maybe to be able to get down to hell. 
+
+[00:04:59] Kristin:
+Nice. I am going to interrupt you briefly because we talked a little bit about caverns previously and how there are three layers of cavern. You've now seen all three layers of cavern then. 
+
+[00:05:11] Drew:
+I've definitely seen all three layers of cavern in the new version of the game. 
+
+
+[00:05:22] Drew:
+Yes, so that's the plan. On to hell. But, you know, I've never in Dwarf Fortress gotten to hell before. This is kind of the first time I'm really making a concerted effort to get there. And I'm having a little bit of trouble with it. So those of you out there who are trying to dig down deep and are getting deeper and deeper but having trouble when you start getting into the negative 120s and that sort of thing, all I can say is share your pain. It's a process. 
+
+[00:05:49] Kristin:
+So I'm gonna interrupt again because I've been doing something similar. See I'm derailing us already. I found that I was just scrolling down a whole bunch to put stairs in to maybe get to hell and it got to one negative 129 and stopped and there was no more scrolling. I have not gotten the stairs built down there. So what do you mean by you're saying you're having difficulty getting to hell? Are you just not finding it? 
+
+[00:06:12] Drew:
+No, it's the same thing that you're running into with the scrolling. So you don't actually get to just scroll down and see how. I don't. 
+
+[00:06:18] Kristin:
+Well, I don't want to see it, but I would like to know that it's there somewhere. Yeah, right. I'm assuming that it's at negative 129 since that's where the scroll stops. 
+
+[00:06:27] Drew:
+As I understand it, that is not actually the case. Oh, okay. The scroll stops for that until you find a way to actually get down there. And you have to... 
+
+[00:06:34] Kristin:
+And you have to find the right place on the X and Y axis to dig through and then it will open up. Okay. 
+
+[00:06:42] Drew:
+And you'll know that you found the right place there in part also. There are two ways to get there. One is by digging through the strange volcanic wall. That one's pretty tricky though because it can frequently go into the magma layer, directly into the magma layers. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: And then the other way is by finding the glowing pit. 
+
+[00:07:02] Kristin:
+Okay, I have not found either of those. I've never found a glowing pit. Hmm, okay. 
+
+[00:07:05] Drew:
+But I know on Facebook a couple people have posted about finding that in the Dwarf Fortress Facebook group. 
+
+[00:07:13] Kristin:
+Fair enough. Well, back to four golden bars. 
+
+[00:07:17] Drew:
+So the other interesting things that have been happening in Golden Bars, honestly, it's been a little sedate. I think that might mostly be because of our decision to embark in a Good location, mirthful. In a good mirthful location. Not a whole lot seems to be happening. 
+[interjection] Kristin: good location, right.
+[interjection] Drew: We have had some forgotten beasts. We have had 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: the occasional invasion of goblin snatchers, but no real big attacks or anything like that on either side. Yeah. 
+
+
+[00:07:45] Kristin:
+I've had some long stretches of peace as well. 
+
+[00:07:50] Drew:
+The, but that's given us an opportunity to really build out some of our infrastructure. We've got a decent hospital going. 
+[interjection] Kristin: We are a team.
+[interjection] Drew: Nice. We've got three temples. Ooh, okay. 
+[interjection] Kristin: Ooh.
+[interjection] Drew: And the temples are what I want to talk about for one second, because you'll remember in our last conversation, I talked about Ustath released Paints, the Manic Pixie Dream Girl. Yes. Who is now a militia captain, has three pet war dogs, no other relationships, and is a close friend of the Duke. 
+
+[00:08:21] Drew:
+Who is now actually, yeah, no, Duke. 
+
+[00:08:25] Kristin:
+Yeah. 
+
+[00:08:26] Drew:
+She's a member of the communion of tombs, a temple to the Ashen, which is a group of forgotten beast worshippers. 
+
+[00:08:35] Kristin:
+Ooh, very nice. 
+
+[00:08:37] Drew:
+So they have their temple, which has now been upgraded to a temple complex. Cool. And it's called the Fatal Sanctuary and has a sacred ghost as its leader. 
+
+[00:08:48] Kristin:
+Sacred Ghost. And that's just their title. They're not actually a ghost, right? 
+
+[00:08:52] Drew:
+No, no, it's just their title. It can be confusing in Dwarf Fortress since there are actual gifts. 
+
+[00:08:56] Kristin:
+Yes. 
+
+[00:08:58] Drew:
+The fun part there is of course that once I realized they were forgotten beast worshippers, I started piling the corpses of the various forgotten beasts and statues of forgotten beasts that people have made into that temple onto their main display portion. And yeah, everyone seems very happy in there to just kind of sit and stare at these bones 
+[interjection] Kristin: Everyone.
+[interjection] Drew: of bones of the past and bones of the past and well carved images of horrible beings. It's nice. 
+
+[00:09:28] Kristin:
+Nice. So those are not just rotting carcasses generating the asthma. You have displayed them in some way? Yeah, I let them. 
+
+[interjection] Kristin: Oh, okay.
+[00:09:34] Drew:
+
+[interjection] Drew: And then once they had stopped rotting and were just bones, I brought them over. 
+
+
+[00:09:43] Drew:
+Also, only one of them I guess was actually fleshy. 
+
+[00:09:47] Drew:
+Sure. Yeah, and that was actually the most boring of the forgotten beasts I've gotten. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: That was a skinless alligator. It had a short trunk and it is ravening. Beware, it's deadly dust. Honestly, died relatively easy. 
+
+[00:10:01] Kristin:
+Yeah, I have had some forgotten beasts also die pretty easily. And I've seen some chatter about if forgotten beasts are underpowered in this version. 
+
+[00:10:11] Drew:
+It does seem that way a little bit to me, but I don't object too strongly because in previous versions they would really just wipe out a fortress on their own if you weren't prepped up for it. Mm-hmm yeah that could be unfortunate especially if you're not prepped up. 
+[interjection] Kristin: Mm-hmm.
+
+[00:10:25] Kristin:
+Yeah, that can be unfortunate, especially because you can have just a crop of them all appear in succession and I can see that just completely decimating a fork. 
+
+[00:10:37] Drew:
+The second Forgotten Beast I'd like to talk about is Spen. The Forgotten Beast Spen has come. A giant three-eyed crab. It has a knobby shell and gaunt appearance. Its eyes glow yellow. Its gray exoskeleton is rough and cracked. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: I kind of like that one. Again, it died pretty quick. I said before that the exoskeleton ones really seem to die quickly. The fun part about that one is, for once I decided before they actually got around to killing it, to look at its traits. Later. 
+
+[00:11:07] Drew:
+It has a great musical sense, a great sense of empathy and great intuition. But it has a shortage of patience, a meager kinesthetic sense, and a lousy intellect. 
+
+[00:11:17] Kristin:
+Fair. I mean, you wouldn't really expect them to be geniuses. 
+
+[00:11:20] Kristin:
+Also... 
+
+[00:11:21] Drew:
+Also, it is gripped by a crippling shyness. 
+[interjection] Kristin: So long.
+[interjection] Drew: It takes no pleasure in its talents and appearance. It presents itself modestly and frowns on any flashy accoutrement. It is a friendly individual. It has a calm demeanor. It is quite comfortable with others that have a different appearance or culture. It isn't given to flights of fancy. 
+
+[00:11:41] Kristin:
+Is it a hug monster? 
+
+[00:11:42] Drew:
+It does kind of seem like a hug monster. 
+
+[00:11:44] Kristin:
+Except it's shy, so it won't ask you for a hug. 
+
+[00:11:47] Drew:
+But the best forgotten beast I've gotten so far is the Brush Titan Thrawn. Thrawn, a towering humanoid composed of crystal glass. It has large mandibles and has an austere look about it. Beware its deadly spittle. 
+
+[00:12:03] Kristin:
+That crystal humanoid thing is pretty cool. 
+
+[00:12:07] Drew:
+Yeah, that was actually the one that made me decide to start piling them into the... Yeah. 
+
+[00:12:11] Kristin:
+Yeah, I could see how that would be intriguing that way. You know, I only learned this week that a Titan is just upstairs, a ground-level forgotten beast. 
+
+[00:12:22] Drew:
+Yeah, Titans are the ones that wander the earth basically and so can come up come across from 
+
+[00:12:27] Kristin:
+Right, I yeah, I had one appear and its sprite did not look like what in my head I thought a titan would look like. It was kind of tentacly. name I kind of 
+
+[00:12:37] Drew:
+I kind of feel like the sprites for both Titans and Forgotten Beasts are the same, and so 
+[interjection] Kristin: So the
+[interjection] Drew: the Forgotten Beasts when they get up to, or the Titans, the Titans when they're up high, I kind of feel like they need to have a slightly more colorful look. 
+
+[00:12:52] Kristin:
+Right, instead of the black. 
+
+[00:12:54] Drew:
+Yeah, the black makes more sense down in the caverns. 
+[interjection] Kristin: The black man.
+[interjection] Drew: Yeah, but... 
+
+[00:12:56] Kristin:
+Yeah, but out in the world. Well, maybe that's something we'll see change as time passes. 
+[interjection] Drew: Yeah.
+
+[00:13:01] Drew:
+It does seem like they're doing a good job updating their graphics and that sort of thing. Because we got new graphics for different types of plants recently, I think it was? Yeah, we did get that recently. And I've started to notice it. Like, it started to click as I watched things. 
+
+[00:13:16] Drew:
+Um, current Baron is Solon Tempted Minds, same as before. Um, I believe he was a Duke before. 
+
+[00:13:24] Kristin:
+He said he was a duke this time. I'm getting very confused. A duke is an upgrade from a count. 
+[interjection] Drew: I'm getting very confused.But Duke is a...
+
+[00:13:29] Drew:
+Okay, yes, we are at Duke then. Nice. Yeah, so I think he was Baron maybe when I first wrote these notes, and then became Count, and then became Duke. 
+
+[00:13:36] Kristin:
+Yeah. 
+
+[00:13:38] Drew:
+And then Rimtar Castlebridged is our mayor, an incredibly calm, very polite dwarf. 
+
+[00:13:45] Drew:
+who, unlike Solon, is not inclined to complain. 
+
+[00:13:49] Kristin:
+Oh. 
+
+[00:13:50] Drew:
+Rimtar was elected mayor after showing great political acumen being the animal dissector slash butcher. 
+
+[00:13:59] Kristin:
+Lovely. 
+
+
+[00:14:07] Kristin:
+I could see that. That would be a little scary. 
+
+[00:14:10] Drew:
+So I've been talking for a little while. What's been going on in your fort? 
+
+[00:14:14] Kristin:
+Let's talk about Kroki. Um, it's been really pretty exciting over there. And I think last time I had bemoaned the lack of drama in a good location. And then in, I think, a single stream, I had like two forgotten beasts, or a forgotten beast and a titan, and found the cave dwellers, the cavern dwellers, which are amphibian men. Ooh. And they're very cute. 
+
+[00:14:38] Drew:
+Croak Smash was talking about how cute the amphibian men were. Yeah! 
+
+[00:14:41] Kristin:
+Yeah, that's right. I remember that. And they are indeed very cute. I guess that's one house. 
+
+[00:14:45] Drew:
+If you haven't watched Krug Smash, I don't know how you would have found our podcast in the first place. Right. 
+
+[interjection] Drew: Yeah.
+[00:14:52] Kristin:
+
+[interjection] Kristin: Twitch streaming as well, but he is a delight. Um, so yeah, found the amphibian men. They die very easily and we've had a lot of fighting going on, but I think that we'll jump in where we talked about last week. And first I have to make some corrections because I had talked about Carol the being the mayor and being a legendary weaver. Carol is actually a legendary soap maker and the mayor. And Urvad is the one who was the first mayor that then lost to Carol subsequently. And that is a legendary weaver that I was saying was spending all their time. 
+
+
+[00:15:32] Drew:
+Well, you confused one legendary weaver for a legendary soap maker and I think that happens. 
+
+[00:15:36] Kristin:
+You know, it's handicrafts. So that all happened, and I felt kind of bad for Irvod, and in my head was wondering about dwarven elections and how those things go. So I, when I got the opportunity to make, to choose a baron, I selected Irvod. So he failed up. 
+
+[00:15:59] Kristin:
+And now he's nobility. And as I did this, I got to looking into them because I was thinking about the whole election thing, like I said. And Orvod doesn't really have many friends. Like one or two, he's not married, he doesn't have any children, versus Carol, who has two lovers, four children, and many, many friends. So Carol definitely won that popularity contest. 
+
+[00:16:21] Kristin:
+Uroboros is not currently very happy despite constantly getting to weave and make us the masterwork silk that all of our clothes are now made of. And he is partly unhappy because I have not yet finished upgrading his quarters. And now he's a count instead of a baron, so he's even more angry and embarrassed that like he had dinner in a poor dining room. He finds that embarrassing. 
+
+[00:16:48] Kristin:
+but in upgrading his various rooms I wanted a statue of him for his tomb. Well that's... 
+
+[00:16:53] Drew:
+Well that sounds nice. 
+
+[00:16:54] Kristin:
+Yeah, doesn't it? Well, the metalsmith made a silver statue of Urvaud looking confused, the dwarves refusing Urvaud, and Urvaud losing his re-election. 
+
+[00:17:05] Drew:
+Wait, so this is the statue in his room? 
+
+[00:17:08] Kristin:
+Yes, it's in his tomb, actually. Oh. 
+
+[00:17:09] Drew:
+Oh, and his tomb. 
+
+[00:17:10] Kristin:
+Yes, so this is how he will be memorialized, presumably. 
+
+[00:17:13] Drew:
+So the worst moment of your life is going to be memorialized on your tomb. You have this kind of people to be memorializing. 
+
+[00:17:18] Kristin:
+Right, I didn't tell the metalsmith what to make him be doing, so she just chose, I guess, from her memories of him. And that was what stood out, I guess. 
+
+[00:17:29] Drew:
+Well, that's what I was going to say, is they choose from the things that are kind of high in their mind. Yeah. So that must mean for a lot of people, what they remember about him is him losing his election. 
+
+[00:17:39] Kristin:
+Yeah, it's kind of sad. So that was quite fun. And I actually posted that to Reddit, and it went a little crazy. I don't think I've, like, only maybe my pet rabbit, our pet rabbit, has gotten as many uploads as this poor mare, who is no longer mare, and now he's a count. 
+[interjection] Drew: account.
+[interjection] Kristin: He still spends most of his time weaving, though. 
+
+[00:17:59] Drew:
+I think I would probably just sadly weave if that was what they wielded in... 
+
+[00:18:04] Drew:
+Your memorial statue. 
+[interjection] Kristin: I got you.
+[interjection] Drew: Yeah. I am a baron, you know. 
+
+[00:18:11] Kristin:
+I'm the count now. Actually, I think that this fall, he might get made into a duke. I think that we are headed there, but I will get to that. 
+
+[00:18:21] Kristin:
+We've also had two forgotten beasts, including the vomit monster. Ewww. Yeah, the vomit monster was gross, but we only lost two dwarves fighting that one. 
+
+[00:18:31] Kristin:
+The web-shooting titan, however, was pretty disastrous, because the dwarves get stuck in the webs, and then they die. Actually, we had three forgotten beasts, and I don't have notes on the third one. Hmm. Well. We had multiple goblin seizures. 
+
+[00:18:50] Kristin:
+Uh, the, one of them I walled us in and I told them to use like the first available material and the dwarves made us a gold wall to the exterior. 
+[interjection] Drew: next year.
+
+[00:19:02] Drew:
+And that's why you don't use First Available. Yes. 
+
+[00:19:02] Kristin:
+It was very fancy defensive wall. 
+
+[00:19:09] Kristin:
+Because we were fine inside. I don't think we've even cut down a tree outside. 
+
+[00:19:13] Kristin:
+And so the goblins were seizing us, and eventually the squad, I felt, was trained up pretty well, so we went and took down the wall. Also, I knew that we were gonna be made into a county, I think, at the time. 
+
+[00:19:25] Kristin:
+And so we finally took down the wall. There's gold bars just sitting around. Killed the goblins actually pretty easily. So the goblin sieges have not been too bad. 
+
+[00:19:35] Drew:
+That's good. 
+
+[00:19:35] Kristin:
+Yeah, we've had a couple of those now and then the traders were able to come in and 
+
+[00:19:40] Drew:
+What kind of equipment do you have on your, uh... 
+
+[00:19:42] Kristin:
+I have absolutely no idea. 
+[interjection] Drew: No idea.
+[interjection] Kristin: This is something that I know that I need to work on, and I actually find the interface on this really confusing. When you make a squad, it has the metal armor, leather armor, and no uniform. And they all have Xs by them. I cannot tell if clicking on one of them means no more, they're not going to do leather, or if that means they will wear leather armor. I don't like leather. 
+
+[00:20:06] Drew:
+I think they're going to have to rework that whole UI. I can do it, but only because I did it in the previous version. Right. 
+
+[00:20:11] Kristin:
+Right, I'm gonna have to like spend some brain cycles and actually learn how to do that correctly. They seem to be holding their own though, and we have a couple of like axe lords now 
+[interjection] Drew: to be.
+[interjection] Kristin: and they're getting very attached to their weapons because they've had to do a fair bit of fighting. They've taken down some Forgotten Beasts, they've killed just a lot of goblins, and a fair few amphibian men now too. 
+
+[00:20:32] Drew:
+Yeah, mine go through the cavern dwellers that I have, which are rat men. Uh-huh. They just go through them like hot butter. Yeah, they're... 
+
+[00:20:39] Kristin:
+Yeah, I feel like the amphibian men are dying a lot more easily than the Batman. And I noticed that the amphibian men use blowguns, which is funny, especially because I actually 
+[interjection] Drew: Mm-hmm.
+[interjection] Kristin: had a dwarf make an artifact blowgun. Yeah, that's been pretty good. And I also used the make a burrow in a safe zone and send all your dwarves that aren't soldiers to the burrow to stay safe while the squad goes and takes care of business. That worked really well. My pro tip is don't forget that you assign your dwarves to the burrow or they will dehydrate and slowly starve to death. I didn't actually lose anyone to them, but I was just scrolling around going, why is nobody getting anything done? Why aren't they digging these tombs? Why is everybody so hungry and thirsty? Oh, okay. And then I, in the moment, I think I was streaming. So you can probably go to YouTube and watch all this go down. I just took down the burrow. I need to reestablish it for further invasions. 
+
+[00:21:41] Drew:
+Yeah, when I streamed last week, you can go to YouTube and watch that, and I did a little tour of Golden Bars. Showed off the temples. Yeah. Pretty cool looking. 
+
+[00:21:50] Kristin:
+I have a couple temples now, too. I didn't, I meant to go in and take notes on them, and I forgot, because I took notes on my fort exactly the same way that I play my fort, and then I'm constantly intending to do one thing and then doing 10 other things instead. 
+
+[00:22:06] Drew:
+Yeah, and you write all your notes longhand in your little leather journal, right? 
+
+[00:22:10] Kristin:
+I do write a lot of them with a fountain pen. Yeah, and where I take photos with my phone Which is just a terrible way to do that. I've got much better using the snipping tool on my new computer, but here we are But I did have one cool thing happen that I had never seen before and I got a message Telling me that the world has entered the age of legend Yes, the age of legend 
+
+[00:22:30] Drew:
+the last forgotten beast necessary to trigger a change in the world died. In most cases, you'll see this notification at the start of a new year. Did that sound familiar to you? Yeah, it was. 
+
+[00:22:44] Kristin:
+Yeah, that's at the start of April. 
+
+[00:22:49] Drew:
+Yeah, that's at the start of every year the game checks and sees how many of the great powers as they call it Exist in the world. Yeah, and the great powers consist of the different races 
+[interjection] Kristin: Yeah.
+[interjection] Drew: But also the forgotten beasts of different different sorts including titans and dragons Anything above a certain power level internally in the game, right? and uh, if those drop below certain criterion you transition from One type of world to another and these are called ages of the world Wow 
+[interjection] Kristin: Yeah, these are cold.
+
+[00:23:23] Kristin:
+Wow, so does that mean I'm not going to see any more forgotten beasts? No, you'll still see other forgotten beasts because... 
+
+[00:23:26] Drew:
+Yeah, which means that of the forgotten beasts that were generated at worldstart at least two-thirds still exist 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Yeah, when you go down from two-thirds to one-third of those You then enter the age of legend And then if you drop down from the one-third down to no forgotten beasts you enter into the age of heroes Okay Then if you actually wipe out all the forgotten beasts in your entire world or someone does yeah 
+[interjection] Kristin: Vine Graphics
+[interjection] Drew: Then you begin to enter the ages of the great powers. Oh so usually that means that you'll start out with the great powers like, you know, the Dwarven and Elven civilizations or If you're getting down to a really low number of forgotten beasts, but you haven't gotten to zero You might get something like the age of two powers when a great 
+[interjection] Kristin: Win!
+[interjection] Drew: Dwarven civilization existed and a great dragon existed. Oh, that's 
+
+[00:24:29] Kristin:
+Oh, that's kind of cool. 
+
+[00:24:31] Drew:
+So the DfWiki website has details on all of this. I don't want to necessarily just read through it all straight out. But also, I said some things that probably weren't exactly right, 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: so let me pull this up and we can talk about it a little bit. Yeah, yeah. Because this is always great podcast material. Reading off Wikipedia. 
+
+[00:24:50] Kristin:
+Well, we won't read directly off of it. I was gonna say, oh yeah. I was thinking about this a little bit because I, you know, being involved in this podcast, knew what we were going to talk about. It's funny how that works. But I was thinking about how people will do different lengths of history at their world gen. And so I think that the tutorial and the sort of standard is 100 years of history, and most of us start at year 101 or whatever with our settlements. So does that mean if you let it run for 350 years or something, you might start in a different age? Absolutely. Okay. 
+
+[00:25:28] Drew:
+Absolutely, okay, and this was actually a problem just to give some sort of context to Dwarf Fortress this was actually a problem in other versions of Dwarf Fortress because when you let that run for like 350 years if They if there's a problem with the balancing of the powers of the different races like their abilities and that sort of thing 
+[interjection] Kristin: Bye.
+[interjection] Drew: It's very easy for one race to come to just dominate repeatedly and for a while after necromancer Necromancers were introduced all worlds would just tend to slide towards 
+[interjection] Kristin: For a list of its major
+[interjection] Kristin: For a list of its majorproducts, visit our website atlfbo shit shop dot com.
+[interjection] Drew: Necromancy right and people would find that if they left it 
+[interjection] Kristin: Right.
+[interjection] Drew: You know running for more than 200 years or so it's zombies all the way down It's zombies all the way down. Yeah, just no no recovering and that was kind of boring so It required some rebalancing, and I think it's a constant point of rebalancing amongst the Tarn and his brother Yeah, so to go back to the ages okay 
+[interjection] Kristin: So to go back to the age of...
+[interjection] Drew: We have the age of myth the number of living powers and megabeasts is at least two-thirds of what it was when the world began the age of legends One-third of what it was when the world began the age of heroes the number of living powers and megabeasts is greater than three 
+[interjection] Kristin: Mm-hmm.
+
+[00:26:37] Kristin:
+Okay. 
+
+[00:26:38] Drew:
+Then, as we get down to three, we have the Age of Three Powers. Exactly three powers are alive in the world, such as the Age of Three Powers was a time when the dragon Flarg, the demon Blarg, and the titan Glarg were the only great powers 
+
+[00:26:54] Kristin:
+Right. So is that... you had mentioned that it might be like a civilization and a dragon is the two powers. So one of those powers, or all of them, can be a forgotten beast, right? Yes. You mean the forgotten beast that my ill-equipped squad kills fairly easily? 
+
+[00:27:12] Drew:
+Uh huh. 
+
+[00:27:14] Drew:
+It's a question of balance. And some forgotten beasts are more powerful than others. And that's not strange. P milliman 
+
+[00:27:17] Kristin:
+than others. I was just remembering that I think the vomit monster fought with the amphibian men for a really long time before my squad even dealt with it and it died consequently really quickly, like the amphibian men were holding their own on it. 
+
+[00:27:31] Drew:
+Yeah, it kind of depends on the material the monster is made of. Yeah. I think I've said it in a previous podcast, exoskeleton things seem to be kind of crunched really easily. Mm-hmm. Things that are made out of like lava or rock or gold or brass. Brass colossi. Brass colossi. I don't know actually if colossi is the right pluralization. Colossuses. You're asking the wrong person. You're the Latin person. Yeah, I know, but I think it must be a Greek word, I think. 
+[interjection] Kristin: I asked you the wrong person.Yeah.You're the Latin person.I'm not that bad, I think.
+[interjection] Drew: I don't know. Yeah. At any rate, those are much more resilient and can frequently just wipe out, just tear through a fort. 
+
+[00:28:10] Kristin:
+How do demons and hell things factor into this myth? 
+
+[00:28:14] Drew:
+So they do not count as great powers, I believe. 
+[interjection] Kristin: Okay.
+[interjection] Drew: But they are just as powerful or more powerful frequently than forgotten beasts and other creatures. But because they stay down in hell, they don't have a whole lot of impact on the world them to real. 
+
+[00:28:30] Kristin:
+Right, until you let them out. 
+
+[00:28:31] Drew:
+Fun fact in hell there are not only demons but also angels and if you Uncover two of them at the same time they will fight each other nice. So yeah, so you can get to the three the three 
+[interjection] Kristin: Nice.
+[interjection] Drew: great powers so you can have something like the Basically the age of whatever yeah thing 
+[interjection] Kristin: Yeah.
+
+[00:28:55] Drew:
+When those three have fallen, the status of the mortal civilizations will determine the age. 
+
+[00:29:01] Drew:
+Okay. So you'll start out with the age of whatever great race exists, such as the age of dwarves or elves. Humans don't count for this. 
+
+[00:29:12] Kristin:
+Oh. 
+
+[00:29:13] Kristin:
+study. 
+
+[00:29:14] Drew:
+Then you'll have the Golden Age when less than 50% of civilized creatures are human But there's no single majority so various civilized races people of the world Yeah, then you have the Twilight Age which is where all of the non mundane creatures So elves dwarves all of the goblins are all starting to die off Yeah, and then the age of fairy tales where 90% of all civilized creatures are mundane read human but some non mundane ones still remain and And then you can get to the age of civilization the age of death the age of emptiness Wow You can kind of figure out what all of those are I think without meeting you to read it 
+[interjection] Kristin: is what I think we're thinking.
+
+[00:29:51] Kristin:
+I can't imagine playing a world long enough to get those. Like, I can't have a difficult time imagining how many play hours that would end up being. 
+
+[00:30:00] Drew:
+It does seem like it would be a lot, but you encounter people who talk about playing their fort for like 250 game years. So, yeah, it's cool. 
+
+[00:30:07] Kristin:
+wild to me. I think that I'm only in the 20s of my world having started in a one. But you were, you act like that. 
+
+[00:30:14] Drew:
+I'm somewhere in the 58s, I think. 
+
+[00:30:17] Kristin:
+Okay, so you have, you do have some more play hours than me. And not just from leaving it running. No, no, I think. 
+
+[00:30:23] Drew:
+And also when you start new forts, you know, it usually... It lets some time pass. Yeah, yeah, it does. That's fair. 
+
+[00:30:30] Kristin:
+Yeah, it does seem that way. It's funny that you can ask, like, what is the age of your fort? And that can mean, like, what is the age of your fort? Like, how many years have you been at this settlement? What is the age of your world? 
+
+[00:30:45] Kristin:
+What age are you in? So there's a lot of different ways to talk about that. 
+
+[00:30:49] Drew:
+Yeah, there's a lot of different words for... Age does a lot of duty, I feel like, in the workplace. We got a lot of heavy li- 
+
+[00:30:53] Kristin:
+Yeah, it's doing a lot of heavy lifting. So have you seen any of the other A Ages? 
+
+[00:31:00] Drew:
+Not in this version of Dwarf Fortress. In a previous version, I did go into the Age of Legends at one point. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: I think maybe that was also when I did a custom world generation and set the number of Forgotten Beasts, Mega Beasts, I forget what the setting is in the old version, down pretty low, so there was only like, I think I said like 20 or something. 
+
+[00:31:24] Kristin:
+Right, yeah. So you have done custom world generation then? I have. 
+
+[00:31:30] Drew:
+You can choose kind of like what, basically how hostile your world is going to be, how many different types of different big problems there are by megabeasts or necromantic towers, all that sort of thing. Interesting. 
+
+[00:31:47] Kristin:
+what all you can choose in world generation and I know that there are people who do like a really long history and they say that it takes forever for the world to generate and I read a little bit about that process and I'm not going to try to quote what that happens and like I don't understand it of course but 
+
+[00:32:10] Kristin:
+It is really interesting to think about all of these different civilizations and creatures and things interacting in the background that I will never know of no matter how many times they have been held captive. 
+
+[00:32:22] Kristin:
+that I will never know of no matter how long I spend in this world because I just, I don't, I won't know to look. Absolutely. 
+
+[00:32:29] Drew:
+Yeah. Hopefully that gets re-implemented into Dwarf Fortress. You know where that would be. 
+
+[00:32:38] Kristin:
+in a way that we can. Yeah, actually. 
+
+[00:32:39] Drew:
+Yeah, actually export it because in the older versions, I may have said this before, I've said that a lot during this podcast, in the older versions, DFHack allowed you to export that out into some computer-readable files and basically view it in a webpage. 
+
+[00:32:58] Kristin:
+That would be really, really cool. And I understand, in theory, why it's not accessible as I'm playing, because history is still happening, not just in my fort, but in the larger world. And I guess that going out to map view, you can see news and rumors and things when people bring you that. And I have not been very successful pulling that up and getting those. 
+
+[00:33:20] Drew:
+Yeah, the news and rumors thing, it's always been a cooler concept in concept for Dwarf Fortress than I think in practice. It's always been very hard to actually like tie a rumor into something because a lot of the rumors that you wind up getting are basically like a army march from X to Y. Night. 
+
+[00:33:41] Kristin:
+and I don't know what X or Y are. Exactly. Right, and that's not very interesting to me. But it was one of those things that I went to pull it up and couldn't really tell what I was looking for or looking at. And it's one of those, like, is this how this is supposed to work? Or am I doing it wrong? Or is it just not what I expect? 
+
+[00:33:57] Drew:
+When we get back to my fort, I'll talk a little bit more about some of the bugs I've had fun with. Oh boy! At any rate, yeah, seeing those rumors is, it's a challenge to turn that into something meaningful to you. 
+
+[00:34:10] Kristin:
+Mm-hmm. Yeah, it's a shame. Yeah, I would I would like to know more about these news and rumors 
+[interjection] Drew: Yeah.
+[interjection] Kristin: It's so and it's usually presented in a really intriguing way 
+
+[00:34:20] Drew:
+It is, because it's coming from like a bard comes in and has shared rumors from abroad. 
+
+[00:34:25] Drew:
+The DFHack people are working on that Legends mode thing, but I popped on their website and looked at some of their code that's going on and it basically comes down to that the way that they used to interact with the game to pull that data out just doesn't exist anymore. 
+
+[00:34:39] Kristin:
+more. Yeah, fair enough. 
+
+[00:34:40] Drew:
+So it's just got to wait till they get around to reimplementing it. 
+
+
+[00:34:44] Kristin:
+On an extremely meta note, it is kind of interesting to play games nowadays when we're continually 
+[interjection] Drew: meta note.
+[interjection] Kristin: getting patches and updates and things, and to remember back when you would buy a game and that was what you got on the CD, you know, there wouldn't necessarily be fixes for things 
+[interjection] Drew: on the CD.
+[interjection] Kristin: like this. So it's like in the one that I loved, Caesar 3, when I was young and I could never get military to work, and apparently that was a pretty common problem. Yeah, it was just broken at release. 
+
+[interjection] Kristin: I don't know.
+[00:35:11] Drew:
+
+[interjection] Drew: And so it worked better for me, but yeah, like you would just get the version you got. 
+
+[00:35:25] Kristin:
+Yeah, so when we have notes like these, it can be something that might get implemented in the future and not just us sitting here with our book of grudges. 
+
+[00:35:33] Drew:
+Exactly. 
+
+[00:35:35] Drew:
+the book of grace. 
+
+[00:35:38] Kristin:
+Well, so yeah, that's my fort that we got to the Age of Legend. Because we had those three beast murders that I know of, and presumably maybe others died somewhere in the world. Of BOI 
+
+[00:35:53] Drew:
+Oh, before we go on, I wanted to say one more thing about that. When you're doing your world generation, you can choose the size of the world. 
+
+[00:35:58] Kristin:
+And I'll see you in the next video. 
+
+[00:35:59] Drew:
+And that will also by default have an impact on like how many megabeasts there are and that sort of thing. So it might have been that I made a small world. 
+
+[00:36:06] Kristin:
+Oh yeah. 
+
+[00:36:07] Drew:
+And then just by wiping out the megabeasts in my fort's area was enough to kick us over. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: But yeah, the fact that you've done that in a pre-gen world, I'm impressed. 
+
+[00:36:17] Kristin:
+Yeah, I don't know because I hadn't had that many at Passports, but 
+
+[00:36:24] Kristin:
+Croakie is now a metropolis. Really? We are a county and a metropolis. We have 148 dwarves. 
+
+[00:36:33] Drew:
+Jeez. 
+
+[00:36:34] Kristin:
+And that's with a fair number of deaths, with all of the stuff that happened. Like I said, the webbing titan took out quite a few. And we are still getting migrants despite the danger, which I enjoy reading. And in dealing with that, I'm still playing catch up, trying to keep up on the drinks. That has been a struggle for me at this point, and it's something I'm working on. Because I think I realized that they had permission to cook with wine and some things. And every time traders would come, I would be sure to buy whatever alcohol they had, and we'd just burn through it. And then I was like, I need to go and check that. And sure enough, they were making fine meals with wine. So now that we are not cooking with alcohol, we are only drinking with alcohol. Hooray! 
+
+[00:37:25] Kristin:
+And then after one of the invasions, I also realized that my hospital wasn't functioning, and it was because my chief medical dwarf had died. So I had to go back and appoint a new one, and, you know. That is very sad. 
+
+[00:37:37] Drew:
+That is a very challenging thing to do to make sure that your chief medical dwarf stays there because if you also if you put him in a squad when they start trading he stops doing medical stuff. 
+
+[00:37:45] Kristin:
+Yeah. And like, you get a notification if your mayor dies or your baron, I'm assuming. Yes. For both I did. Chief Medical Dwarf. 
+
+[00:37:57] Drew:
+Yeah, the way I work around all this is I've decided that my nobles will never be part of squads or else to be part 
+[interjection] Kristin: or else...
+[interjection] Drew: Of a like, you know home squad. Yeah, and then also that chief medical dwarf and bookkeeper and all those people They're just uh, they're they're always going to be nobles as well in older versions of dwarf fortress, I think the nobles maybe Refuse to do any jobs whatsoever, but I think in this version they stopped doing like menial jobs, but skilled jobs They'll keep doing okay 
+
+[00:38:25] Kristin:
+Okay, that explains the one that's still weeding. I'm sure our soap maker would be making soap if I were making soap but I'm I've been waiting for our yak herd to get large enough to start doing some butchering. I think we're there. 
+
+[00:38:38] Drew:
+Yeah, I kind of wish again that there was a way to tell Dwarf Fortress globally, your dwarves, don't cook with tallow. Leave the tallow for me to make in the soap. You have to do it by hand. 
+
+[00:38:47] Kristin:
+I'm a white animal, right? 
+
+[00:38:50] Drew:
+Yeah, and the option only appears when you have it. Yes. 
+
+[00:38:53] Kristin:
+Yes, yeah, that's what I ran into with the drinks. Like, if I had waited until we were down to 20, I would not have seen that they were cooking with, like, blackberry wine or whatever it was that I bought. 
+
+[00:39:07] Kristin:
+So after I traded, I went into that menu and made sure that we weren't gonna cook with that. That seems to help. Yeah, so after you. 
+
+[interjection] Kristin: Mm-hmm.
+
+[00:39:20] Drew:
+five seconds or whatever, pause, and then go into kitchen, go into labor, kitchen, 
+
+[00:39:28] Drew:
+something or other with the cooking and unselect their ability to cook with whatever tallow of the animal you just killed. 
+
+[00:39:37] Kristin:
+Yeah. 
+
+[00:39:39] Kristin:
+So that's one need that I've been struggling to keep up with a little bit. Hopefully it'll be better now. I've also had some of the clothing problem, which is why we had our little skit about 
+[interjection] Drew: I swear.
+[interjection] Kristin: dwarves taking off their clothes. And apparently this is an ongoing problem to the point that there are jokes about it in the wiki. 
+[interjection] Drew: Hmm.
+[interjection] Kristin: And the dwarves will indeed take off their clothes when they are worn out and then go naked to get new ones. If new ones exist. Otherwise they'll just be naked and angry. And they also don't really throw old clothes away. So you have to kind of make that happen and there are ways via the atom smasher. And I have not started to run into the problem of being completely overrun with trash, which I think that with this many dwarves we are probably going to get there. And I am still struggling with my magma dump area. And I think that it's something to do with needing a refuse stockpile and a dumping zone in the same tile. You have to layer those together to get it to work. 
+[interjection] Drew: Hi.
+[interjection] Kristin: So we're still just using garbage piles. 
+
+[00:40:48] Drew:
+Yep. The clothes I think they will eventually pick up and put in refuse if you have some of your dwarves set to kind of like a janitor type labor setting. But my understanding is cleaning is kind of at the absolute bottom of their priority list. So if they have anything else to be doing, they'll do that instead. Yeah. I do think that's a good point. 
+
+[00:41:07] Kristin:
+Yeah, so do you have a janitor workforce? So we'll see I also did read that you can still sell used worn clothes for a decent amount of dorf bucks Riches are not really a problem that I'm having in this for it Like we have a ton of silk which seems to be a fairly renewable Resource and he's making high quality stuff there and we have a lot of gems and I think that our gem cutter is really skilled At this stage so I'm not running into money problems at all now that I've dug it 
+
+[00:41:37] Drew:
+Now that I've dug out the, um, now that I've dug out that, uh, hell wall, I've got lots and lots of, um, 
+[interjection] Kristin: Mhm.
+[interjection] Drew: lots and lots of gems and stuff, but my gem cutter just will not get any better. So I don't know what I'm going to do about that. I may just have to pick somebody else. Yeah, give somebody else. 
+
+[00:41:49] Kristin:
+ground. But along with that, and to kind of transition back to your fort a little bit, I have not run into the dreaded FPS death or struggles with frames per second. Despite having a ton of dwarves, we have not a ton of kittens or anything like that, but we have a fair few small animals. 
+
+[00:42:14] Kristin:
+And it's just not happening on my machine. And the other day during stream, your computer, or your game, I don't know that we can necessarily blame your machine, it was really struggling. 
+
+[00:42:25] Drew:
+It really was. Yeah, I'm not entirely sure what's going on there. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: It's a common complaint amongst all Dwarf Fortress people about what is killing my FPS. Because Dwarf Fortress is an interestingly programmed game. You can find large speculations online about like, Am I having extreme FPS issues because my Dwarves are having trouble pathfinding? Like trying to figure out their way around. Is it because they're all making googly eyes at each other in the tavern trying to decide who to build relationships with? And this is a complicated calculation that goes through all these different things. 
+[interjection] Kristin: calculation that goes away.
+[interjection] Drew: Is it because I have so many kittens around trying to figure out their pathfinding? 
+
+[00:43:09] Kristin:
+Yeah, and you decided it was that, did a whole bunch of kitten murder, you monster. Yeah, that was. 
+
+[00:43:15] Drew:
+Because I was I was playing on on twitch and I'm like my my frames per second has dropped down from 30 Which I can live with to two a second, which I cannot deal. Yeah 
+
+[00:43:29] Kristin:
+That's not a deal. 
+
+[00:43:32] Drew:
+And so I'm like, okay, what's going on here? And so I'm like, well, I do have a lot of kittens. So I signed them to be murdered. 
+
+[00:43:38] Kristin:
+Kitten murderer. Essex partner. 
+
+[00:43:40] Drew:
+murderer. Then after about half of those were killed I still didn't have any increase in my FPS and I'm like okay what could be going on here and I just started going through my levels until I found that one small area had smoke that was rising up through my main stairway shaft from the bottom all the way up to the top layer. 
+
+[00:44:03] Kristin:
+What was causing that? 
+
+[00:44:05] Drew:
+So that was from a set of gems being on fire, from being in lava from the hell pit. 
+
+[00:44:14] Kristin:
+Oh, okay. Okay. 
+
+[interjection] Kristin: Yeah.
+
+[00:44:24] Kristin:
+and then the smoke can kill your frames per second. 
+
+[00:44:27] Drew:
+Yes, and it was apparently the smoke because when I ran DFHack has an option to remove all smoke on all levels. I ran that frames per second, went back to perfect. 
+
+
+[00:44:41] Drew:
+And then after a while it started dropping again. Oh Because the smoke started. Oh yeah it came back. Yeah because it didn't get rid of the fire, it just got rid of the smoke. 
+[interjection] Kristin: Oh.
+
+[00:44:51] Kristin:
+Uh, yeah, yeah. Sorry. 
+
+[00:44:52] Drew:
+So I cleared it again and this time I had them put in a door, a hatch, on that stairwell. To contain the smoke? Yeah, on the same level. And that seemed to fix the problem. So even though it was still generating smoke, it was keeping it on one level. And so my personal like... 
+
+[00:45:11] Drew:
+Magic explanation is that there's some sort of calculation issue when smoke rises up from one level to another or possibly in like the path again, maybe Maybe the stairway Smoking in there screws with the pathfinding again, and then that results in this but at any rate If you ever run into FPS stuff like you just got to sit down and figure it out go look for something weird Yeah, or get DF hack installed relatively easy to install. Mm-hmm, and then run clear trash clear smoke clear kittens 
+[interjection] Kristin: Yeah.
+
+[00:45:44] Kristin:
+I think maybe. Yeah, I think there's, I think there's like... 
+
+[00:45:46] Drew:
+Yeah, I think there's like clear baby animals or something. It's ________. 
+
+[00:45:49] Kristin:
+Yeah, it's really funny. I guess it's maybe better feels better than murdering. I still have not installed the attack You're still running vanilla 
+[interjection] Drew: You're right.
+
+[00:45:58] Drew:
+Well, you're a super purist when it comes to games. Sometimes, yeah. Eventually, I think if DFHack gets that Legends mode thing fixed. I'll definitely want it then. Yeah. 
+
+[00:46:08] Drew:
+The other interesting things I wanted to talk about, the main thing, is we're doing well on time. 
+
+[00:46:14] Kristin:
+Yeah, we still got some time. 
+
+[00:46:16] Drew:
+is to talk about some of the weird bugs that we got this time with Dwarf Fortress. Oh fun. One, I may have mentioned in the past, I can't remember if I did in the past, but a lot of people have been noting that they get negative one-year-old children wandering around. Yet, 
+
+[00:46:35] Kristin:
+Yeah, I feel like as a community, we're not talking enough about the dwarven fetuses walking around. 
+
+[00:46:41] Drew:
+Yes, that I think look like bodies with no heads, is that? 
+
+[00:46:45] Kristin:
+And are they made of amethyst? 
+
+[00:46:47] Drew:
+I don't know. There's a r- 
+
+[00:46:48] Kristin:
+I think people decided they were mad. 
+
+[00:46:50] Drew:
+I'm very confused about what's going on there. 
+
+[00:47:00] Kristin:
+We really need to know what's happening. Like, this is a burning question for me. I haven't seen one yet. 
+
+[00:47:06] Drew:
+But I've seen a lot of people post on Facebook about it as well. And I think I have two at this stage. 
+
+[00:47:12] Kristin:
+That's so weird. Are they still negative one or have they aged up? I think they're all good. 
+
+[00:47:15] Drew:
+I think they're all still negative one, so I'm thinking that it's something about like new children being born. 
+
+[00:47:20] Kristin:
+I've had so many babies born in my fort, but I haven't seen one of these. Yeah. I mean, there is always the chance that with the 148 dwarves, I just haven't seen it. 
+[interjection] Drew: Seymour!
+[interjection] Kristin: But, yeah. 
+
+[00:47:33] Drew:
+The other fun bug I ran into was the fact I had a ghost caravan that I decided to incorporate into my storytelling for Dwarf Fortress here, which is I had two giant caravans arrive and we started to carry things out and then we got our stuff out there and poof they vanished. They were just gone. 
+
+[00:47:56] Kristin:
+They're just gone? 
+
+[00:47:58] Drew:
+Must have been a ghost caravan. Yes. 
+
+[00:48:02] Kristin:
+Yes, definitely a ghost caravan and not a bug. 
+
+[00:48:06] Drew:
+Meanwhile, the fortress liaison had also come with them and was wandering around confused afterwards because the caravan that she had arrived in was just gone, disappeared. 
+
+[00:48:19] Kristin:
+Yeah. Oh, man. That's funny. 
+
+[00:48:22] Drew:
+The... she was also bugged out, um, because when I clicked on her to find out about her, um, one, she wanted to... she wanted a throne room, which maybe all Outpost liaisons do. I guess I want a throne room. When they're... 
+
+[00:48:34] Kristin:
+I want to hurt. Certainly when they're abandoned at a fort that they were not intended to be abandoned at. 
+
+[00:48:41] Drew:
+Exactly, and she was listed as having 16 children on her on her character sheet uh-huh being 99 years old 
+
+[00:48:51] Drew:
+And but also she was listed as having, I believe, a goblin as her spouse. 
+
+[00:48:57] Kristin:
+Ooh, that seems like it's maybe taboo in this world. 
+
+[00:49:01] Drew:
+Her spouse was listed on her overview character sheet as Zupkas Hatefortresses, which I'm pretty sure Hatefortresses is a translation of a goblin last name. Oh wow. But when I then clicked on her relations, she was married to Cib Athenichlor. 
+
+[00:49:20] Kristin:
+Which is the dwarven sounding name, right? Yeah. 
+
+[00:49:23] Drew:
+Ooh. Fun fact about her though, she was our Outpost Liaison, and she had her seventh eldest son, Tecud Dolzhenbrek, is a weaponsmith at our fort. 
+
+[00:49:40] Kristin:
+Oh. So that's nice. It's fun to see the relations there. Like I have, I know a couple of dwarves who are like uncle and nephew or something like that, which I always think is kind of cool. And like they don't have other relations there. But you have them. 
+
+[00:49:53] Drew:
+It's a fun moment. 
+
+[00:49:58] Drew:
+They are created out of nothing. Yeah. The dwarf fortress. We don't have parents. They just appear into the world. But then after that, all of your dwarves that are born or the ones, those first seven from your fortress, they become historical figures and actually exist in the game and will move around the map even after you stop playing with them. 
+
+[00:50:18] Kristin:
+Yeah, that's and that comes up to bring it back to CrackSmash. He does that and I always wonder like is this a convenient fiction that he's telling us because he does he's a really good storyteller or are these in fact always dwarves from other forts that then reappear? I don't think I could keep track of my dwarves in that way especially because many of the names repeat so it would be challenging. Absolutely, but yeah he does a good job with it. 
+
+[00:50:39] Drew:
+Absolutely, but yeah, he does a good job with it. Mm-hmm. So Those two were kind of the big weird Bugs that I got over the course of this week. I do feel like I've ran into a fair bit of bugs this time So hopefully we get a new we get a new release 
+
+[00:50:53] Kristin:
+release soon. Get a new Paps soon. I really haven't that I know of. That's always the question is are things happening that aren't supposed to be that way and I just don't know about it? Who knows? That's the fun of Dwarf Fortress. Yeah. 
+
+[00:51:06] Drew:
+Two other, um, my last weird notes to finish out this section. One is that a poem is circulating throughout my fort called Drips and the Brains. Drips? 
+
+[00:51:20] Kristin:
+and the brains? Drips and the brains. I don't think I want to read this poem. Well, you definitely like the m Volkswagen. 
+
+[00:51:25] Drew:
+Well, you definitely don't because it's listed as being extremely bad. 
+
+[00:51:31] Drew:
+The quality is very bad and the topic is of nothing in particular. 
+
+[00:51:35] Kristin:
+Hmm. 
+
+[00:51:36] Drew:
+I also have no strong relationships as far as I can tell amongst all of the top nobles in my board. Yeah, fair enough. And, um, the... I haven't had really great, uh... I haven't had really great objects created at this fort yet, so the best so far has been Ra joined a scepter, which showed the giant gem, um, Fort Teaches. The giant gem Fort Teaches, which was stolen from the Daubed Pages. Um... 
+
+[00:52:02] Kristin:
+Oh, ha, that's really cool. 
+
+[00:52:03] Drew:
+cool. Yeah, we never actually recovered that one. I think the person fled into the caverns and then died, so we never found it again. But it's funny that apparently that made a 
+[interjection] Kristin: So yeah.
+[interjection] Drew: big enough impact throughout Dwarven civilization that we made a scepter depicting it at the center. 
+
+[00:52:18] Kristin:
+I find it really funny that I have one artifact that has a depiction of another artifact on it. Exactly. 
+[interjection] Drew: Exactly.Thank you.
+[interjection] Kristin: Okay. 
+
+[interjection] Kristin: Yeah.
+[00:52:29] Drew:
+
+[interjection] Drew: Yeah, so that's that's been so that's been for golden bars this time. Very cool So do you have any plans for your fort in the future? 
+
+[00:52:43] Kristin:
+Well, I think that it might be time to start working on our scholarship. We don't have a library yet, and I'm eager to get one of those built. And I'm curious to see how, if the mayor keeps getting re-elected, which so far she is. I think those are my big plans. I might want to try experimenting with water in a mist generator. I think that I say that every time we record, but it is a little bit of a daunting project. 
+
+[00:53:16] Drew:
+It can be a challenge. Anything with water is a challenge because when it goes wrong, it goes so wrong. 
+
+[00:53:20] Kristin:
+Right, and I'm like, do I want to maybe do that on a stream so that people can help me, or do I want to do that so I can pause and think and look at Wikipedia and that kind of stuff? Probably the latter, because I'm going to need to have some hand-holding by instructions. So how about you? What're you here for? 
+
+[00:53:38] Drew:
+Well, I want to get back to my original goal, which was to wipe out some goblin civilizations around us. I finally got things stabilized enough at at Golden Bars here, I think, to be able to start equipping up some of these squads. We're at like 120 people, something like that. But overall, I've kind of got obsessed with the digging to hell thing, so I'm going to keep working on that. 
+[interjection] Kristin: Okay.
+[interjection] Drew: I think I'll... 
+
+[00:54:03] Kristin:
+I think I'll let you be in charge of that because it had crossed my mind to do it as well but I think I'll let you be the pioneer there, the hell pioneer. 
+
+[00:54:13] Drew:
+Yeah, it's been fun trying to dig through that crazy volcanic wall because it has both large sets of water monsters and lava in it, magma. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: And so as I carve it out, I frequently do lose dwarves. I think I've lost maybe ten dwarves in the course of digging that out as far as I have. I'm just going to keep going. 
+
+[00:54:36] Kristin:
+Yeah, it has crossed my mind to get this fort to a decent functioning level and it's a metropolis and let it be maybe a duchy and then just go somewhere else and let it continue to function without me. Yeah, you can. 
+
+[00:54:48] Drew:
+Yeah, you've talked before that you want to try recovering it for it at some point. Yeah, just since I had a baby. 
+
+[00:54:53] Kristin:
+Yeah, just since I haven't done it, it seems like maybe it might be a fun experiment. And also I would be curious to see how long it would last without my help. Exactly. We'll see. 
+
+[00:55:03] Drew:
+Yeah, so I think the takeaway for both of us is you should just keep digging! 
+
+[00:55:09] Kristin:
+digging! Just keep digging. 
+
+[00:55:12] Kristin:
+Well, we will be back in two weeks and in the meantime you can find us on my Twitch stream which is twitch.tv slash thatkristin. 
+
+[00:55:25] Drew:
+We may also do some polls or something like that on Spotify. I know a lot of you are listening from Spotify. Yeah. Thanks for your listening. 
+
+[00:55:32] Kristin:
+Yeah, I didn't know we could do polls on Spotify. I don't know if they just released... 
+
+[00:55:34] Drew:
+I was like, yeah, sure. Why not? Yeah, okay 
+
+[00:55:39] Kristin:
+And people can tell us where they would like to have a meeting place whether that is on Facebook or discord exactly hooray 
+[interjection] Drew: Exactly.
+[interjection] Kristin: Well until next time just keep digging 
+

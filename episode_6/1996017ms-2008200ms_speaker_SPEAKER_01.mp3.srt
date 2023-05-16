@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:06,060
+I have a bowyer who's unhappy, so I'm thinking maybe it's time to build him a workshop.
+
+2
+00:00:06,060 --> 00:00:11,380
+And I have a lot of peasants who will become unhappy, so they could go on to an archer
+
+3
+00:00:11,380 --> 00:00:29,320
+squad.
+
+

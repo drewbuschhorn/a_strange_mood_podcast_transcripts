@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:01,880
+I guess that's one housekeeping thing we can do.
+
+2
+00:00:01,880 --> 00:00:03,640
+If you haven't watched Krug Smash,
+
+3
+00:00:03,640 --> 00:00:06,040
+I don't know how you would have found our podcast
+
+4
+00:00:06,040 --> 00:00:06,880
+in the first place.
+
+5
+00:00:06,880 --> 00:00:29,880
+Right.
+
+

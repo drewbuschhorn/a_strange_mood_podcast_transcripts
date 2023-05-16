@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,000
+He said he was a duke this time.
+
+2
+00:00:02,000 --> 00:00:03,000
+I'm getting very confused.
+
+3
+00:00:03,000 --> 00:00:29,000
+A duke is an upgrade from a count.
+
+

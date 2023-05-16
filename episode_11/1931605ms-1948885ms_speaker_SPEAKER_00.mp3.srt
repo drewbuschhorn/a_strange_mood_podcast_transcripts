@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:06,000
+That's right. And, plump helmets, though, those of you who have played a little bit of Dwarf Fortress
+
+2
+00:00:06,000 --> 00:00:11,000
+probably know that you can start the plump helmets just as soon as you dig under one layer.
+
+3
+00:00:11,000 --> 00:00:11,500
+Right.
+
+4
+00:00:11,500 --> 00:00:13,000
+But you'll have noticed that it says,
+
+5
+00:00:13,000 --> 00:00:15,000
+These prefer to grow in cavern soil.
+
+6
+00:00:15,000 --> 00:00:15,500
+Yes.
+
+7
+00:00:15,500 --> 00:00:17,000
+And that is not cavern soil.
+
+8
+00:00:17,000 --> 00:00:21,000
+Dwarf Fortress
+
+

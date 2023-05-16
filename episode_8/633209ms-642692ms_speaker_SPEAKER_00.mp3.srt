@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,200
+On the item is an image of a great horned owl in silver.
+
+2
+00:00:04,200 --> 00:00:07,900
+On the item is the image of a round lime tree in ginkgo wood.
+
+3
+00:00:07,900 --> 00:00:31,900
+What is a round lime tree?
+
+

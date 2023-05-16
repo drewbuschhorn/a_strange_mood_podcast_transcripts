@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,480
+480 glass pipes.
+
+2
+00:00:02,480 --> 00:00:04,000
+That's so many pipes.
+
+3
+00:00:04,000 --> 00:00:30,560
+That's basically a computer that's in...
+
+

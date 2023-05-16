@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:08,800
+Nope, because in areas outside of the spire that I'm digging, I either hit molten rock,
+
+2
+00:00:08,800 --> 00:00:31,280
+which can't be dug through, or lava.
+
+

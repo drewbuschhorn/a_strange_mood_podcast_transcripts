@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,320
+But in the nobles menu, it was saying he didn't have one.
+
+2
+00:00:03,320 --> 00:00:31,320
+So I just unassigned it, reassigned it, and he was happy.
+
+

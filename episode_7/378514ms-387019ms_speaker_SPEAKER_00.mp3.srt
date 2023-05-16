@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,000
+Well, I don't want to see it, but I would like to know that it's there somewhere.
+
+2
+00:00:04,000 --> 00:00:05,000
+Yeah, right.
+
+3
+00:00:05,000 --> 00:00:08,240
+I'm assuming that it's at negative 129 since that's where the scroll stops.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,440
+She is our mayor.
+
+2
+00:00:01,440 --> 00:00:28,240
+She's also extremely racist.
+
+

@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:09,000
+It is kind of funny to watch the dwarves on your super new laptop because the frame, we don't have frame rate limiting in Dwarf Fortress much right now.
+
+2
+00:00:09,000 --> 00:00:10,000
+They just zoom around.
+
+3
+00:00:10,000 --> 00:00:14,000
+Yeah, they're moving about three times faster than they do on my machine.
+
+4
+00:00:14,000 --> 00:00:26,000
+And you can control that guys, like you can, I think you can hit period maybe to slow down the frame rate some, but yeah, it's hard to set and I guess we all just let it run as best it can.
+
+

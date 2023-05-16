@@ -1,0 +1,45 @@
+1
+00:00:00,000 --> 00:00:06,480
+Yeah, that's fair. That's fair. I have done it. It works fine. I was able to sort of,
+
+2
+00:00:07,280 --> 00:00:14,800
+grep is the term, do find, find replace through it for some different bits of information,
+
+3
+00:00:14,800 --> 00:00:21,440
+but it's definitely going to have to wait for the DFHack guys to update the Legends Mode viewer
+
+4
+00:00:21,440 --> 00:00:27,360
+software that's out there before I think it'll be super readable to people. But using that,
+
+5
+00:00:27,360 --> 00:00:32,400
+I was able to find out stuff about the various gods that we have going on and all that sort of
+
+6
+00:00:32,400 --> 00:00:36,960
+thing. And actually, it'd be pretty interesting to combine the information that comes from that
+
+7
+00:00:36,960 --> 00:00:44,800
+with the information that our Discord member wrote. Oh, yeah. Right. He wrote that little
+
+8
+00:00:44,800 --> 00:00:53,520
+script to pull out information using kind of a subsystem in DFHack online. I think the information
+
+9
+00:00:53,520 --> 00:00:58,000
+that he pulled out with that is actually not in the accidental export. Oh, wow. All right.
+
+10
+00:00:59,120 --> 00:01:03,200
+Or some of it is and some of it isn't from what I could see, but I need to investigate that further
+
+11
+00:01:03,200 --> 00:01:23,920
+and see about maybe we can merge all this information together or do something like that.
+
+

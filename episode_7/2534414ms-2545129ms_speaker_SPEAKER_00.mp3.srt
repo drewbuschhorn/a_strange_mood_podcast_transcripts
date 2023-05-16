@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,620
+And it's just not happening on my machine.
+
+2
+00:00:02,620 --> 00:00:05,580
+And the other day during stream, your computer,
+
+3
+00:00:05,580 --> 00:00:08,320
+or your game, I don't know that we can necessarily blame
+
+4
+00:00:08,320 --> 00:00:30,320
+your machine, it was really struggling.
+
+

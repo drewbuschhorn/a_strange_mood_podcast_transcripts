@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,360
+The other thing I will say with digging to the edge of the map and smoothing and all that stuff,
+
+2
+00:00:05,360 --> 00:00:13,280
+unfortunately in some cases if there is water on the other side of the map it will then flow back through.
+
+3
+00:00:13,280 --> 00:00:31,520
+So you're rolling the dice a little bit, but it's about a 1 in 100 chance I've found.
+
+

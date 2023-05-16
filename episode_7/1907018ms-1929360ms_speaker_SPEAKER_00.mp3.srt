@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:05,360
+Interesting. Yeah, I just obviously let it do all the defaults and I am very curious to see
+
+2
+00:00:06,080 --> 00:00:11,680
+what all you can choose in world generation and I know that there are people who do like a really
+
+3
+00:00:11,680 --> 00:00:15,840
+long history and they say that it takes forever for the world to generate and I read a little
+
+4
+00:00:15,840 --> 00:00:21,120
+bit about that process and I'm not going to try to quote what that happens and like I don't
+
+5
+00:00:21,120 --> 00:00:32,560
+understand it of course but
+
+

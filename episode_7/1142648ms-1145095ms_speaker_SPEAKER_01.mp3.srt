@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,040
+And that's why you don't use First Available.
+
+2
+00:00:02,040 --> 00:00:02,540
+Yes.
+
+

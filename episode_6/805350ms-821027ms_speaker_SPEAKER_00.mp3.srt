@@ -1,0 +1,37 @@
+1
+00:00:00,000 --> 00:00:01,120
+We fired the ballista.
+
+2
+00:00:01,120 --> 00:00:01,620
+Uh-huh.
+
+3
+00:00:01,620 --> 00:00:02,500
+I have a whole story.
+
+4
+00:00:02,500 --> 00:00:03,480
+I'm sorry.
+
+5
+00:00:03,480 --> 00:00:05,680
+We fired the ballista, wounded it.
+
+6
+00:00:05,680 --> 00:00:07,280
+It ran back to the caverns.
+
+7
+00:00:07,280 --> 00:00:09,920
+But we were at 20 dwarves, so I retired the fort to its fate
+
+8
+00:00:09,920 --> 00:00:12,160
+with Silvergrande the Golden lurking
+
+9
+00:00:12,160 --> 00:00:30,720
+in the catacombs for whoever would try to recover this fort.
+
+

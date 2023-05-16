@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,680
+That's basically a computer. How many pipes does a cathedral organ have?
+
+2
+00:00:05,680 --> 00:00:09,680
+Anyway, that's not important.
+
+

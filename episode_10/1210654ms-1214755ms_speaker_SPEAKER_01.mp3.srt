@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:00,500
+Yeah.
+
+2
+00:00:00,500 --> 00:00:03,280
+Oh, maybe that'll just be the first name and the last name.
+
+3
+00:00:03,280 --> 00:00:04,820
+Sparklebud.
+
+

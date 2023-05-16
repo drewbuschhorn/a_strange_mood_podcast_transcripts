@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,160
+That is correct.
+
+2
+00:00:01,160 --> 00:00:06,000
+We are continuing to dig down, but it has not gone well,
+
+3
+00:00:06,000 --> 00:00:31,120
+because hole area has been filled with rust for the last 8 days.
+
+

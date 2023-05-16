@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,000
+I think they're going to have to rework that whole UI.
+
+2
+00:00:02,000 --> 00:00:05,000
+I can do it, but only because I did it in the previous version.
+
+3
+00:00:05,000 --> 00:00:29,000
+Right.
+
+

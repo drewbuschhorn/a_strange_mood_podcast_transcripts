@@ -1,0 +1,950 @@
+[00:00:00] SPEAKER_01:
+This is of the highest quality. 
+
+[00:00:19] SPEAKER_01:
+Hello and welcome to A Strange Mood, the Couples' Dwarf Fortress podcast. I'm Kristen. 
+
+[00:00:24] SPEAKER_00:
+And I'm Drew. 
+
+[00:00:25] SPEAKER_01:
+And we have a new microphone. 
+
+[00:00:27] SPEAKER_00:
+So we'll see how this goes. 
+
+[00:00:28] SPEAKER_01:
+It's very exciting. Maybe not for anybody but me, but for me, it's quite exciting. 
+
+[00:00:33] SPEAKER_00:
+Quite exciting, a little microphone. It's a little tiny microphone. 
+
+[00:00:36] SPEAKER_01:
+It's very cute. So we've had kind of a rough week. We had some DIY home improvement done, trying to put in like a mist shower, you know? And then you start doing the plumbing stuff, and then there's water leaking everywhere, and it's just getting deeper and deeper. 
+
+[00:00:57] SPEAKER_00:
+Well, that's not the worst part though, is it? 
+
+[00:00:59] SPEAKER_01:
+No, it's really not. 
+
+[00:01:00] SPEAKER_00:
+What's the worst part, Kristen? 
+
+[00:01:01] SPEAKER_01:
+Well, no, I mean, you know, it just keeps building. And like from the mist shower, then it becomes a bathtub, and then it becomes a pool on the second floor. 
+
+[00:01:12] SPEAKER_00:
+Well, a pool on the second floor, that's never good, but that's gotta be the end of the bad stuff, right? 
+
+[00:01:17] SPEAKER_01:
+Okay, what else bad happened? 
+
+[00:01:19] SPEAKER_01:
+Well, you know, I left for a little while. 
+
+[00:01:21] SPEAKER_01:
+And I came back, and there was a dead contractor in the pool. 
+
+[00:01:26] SPEAKER_01:
+In the upstairs pool, yeah. 
+
+[00:01:28] SPEAKER_00:
+Well, that's okay, we can at least get him out somehow, right? 
+
+[00:01:31] SPEAKER_01:
+Only if we want to kill more contractors. 
+
+[00:01:34] SPEAKER_00:
+Huh, but then we would need other contractors to get those contractors out. Right, and then it's just going to be full of dead contractors. 
+
+[00:01:38] SPEAKER_01:
+Uh, yeah, so that did not actually happen. But I did try to build a mist generator and failed.
+
+[00:01:52] SPEAKER_00:
+Failed catastrophically.
+
+[00:01:54] SPEAKER_01:
+A man died. Uh, yeah. So, only one dwarf was lost. But we'll get to that.
+
+[00:02:01] SPEAKER_00:
+And now he's sitting at the bottom of the pool, slowly rotting up the place. And there's miasma, so that's not making the dwarves happy.
+
+[00:02:05] SPEAKER_01:
+No, no, it's really not what you want as your template for a home improvement project. No.
+
+[00:02:11] SPEAKER_00:
+For the tenth second, they were dancing like somewhat socially unconstrained FIFA, but one second later when they got to the perimeter, their face was completely all over the place. All the scene or they... They... Don't even want to talk about right now or anytime soon. In particular,
+
+[00:02:23] SPEAKER_01:
+We only had to wear masks for like two days.
+
+[00:02:26] SPEAKER_00:
+How long was it before we had all of the fiberglass cleaned up in the bathroom?
+
+[00:02:30] SPEAKER_01:
+Well, it's a good thing we own a ShopVac. Oh, we have good times here.
+
+[00:02:35] SPEAKER_00:
+We really do.
+
+[00:02:37] SPEAKER_01:
+So anyway, this is a Dwarf Fortress podcast, and mostly we talk about games and not imaginary home repair.
+
+[00:02:44] SPEAKER_00:
+It's hard to separate the two when it comes to Dwarf Fortress. It's true.
+
+[00:02:46] SPEAKER_01:
+So Drew, why don't you tell us what's going on in your fort?
+
+[00:02:54] SPEAKER_00:
+The news from Golden Bars. Well, there's been actually very little happening in Golden Bars. One of the interesting things about settling in the more peaceful biomes is that we've had relatively few invasions from our neighbors, even though we have a lot of goblin neighbors.
+
+[00:03:11] SPEAKER_01:
+Two friendly goblins.
+
+[00:03:12] SPEAKER_00:
+I don't know if I'd go that far. We've had one invasion, but they weren't very interesting and died very easily.
+[00:03:19] SPEAKER_01:
+You know, fair enough. 
+
+[00:03:21] SPEAKER_00:
+And then we've had some forgotten beasts come in, but honestly with a little judicious design of our cavern layout and the use of a single well-placed hatch, apparently the forgotten primal gods of the past are unable to break through and instead spend a lot of time killing ratmen. 
+
+[00:03:46] SPEAKER_01:
+Oh wow, that's actually like you have a really, really terrifying guard dog. 
+
+[00:03:51] SPEAKER_00:
+Something like that, except only if your guard dogs then kill the other guard dogs periodically. 
+
+[00:03:57] SPEAKER_01:
+Well, I mean, were the ratmen your guard dog? Or do you mean other forgotten beasts? 
+
+[00:04:01] SPEAKER_00:
+Other Forgotten Beasts, because one Forgotten Beast killed a bunch of ratmen, 
+[interjection] SPEAKER_01: So.
+[interjection] SPEAKER_00: then was killed by another Forgotten Beast, who was then attacked by a new set of ratmen and killed them. And now that second Forgotten Beast is still sitting around. 
+
+[00:04:15] SPEAKER_01:
+You should have like a Forgotten Beast tournament. 
+
+[00:04:18] SPEAKER_00:
+I really should. I think maybe Krugsmash managed that one time. I'm not sure if he did that fair or if he did it by spawning with Arena Mode. Let's start with a quick recitation of the forgotten beasts that have come through Golden Bars. Right. We've had Gedor Bolshevaz has come. A huge hairy tarantula. Did I say that right? That's terrifying. 
+
+[00:04:39] SPEAKER_01:
+That is terrifying. Turn it off. 
+
+[00:04:41] SPEAKER_00:
+Tarantula? Tarantula. I always feel like I put a little Texas on it. 
+
+[00:04:47] SPEAKER_01:
+Yeah, tarantula. Tarantula. I don't know if they say it that way in Texas. 
+
+[00:04:52] SPEAKER_00:
+It has two broad horns and is slavering. Its yellow hair is long and straight. Beware its poisonous bite. 
+
+[00:04:58] SPEAKER_01:
+Yuck. 
+
+[00:04:59] SPEAKER_00:
+Amusingly, for once Dwarf Fortress actually got the right extra attack on the animal - yeah, poisonous bite. Well, wait, no, tarantulas... 
+[interjection] SPEAKER_01: Yeah.
+
+[00:05:06] SPEAKER_01:
+Tarantulas are not venomous. 
+
+[00:05:08] SPEAKER_00:
+They are not venomous, you're right. So it still managed to miss. Ow. 
+
+[00:05:11] SPEAKER_01:
+Oh well. It's scary though. It might be poisonous too. I bet if you ate it, you might die. 
+
+[00:05:15] SPEAKER_00:
+That is probably fair. Next, we've got Sazir, a gigantic skinless iguana. It has wings and undulates rhythmically. Beware its poisonous sting. I'm not entirely sure what an iguana stings you with. 
+
+[00:05:30] SPEAKER_01:
+Maybe it has a stinger on its tail. 
+
+[00:05:33] SPEAKER_00:
+What about its tongue? 
+
+[00:05:35] SPEAKER_01:
+I made the lizard tongue motion there, since this is an audio medium. This is not very helpful. 
+
+[00:05:41] SPEAKER_00:
+But yeah, I think maybe I'm going to assume it stings with its poisonous tail. 
+
+[00:05:47] SPEAKER_00:
+See, there, I did some good Foley work. There you go. I had fun with this one because it had a nice personality description. 
+[interjection] SPEAKER_01: Oh.
+[interjection] SPEAKER_00: It has an utterly languid pace of easy living, calm and slow. It pursues matters with a single-minded focus, often overlooking other matters. It very easily falls in love and develops positive feelings. It finds helping others emotionally rewarding. It tends to consider what others think of it. It tends to share its own experiences and thoughts with others. It doesn't often feel envious of others. It rarely feels discouraged. It has a tendency to consider ideas and abstractions over practical applications. 
+
+[00:06:23] SPEAKER_01:
+Wow, this monster has found the happy way of living. 
+
+[00:06:27] SPEAKER_00:
+It really has. 
+
+[00:06:28] SPEAKER_01:
+He knows the secret. 
+
+[00:06:29] SPEAKER_00:
+That's it. 
+
+[00:06:30] SPEAKER_01:
+Ha ha ha. 
+
+[00:06:30] SPEAKER_00:
+And he also is the one who defeated the second Forgotten Beast in the second wave of Ratmen.
+
+[00:06:36] SPEAKER_01:
+Well, it's clearly working for him.
+
+[00:06:38] SPEAKER_00:
+Y'all said Odysseus the Molten, who was a flying insect made of snow. We'll talk more about him later.
+[interjection] SPEAKER_01: Mmm.
+
+[00:06:47] SPEAKER_01:
+Oh boy, okay.
+
+[00:06:49] SPEAKER_00:
+And that was the forgotten beast recitation.
+
+[00:06:52] SPEAKER_01:
+Yeah.
+
+[00:06:53] SPEAKER_00:
+Um...
+
+[00:06:53] SPEAKER_01:
+I feel like we need to start a bestiary? Bestiary.
+
+[00:06:56] SPEAKER_00:
+Bestiary. A bestiary for each world.
+
+[00:06:58] SPEAKER_01:
+Right! Wouldn't that be fun?
+
+[00:07:00] SPEAKER_00:
+Yeah, we can get the Legends mode out, but we can't get details without the better version of Legends mode. I mean, we have...
+
+[00:07:06] SPEAKER_01:
+I mean, we have some details here on the podcast. We just started Strange Mood Bestiary.
+
+[00:07:10] SPEAKER_00:
+I think I like it. Especially as... You know, a dream opener.
+
+[00:07:13] SPEAKER_01:
+Especially at our non-existent merch store. Richard Page, Justin [inaudible], gorgeous!
+
+[00:07:16] SPEAKER_00:
+We could make little plushies. The other recitation, since again as I said, my dwarves have been kind of boring.
+
+[00:07:22] SPEAKER_01:
+Yeah, that's, I mean, we'll get to what I did with my boring dwarf.
+
+[00:07:27] SPEAKER_00:
+The other recitation that I'll give you now is the interesting items that they've created. There are some fun ones there. But also remember that we have a Facebook group.
+
+[00:07:40] SPEAKER_01:
+Yes, we do. We do. We have a new Facebook group because I started starting us a Discord, and that was harder than I thought it was going to be. And so while I would prefer that we have a Discord, that's going to take me a little while. So we have a Facebook group.
+
+[00:07:56] SPEAKER_00:
+And if you're interested in having us render any forgotten beasts of interest you have or items or artifacts that your dwarves have created, just post a description in there, and we can run it through our AI generator.
+
+[00:08:14] SPEAKER_01:
+Ooh, we can collaborate with AI. We shouldn't open that can of worms. But we did have a listener tell us about an amethyst coffin that one of his dwarves made, and that sounded very cool.
+
+[00:08:23] SPEAKER_00:
+That does sound very cool. Back to the items.
+
+[00:08:25] SPEAKER_01:
+Yes.
+
+[00:08:27] SPEAKER_00:
+So, the recitation of items. We had the creation of a large serrated disc used for traps called lomis, the humility of berries.
+
+[00:08:40] SPEAKER_00:
+Yes, that one was pretty funny.
+[interjection] SPEAKER_01: That's pretty funny.
+[interjection] SPEAKER_00: We had one that was almost actually appropriate. A large metallic screw. The infallible nettle.
+
+[00:08:49] SPEAKER_01:
+Hmm, interesting.
+
+[00:08:51] SPEAKER_00:
+I kinda like it.
+
+[00:08:52] SPEAKER_01:
+Yeah.
+
+[00:08:53] SPEAKER_00:
+As I said, my dwarves have been very boring and almost the entirety of the rest of the artifacts they created were prosaic in one way or another. For example, we have a glass floodgate called Curse Massive, the Punishment of Worshippers.
+
+[00:09:07] SPEAKER_01:
+That's an interesting choice for a floodgate class.
+
+[00:09:10] SPEAKER_00:
+And also an artifact. Great.
+
+[00:09:14] SPEAKER_01:
+Oh, that's super boring.
+
+[00:09:16] SPEAKER_00:
+Really is, but it's called the Dishonest Bastion. Then also a couple of different armor stands made of wood, of all things.
+
+[00:09:27] SPEAKER_00:
+Of which the most interesting named is Dash Bleaches. But we had two interesting items, one of which was not created by the dwarves. And we'll talk about that later in the second half of my fort update. But we also had created a figurine called Icy Stern, the Negative Fungus.
+
+[00:09:47] SPEAKER_00:
+Which is just delightful from the viewpoint of Dwarf Fortress nonsense.
+
+[00:09:50] SPEAKER_01:
+That is really funny as a Mad Lib.
+
+[00:09:52] SPEAKER_00:
+It's a Chirt figurine of dwarves. All craftsmanship is of the highest quality.
+[interjection] SPEAKER_01: Oh, shi-
+[interjection] SPEAKER_00: The item is a masterfully designed image of dwarves in Chirt by Obok Norgurim. The dwarves are laboring on the foundation of a solid construct. It is encrusted with Chirt cabochons, studded with nickel, decorated with kangaroo leather, and encircled with bands of cushioned Chirt cabochons and emerald-cut red diamonds. I included this one mostly just for being a tongue twister.
+
+[00:10:24] SPEAKER_01:
+Yeah.
+
+[00:10:25] SPEAKER_00:
+It menaces with spikes of chert, crundlebone, and llama wool. How do you menace with spikes of llama wool?
+
+[00:10:31] SPEAKER_01:
+I don't know, it just sounds sort of cute and fluffy.
+
+[00:10:33] SPEAKER_00:
+On the item is an image of a great horned owl in silver. On the item is the image of a round lime tree in ginkgo wood. What is a round lime tree?
+
+[00:10:42] SPEAKER_01:
+Maybe it's topiary time.
+
+[00:10:45] SPEAKER_00:
+I guess that could be. Yeah, I like it. At any rate, that is the utterly unexciting update from Golden Bars for the first half.
+
+[00:10:55] SPEAKER_01:
+Okay, well, I don't so much have a fort update as a tale, a long tale of woe.
+So, I was just a little done with my fort in a good locale because they are kind of boring. Like once the dwarves start ticking along happily, unless someone goes crazy or something, like there's just not that much to say. And I didn't really feel all that moved to try to make Krull Keep more aesthetically pleasing. I was just kind of, I was just done. So, I retired it, went to move on to a new location. I decided I, having done a good woodland type locale, I wanted to go somewhere tropical and see different flora and fauna. Um, dug into the earth and there was an aquifer. That's fine. There was an aquifer at Krull Keep. I dug around it.
+
+[00:11:50] SPEAKER_01:
+This one was multi-layered, and it was extremely frustrating, and so I gave up. Quite quickly, I abandoned those dwarves callously to their fate. And lots of water.
+
+[00:12:02] SPEAKER_01:
+So just for experimenting, I decided to un-retire Krull Keep. Couple of years had passed, and I discovered that Krull Keep had become the capital of their civilization. Which I was very excited about, and I started researching, like, what does that mean? And I thought that it meant that the king lived there. I couldn't find the king. The duke was gone. This is our master weaver duke who had been the mayor.
+
+[00:12:26] SPEAKER_00:
+He absconded.
+
+[00:12:27] SPEAKER_01:
+He just left, apparently. I found out later that he just moved away. He just didn't want to be Duke anymore, I guess, and he went somewhere else and got married.
+
+[00:12:37] SPEAKER_00:
+I was going to say, did he at least get married?
+
+[00:12:38] SPEAKER_01:
+Yeah. So maybe nobody liked him at Krull Keep, which was true. Nobody liked him.
+[interjection] SPEAKER_00: "It was true nobody liked him."
+[interjection] SPEAKER_01: Hi, I'm [Speaker 01] at [Fortress name]. And so he just went to start over somewhere. But apparently the Dwarves of [Fortress name] were just, they were doing better than me. Still, I was interested in what might have happened, like what changed. And then from the point of view of the player, seeing how things worked, because there have been a lot of reports of people's nobles leaving. So like your manager is gone or your bookkeeper or whatever, and you can't get work orders done or your broker is gone. So you can't trade. Although I guess you can get another trader at any rate. I didn't run into any of that. I, before I left, had made sure that none of my nobles were in a squad.
+
+[00:13:22] SPEAKER_00:
+And I think the squad thing is kind of the key. You have to learn playing these types of games.
+
+[00:13:24] SPEAKER_01:
+Yeah. Um, and you had warned me about that. So I was careful there. And although I was obviously surprised that the Duke was just gone, but I did see some interesting differences. They had appointed a bunch of, um, nobles that I didn't. So there was like a hammer dwarf and a champion and all of the justice system seemed to be in place without any input from me, which I thought was really interesting. Although they hadn't built a dungeon or anything like that. So I don't know how effective this dwarf-implemented justice system was, but it existed.
+
+[00:14:00] SPEAKER_00:
+Rough dwarven justice.
+
+[00:14:02] SPEAKER_01:
+Yeah. So I didn't know what a Dwarven champion was. I had to look that up. And apparently, he's just like a big military dude who puts on demonstrations. And I would assume walks around flexing his muscles a lot. Or hers.
+
+[00:14:18] SPEAKER_00:
+Yeah, maybe a drill sergeant type thing? But I know that the militia captains also do training, so. Oh, okay. There's gotta be something in there. 
+
+[00:14:27] SPEAKER_01:
+Well, the wiki said he doesn't need a room, so I don't know. But I'm curious. If you join our Facebook group, you can tell me all about what a champion is and why. Also, from the gameplay perspective, my work orders in zones didn't seem to persist. So I checked and they had no drinks. I guess it's not entirely true of the zones, but the offices were broken because the bookkeeper didn't have an office. But when I went to the zone that was his office, it was his hind ear. 
+
+[00:15:00] SPEAKER_00:
+Interesting. 
+
+[00:15:01] SPEAKER_01:
+But in the nobles menu, it was saying he didn't have one. So I just unassigned it, reassigned it, and he was happy. 
+
+[00:15:08] SPEAKER_00:
+Wonder if there's some sort of weird overlap bug or something like that, because they'll consider it to be not really a signed office if it's overlapped. 
+[interjection] SPEAKER_01: Yeah.
+[interjection] SPEAKER_00: How are your farms doing? 
+
+[00:15:17] SPEAKER_01:
+The farms were okay, but the animals were no longer assigned to pastures. 
+
+[00:15:21] SPEAKER_00:
+So they're just wandering around the map. 
+
+[00:15:23] SPEAKER_01:
+Mm-hmm. Yeah, they were just everywhere. So that was an easy fix and like that's one way to organize your animals. Which I've been saying I needed to do because we had so many. There were also just so many yaks and water buffaloes. 
+[interjection] SPEAKER_00: I need a drink.
+[interjection] SPEAKER_01: So we had to do a mass slaughter. One kind of funny thing that I came across was that just some random dwarf had taken the chambers and everything that I meant for the Duke, so he was sleeping in the fancy bedchamber and presumably using that dining room and everything. 
+
+[00:15:55] SPEAKER_00:
+Was he related to the Duke at all or was he just a random? 
+
+[00:15:57] SPEAKER_01:
+Nope, it's just some guy. Yeah. 
+
+[00:16:00] SPEAKER_00:
+I guess he's not coming back. 
+
+[00:16:02] SPEAKER_01:
+Right, like wow, this is a great bedroom. I guess I sleep here now. So that was funny from a story perspective. And then the other kind of thing that I had noticed was just that there were different cavern dwellers. So before it had been frog people and now it was olm people.
+
+[00:16:22] SPEAKER_00:
+Fair enough. Yeah, I actually, you know, I haven't reclaimed a fort in like two versions of Dwarf Fortress, let alone before this one. So yeah, I don't know if the cavern dwellers normally change. And also, also I do kind of think that cavern dwellers are much different in this version. Oh really? I don't really remember having like these huge waves on waves that we've been having. It was usually more forgotten beasts that were the big killer in Dwarf Fortress.
+
+[interjection] SPEAKER_01: Mm-hmm.
+
+[interjection] SPEAKER_00: Killer in Dwarf Fortress.
+
+[00:16:53] SPEAKER_01:
+Hmm, interesting.
+
+[00:16:54] SPEAKER_00:
+Older versions.
+
+[00:16:55] SPEAKER_01:
+And I didn't see like a wave of old people. I just saw a few of them kind of wandering around, but I didn't see any brown people wandering around.
+
+[00:17:02] SPEAKER_01:
+Spoiler, I did not stick with this fort very long.
+
+[interjection] SPEAKER_00: You are.
+
+[interjection] SPEAKER_01: Just because, like, it was still kind of boring.
+
+[00:17:10] SPEAKER_01:
+Um, when you reclaimed a fort in the past, did you run into some of these, like, in the previous version? Did you run into any of the weird, like, management glitches or bugs?
+
+[00:17:20] SPEAKER_00:
+Management glitches, not so much. The bigger thing kind of in the past was actually that the fort was usually super chaotic compared to when I left it. Like they would have floors that were half undone and walls that were changed. Doors would be just left willy-nilly.
+
+[00:17:42] SPEAKER_01:
+That actually reminded me that for some reason they had taken away all of the chests that I had placed as furniture and some of them were still sitting in the bedrooms but they weren't built as furniture so they weren't in use, they were just sitting there.
+
+[00:17:57] SPEAKER_00:
+So they unbuilt them but then never hauled them. Not all of them.
+
+[00:18:00] SPEAKER_01:
+I had a stockpile and it was full of wooden chests. So I don't know, that was odd. I was looking around going, why are there clothes everywhere? And it's because they decided they hated chests.
+
+[00:18:13] SPEAKER_00:
+Yeah, I wonder if they wanted stone chests or... Can you make them?
+
+[00:18:18] SPEAKER_01:
+They had stone dressers. Cabinets, cabinets.
+
+[00:18:23] SPEAKER_00:
+Yeah, there's a stone equivalent, I think maybe called a coffer. I think you can make stone coffers.
+
+[00:18:28] SPEAKER_01:
+Oh, okay. Maybe they wanted those, but at any rate, I put them all back.
+[interjection] SPEAKER_00: Yeah.
+
+[00:18:32] SPEAKER_00:
+At some point, I really have to start trying to figure out what my dwarves actually like because I frequently find that I'm doing things that they just don't care at all about when I'm trying to make them happy.
+
+[00:18:43] SPEAKER_01:
+Yeah, I mean you could go into the full-on detail and try to use materials they like in their individual bedrooms and stuff like Krugsmash does in some of his videos.
+
+[00:18:51] SPEAKER_00:
+I've got 150 dwarves. I can't be bothered with that level of detail, and the Duke's happy enough.
+
+[00:18:57] SPEAKER_01:
+That's fair enough.
+
+[00:18:58] SPEAKER_00:
+What can I say? I'm a mean and capricious God.
+
+[00:19:01] SPEAKER_01:
+Apparently. Well, I mean, I too am a mean and capricious God in that, like, I did abandon them again. I did do a little research. And because I was like, I thought that the capital meant the king lived here. But it means that it's the economic center of the civilization. Do you think that just means that they're exporting the most or importing the most?
+
+[interjection]
+
+SPEAKER_01:
+Importing the most. 
+
+SPEAKER_00:
+I think exporting the most or having the highest value of all of their items compared to anywhere else. Yeah. I think there's, it's again, frequently there are multiple things that go into that, so it might be like they have the most economically linked sites. Did you look at what economically links? I didn't. 
+
+SPEAKER_00:
+I mean, there are so many different things that you can look at for any given site. 
+
+SPEAKER_01:
+Yeah and like when I went back out into legends mode I was looking at like who is their queen and all of that stuff so. 
+
+SPEAKER_01:
+Her name is Feth, and she was a bard, and she pre-existed my time in the game. So she was queen when in the world generation of this civilization. So she has not lately ascended or anything. 
+
+SPEAKER_00:
+And she's not living there. And now she lives in the mountain home. 
+
+SPEAKER_01:
+No, she lives in the mountain home. 
+
+SPEAKER_00:
+Okay, fair enough. 
+
+SPEAKER_01:
+Yeah, she seems like an interesting personality though. I like a queen that was a bard. There was like, well, not a disappointing amount of information about her, but it was kind of bare bones other than the bard thing. Like, it didn't say how she became queen or anything like that, so. Oh well. 
+
+SPEAKER_00:
+Yeah, I think as time goes on they're going to make some of that information available again. 
+
+SPEAKER_01:
+And maybe like in an older world, some of these things would happen or.
+As this world goes on and the monarchs change, be more informative and detailed.
+
+[00:20:47] SPEAKER_00:
+That we talked about, I think in episode two or three, with the necromancer who...
+
+[00:20:57] SPEAKER_01:
+Right.
+
+[00:20:58] SPEAKER_00:
+Yeah, the necromancer who raised someone and then that someone raised someone else and did a sneak attack into the fortress and corrupted someone and all that stuff. Sexual armor.
+
+[00:21:08] SPEAKER_01:
+Yeah, you do get some really interesting stories, and then other times you look, like, look and look in Legends mode, and it's not that much. Like, I thought that there was going to be something quite interesting about our Duke leaving, and no, he just left, got married.
+
+[00:21:22] SPEAKER_00:
+Married. He just noped out. Yeah. You could always just imagine that he ran off with some buxom Dwarven lass. Yeah, it's possible. Buxom Dwarf lass. Buxom Dwarven lass. I don't know. But, yeah.
+
+[00:21:34] SPEAKER_01:
+But yeah. So presumably, he is going to have his happy ever after.
+
+[00:21:41] SPEAKER_00:
+Happily ever after. Wow. Happy ending.
+
+[00:21:47] SPEAKER_01:
+That sounds like something different.
+
+[interjection] SPEAKER_00: Thank you.
+[interjection] SPEAKER_01: So yeah, that's what went on with KrullKey. I decided since I had a functioning fort and I could kind of ignore them for a while, that I was going to experiment with the mist generator thing. So I made a lot of mistakes. I was doing this on stream and knew that I could channel out a place where the aquifer was to create a perpetual pond. I thought that I would pump the water up from there to a mist generator thing on grates, with grates on another level, and the dwarves could be happy because there's mist but not puddles.
+
+[interjection] SPEAKER_00: Mm-hmm.
+[interjection] SPEAKER_01: I'm not sure what I was thinking in that I didn't think there was enough water there to pump, so I had them turn it into a pond thing.
+[00:22:46] SPEAKER_01:
+And so they put a lot of water into it, at which point it was like seven levels deep, whatever that means, whatever measurement that is. 
+
+[00:22:55] SPEAKER_00:
+So you can just imagine it as a floor of water. 
+
+[00:22:58] SPEAKER_01:
+Yeah, this is where our whole bit about DIY the upstairs pool, so it's a lot of water. And then I further realized that I would either have to have a dwarf pumping this water perpetually to create the mist or do a windmill, and I was in no way prepared to try to do a windmill. 
+
+[00:23:19] SPEAKER_00:
+Have you built a pump yet? 
+
+[00:23:20] SPEAKER_01:
+No, I'm going to have to, and we'll talk about that as we continue, but that was not the aquifer that killed the dwarf. Needless to say, I called that a failure. I re-retired Curlkey and went and started a new fort, but I think that as an ongoing project, I will just revisit Curlkey every time I retire or lose a fort and just see what's going on with them. 
+
+[00:23:45] SPEAKER_00:
+I think that's a good idea. It's always good to have a stable base. You can also try to make sure that all of your future embarks are from that same civilization. 
+
+[00:23:54] SPEAKER_01:
+Yes, my new embark is from that civilization because I was like, well, I'm kind of attached now. And then in the reclaiming, I also saw that of my apparently six forts, I guess that includes the new one that I just started, only Krolki and one other, Treasure Treaties, are still functioning. So I knew that Ragdreams was probably gone because of the whole zombie thing, but it was interesting to see that the Treasure Treaties is still ticking along. 
+
+[00:24:19] SPEAKER_00:
+That's good. 
+
+[00:24:21] SPEAKER_01:
+So you're able to, so you have a two out of six hit rate. 
+
+[00:24:25] SPEAKER_00:
+Yeah, it's terrible. 
+
+[00:24:26] SPEAKER_01:
+Wow, that's terrible.
+Two out of five, really, because I mean you're on your sixth. I don't know about you, but a lot of the Rotten Tomatoes actually paint the same paint on top of each other like it's a bit natural to paint.
+
+[00:24:28] SPEAKER_01:
+I am on my sixth fort. So, I mean, that's probably enough from me for a little while. Why don't you tell us more about what's going on in your game?
+
+[00:24:36] SPEAKER_00:
+So, in Golden Bars, we are continuing what I have decided to dub the Folly of Solon.
+
+[00:24:44] SPEAKER_01:
+Oh, this sounds biblical kind of.
+
+[00:24:48] SPEAKER_00:
+Absolutely, because yeah, I'm tossed up between calling it the folly of Solon or the folly of the Duke.
+
+[00:24:55] SPEAKER_01:
+Only the Duke sounds more Shakespearean.
+[interjection] SPEAKER_00: I don't want to do that.
+
+[00:24:58] SPEAKER_00:
+Yeah, I'm not sure which one to go with because I don't want to call it the madness because you know madness has a specific meaning in Dwarf Fortress.
+
+[00:25:06] SPEAKER_01:
+Mm, that is true.
+
+[00:25:07] SPEAKER_00:
+Since the year 121 in the realms of myth, we have been mining for hell.
+[interjection] SPEAKER_01: Hmm?
+
+[00:25:13] SPEAKER_01:
+You're- oh wow.
+
+[00:25:14] SPEAKER_00:
+So the Duke Solon had decided that he wanted to see what horrible things exist deep within the bowels of hell.
+
+[00:25:23] SPEAKER_01:
+Oh boy. I feel like I need to snuggle up in my blanket and you know have a fire and toast some marshmallows. I'm excited.
+
+[00:25:32] SPEAKER_00:
+Ah, don't get too excited. Because in the course of this attempt to mine to hell, we have found basically nothing.
+
+[00:25:43] SPEAKER_00:
+Well, not nothing. We have found gifts of the gods and weird monsters from the forgotten world beyond, before even forgotten beasts were known.
+
+[00:25:52] SPEAKER_01:
+Ooh, that sounds scary.
+
+[00:25:54] SPEAKER_00:
+The best of which, I'll mention here at the start, is a slick metal thong.
+
+[00:25:58] SPEAKER_01:
+Wait, you just found a slick metal thong?
+[00:26:01] SPEAKER_00:
+As we were digging through the wonderful adamantine chute in the middle of the lava, we did uncover a slick metal thong, a religious artifact.
+
+[00:26:13] SPEAKER_01:
+It's a religious artifact? Like this is a priest metal bikini?
+
+[00:26:18] SPEAKER_00:
+I don't know about a priest metal bikini, it might be a god or goddess's metal bikini.
+
+[00:26:21] SPEAKER_01:
+Well, that's more exciting. I mean, you have to think about some of the stuff that we have in museums that archaeologists have found. Like imagine...
+
+[00:26:31] SPEAKER_01:
+500,000 years from now, someone's gonna find the remains of my penguin sex mug.
+
+[00:26:37] SPEAKER_00:
+There you go, yeah, and they'll be like, "Look at this religious artifact."
+[interjection] SPEAKER_01: Yeah.
+
+[00:26:41] SPEAKER_01:
+And it's beautiful. The craft dwarf ship is amazing.
+
+[00:26:45] SPEAKER_00:
+It's like what they say for archaeologists, that whenever they find an object and label it as fertility rituals, they mean it's a dildo.
+
+[00:26:54] SPEAKER_01:
+Oh. Ha ha ha ha ha. Interesting, a dildo. What about, well, never mind. I'm not going to pull at that thread any further.
+
+[00:27:03] SPEAKER_00:
+Let alone the threads on the slick metal thong.
+
+[00:27:07] SPEAKER_01:
+No, I want to know more about the slick metal thong.
+
+[00:27:09] SPEAKER_00:
+There's not really a whole lot more to say because when you find these gifts of the gods, as they're called in the game, they're usually just described in terms of the metal they're 
+[interjection] SPEAKER_01: Yeah.
+[interjection] SPEAKER_00: made of and what they are.
+
+[00:27:20] SPEAKER_01:
+Huh, so how did you find it? Like, was it just lying on the floor? Like, describe to me this process.
+
+[00:27:26] SPEAKER_00:
+So when you find an adamantine chute or a...
+
+[00:27:32] SPEAKER_01:
+So that's actually a thing, you weren't just being poetic.
+
+[00:27:36] SPEAKER_00:
+No, no, that is actually a thing. Okay. That in the lava, you will find a, we've talked about this before, you find a hole.
+
+[00:27:43] SPEAKER_01:
+Find it? Gem-encrusted wall, yeah.
+
+[00:27:45] SPEAKER_00:
+Wall, which will have adamantine fibers. And so the idea, as I understood it in previous versions of Dwarf Fortress, was that you could carve through that adamantine very slowly and then 
+[interjection] SPEAKER_01: Yeah.
+[interjection] SPEAKER_00: Go down into hell, basically through the lava that way.
+
+[00:28:02] SPEAKER_00:
+As you do that in this version of Dwarf Fortress, possibly older versions, but I don't remember it being quite like this, you will uncover various things including gifts of the gods, chunks of wall that when removed spout water or lava, and a few other items.
+
+[00:28:19] SPEAKER_01:
+That sounds unpleasant, potentially.
+
+[00:28:22] SPEAKER_00:
+And just also forgotten beasts that were in there, demons, angels, all these different things can be found.
+[interjection] SPEAKER_01: To be found.
+[interjection] SPEAKER_00: And so as we sent our crazy miners into the Folly of Solon, they found fetid water, magma, red and purple demons that when released murdered swathes of dwarves before they were killed. Yeah. Wow.
+
+[00:28:47] SPEAKER_00:
+And in one case, a snow specter. A very large blob composed of snow. It has a long hanging tail and it squirms and fidgets. She is rarely sick but slow to heal.
+
+[00:28:59] SPEAKER_01:
+Well, she's made of snow. And so... Lava snow. This is a puzzling creature.
+
+[00:29:04] SPEAKER_00:
+It is. Well, she's not made of lava. She's just made of snow.
+
+[00:29:09] SPEAKER_01:
+Well, yeah, she's down by the lava and made of snow.
+[interjection] SPEAKER_00: But she's...
+
+[00:29:14] SPEAKER_00:
+Absolutely. She was relatively easy to kill.
+
+
+[00:29:21] SPEAKER_00:
+But then, quite soon after, we found her counterpart, the forgotten beast Kaskulv-Navapet, a great blob composed of flame. It has a round shell and it squirms and fidgets. Beware its webs. Yikes. Luckily, that one died easily too.
+
+[00:29:35] SPEAKER_01:
+Oh, good. Not so impressed with the Hell beasts yet. But these aren't actually demons, right?
+
+[00:29:40] SPEAKER_00:
+No. Okay. But then the third thing we found was actually a demon/angel. I'm not entirely sure of the distinction here. Yeah.
+
+[00:29:53] SPEAKER_01:
+Oh.
+
+[00:29:53] SPEAKER_00:
+Steadhammer Man is one of our gods.
+
+[00:29:55] SPEAKER_01:
+Oh, cool.
+
+[00:29:57] SPEAKER_00:
+And yes, so he killed the enforcer of Steadhavenman, killed 20 dwarves. That's a lot of dwarves. All of them actually very well trained.
+
+[00:30:08] SPEAKER_00:
+He also disdained decorum, was quick to give up, not quick enough apparently, anger-prone, and disdained martial prowess, but was certainly able to kill people fast enough.
+
+[00:30:20] SPEAKER_01:
+Yeah.
+
+[00:30:21] SPEAKER_01:
+I don't know, maybe it's because we played so much Diablo 4 beta over the weekend, but I'm thinking like these... maybe the difference between an angel and a demon is not as significant as we think it is. I don't know.
+
+[00:30:32] SPEAKER_00:
+I tend to think so in Dwarf Fortress. After all of that, we had found a gift of the gods crown and also the slick metal thong that our mayor has now taken as a symbol of his office.
+
+[00:30:45] SPEAKER_01:
+So does he walk around in the middle of fall?
+
+[00:30:47] SPEAKER_00:
+I think he wears it over his face.
+
+[00:30:50] SPEAKER_01:
+Ah, that's a weird choice, stylistically. Hygienically. I'm not sure anyway.
+
+[00:30:53] SPEAKER_00:
+No one's explained to them what it actually is.
+
+[00:30:58] SPEAKER_01:
+Yeah, fair.
+
+[00:30:59] SPEAKER_00:
+As we said, it is the folly of Solomon.
+
+[00:31:03] SPEAKER_01:
+But you haven't found hell yet.
+
+[00:31:07] SPEAKER_00:
+That is correct. We are continuing to dig down, but it has not gone well because the whole area has been filled with rust for the last 8 days.
+
+[00:31:15] SPEAKER_00:
+In the course of digging for hell, we accidentally breached a wall of lava. Magma. Yeah. Something, whatever, whichever word you're supposed to use. That poured out and killed several dwarves who were working there, resulting in a ghost floating around as the lava poured in. I think that ghost was actually killed by the blob of snow earlier. Do you mean the snow?
+
+[00:31:39] SPEAKER_01:
+Do you mean the ghost was killed or the person who became the ghost was killed?
+
+[00:31:44] SPEAKER_00:
+The person who became the gas press guy. Okay, okay.
+
+[00:31:48] SPEAKER_00:
+But as we are so engaged with the folly of Solon, we haven't bothered to make slabs to put these various ghosts to rest.
+[interjection] SPEAKER_01: These days.
+[interjection] SPEAKER_00: And so there are now...
+
+[00:31:58] SPEAKER_01:
+That's how I felt about the giant swimming pool.
+
+[00:32:01] SPEAKER_00:
+Three ghosts floating around this lava folly area, and I'm just getting a little tired of it.
+
+[00:32:09] SPEAKER_01:
+So outside the fun fiction of the, is it a duke? Duke. Duke going crazy.
+
+[00:32:17] SPEAKER_01:
+Logistically, like, how does this hell digging work?
+
+[00:32:21] SPEAKER_00:
+So ideally, you will set things up
+[interjection] SPEAKER_01: Uh-huh.
+[interjection] SPEAKER_00: So that you're able to dig out the sort of middle of this spire of adamantine.
+[interjection] SPEAKER_01: Yeah.
+[interjection] SPEAKER_00: And as you dig it out, eventually you'll get to an open space at the bottom. And then below that open space at the bottom is hell.
+
+[00:32:39] SPEAKER_01:
+Okay.
+
+[00:32:40] SPEAKER_00:
+And you have to figure out a way to make a door. You have to figure out a way to make stairs or something to get down there. 
+
+[End of transcript]
+Get down. I see. Interesting. So it's not like just accessing a different cavern, but this one's hell. Or is it like that?
+
+[00:32:55] SPEAKER_00:
+It's a little bit like that. It's usually between, I think, two to four Z-levels tall. There's not a direct way for you to get up there, but the demons can fly, so when you breach it, they usually start just spewing out. Yeah.
+
+[00:33:10] SPEAKER_01:
+I want to know what it looks like. Maybe I should have looked this up before the podcast, but now everybody gets to hear my frustration. Like, I want you to get to hell so I can see what it looks like. I had done a little bit of reading about it, and I was confused. I didn't realize that you accessed it through the adamantine spire. Is that what you're saying? I thought it was just a sort of matter of digging until you hit it.
+
+[00:33:32] SPEAKER_00:
+Nope, because in areas outside of the spire that I'm digging, I either hit molten rock,[interjection] SPEAKER_01: Mm-hmm.[interjection] SPEAKER_00: which can't be dug through, or lava.
+
+[00:33:42] SPEAKER_01:
+Yeah. Or lava. Okay. Molten rock or lava. Seems like the same thing.
+
+[00:33:48] SPEAKER_00:
+Not quite, because lava will pour, molten rock will stay in place. Oh!
+
+[00:33:51] SPEAKER_01:
+Oh, interesting. It's like hot rock putty. Exactly.
+
+[00:33:54] SPEAKER_00:
+Accessing hell is through a spire, is my understanding. Okay.
+
+[00:34:04] SPEAKER_01:
+I'm going to have to go to YouTube or ask again our listeners. Join our Facebook group and show me hell. I want to know for science and curiosity.
+
+[00:34:16] SPEAKER_00:
+Yeah, I've watched a couple of people do it on YouTube, and the general consensus is that once you breach that, your fort is done. Right. Because the...
+
+[00:34:23] SPEAKER_01:
+You can't handle the demons probably.
+
+[00:34:25] SPEAKER_00:
+Yeah, the demons pour out, and you have to have things built up very specifically in order to kill them.
+
+[00:34:31] SPEAKER_01:
+Okay, yeah. I'm just gonna have to see some images of it. I just want to know.
+
+[00:34:37] SPEAKER_00:
+But that is where we have left it. From a non-fiction point of view, I'm gonna give them kind of one or two more good sessions of my time. And if we're still not managing to get back there, because the [volcano] at this point is full of lava. If we can't get back there, I haven't been able to find another spire. There's, I believe...
+
+[00:34:58] SPEAKER_01:
+Oh, so you can't access your spire anymore.
+
+[00:35:01] SPEAKER_00:
+Right, and so the one because there's one to three generated per map.
+
+[00:35:06] SPEAKER_01:
+Okay.
+
+[00:35:07] SPEAKER_00:
+and you're supposed to... I guess in this case what I was supposed to be doing is rerouting water to pour into the lava to turn into obsidian so I can clear out a space and then dig down through there.
+
+[00:35:19] SPEAKER_01:
+That sounds hard.
+
+[00:35:20] SPEAKER_00:
+That's a lot of effort at this point and honestly I'm kind of bored with these guys. Yeah. 
+[interjection] SPEAKER_01: Man.
+[interjection] SPEAKER_00: Also, none of my dwarves have anything interesting going on. You know, I've tried to make a personality out of my Manic Pixie Dream Girl goth person. Mm-hmm. She's done nothing. There is no real conflict between the Duke and the Mayor.
+
+[00:35:42] SPEAKER_00:
+Yeah, anything interesting that you've heard about them in the course of this podcast and the last podcast was me basically fictionalizing and editorializing.
+
+[00:35:51] SPEAKER_01:
+And editorializing. Well sure, I mean some of that's required. You do have to bring your own fun but I understand like the whole thing with [Kerrek] was like meh they're not...
+
+[00:36:01] SPEAKER_01:
+That interesting and I like the settlement aspect I think as much as I like the later management aspect.
+
+[00:36:09] SPEAKER_00:
+I think that's fair. And we also both kind of thought that we would have a little bit more interesting stuff going on in the good environment. Yeah. Yeah. Mirthful, like more fairies and stuff like that, and none of us really saw any. Yeah, always, uh...
+
+[interjection]
+
+[00:36:21] SPEAKER_01:
+All I had was fluffy wamblers and they're really boring.
+
+[interjection]
+
+[00:36:25] SPEAKER_00:
+Yeah, so it's just sort of a more boring version of a regular area. So I'm going to go back to a more interesting area where I can do more of a mega project, which has always been more fun to me anyway.
+
+[interjection]
+
+[00:36:33] SPEAKER_01:
+Yeah, you do well with like the thematic forts kind of. Yeah, so yeah.
+
+[interjection]
+
+[00:36:37] SPEAKER_00:
+Yeah. So, yeah. So that just goes to show you people, you got to be interesting or your God may get bored with you.
+
+[00:36:45] SPEAKER_01:
+And leave.
+
+[00:36:48] SPEAKER_01:
+Which is what I did, and now I'm on another new fort. And I had mentioned that I wanted to do a tropical locale. I really couldn't find any of those with no aquifer, and also like, I'm a big girl, I need to be able to deal with aquifers. I didn't really go tropical on this new one, I just looked for a locale that seemed interesting, that had a stream and a good mix of metals, and it has sand, multiple colors of sand, and clay. So we have a lot of resources, and I've already, I'm only 10 or 12 Z levels down, if that, because of water. But just in that, I've found quite a few gems, we found some metals, so I feel like this is a really good spot.
+
+[interjection]
+But that Aquifer Man, like I know that this is such a newbie problem to be complaining about and we've talked about it before, but it's on multiple levels, it's constantly seeping, I can't seem to dig around it, and then I started digging out a narrow walkway with a channel on either side of it, and then digging out under the next level in those regions a little bit so that I could have a deep pool for all this water to go, leaving a walkway kind of dry.
+
+[00:38:07] SPEAKER_01:
+Except they just kept flooding. So I have like four or five staircases and then pools that are now completely full of water and we did lose a miner. RIP, DuModd.
+
+[00:38:19] SPEAKER_00:
+Do mud.
+
+[00:38:20] SPEAKER_01:
+Dumod who is doomed. Yeah.
+
+[00:38:22] SPEAKER_00:
+Doom Dooma.
+
+[00:38:24] SPEAKER_01:
+And like, I feel like I can't get anything started. I finally just gave up and put in a dormitory in one of the upper sand levels because we have migrants show up. Like, guys, we don't really have food. We barely have drinks. What do you have? Why are you here? Are you crazy?
+
+[00:38:44] SPEAKER_00:
+You're not particularly close to the rest of your civilization. Really?
+
+[00:38:48] SPEAKER_01:
+Not really, no. Like we're not as far as the good location was, but...
+
+[00:38:54] SPEAKER_01:
+Yeah, so actually last night, after seeing me complain about it repeatedly, Drew helped me after I begged and pleaded and did a little bit of digging around. And what was your strategy in dealing with what I was saying?
+
+[00:39:10] SPEAKER_00:
+You had actually gotten a pretty good start to it, but the problem when dealing with water in Dwarf Fortress is that you have to get everything absolutely right or it becomes problematic quickly. And you had, I think, missed basically four squares of smoothing that needed to happen. So I went and started... I started from the last point where you had gotten everything smoothed properly. Mm-hmm. Then I went off in another direction. Mm-hmm.
+
+[interjection] SPEAKER_01: Mhm. 
+
+[interjection] SPEAKER_00: For, you know, five tiles, whatever. And then started digging down as well. Hit the aquifer again. Yeah. And then set the smoothing on each level, and what you kind of have to do is dig out a hole, dig a stair, then smooth around and not dig the next stair until that level is smoothed, and then do it again and again and again until they get through the aquifer. Usually ten levels. Okay. And... Wow. That's not fun.
+
+[00:40:10] SPEAKER_01: No.
+
+[00:40:11] SPEAKER_00: Some other solutions to it are to have wood chopped and ready to go and close, and then you can mine out a square around your stair and put up wooden walls real quick.
+
+[00:40:27] SPEAKER_01: Okay, that was, I watched a video from Blind IRL and his strategy was to wall around the staircase. The one time I did it, I had a little bit too much mined out, I guess, and one of those dumbasses walled himself out. And so I had to then take that wall down. Yeah.
+
+[00:40:46] SPEAKER_00: Yeah, yeah, that's why I consider the wall-building thing to be frustrating. 
+
+[interjection] SPEAKER_01: Mm-hmm. 
+
+[interjection] SPEAKER_00: But the difference is, you can do that in the cases where you can't actually smooth the walls. Mmm.
+
+[00:41:03] SPEAKER_00: Right, exactly. And so in that case, I was able to kind of go from where you were trying, and I went over a little bit and was able to get to what they call it? Not putty stone. Composite.

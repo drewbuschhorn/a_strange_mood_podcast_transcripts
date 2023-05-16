@@ -1,0 +1,1161 @@
+[00:00:00] Kristin:
+This podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress podcast. I'm Kristin. 
+[interjection] Drew: And I'm Drew.
+[interjection] Kristin: And we are playing Dwarf Fortress. 
+
+[00:00:27] Drew:
+Yes, we are, Kristin. 
+
+[00:00:29] Kristin:
+Not at the moment though. 
+
+[00:00:30] Drew:
+No, instead we're recording a podcast because that's what we do, apparently. 
+
+[00:00:35] Kristin:
+Yeah, I'm glad you noticed. Oh, it's been nice here. Like we've had the windows open. It was Easter. But you know, with the windows open, I keep getting stuff stolen. 
+
+[00:00:49] Kristin:
+By what? By birds! These giant birds! They come out of the sky and they steal my gemstones! 
+
+[00:00:55] Drew:
+Your gemstones? Why do you just have gemstones lying around? 
+
+[00:00:58] Kristin:
+I use them to buy stuff. 
+
+[00:01:00] Drew:
+Buy stuff from home. 
+
+[00:01:01] Kristin:
+The traders. 
+
+[00:01:03] Drew:
+So traders come by, you trade with them, but then you just leave your gemstones out afterwards. 
+
+[00:01:08] Kristin:
+Sometimes, yeah, if I don't get around to picking them up immediately. 
+
+[00:01:11] Drew:
+Okay, so in case you don't get around to picking up your super valuable gemstones and now you're angrier than the birds steal. 
+
+[00:01:17] Kristin:
+Well, it might have been a ghost. 
+
+[00:01:20] Drew:
+Okay, I have more questions. 
+
+[00:01:22] Kristin:
+Well, you know, sometimes ghosts steal things. 
+
+[00:01:27] Drew:
+But not birds. 
+
+[00:01:28] Kristin:
+No, birds steal things too. 
+
+[00:01:29] Drew:
+Okay, so it's either a ghost or a bird. Yes. Or possibly a monkey. 
+
+[00:01:33] Kristin:
+It could be a goblin. 
+
+[00:01:36] Drew:
+These are the kind of problems dwarves have. 
+
+[00:01:38] Kristin:
+It's true. Although, you know, in my new fort I have not seen any goblins yet. We haven't even had a snatcher. 
+You haven't? 
+Nope. Well, speaking of new fort, shall I tell you about my new fort?
+
+[00:01:49] Drew:
+Tell me about your new fort.
+
+[00:01:50] Kristin:
+Well, last we heard, I was really struggling with the aquifers and you finally had to come and help me. That problem was solved. I did run into one more problem and I very quickly walled off that water. Nice. And now it's not a problem and I've just moved away from it entirely. So once again, I'm still just sort of digging around the water. 
+[interjection] Drew: Once again!
+
+[00:02:09] Drew:
+We had water pouring out, we put up a wall, and then we forgot about it. 
+
+[00:02:12] Kristin:
+Well, it was oozing more like. But I did run into, again, the dwarf who was building that wall. Actually, it wasn't the dwarf who was building that wall because he was carrying an axe. Anyway, someone got walled out. So I had to tear down the wall, get him out of there, and then rebuild the wall. It was a whole wall thing. 
+
+[00:02:30] Drew:
+Hmm, but now it's solved forever. 
+
+[00:02:33] Kristin:
+You never know. You know how it goes with dwarves. 
+[interjection] Drew: You know.
+[interjection] Kristin: But this fort's called Rasp Boat. 
+
+[00:02:40] Drew:
+Rasp Boat. Which is...
+Rasputin. Just say it like a Russian. Um, hopefully we're not offending anyone. Well, so yeah. And then I had quite a few other logistical problems with this fort to the degree that I was like, okay, this fort is broken and I'm just going to start a new one. That ended up not being the case, but some of you probably saw this on stream. I was feeling like a lot of time had passed without seeing merchants and I really needed merchants because we need more dwarves, we need other stuff. And I finally went and looked and the initial merchant traders from our civilization were stuck on the map. Like maybe 15 tiles, 20 tiles away from our trading post.
+
+[00:03:34] Kristin:
+And they wouldn't leave. And when I clicked on them, they were all very unhappy because they were hungry and sitting out in the rain and they haven't seen their family for a year.
+
+[00:03:45] Kristin:
+So that was bad. And in sort of brainstorming what to do about that, I was like, do I have to kill them? Murder, you suggested that I take that trading post down and maybe that would free them. And it worked! Yay!
+
+[00:04:02] Drew:
+Yay. So they weren't actually at the trading post though.
+
+[interjection] Kristin: No.
+
+[interjection] Drew: I thought when you were talking to me that they were at the trading post and so we were going to free them. Okay, I have absolutely no idea why that would have worked. They must have gotten stuck in some sort of mental loop between do we want to leave, do we want to go to trade? Some of their stuff was... 
+
+[00:04:16] Kristin:
+And some of their stuff was still at the trading post, and now that stuff is mine. Then the next year, my civilization did not come back. Fair enough. They did come back the following year after that. So still don't know what was up with that. I'm assuming pathing, because it seems like any time I have a problem with Dwarf Fortress, I can say, oh, well, they're probably having trouble with the pathing. And then I sound smart.
+
+[00:04:38] Drew:
+Yeah, exactly. I ran into the same, not the same thing, not something as strange as that, but I did have the elves stick around at my trading post for like half a year before I realized that it doesn't really cause any problems. They're just kind of sitting there when other people came by to trade. And finally I was like, "I'm tired of you just loitering here." 
+[interjection] Kristin: Yeah.
+
+[00:04:57] Kristin:
+"Loitering here." 
+
+[00:04:58] Drew:
+Yeah, and so I deconstructed the trading post. I think I stole like some plants from them or something. Mad boohoo. Yeah, and then they left and I'm like, "If you never come back, I don't care." 
+
+[00:05:10] Kristin:
+"Don't let the door hit ya." Now I wonder if in my very first fort, where I ended up not having merchants come for a really long time, if I had some stuck on my map somewhere. Entirely possible. And currently, I do not have merchants. No. 
+
+[00:05:24] Kristin:
+That is solved. 
+
+[00:05:26] Kristin:
+But then the other problem, and I might have talked about this a little bit on the last episode, is that we opened up the caverns, a cavern, and it didn't have moss. It was just mud. So there was nothing on the ground. It was either just plain stone or mud, and I can farm in that, but that was not going to be helpful for pasturing animals. 
+
+[00:05:47] Kristin:
+And also it's gross. And so I was like, "Okay, I'll do what we're supposed to do and I'll just keep digging."
+And I dug, and I dug, and I dug, and I didn't find the caverns. And I was extremely frustrated because so much dwarven industry really relies on them. Finally, I did hit them. It was a matter of just opening up six tiles around the staircase in one place. But before that, I was digging out these giant spurs in all the cardinal directions looking for the caverns. But I guess the good news is that I now have that established to then put bedrooms and stuff down there.
+
+[00:06:24] Drew:
+Yeah, and to find different metals and stuff to mine for me.
+
+[00:06:26] Kristin:
+And swap the mine for me. Yeah, and we've had a lot of gems. The metal selection that we have at this place is not excellent, but we do have a lot of gold. So I'm thinking that the dwarves will have golden goblets and other things that will make dwarves happy.
+
+[00:06:43] Drew:
+Yep, and you can trade for them and steal and all that when people come by.
+
+[00:06:47] Kristin:
+That's true. And then the traders will come by. Yeah. So that's the sort of logistical problems that I was running into with it.
+
+[00:06:56] Kristin:
+I did not end up having to start a new fort. But I was pretty discouraged there for a little while. And then, like, because of that, and I couldn't get anything to function, I had taken some time off from the game, and then I started streaming, and I had this, like, utter panic moment of, "I don't know how to play this game! What do I do? Who are these people?" 
+[interjection] Drew: I love these moments.
+[interjection] Kristin: Like, it was a bad scene for a few minutes. But then I remembered, and now I'm enjoying it again.
+
+[00:07:23] Drew:
+Well, I'm glad.
+
+[00:07:24] Kristin:
+So after digging all the spurs and everything, we found actually both the lower two caverns, so like the dark blue-green moss and the purple moss. And then we found, we hadn't found the 
+[interjection] Drew: Mhm.
+[Interjection] Kristin: I haven't played Dwarf Fortress in a while, but I remember the magma being a big deal. 
+
+[Interjection] Kristin: Magma yet, but there was some hot stone and I was like, okay, well, we'll just dig into that and we'll hit magma eventually. We hit magma immediately and I saw a dwarf get incinerated. 
+
+[Interjection] Drew: And I saw it.
+
+[00:07:50] Drew:
+It is always a little funny when that happens. I felt like... 
+
+[00:07:54] Kristin:
+I felt really bad, but man, it was just like poof. 
+
+[00:07:57] Drew:
+Yeah, they're there. They just burn straight to ash. Yeah. 
+
+[00:08:00] Kristin:
+Yeah, he was just gone. So then I went to the layer above that and built all of my magma workshops. So his sacrifice was not in vain. 
+
+[00:08:12] Drew:
+The zone where you have all those is now named the Memorial X-Dwarf. 
+
+[00:08:17] Kristin:
+Yeah, I did have to make him a slab because obviously there's no body and he was the ghost. But I also, speaking of logistics, successfully on the floor above did the dig a channel down to the magma and that's where my forges are. Nice. So I was very proud of myself for having them. Yeah, got the hang of that. And in doing that we uncovered... 
+
+[00:08:47] Kristin:
+Exposed at least one gem wall. I'm thinking that I got more than one notification. So that could have either been more than one notification or there are two places that have the gem wall. 
+
+[00:08:58] Drew:
+Yeah, I've had that happen as well. Like it tells me I found a magma sea twice. I'm not entirely sure. It must again be some sort of pathing issue. 
+
+[Interjection] Kristin: Mm-hmm.
+
+[00:09:06] Drew:
+Visibility issue. 
+
+[Interjection] Kristin: I haven't played Dwarf Fortress in a while, but I remember the magma being a big deal.
+And this time, I immediately went and saw where it was and put a hotkey there, and I can go back and find that and deal with that. You're so smart. "I am so smart. I was really smart with doing this one." Oh yeah, and speaking of my ghost that stole a gem, I'm trying to be organized, and I have like all of this in my head under the header of like "dwarf logistics." So the giant kias, keys? Kias. I don't know. Anyway, the giant birds kept stealing our gemstones out of the trading post, so I finally moved it into the mountain and smoothed out an entrance for traders to be able to come and go, and that has solved the problem. No more bird theft.
+
+[00:09:48] Drew:
+"Oh, that's a good plan. Yeah."
+
+[00:09:53] Drew:
+"Um, that leads to my stuff actually pretty well."
+
+[00:09:59] Kristin:
+"Inadvertent."
+
+[00:10:01] Drew:
+"Which is, for me, the news from my forts are that we retired, or rather I retired from Fort Golden Bars."
+
+[00:10:12] Kristin:
+"Without finding hell."
+
+[00:10:13] Drew:
+"It was exceedingly boring."
+
+[00:10:18] Kristin:
+"That's a good sound."
+
+[00:10:20] Drew:
+"Yeah, good zone."
+
+[00:10:21] Kristin:
+"For the non-savage good zone. Yeah."
+
+[00:10:23] Drew:
+"Mirthful wilds. And yeah, they were just being extremely boring. I don't know if it was just that particular culture, that particular group that started it, but no one had any relation to it."
+
+[00:10:36] Kristin:
+"Yeah, I'm thinking it was the surroundings. I guess I had that kind of made the story around the mayor and the baron, but I think the surroundings just not as much seems to happen. Yeah, that's why I abandoned Kroki."
+
+[interjection] Drew: "Yeah, the-"
+Yeah, and so I just kind of reached my limit with them being completely uninteresting, having no relationships with one another, and not finding hell, obviously. So I bailed on that. I took a little break and then was like, you know, I like making my megastructures, or semi-megastructures. I like dwarven engineering.
+
+[00:11:07] Kristin:
+He likes having a Dwarven project. Exactly. Yeah.
+
+[00:11:10] Drew:
+So I went and did a new foundation called Esteem Manners. Esteem Manners is in the Sea of Courtesies and it's a member of the Tower of Shells, founded 123.
+
+[00:11:32] Kristin:
+You know, I think that mine was founded in 123 too.
+
+[00:11:34] Drew:
+Yeah, I don't understand how people have the time to play through 400 years of Dwarf Fortress history.
+
+[00:11:40] Kristin:
+I don't know. I mean, I could reasonably let it run while I'm working on something else,
+[interjection] Drew: I assume they let it run.
+[interjection] Kristin: but I'm too distractible to do that. I would only end up dwarfing all the time.
+[interjection] Drew: Yes.
+
+[00:11:50] Drew:
+Uh, so Esteem Manners is set up with beautiful ocean views because I want it to be somewhere where maybe, hopefully, fingers crossed, I'll be able to see both the monstrous moon man I found in Legends mode, and also because I really, really, really want to find
+[interjection] Kristin: Oh yeah.
+[interjection] Drew: a Sponge Man.
+
+[00:12:11] Kristin:
+They are very cute.
+
+[00:12:12] Drew:
+So I want to see if we can eventually find some sponge men who come up and then see if we can trap them.
+
+[00:12:18] Kristin:
+Yeah.
+
+[00:12:19] Drew:
+Oh.
+
+[00:12:19] Kristin:
+What are you going to do with them then?
+
+[00:12:21] Drew:
+Well, then we'll just put them on display and the dwarves can come around and gawk at them.
+
+[00:12:25] Kristin:
+Very nice.
+
+[00:12:27] Drew:
+They're sponge men. I don't think they really know the difference.
+
+[00:12:31] Drew:
+But at any rate, as we settled, we had a good omen, which is when we arrived, a manta ray actually jumped out of the ocean, onto land, died, and served as our first meal.
+
+[00:12:45] Kristin:
+At least it wasn't a giant one that ate a dwarf or something like that.
+
+[00:12:49] Drew:
+Exactly. It was not a manta ray man, which I don't know if it's a thing or not. I just-
+
+[00:12:53] Kristin:
+I would not be surprised.
+
+[00:12:55] Drew:
+I assume any animal can become a man of some sort. Yu-Gi-Ach-Man.
+[interjection] Kristin: Jack man
+[interjection] Drew:
+
+[00:13:02] Drew:
+Um, so unfortunately our embark location is full of trees and soil. Yuck. But it makes it easy to do some construction. Yeah. So, I'll talk about the construction in a minute, but first let me introduce our rogues' gallery. Okay.
+
+[00:13:16] Kristin:
+Oh boy, it's always fun to meet the cast of the new season.
+
+[00:13:21] Drew:
+We've got Vukar Theaterbar, our expedition leader/slash mayor. He loves giant otters for their big fluffy faces.
+
+[00:13:30] Kristin:
+Oh, that's so cute.
+
+[00:13:32] Drew:
+and several poetic forms about dead people.
+
+[00:13:35] Kristin:
+Hmm, it's a weird combination, but I approve of liking otters for their fluffy faces.
+
+[00:13:40] Drew:
+There is only one person that he is not a close friend with from the original seven.
+
+[00:13:45] Kristin:
+He's a glad-hander.
+
+[00:13:47] Drew:
+And that is Addis Shipuzzle, who is a competent female dancer
+[interjection] Kristin: Mhm.
+[interjection] Drew: and loves reindeer for their large herds.
+
+[00:13:55] Kristin:
+Huh, okay.
+
+[00:13:57] Drew:
+Meanwhile, now as things have progressed, we have a baron relatively quickly.
+[interjection] Kristin: Night.
+[interjection] Drew: And that is Mengatong Passion, a master planter. Apparently, he received his barony for being so great at making the plump helmets that we turn into wine.
+
+[00:14:13] Kristin: Fair enough, fair enough. And it is always the farmers' guild that comes first. I just had that happen in my fort.
+
+[00:14:18] Drew: Yep, same here. Yeah.
+
+[00:14:20] Drew: He has a deep well of patience and is always willing to lend a shoulder to cry on. Which works well because a lot of people go and cry on him. He constantly has other dwarves' tears.
+
+[interjection] Kristin: AWWW!
+
+[00:14:30] Kristin: Oh no, he actually has the tears on him? Uh-huh. I've never checked that.
+
+[00:14:39] Drew: He also has a lover, Katyn Necroshield. Well, that's quite a name. I know, isn't it? However, she's currently missing in 1.23.
+
+[00:14:50] Drew: Oh wait, sorry. She's currently missing here in the year 128, where we're at now.
+
+[00:14:56] Drew: Because she was burned by lava while trying to retrieve a masterwork ring.
+
+[00:15:01] Kristin: How did the masterwork ring get lost?
+
+[00:15:04] Drew: In the lava.
+
+[00:15:08] Kristin: Yeah, they should try to get the ring. This will be a theme. Priority.
+
+[00:15:10] Drew: This just continually jumping after people is kind of a theme for my dwarves. So these are our characters for Esteem Manors. But while Esteem Manors may be what the town is labeled on the map, they call it Copper Streams. So...
+
+[00:15:28] Kristin: Ooh, why is it called Copper Streams?
+
+[00:15:30] Drew: It's called Copper Streams because we have a man-made waterfall/mist generator in Dwarven parlance that is made completely from copper.
+
+[00:15:41] Kristin: That is so cool. That's very fancy and very, very Dwarvish.
+
+[00:15:46] Drew:
+Isn't it though? Yeah. You'll be able to see pictures of it on the show notes. So I thought I'd talk to you a little bit about how to make a man-made waterfall in Dwarf Fortress.
+
+[00:15:59] Kristin:
+Yes, I can't even conceptualize these types of water movement projects yet, and I would like to be able to.
+
+[00:16:07] Drew:
+Well, dwarven water projects can be fun.
+
+[00:16:11] Kristin:
+And fatal.
+
+[00:16:17] Drew:
+So to make copper streams, what I did was I dug a channel from our saltwater sea.
+
+[00:16:22] Kristin:
+Oh, okay.
+
+[00:16:23] Drew:
+To about the entrance of our fort. And then I built two pumps, which you can find under the 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: mechanics... mechanisms... machine, something like that.
+
+[00:16:38] Kristin:
+I don't know if that's where the pumps are made. I think so. At the mechanic? Because I feel like it only has the mechanism. No, no, the building.
+
+[00:16:43] Drew:
+Yeah, the building thing.
+
+[00:16:45] Kristin:
+Oh, I can build a castle.
+
+[00:16:47] Drew:
+Yeah, you can find the pumps at the mechanism section of your building menu.
+
+[00:16:51] Kristin:
+Okay.
+
+[00:16:54] Drew:
+And what you have to do there is make sure you have an enormous corkscrew, a block, and a pipe section.
+
+[00:17:01] Kristin:
+It's not very much.
+
+[00:17:02] Drew:
+No, no, that's relatively easy. And you've got to place that down in such a location that one z-level below is water. The pump itself is now at, you know, the z-level we're talking about is on land.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: And then the outlet of the pump will have water pushed out there. So you're basically moving water up one z-level and over kind of two squares.
+
+[00:17:28] Kristin:
+Okay.
+
+[00:17:30] Drew:
+All right.
+
+[00:17:30] Kristin:
+Think of it a little bit like a Tetris block.
+[00:17:32] Kristin:
+Yeah. 
+
+[00:17:34] Kristin:
+I can see that. 
+
+[00:17:35] Drew:
+And that'll dump out the water. But in order for that to be able to dump out the water, it has to either be powered by a dwarf, 
+
+[00:17:43] Drew:
+or by a water mill or by a windmill. 
+
+[00:17:48] Kristin:
+Oh, so presumably the water mill needs running water, so you need to be doing this at like a stream. 
+
+[00:17:53] Drew:
+Exactly. So usually a windmill is the easiest way to do it. And windmills will make some amount of power. 
+
+[00:18:03] Drew:
+Of which, shockingly, one windmill can only basically supply power to two pumps. 
+
+[00:18:11] Kristin:
+Okay, I was just about to ask if it's like Timberborn, Beaverton, where you have to manage your power in that way. 
+
+[00:18:19] Drew:
+You do, you do. And unfortunately, also all of the little accoutrements that you have to do to link the windmill over to the pump, also each of those steps consume power. 
+
+[00:18:31] Kristin:
+Oh wow. 
+
+[00:18:32] Drew:
+Yeah. On the plus side, windmills are relatively easy to construct. You just need four logs. Oh! That's it. 
+
+[00:18:37] Kristin:
+You don't even need a mechanism? Nope. Okay. 
+
+[00:18:41] Drew:
+I guess I should double-check that, but I'm pretty sure. I was looking at the Dwarf Fortress Wiki. 
+
+[00:18:46] Kristin:
+Oh. 
+
+[00:18:48] Drew:
+So yeah, so I built two windmills next to each other so that they're power connected. Then I built one pump and built a little, you know, dug in a little channel into the side of the mountain. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: So that the water would pump out and then be held in that channel. 
+
+[00:19:07] Drew:
+And on top of that, we put another pump. 
+
+[00:19:09] Kristin:
+Well... 
+
+[00:19:10] Drew:
+So that it moves it up another level. 
+
+[00:19:12] Kristin:
+Yeah. 
+
+[00:19:13] Drew:
+And then after that, I was able to build my copper culvert. So just [create] a line of copper walls, basically [two] spaces wide, I guess. And then, you know, [place] one wall of copper on each side. Have it go south, then east, and then back north again, right to the front of my entrance into my fort. Yeah, and then you just let it pour over.
+
+[00:19:45] Kristin:
+And they are happy that it's raining on them?
+
+[00:19:49] Drew:
+Exactly.
+
+[00:19:49] Kristin:
+Nice.
+
+[00:19:50] Drew:
+But of course, you do have to put a drain in, as we've talked about before. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: So for that, I put down some grates so the water would just kind of fall down, and then dug down a couple of levels, and then dug off the map and smoothed it out.
+
+[00:20:03] Kristin:
+Nice, wow.
+
+[00:20:04] Drew:
+So.
+
+[00:20:05] Kristin:
+Very cool.
+
+[00:20:06] Drew:
+There are a bunch of other steps when it comes to actually hooking up the power from the windmill to the pumps, but let us know if you actually want me to do a full detailed instruction on how to do that sometime.
+
+[00:20:17] Kristin:
+You can give it to her on the Twitch channel. Yeah, that's a good idea. You can go to YouTube.
+
+[00:20:20] Drew:
+And it can go to YouTube. Yeah, I think that's a good one. But that was how I built a mist generator. Wow. It's been very effective at keeping people happy.
+[interjection] Kristin: Thanks.
+
+[00:20:28] Kristin:
+Yeah, I remember the night you did it, you said that you could just see the happiness level go up.
+
+[00:20:33] Drew:
+Absolutely. Honestly, having a mist generator going, and I hadn't done one in this version of Dwarf Fortress, really has made their happiness behave closer to kind of what I mentally expect. I think because they continually get like this little burst of happiness, this memory that 
+[interjection] Kristin: Yeah.
+[interjection] Drew: It gets into their short-term memory and maybe edges out some other less bad things.
+
+[00:21:00] Drew:
+And they wind up pretty happy.
+
+[00:21:03] Kristin:
+That's very cool.
+
+[00:21:04] Drew:
+Unfortunately, when we were finishing off the building of that, I decided to wall things off to make sure that nobody accidentally slipped into the water pump area. And when I told them to build the walls, someone decided to have the bright idea of going down and retrieving a block that had gotten free in the construction process and landed kind of down where I built a little cistern for the water to build up to be pumped out. And because of the pressure suction from the pump, they were pulled forward and died.
+
+[00:21:39] Kristin:
+Oh.
+
+[00:21:40] Drew:
+And then someone else decided to build that wall. And the same thing happened. Oh no. And at that point, I noticed that four people had died. I went over there, realized what was happening, tried to stop them, and two more died. Finally, I was like, "Alright, I'm just forbidding everything in there." And one more person still managed to slip into it and die.
+
+[00:22:02] Kristin:
+Wow, they're dumb. Some dumb dwarves.
+
+[00:22:05] Drew:
+That was seven people. Wow.
+
+[interjection] Kristin: How?
+[interjection] Drew: Seven dwarves died.
+
+[00:22:09] Kristin:
+And it wasn't even in the actual construction.
+
+[00:22:12] Drew:
+No, it was when we were doing the OSHA stuff and putting up guardrails.
+
+[interjection] Kristin: Yeah.
+
+[00:22:17] Kristin:
+Well, it's funny how like-
+
+[00:22:19] Kristin:
+I have had lost worms because of...
+
+[00:22:23] Kristin:
+Well, I haven't lost them, but they wall themselves out a lot of times. It's happened to me repeatedly. And this seems like along the same intelligence level as that. 
+
+[00:22:32] Drew:
+It really does. It seems like they should be smart enough to know that, like, I want to be on the side of the wall that I can move again after I'm done.
+
+[00:22:38] Kristin:
+Uh-huh, yeah. You would hope. Anyway.
+
+[00:22:40] Drew:
+So I've been talking for a while now, but yeah, I'm actually really happy with how it looks as well in the game.
+[interjection] Kristin: Right.
+[interjection] Drew: And I did, you know, the AI rendering and I'm like, yeah, no, this is really pretty. Having it just kind of cascade down over the entrance and everyone's happy when they walk around.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: I need...
+
+[00:22:56] Kristin:
+And you see the little mist animation? I don't know, graphic, but yeah, it looks nice.
+[interjection] Drew: Yeah.
+
+[00:23:02] Drew:
+And then I also added a second sort of outlet for that waterfall to fall down through the middle of the fort and into the main stairwell so that everybody walking up and down there can admire the waterfall. Yeah, they get hit by the mist. Come here.
+
+[00:23:17] Kristin:
+Can admire the waterfall. Yeah, they get hit by the mist. Man, I need to learn to do this stuff. Like, this is kind of bumming me out. I can't even, like, I'm thinking about the layout of my fort, and I can't even conceptualize how to move the water from where I have water to somewhere where they could enjoy it, so.
+
+[00:23:34] Drew:
+If only you had some way to entice me to help you.
+
+[00:23:37] Kristin:
+I'm sure I can persuade you. But yeah, we're not quite as happy at our fort, but we're doing better happiness-wise.
+
+[00:23:50] Kristin:
+So let's return to RaspBoat.
+
+[00:23:54] Kristin:
+Because I finally had some colorful anecdotes develop there. If you recall, the last episode, I talked about Dumid, the dwarf who, in trying to deal with my aquifer, slipped and fell into a puddle of water and was drowned.
+[00:24:11] Drew:
+Doomed, doomed.
+
+[00:24:12] Kristin:
+Yes, Dumid was doomed. He then became a ghost and was haunting the fort. We did eventually lay him to rest. Hooray. I put some slabs into the temple because this seems like an appropriate place to put them.
+
+[00:24:26] Drew:
+That's good. I'm stacking mine up out front as people walk in.
+
+[00:24:32] Kristin:
+Well, I later couldn't figure out why one of my dwarves in particular, his name is Dodoc, was so cranky. And I finally looked him up and he's our bookkeeper. And I'm pretty sure I've had an unhappy bookkeeper before. So maybe that job just lends itself to being kind of grumpy. I mean, I would probably be grumpy if I had to keep track of all the crap that they have in their fort. But in looking at his character sheet, I saw that Dumid was Dodoc's lover.
+
+[00:25:03] Drew:
+Oh my!
+
+[00:25:03] Kristin:
+And he, Dodoc, of course, they're both guys and they're both names that start with D, so the pronouns are gonna get confusing in this story. He, Dodoc, was traumatized because he had been haunted by the ghost of his lover, Dumid. So of course he's unhappy, he's reliving this trauma all the time.
+
+[00:25:28] Kristin:
+I would be pretty upset too.
+
+[00:25:29] Drew:
+If you were being haunted by me? Yeah. More or less if I was your lover.
+
+[00:25:35] Kristin:
+Same amount.
+
+[00:25:39] Kristin:
+I would assume that whoever I love, I love equally and would be quite upset if they were haunting me. I mean, I'd be pretty upset with anyone haunting me, but I think it's probably especially upsetting when it's your partner.
+
+[00:25:52] Kristin:
+Uh, so, it makes sense then that he's traumatized.
+
+[00:25:58] Drew:
+Especially when his bones are still just in that cistern that they all just walk across. No, no.
+
+[00:26:03] Kristin:
+No, no, they don't go near that cistern.
+[interjection] Drew: Oh, okay.
+[interjection] Kristin: But if I start doing some pumping or trying to move water around, it will come from Dumed's watery grave. So he, despite being cranky, never feels hatred toward anyone or anything, and he often acts with compassion, a turnaround after his romance with Dumed in 124. But he is conflicted by this, since he sees these tendencies as an impediment to his quest for power. Power!
+[interjection] Drew: Power.
+[interjection] Kristin: Yeah. He is also more shameless. And less private.
+
+[00:26:40] Drew:
+Ah, he's more shameless after being in a relationship with Dumitz.
+
+[00:26:43] Kristin:
+Yeah, so Duman might have been quite the interesting fella. It's a shame he's dead. We'll never know. His slab doesn't have interesting details about him. It just says he was drowned in 121. I think that's when we settled.
+
+[00:26:55] Drew:
+Yeah, I need to check and see if you do multiple slabs, if it says different things about them or not. I can't remember.
+
+[00:27:03] Kristin:
+It was the only one that we did at the time.
+
+[00:27:05] Drew:
+Yeah.
+
+[00:27:06] Kristin:
+Yeah, so now my mission is to make Dodock happier. And I've been somewhat successful in the, if perfectly happy, ecstatic is a one, and I'm gonna kill you all and burn this place down is a five. He started at a four, and now he's a three. Nice. Is it a six scale?
+
+[00:27:26] Drew:
+It might be a six scale, but I'm fine with five. Because six is basically, I think you're ready to start tantruming.
+
+[00:27:32] Kristin:
+Yeah, at any rate, he was on the verge of tantruming. Now he's just slightly angry. He's just disgruntled.
+
+[00:27:41] Drew:
+Is he disgruntled or is he possibly gruntled?
+
+[00:27:44] Kristin:
+I'm not sure of the difference. But in order to make him happier, I went into his character sheet where you get all those fun details, and I learned that he likes the color light blue, a bunch of metals that I don't have, and he likes water buffalo for their wallowing in water.
+
+[00:28:03] Drew:
+Wallowing.
+
+[00:28:09] Kristin:
+And so I made him statues of water buffalo out of this light blue stone. I put one in his office, and I gave him light blue furniture, and I put light blue flooring down in his room and another water buffalo statue, and he's a little happier. He likes his bedroom a lot. Good. Yeah. And then the other thing that I did was because he has this whatever bookkeeping skill is called, I bumped him from doing very little of it to a lot of it. And I don't know if that has helped or not, but we have very precise calculations now. So, at any rate, he's a little bit happier. So, do you know of any other ways? Like, I have the open stockpile so that they can take things if they want. I need to explain that.
+
+[interjection] Drew: You should explain that.
+
+[interjection] Kristin: OK. The idea behind the open stockpile is that you make a finished goods stockpile, say, stockpile one more time, stockpile, stockpile, and you tell it not to allow bins.
+
+[interjection] Drew: Bye-bye.
+
+[interjection] Kristin: And so things like bracelets, rings, crowns, finished goods, they're just piled on the floor. Just sitting there. But fires have woken up over there.
+Floor. They're sitting on the floor and dwarves, I think that it was Sal that had done the research on this, like they're more likely to take something if it's not in a bin. And she had done the experiment with hauling things to the trading post and you can just grab all the loose stuff and move it. I haven't really done that. I just have it open by one of the main staircases and I see goods come and go from there. So presumably dwarves are stealing things.
+
+[00:29:42] Drew:
+Yeah, after you decided to give that a try, I decided to give that a try as well, because I have a lot of dwarves who were complaining about unmet needs, and I'm like, you guys have like 60 million platinum goblets and all these, you know, all these other crafts. And so I started, I made an open stockpile between the main stairwell and the way out of the fort, the entrance. 
+[interjection] Kristin: Yeah.
+
+[00:30:07] Drew:
+And yeah, suddenly I was looking at dwarves and seeing them wearing three crowns and four bracelets and all these things. And I'm like, huh, no. And their unmet needs are on me. 
+
+[00:30:17] Kristin:
+The need to acquire something. 
+
+[00:30:21] Drew:
+Elliot Tricklelight. 
+
+[00:30:22] Kristin:
+And the need to be extravagant. That's another one that maybe high-value crafts 
+[interjection] Drew: That's another one that...
+[interjection] Kristin: will help with that. 
+
+[00:30:28] Drew:
+The other thing that I've done that maybe we'll focus on sometime in an episode is the gods and making temples for them to pray to because they really... 
+[interjection] Kristin: You?
+[interjection] Drew: I feel like Noah-Lyon deity should really take care of some of that, but it doesn't seem to. 
+[interjection] Kristin: No.
+[interjection] Drew: I think it just sort of fulfills their need to pray, but not their need to actually pray to a particular god. 
+
+[00:30:51] Kristin:
+God. Okay. 
+
+[00:30:52] Drew:
+So I've had to make... at this point, I think I have eight temples.
+
+[00:30:56] Kristin:
+Wow, that's a lot of temples.
+
+[00:30:58] Drew:
+I mean, it's all just kind of one complex with, you know, little areas off to the side.
+[interjection] Kristin: Yeah.
+[interjection] Drew: And having done that now, I had three or four who were somewhat unhappy because of unmet needs to pray to gods. I had like six gods listed. I found their overlap, made them, and yeah, they're much happier now.
+
+[00:31:17] Kristin:
+It just occurred to me that when I was looking at a dwarf who was unhappy, I think he was a migrant, and I was looking through his memories, and he had a lot, and I was getting excited because I think he came from one of my previous forts, but some of the positive memories were learning about different trades. And I'm wondering if having additional guild halls might also contribute to that. Because frequently you'll see that they'll be unhappy because they haven't practiced a craft or something like that, and I'm wondering if that additional knowledge, like watching a demonstration or listening to a talk or whatever, might also help.
+
+[00:31:54] Drew:
+I definitely think so. It's the same thing.
+
+[00:31:55] Kristin:
+I mean, I don't have any science to back that up, but I am wondering. It's like the temples.
+
+[00:32:02] Drew:
+Yeah, and also the whole martial, the need to fight someone or whatever that can be satisfied by putting them into a squad.
+
+[00:32:14] Kristin:
+Yeah. So I have a few more ideas for trying to improve some happiness. I got a bunch of new migrants this afternoon while I was dealing with other stuff, so our happiness has dipped a little bit, and I haven't really gotten into why yet. Maybe there were a bunch of kids, and I didn't have enough toys. That always seems to give an immediate boost if your children are the ones that are angry. Yeah.
+[00:32:34] Kristin:
+And maybe I'll get brave and try to do a water project again.
+
+[00:32:38] Drew:
+The idea of picking one unhappy dwarf and really focusing on making them happy, I feel like we kind of picked that up a little bit from Krug Smash.
+
+[00:32:47] Kristin:
+Oh yeah, maybe some.
+
+[00:32:48] Drew:
+And I feel like that does give a particular session of playing a focus in a way.
+
+[00:32:56] Kristin:
+And I've talked about how I'm not sure how to make an aesthetically pleasing fort, especially on the larger scale. It's one thing, but when you start looking at individual dwarves and their preferences and then making their bedrooms and things meet those desires, it starts to just naturally get prettier. I think so, yeah. I also have a lot of colorful stone at this particular fort, so it's nice. I am glad I persisted because we have so many gems and pretty stones, and even though we don't have a ton of silver or copper, best I can tell, or we haven't found it yet, it's still very full of useful things and pretty things. So I was thinking that I was going to just spend some time this afternoon working on happiness, but then we got cavern dwellers. We at least got the alert for them. I never saw them. They, I guess, never ventured into our part of the cavern, so I don't know what they are yet even when I went to look at the sheet that has everybody who's at your fort and the invaders. So that's still a mystery. I'm not sure what it's going to end up being. I hope to see something different, you know?
+
+[00:34:03] Drew:
+Yeah, there's always weird and interesting things. One of our listeners had [interjection]
+
+[00:34:09] Kristin:
+Cave Swallow Men.
+
+[00:34:10] Drew:
+Cave Swallow Man.
+
+[00:34:11] Kristin:
+Yeah, and then, because you had asked if they were owl men, and I was all excited, and apparently the barn owl men are...
+I think, but I guess they're like above-ground creatures instead of cave swallowers. Interesting. So apparently, cave swallows are... Yeah. Because I was like, that can't be Batman. 
+[interjection] Kristin: Yeah. Like that.
+[interjection] Drew: I know what Batman looks like. And I'm like, I know that there are owl men, but I thought they were above ground and they're cave swallow men. 
+
+[00:34:33] Kristin:
+Excited to see. And, uh, we got our first forgotten beast this afternoon. This was Kamaba has come, a towering feathered porcupine. It has a knobby trunk and it undulates rhythmically. Its emerald feathers are downy. Beware its deadly spittle. And it actually had a really cute sprite. It did have a trunk. It wasn't green. So we just have to envision it having green feathers. So this guy came in, and he was like, he was zooming along, looking for dwarves to murder. Um, took out four dwarves, was eventually killed once they sent the squadron down. And there were some peasants fighting him who survived, which is pretty impressive. But after killing him, finally, I did as you did. And I built a butcher right next to its carcass, and the dwarves just auto-butchered it. And then I, um, went to check on the tannery, and it had Tanahide. So, um, you said I should look and see what dwarf was hauling it just to make sure. And we followed her along. She has a very sad story, but I'm not going to get derailed just yet. Uh, so she made us some forgotten beast leather. And now I am having someone sew a leather image of that forgotten beast onto its own hide, which I feel is fitting. It's very metal. That hasn't happened yet. 
+[interjection] Drew: It's very metal. Metal.
+[interjection] Kristin: So I'm excited to see what comes of that. 
+
+[00:36:03] Drew:
+It's always hilarious to watch them haul super heavy things, because I was sitting there watching it with you. Mm-hmm. And she kept slipping because she was trying to haul this incredibly heavy leather. Yeah. Like, it's not even the full beast, because you probably also have a ton of meat for that. Oh, there is a ton.
+
+[00:36:16] Kristin:
+We're eating now and we will dine on forgotten beast flesh. But she, I guess, witnessed the forgotten beast murdering four other dwarves. And she's traumatized from that and also traumatized from having a miscarriage. Oh, which is so sad. Like, oh my gosh, this is so real. So I'm gonna have to help her along. I'll adopt her and see what I can do for her. She's a fisher dwarf and we're not really fishing. So you think you're gonna have to learn a new trade or maybe we can start cave fishing. That's a thing, right? Yeah.
+[interjection] Drew: Need to get her-
+[interjection] Kristin: Cave fishing. Yeah, we'll start her on some cave fishing.
+
+[00:36:59] Drew:
+Yeah, I don't know if that necessarily is going to work out great though, because you know.
+
+[00:37:03] Kristin:
+Oh, she'll just have to pass by where the forgotten beast murdered everyone. Exactly. Ugh, it's a rough life being a dwarf.
+
+[00:37:12] Drew:
+It really is.
+
+[00:37:14] Kristin:
+And then my final note is that we have red pandas in this zone. And I bought one from the elves and I was very excited because I was like, all right, I'm going to trap another one or buy another one. We're going to have pet red pandas. I put it in the pasture. I forgot to mark it as available as a pet. It's dead. It died. Yeah. It starved to death.
+
+[00:37:31] Drew:
+I don't know why it would starve to death in the pasture.
+
+[00:37:33] Kristin:
+Yeah, I mean it's an inside pasture, but maybe they don't just eat cave moss. I don't know.
+[interjection] Drew: Bye.
+[interjection] Kristin: So, I need to learn about red panda husbandry in Dwarf Fortress. Red panda men. Maybe we'll try to trap some and see what we can do.
+
+[00:37:51] Drew: Yeah, I don't really know much about trapping animals in Dwarf Fortress, so I have to expect it.
+
+[00:37:54] Kristin: I bet it's complicated.
+
+[00:37:56] Drew: Probably so.
+
+[00:37:58] Kristin: Well, that's enough for me. Let's hear some more from you.
+
+[00:38:01] Drew: Alright, so back to Esteem Manners. Two other interesting groups of events have occurred. One is that we've actually had, with all this happiness, a surprisingly large amount of fey moods occur. Strange moods of different types. Mostly, I think fey moods are the good ones. I can't remember. At any rate, the good type of strange mood.
+
+[00:38:24] Kristin: "I'm so happy I must create."
+
+[00:38:26] Drew: Exactly. Two of the things that were created were a 60,000 Dwarf Bucks Ruby mug called Airfare the Helpful Direction, which is a ruby mug made with bands of bryolite cut ruby and leopard leather with also menacing spikes of ruby. And on it is an image in ruby of the founding of Esteem Manners in 123.
+
+[00:38:51] Kristin: "It would have been funny if it was an image of a ruby. It would be an image of a ruby in a ruby. Yeah. No, that's actually really cool. What did you do with that one?"
+
+[00:38:59] Drew: So that one is now in the main temple to the temple, which immediately bumped it up to, you know, super temple status, temple complex. Um, and I put it in there because out of my 95 people, 65 are in the worship of him.
+
+[00:39:26] Kristin: Fair enough. That's a lot.
+
+[00:39:27] Drew: Make people happy. And then the other big item is Release Squirted.
+
+[00:39:38] Kristin: Oh, oh no.
+
+[00:39:39] Drew: If I say the word Release Squirted to you, what kind of object springs to mind, Kristin?
+[00:39:45] Kristin:
+I don't want to talk about it. 
+
+[00:39:48] Drew:
+Well, you'd be wrong. Instead, you should think of a 60,000 dwarf buck platinum... It's a toilet. Close. ...Mosos, which is some sort of huge bellowed instrument. 
+
+[00:40:04] Drew:
+with 480 glass pipes played by a keyboard. 
+
+[00:40:08] Drew:
+It has nine octaves, four ranges, of which the first is a raucous timber. So that's apparently a thing. It's represented by an instrument that looks like a piano in the game. 
+
+[00:40:24] Kristin:
+All of these instruments, when you think about it, they seem like, the ones that aren't like guitars, they seem like organs. 
+
+[00:40:30] Drew:
+Yeah, there do seem to be a lot of different organs, either for... Organs. Yeah, or, uh, or the first one I got, um, a bell organ, right? Yeah, yeah. Because it had something like 65 bells of differing sizes that are played by a keyboard. Yeah. I'm like, that's not a thing. 
+
+[00:40:49] Kristin:
+I can't even... You would have so many lovers. Anyway. 
+
+[00:40:53] Drew:
+480 glass pipes. That's so many pipes. That's basically a computer that's in... 
+
+[00:40:57] Kristin:
+That's basically a computer. How many pipes does a cathedral organ have? Anyway, that's not important. 
+
+[00:41:05] Drew:
+It's got to be less than 480. Yeah. 
+
+[00:41:08] Kristin:
+I don't know, my harp has 40 strings. 
+
+[00:41:11] Drew:
+Yeah, so that is now in our main tavern. Oh yeah, I forgot to mention kind of at the beginning, but with this group, 
+[interjection] Kristin: Oh yeah!
+[interjection] Drew: they spend so much more time in the tavern and are happier. I don't know if it's because they're happier because of the mist generator, or if they're happier so they just spend more time in the tavern generally. I don't know if my last fort was just full of a bunch of sourpusses. Yeah, we're in on that. 
+
+[00:41:36] Kristin:
+It might have been. Do you have any legendary performer or anything?
+
+[00:41:40] Drew:
+No, not really. 
+[interjection] Kristin: Wow.
+[interjection] Drew: Huh. And they were spending time in there before I had that artifact put in there. Yeah. And everybody's just kind of happy looking at it. 
+
+[00:41:49] Kristin:
+Have you made your tavern pretty? 
+
+[00:41:52] Drew:
+Not particularly. 
+
+[00:41:53] Kristin:
+Fair enough. 
+
+[00:41:53] Drew:
+No, it's just carved out of dirt. 
+
+[00:41:56] Kristin:
+All right. 
+
+[00:41:57] Drew:
+Yeah, got some chairs, got some tables, got some food and drink in there. Um, I don't even know if I have a tavern keeper. I don't think I've appointed a tavern keeper. They're just all hanging out there having fun. 
+
+[00:42:07] Kristin:
+Yeah, well, fair enough. I'm glad they're enjoying it. 
+[interjection] Drew: Yeah.
+[interjection] Kristin: Speaking of instruments, real quick, I forgot that the previous year I had requested just one of every instrument from my civilization because I'm determined to get these dwarves using the instruments. And when they showed up, there were so many types of instruments that I was like, I'm never ever going to be able to afford this because I had told them to haul the gem bins over. The gem bin numbers when I was selecting them, either my brain or the number that I saw in that list was off by a zero. So we bought every instrument they had. So hopefully my dwarves will start making some music. 
+
+[00:42:46] Drew:
+I have found that the estimates when you're choosing from the list of things to haul frequently wind up being different than what it is when the traders are... The trade value. Yeah. 
+
+[00:42:54] Kristin:
+Well, that was certainly the case, because by this standard, we were really rich. So, then we had another migrant wave, and I'm gonna have to deal with that. Every time I say migrant wave, I'm afraid it sounds like microwave.
+[00:43:09] Drew:
+So have you seen them actually using the instruments yet? No.
+
+[00:43:11] Kristin:
+No, but we just got them and that was this afternoon, so haven't had time yet.
+[interjection] Drew: Bye.
+
+[00:43:15] Drew:
+But you got to put some bins around in the taverns. Lawrence, you own a house, so put some tables and chairs. And what's up with, um, Mrs Ashley? Let me tell you, I got to get the hockey sticks.
+
+[00:43:18] Kristin:
+Bins or chests? Chests. I have at least one chest in there, but I'll put some more.
+
+[00:43:23] Drew:
+Yeah, well I think if you only have one chest, that kind of gets full up with the goblets.
+
+[00:43:26] Kristin:
+I bet it gets full of the goblets. Yeah, okay, so I'll put some more chests in there. Definitely. I wasn't sure if I needed to build the instrument like furniture, but I've done that and they didn't play it, but it might have been the wrong instrument. Yeah, I don't know. I'll play around with that and see.
+
+[00:43:41] Drew:
+You're the music person.
+
+[00:43:42] Kristin:
+I'm not a dwarf music expert, clearly.
+
+[00:43:45] Drew:
+Especially when it's randomly generated for every world. Exactly.
+
+[00:43:52] Drew:
+No, those were the two main artifacts. Pretty much I hit release and scored and I couldn't stop giggling.
+
+[00:43:58] Kristin:
+Are you making an image of Release Scorch?
+
+[00:44:01] Drew:
+I really should. I should make a statue of Release Scorch. Yeah.
+
+[00:44:04] Kristin:
+I know.
+
+[00:44:06] Kristin:
+I meant the AI image.
+
+[00:44:08] Drew:
+No, I didn't because 480. I would.
+
+[00:44:10] Kristin:
+That would just break whatever program you're using.
+
+[00:44:13] Drew:
+Exactly, but maybe I'll still give it a try tonight.
+
+[00:44:17] Drew:
+The other thing I wanted to talk about was that I've had two main Forgotten Beast attacks. The first Forgotten Beast we actually dealt with very well. That was Ozme. Ozme has come, a huge alligator with external ribs, thin wings, and dark scarlet scales. Beware its deadly spittle. 
+
+[00:44:37] Drew:
+That one we actually dealt with quite well because it actually got caught in a trap hallway I had set up where I had doors on one end and the other end. It came up, I locked the door that it was trying to get out of and then locked the door that it came up through and then I had carved out the walls around it as fortifications. So I was able to have my marksdwarves walk over, 
+[interjection] Kristin: Yeah.
+[interjection] Drew: station them right where they could see it in the fortifications because you can carve out the fortifications and they're like murder holes. And they just stood there and took potshots at it. 
+
+[00:45:17] Kristin:
+Wow, that's effective. 
+
+[00:45:19] Drew:
+Yeah, it took a while. 
+
+
+[00:45:22] Drew:
+And they had to stop a couple of times, go back and get more bolts because they're terrible shots. 
+
+[00:45:27] Kristin:
+Oh, they can't even hit a forgotten beast in a hallway. 
+
+[00:45:30] Drew:
+Exactly. And they wound up kind of doing that for I think about three days. And in the end, they actually couldn't finish the job because the forgotten beast was seriously injured, fell to the ground, and then was prone, which gave it a bonus to dodge, I guess. 
+
+[00:45:50] Kristin:
+They just couldn't get the right angle to shoot something. 
+
+[00:45:53] Drew:
+Yeah, just not the right angle of the dangle. And so finally, then I opened the doors back up and had the melee dwarves come in and finish the job. Yep. But no one died from that. Oh, good. 
+
+[00:46:08] Drew:
+The funny part about that was I attempted to butcher it. 
+
+[00:46:12] Kristin:
+Mhm. 
+
+[00:46:13] Drew:
+And the person who got assigned the job of hauling it was a little child.
+
+[00:46:18] Kristin:
+Aww, you've got to turn off chores for those kids.
+
+[00:46:21] Drew:
+And so the little child kept trying to haul it and then would slip without having moved it at all. And then go back and do that and it took me like a couple of days where I was like, why hasn't anyone butchered this? And so I kind of, you know, wandered over to his garden. I'm like, kid, you're doing nothing here. And she was getting thirsty and hungry. I tried to haul it.
+
+[00:46:39] Kristin:
+I mean, yeah, the one that was trying to haul just the skin from ours. I noticed that she was getting thirsty and I'm just picturing this poor dwarf who has all this trauma and she's just weeping and dragging this bloody hide and getting thirstier. Oh my gosh.
+
+[00:46:54] Drew:
+Yeah, so I told that kid to stop doing that and then her mother came over and dragged it to the butcher.
+[interjection] Kristin: Grim.
+[interjection] Drew: 
+
+[00:47:06] Kristin:
+You wouldn't think her mom would have helped her before then. You would think. Oh.
+
+[00:47:08] Drew:
+Her mom dragged it over to the butcher. It was butchered but because it was scaly, right? Dark, dark scarlet scales. Yeah. We only got scales out of it, not any leather to be tanned.
+
+[00:47:18] Kristin:
+Sad end. I recommend using a label whose paper to label.
+
+[00:47:31] Drew:
+Such is life. Well, we did get a lot of Forgotten Beast meat, but we also had a lot of food already, so, you know.
+[interjection] Kristin: But you're-
+[interjection] Drew: We are making Forgotten Beast soap.
+
+[00:47:39] Kristin:
+Oh, that's nice. I should have gotten set up to make soap.
+
+[00:47:43] Drew:
+Then, shortly after, we had a second Forgotten Beast attack. And this was a... This was the Invisible Plagues. I'm not even going to try to pronounce its name. A worm of grime and filth breathing fire. Thank you for watching.
+
+[00:47:59] Kristin:
+Yeah, gross.
+
+[00:48:01] Drew:
+So, unfortunately, I wasn't paying a whole lot of attention because I thought everything had worked out well the previous time.
+
+[00:48:07] Drew:
+And, uh...
+
+[00:48:09] Drew:
+Yeah, those doors were made of wood.
+
+[00:48:11] Kristin:
+Oh no. So I tried to trap it in the same way. It just burned them.
+
+[00:48:12] Drew:
+It just burned them out. It just burned those doors down. They turned to ash. It then climbed through and murdered about 10 dwarves before the actual fighting dwarves could get down and take it out.
+
+[00:48:25] Kristin:
+At least it's a more respectable way to die than slipping into a ditch.
+
+[00:48:31] Drew:
+Exactly. So that was the second forgotten beast, and when it was destroyed, it really just left behind a pile of grime.
+
+[00:48:41] Kristin:
+Ew. Which I'm not entirely- Yeah, you think you're getting a letter from that. Yeah.
+
+[00:48:42] Drew:
+Which I'm not entirely... Yeah, I'm not sure what I'm supposed to do with that because I told somebody to take it to the trash, and they haven't really, and I don't... They need like a bucket. Exactly. So that's been my Forgotten Beast experience there. And that's kind of a bit.
+[interjection] Kristin: Thank you.
+[interjection] Drew: Pretty happy with this one. Interesting things are happening. The different dwarves are forming.
+
+[00:49:15] Kristin:
+I was going to ask, over the last weekend, you spent a lot more time playing Dwarf Fortress than you had in a while, and is it just because of the events or the dwarves being interesting?
+
+[00:49:26] Drew:
+Well, I mean, it started out with the project and then with the project going well, everybody getting happier and more interesting things happening. I've just, yeah, definitely got more re-engaged. I think I was starting to feel a little bit like we were back in the day.
+
+[00:49:41] Drew:
+I was having to force it a little bit with the previous fort and I think I should have abandoned it sooner because there's just nothing interesting happening there. Because we also settled there to get like...
+
+[00:49:52] Drew:
+Unicorns and other interesting things.
+
+[00:49:52] Kristin:
+Yeah, and all we got were fluffy Wamblers. Yeah, so. Yeah. Do my Guitar can't jump.
+
+[00:49:58] Kristin:
+I mean, that's just another example of how you got to bring your own fun. Absolutely. Uh, there has been an interview split into two parts on the Game Maker's Notebook podcast with Zach and Tarn Adams. And one of the really noteworthy things that I thought that they said was that they need these types of stories to be shared because this game is a community experience. And I thought that that was so cool and so evocative of what we do and why people listen to us talk about our forts because like this craziness. And if you don't have someone who understands, they're just going to look at you like you are absolutely just batshit crazy.
+
+[00:50:38] Drew:
+It's better now than when it was just the ASCII characters though. Yeah, you could share graphics. Yeah, because when you tried to tell people about all this and then you showed them the ASCII graphics, they'd be like, are you a crazy person? You're a crazy person. I've been talking to a 
+[interjection] Kristin: You're a crazy person. I've been doing this for a long time. I'm a crazy person.
+[interjection] Drew: Crazy person. And now at least you have these graphics and people at least can understand, okay, so this is like Minecraft.
+
+[00:51:00] Drew:
+Yeah, sure. Sure. Yeah.
+
+[00:51:01] Kristin:
+Sure, but these crazy things happen. But, I mean, we all enjoy it and hearing about it.
+
+[00:51:07] Drew:
+Yeah, and again, I don't understand why no one listens to this. I'm glad you do.
+
+[00:51:10] Kristin:
+Yes, thank you.
+
+[00:51:12] Drew:
+But yeah, it's the ability, like if someone else had a podcast like this where they were just talking about the events of their fort, I would certainly listen to that as well.
+
+[00:51:21] Kristin:
+Right, and we love Krugg and we watch streamers occasionally and all of that stuff. It's a unique gaming experience, I would say.
+
+[00:51:30] Drew:
+I think it holds up well to the whole podcast style as opposed to necessarily just YouTube, in part because it's so much about story. You know, maybe it would be a little more fun for people if we had recorded and edited video of us playing this, all this sort of thing. Like a dance.
+
+[00:51:44] Kristin:
+It's like a different skill set.
+
+[00:51:46] Drew:
+Yeah, but it's still, I think, fun just to listen to the stories that have come through and kind of have people curate it for you. And that's why their forums have always been so popular with people putting the stories in.
+
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: 
+
+[00:51:57] Kristin:
+Yeah, and we don't even have adventure mode yet. That's still forthcoming, and I gather that very, very good stories come out of that. So we still have a lot to look forward to.
+
+[00:52:06] Drew:
+Yeah, I'm really looking forward to that. They had some sort of article about that. I don't remember the title.
+
+[00:52:11] Kristin:
+Yeah, we'll put a link in the show notes.
+
+[00:52:13] Drew:
+Yeah, but supposedly it's up on deck at some point here, and that'll be fun.
+
+[00:52:18] Kristin:
+Yeah. Well, speaking of things to look forward to, the next episode in two weeks will be our 10th episode, and we're planning something kind of creative and special for that. And we're not gonna tease it much more than that because I'm not sure how well it's gonna work, and we're gonna find out.
+
+[00:52:35] Drew:
+Yep, but that'll be something to look forward to, and just generally for everybody who made it this far into the podcast. I know some of you drop off, we can see where you drop off, but for those of you who are still here, thanks so much for listening, chatting with us, and giving us the impetus to keep doing this.
+
+[00:52:53] Kristin:
+Yeah, thanks a lot. And don't forget you can find our show notes on our website at estrangemoodpodcast.com. And there is a Facebook group now for Estrange Mood Podcast that, I mean, there aren't very many of us, but, you know, we have fun there. Uh-huh. And I think that's it. Oh, Twitch. Yeah, you can find us at thatkristin, K-R-I-S-T-I-N, on Twitch.
+[interjection] Drew: Quit.
+[interjection] Kristin: And Drew streams to that channel as well. And I'm not great about uploading things to YouTube. I'm trying to get better about that. But we put those streams on our YouTube channel at Estrange Mood.
+
+[00:53:28] Kristin:
+And I think that's it for housekeeping.
+
+[00:53:31] Drew:
+Yeah, I have one more piece of housekeeping, which is that in our Facebook group, Lord Bookworm, I'm gonna go with his Twitch name just because I don't know how people feel about just reading out their full name. I should have asked him. At any rate, he included a great artifact that was generated in his world. I didn't want to include it in the course of the podcast, so it 
+[interjection] Kristin: Yeah.
+[interjection] Drew: didn't seem too much like we were just taking his content. But I've made an image of it, but I want to read it out here to you, which is, this is an amethyst coffin.
+
+[00:54:02] Kristin:
+Don't normally get in with this conversation.
+
+[00:54:04] Drew:
+All craftsdwarfship is of the highest quality. It is studded with platinum. The object is adorned with hanging rings of pigtail and menaces with spikes of amethyst, leoparder, rock salt, and gypsum. On the item is an image of winter melon vines in sardonyx. Sardonyx? Sardonyx. Yeah. On the item is an image of Stukos Skinnedquakes, the dwarf, and dwarves in green glass. Stukos Skinnedquakes... Stukos Skinnedquakes is surrounded by the dwarves. The artwork relates to the acceptance of the dwarf Stukos Skinnedquakes as a member of the incidental attic in the mid-autumn of 10. So that happened pretty early in his, uh... Yeah, yeah. In his world.
+
+[00:54:42] Kristin:
+That's a really cool artifact for so early on.
+
+[00:54:47] Drew:
+It really is, and that's just kind of like, that's one of the better artifacts I've ever heard. Yeah. So I've tried rendering that as well, and you can get a true feel for dwarven craftsmanship, I think, from the image, which is that excess is never enough.
+
+[00:55:00] Kristin:
+It does sound like it from that particular artifact.
+
+[00:55:02] Drew:
+But in order to build those sorts of things, you have to keep digging deeper into your world and find more and more interesting things. So just keep digging.

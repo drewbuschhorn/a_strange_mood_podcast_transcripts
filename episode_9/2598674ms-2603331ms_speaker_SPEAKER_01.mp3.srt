@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:01,160
+Bins or chests?
+
+2
+00:00:01,160 --> 00:00:01,660
+Chests.
+
+3
+00:00:01,660 --> 00:00:02,160
+Chests.
+
+4
+00:00:02,160 --> 00:00:30,160
+I have at least one chest in there, but I'll put some more.
+
+

@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:03,040
+I have absolutely no idea.
+
+2
+00:00:03,040 --> 00:00:06,920
+This is something that I know that I need to work on, and I actually find the interface
+
+3
+00:00:06,920 --> 00:00:08,760
+on this really confusing.
+
+4
+00:00:08,760 --> 00:00:14,720
+When you make a squad, it has the metal armor, leather armor, and no uniform.
+
+5
+00:00:14,720 --> 00:00:15,880
+And they all have Xs by them.
+
+6
+00:00:15,880 --> 00:00:21,000
+I cannot tell if clicking on one of them means no more, they're not going to do leather,
+
+7
+00:00:21,000 --> 00:00:23,560
+or if that means they will wear leather armor.
+
+8
+00:00:23,560 --> 00:00:30,560
+I don't like leather.
+
+
