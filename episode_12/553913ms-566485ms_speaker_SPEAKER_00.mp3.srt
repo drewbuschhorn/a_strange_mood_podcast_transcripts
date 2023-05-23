@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:08,800
+Supposedly, I think they said that the log, an accessible log of events is coming back soon.
+
+2
+00:00:08,800 --> 00:00:30,800
+So maybe then somebody will be able to make a nice little mod for that or something.
+
+

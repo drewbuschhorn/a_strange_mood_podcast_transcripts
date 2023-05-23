@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:06,560
+and preferences. The status effects are perhaps the biggest one to be aware of, which is if you
+
+2
+00:00:06,560 --> 00:00:12,800
+have a negative status effect they all kind of universally do somewhere between a 25% to 75%
+
+3
+00:00:14,160 --> 00:00:19,600
+damage to your skill check when completing a task. The 50% ones, the most common,
+
+4
+00:00:19,600 --> 00:00:30,800
+are dehydrated, starving, and very drowsy.
+
+

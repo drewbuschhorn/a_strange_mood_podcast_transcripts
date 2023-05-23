@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:09,760
+I created a transcription system for us to load up past episodes and create transcriptions out of
+
+2
+00:00:09,760 --> 00:00:15,680
+that using OpenAI and all that sort of thing. We will be including links to those in each of our
+
+3
+00:00:15,680 --> 00:00:20,960
+episodes going forward, and the back catalog has been updated with links to it. Those are in two
+
+4
+00:00:20,960 --> 00:00:28,640
+parts. One, the direct link is to kind of a fixed up version where some of it has been cleaned up by
+
+5
+00:00:28,640 --> 00:00:33,600
+the AI system. It sometimes also gets a little creative and might have the occasional phrase
+
+6
+00:00:33,600 --> 00:00:40,720
+that wasn't actually in the podcast, but overall I think it flows pretty well. Take a look, let me
+
+7
+00:00:40,720 --> 00:00:45,600
+know what you think. Also, it's open source, so if you guys want that, you can grab it for any
+
+8
+00:00:45,600 --> 00:01:02,240
+of your podcasts and use it to parse those out relatively cheaply.
+
+

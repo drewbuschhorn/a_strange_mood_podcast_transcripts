@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:08,080
+Exactly. Any given skill starts at zero and increases up to 18,000 XP, with each level
+
+2
+00:00:08,080 --> 00:00:15,520
+increasing by 100. From zero to the first level is 100, second is 200, and so on. The decay of
+
+3
+00:00:15,520 --> 00:00:21,600
+that skill decays according to a pretty complicated clock within Dwarf Fortress. You know, there are
+
+4
+00:00:21,600 --> 00:00:51,600
+three intersecting systems, and da da da da da.
+
+

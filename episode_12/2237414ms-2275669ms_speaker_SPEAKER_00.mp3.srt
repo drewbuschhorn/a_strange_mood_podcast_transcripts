@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:04,640
+No, so the different colors, even though you would think that that would be it, because again,
+
+2
+00:00:04,640 --> 00:00:09,760
+they go through a lot of different shades, because when you look at on the DF wiki,
+
+3
+00:00:10,400 --> 00:00:18,320
+you can see that there's purple, chartreuse, violet, a couple other purple colors that I can't
+
+4
+00:00:18,320 --> 00:00:24,320
+think of the name of right now. But each of those colors is actually a distinct profession,
+
+5
+00:00:24,320 --> 00:00:31,600
+out of 15 different colors. The other interesting note related to that is if they are legendary
+
+6
+00:00:31,600 --> 00:00:36,880
+in that profession, so if they have a legendary skill in that category, then their name will also
+
+7
+00:00:36,880 --> 00:00:42,320
+flash.
+
+

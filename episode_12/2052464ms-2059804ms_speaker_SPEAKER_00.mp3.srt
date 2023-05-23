@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:01,200
+It's a fairly small island.
+
+2
+00:00:01,200 --> 00:00:02,080
+Oh, cool.
+
+3
+00:00:02,080 --> 00:00:06,320
+Just the settlement zone is just a little bit smaller
+
+4
+00:00:06,320 --> 00:00:07,320
+than the entire island.
+
+5
+00:00:07,320 --> 00:00:08,860
+Cool.
+
+

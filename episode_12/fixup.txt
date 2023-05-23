@@ -1,0 +1,1041 @@
+[00:00:00] Kristin:
+This podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress podcast. I'm Kristin. 
+
+[00:00:24] Drew:
+And I'm Drew. 
+
+[00:00:25] Kristin:
+And we are a couple playing Dwarf Fortress. 
+
+[00:00:45] Drew:
+Not right now though. 
+
+[00:00:46] Kristin:
+No, no, not right now. 
+
+[00:00:48] Drew:
+What are we doing right now? 
+
+[00:00:49] Kristin:
+Well, you know, I'm thinking about it, and you know how we've had the monster problem in the basement. 
+
+[00:00:54] Drew:
+Uh-huh. 
+
+[00:00:55] Kristin:
+Well, I've started putting traps down there for them. Well, that makes sense. Yeah, sure. The trouble is now I have a lot of monsters and traps. Oh, dear. And I don't really know what to do with them because if I release them, they're going to eat us, probably. 
+
+[00:01:09] Drew:
+I prefer not to be eaten. 
+
+[00:01:11] Kristin:
+Yeah, I know. There's another problem too. What's that? I trapped a couple of the neighbors. 
+
+[00:01:17] Drew:
+Huh, how do they feel about that? 
+
+[00:01:18] Kristin:
+I don't really know, but they've been in there for like a year now. 
+
+[00:01:23] Drew:
+So you've had them trapped in our basement for a year. 
+
+[00:01:26] Kristin:
+Are you a psychopath? Well, I don't- 
+
+[00:01:27] Drew:
+I don't know how to let them out. 
+
+[00:01:29] Drew:
+You don't know how to let people out of a trap you put them in. 
+
+[00:01:32] Kristin:
+That is correct. 
+
+[00:01:34] Drew:
+That sounds like Dwarf Fortress. Yeah. 
+
+[00:01:35] Kristin:
+Yeah, that is exactly what it is. I have some poor plump helmet men in cages and I don't know what to do about it. The end.
+
+[00:01:46] Drew:
+Well, in the current UI, I'm a little confused about what to do about it either. I think levers are involved, but that's as far as I've gotten.
+
+[00:01:54] Kristin:
+Right, I did try a lever and they just moved it from one cage to another.
+
+[interjection] 
+
+[00:01:59] Kristin:
+But we're getting ahead of ourselves a little bit.
+
+[00:02:01] Drew:
+Yeah, so I guess... Tell me what's going on in Bellblade!
+
+[00:02:05] Kristin:
+Well, I have a lot of news from Bellblade, actually. But first, I thought we might do a little check-in on our dwarves from last week that you may remember survived the demon attack and then the blind cave ogre attack. I have a couple of those in traps, too. Hmm, not sure what to do about this. So let's check in on those dwarves that I kind of established as our cast of characters last week. We have Azum Glaze Inches, the former militia commander who was in a dreadful mood. Injured, all of that stuff. Well, she has slipped into a depression.
+
+[00:02:45] Kristin:
+And is probably on the verge of a tantrum, so I'm afraid I'm probably going to have to banish her.
+
+[00:02:50] Drew:
+You got to do what you got to do.
+
+[00:02:51] Kristin:
+Yeah. And then we have Aerith Leded, our bookkeeper, who was quite happy despite everything that went wrong. She's still pretty happy. She's been teaching mining, which is interesting because I didn't really... She's a bookkeeper, but she's apparently a very good miner and has been doing some demonstrations and helped someone to bed after another attack and felt very proud of herself for that. And the further update for her is that her religious sect, the Denomination of Hardiness, which I have seen before in my world, just requested a temple. And I think she will be very happy about that. So she's one of my ecstatic dwarves and will continue to be happy. Excellent. Yes.
+
+[00:03:31] Drew:
+Wasn't there a tongue spear? The name tongue spear really stuck in my head.
+
+[00:03:36] Kristin:
+Yeah, I have some bad news about Logam Tongue Spear. He became expedition leader after two other expedition leaders got killed by the demon. Well, I was working really hard to find magma, and I found the magma. And I didn't think that we were digging into it, and he got incinerated.
+
+[00:04:00] Drew:
+Alas, poor Tongue Spear.
+
+[00:04:02] Kristin:
+Yeah, we knew him not that well because he wasn't very interesting other than his name.
+
+[00:04:07] Drew:
+Interesting.
+
+[00:04:08] Kristin:
+Yeah, but I did unfortunately see him go up in a puff of flames and smoke and there was nothing left.
+
+[00:04:14] Drew:
+Much to the disappointment, I'm sure, of all the female dwarves.
+
+[00:04:18] Kristin:
+Probably. And yeah, interesting side note, I noticed when he and the other dwarf who got incinerated got incinerated, for a brief moment there was a pile of their stuff and then that incinerated too. There was nothing left.
+
+[00:04:38] Drew:
+Hmm, let's see. Who else do I remember from your fort?
+
+[00:04:41] Kristin:
+Well, do you remember Limo Control Ropes?
+Was she the mother with so many children who just had an unshakable will? Unbreakable will. That is unsettling.
+
+[00:04:51] Kristin:
+Yes, that is who she is. She, uh, she's still doing really well. She's actually another ecstatic dwarf. She is in a squad and training and is apparently, as I discovered when I was preparing this update, a total badass who has been at my former fort's rasp boat and curl key and has had some significant kills there.
+
+[00:05:16] Drew:
+Interesting. Well, that might explain why she's just able to deal with things so well.
+
+[00:05:21] Kristin:
+Yeah, she's presumably had training before. I don't know that I remember her. I wish I could say that I did. But, I'm glad she's doing so well. I feel like a mother of five - single mom, five children, has killed numerous monsters. I'm proud of you, Limul. And then finally we have Rith Guildthunders. This is the child who was left to die after Heroic Drain the demon attacked. Both her parents are dead and she was hospitalized for a very long time with crushed ribs. She's out now. She is playing and has toys and is starting to build up some good memories. Like, she saw a performance that she liked and she has a nice bedroom, but then she got haunted by a ghost. Well, that never helps. No, so she's still pretty unhappy.
+
+[00:06:10] Drew:
+So is it a real ghost or one of those, "I've been severely injured and I see a face floating" ghosts?
+
+[00:06:16] Kristin:
+No, it was a real ghost that was wandering around. Unfortunately, I don't remember what killed him.
+
+[00:06:22] Drew:
+Hmm. Yeah, it's unfortunate. Sometimes you really want to be able to scroll backwards on things, like with Tongue Spear when he burned up. But it would have been maybe nice to go back and look and see just how many lovers did he have.
+
+[00:06:33] Kristin:
+Oh yeah, well perhaps Legends Mode will tell me. Well, those are some of our main characters from Bellblade. We're doing actually really, really well. Our population is up to 134. And, um, counting because I was in the middle of a migrant wave when I last saved out. We are a city. We have not been made a barony? Or a county? I don't remember. See, we do this every single time. I need to make a... 
+[interjection] Drew: touchy
+[interjection] Kristin: No, Duchy is the final one. 
+
+[00:07:04] Drew:
+Okay. 
+
+[00:07:06] Kristin:
+I think it might be county, barony. 
+
+[00:07:07] Drew:
+Yeah, I think it's barony, county, and then duchy. Yeah. 
+
+
+[00:07:13] Drew:
+BCD. 
+
+[00:07:15] Kristin:
+Hey, look at that. We should verify that that's true. 
+
+[00:07:16] Drew:
+Let's go with that. She's verified that that's true. But that seems good. 
+
+[00:07:19] Kristin:
+Yeah, it does seem good. So yeah, we did turn things around. I talked a lot about it last time. 
+
+[00:07:26] Kristin:
+I had talked last time a lot about how I only had these four adult dwarves and so many children and how we were trying to desperately hold on until migrants came. Well, obviously they have. So we have a lot of people now. We have had our first mayor elected. His name is Onal Pickwebs. He is not very interesting. He doesn't really have any skills to speak of. 
+
+[00:07:57] Drew:
+So was he one of the ones who won the mayoral contest by having the middle name "None of the above"? 
+
+[00:08:02] Kristin:
+Maybe? It's very possible. He has some friends, not a lot. But the noteworthy thing there is that the angry child, Rith, is one of his friends. I thought that was kind of sweet. Another interesting side note when I was looking into him is that I apparently, at some point in the game, had a guild hall request. And I thought I fulfilled it by just making the guild hall. I think it needed to be of a certain value because Onel, the mayor, has the memory of feeling dismayed for failing to meet a guild hall pact or requirement.
+
+[interjection]
+
+Fair. You know, we've run into this a couple of times, and I think other people we know have as well. Challenges with making sure that the count of the value of the area you've designated as a guild hall is high enough to actually be a guild hall. Hopefully, that gets fixed sometime soon.
+
+The one thing that I would really like would be an open requests window so I can see what churches I need to be building and working towards and guild halls, that kind of thing.
+
+Supposedly, I think they said that the log, an accessible log of events, is coming back soon. So maybe then somebody will be able to make a nice little mod for that or something.
+
+Yeah, it would be really nice to just have those in the equivalent of a post-it on my screen. And I might have to start doing it as post-its on a screen because I didn't realize that I hadn't gotten that to be valuable enough for them. So sorry, Guild.
+
+And now that's one of his dismayed memories.
+
+He's been elected three times.
+
+Cheers.
+
+I'm just so surprised that he doesn't have friends and family, you know? Like his friends were little children, which is sweet, but I don't think children get more votes than adults or anything like that.
+Did you look and see if he has extremely high social skills?
+
+[00:10:03] Kristin:
+I didn't. I'll have to look into that and see if I can explain the mystery that is our old pick webs. 
+[interjection] Drew: See you.
+
+[00:10:09] Drew:
+Yes, he may just be an extremely good persuader and persuades everyone. 
+
+[00:10:13] Kristin:
+Yeah. With the population explosion, we have had some food problems, which is a first for me in this game. And I did learn that you get a notification when you run out of food in a dire way. I had never seen that. The game is warning you that your dwarves will starve. 
+
+[00:10:30] Drew:
+Yeah, it's a rather stern warning. 
+
+[00:10:32] Kristin:
+It really is, I was quite surprised. So I could not figure out why we didn't have any food because we were farming and we were farming, like I assumed, you know, plump helmets and all. But then I realized that I had also turned off plant gathering when I was trying to turn the fort around so that people could rest and recover and feel happy and not be out gathering plants. So I realized that, turned it on, it immediately started helping. But then as Dwarf Fortress is, a giant Kia stole a step ladder. There's only one in the fort. There was only one in the fort, out from under the dwarves gathering in a tree. 
+
+[00:11:22] Kristin:
+and they started to dehydrate and starve even more. So I had actually just seen a post about this on Reddit and I ended up building staircases under each dwarf. So I have seven staircases under a tree now and they just immediately came down and ran off to, I don't know. 
+
+[00:11:41] Drew:
+That must be an interesting tableau if you were able to see it, you know, 3D in there. Or just the staircases up to a tree. 
+
+[00:11:49] Kristin:
+Yeah. 
+
+[00:11:50] Drew:
+No one could build the step ladder, apparently. 
+
+[00:11:52] Kristin:
+No, I mean, I would have had to tell them to, and I utterly forgot that step letters existed. I didn't realize they were climbing trees.
+
+[00:12:00] Drew:
+Yeah, that is a little weird.
+
+[00:12:09] Drew:
+I don't think I have it in my notes to talk about for my update, but on stream either last week or this week when I streamed, I had a cow go up a tree and then die up in a tree because we couldn't convince it to come back down.
+
+[00:12:23] Kristin:
+Why did it go? Did something scare it or?
+
+[00:12:26] Drew:
+I assume, but yeah, it climbed a tree in its terror and then stayed up there until it died. So like...
+
+[00:12:34] Kristin:
+Cow, you don't belong in a tree.
+
+[00:12:37] Kristin:
+I apparently neither do dwarves. Oh my goodness. I was just endlessly amused when that happened. Especially because I had just seen a post about it on Reddit, and so I knew what to do.
+
+[00:12:51] Kristin:
+So I told you about the magma incineration. We had a megabeast arrive shortly after we got to magma. And we were running out of food again, so I was like, what are we going to do? And I just walled us in.
+
+[00:13:06] Kristin:
+And told the squadron to get ready because my squadron had been here.
+
+[00:13:10] Kristin:
+Training, and they ended up cornering Ecano Sweetness Searches, the Brave Sport, a giantess. She is a gigantic creature resembling a human, almost unparalleled in size. Her description is not very interesting. Just, you know, picture a giant. Well, we cornered her and murdered her. She's dead.
+
+[00:13:31] Drew:
+Those of you listening, it's too bad you can't see the spelling of the giantess's name. Sweetness Searches. Sweetness searches. There are three S's.
+
+[00:13:42] Kristin:
+But we'll write it in the notes. She did manage to kill one dwarf who I think might have been like our least trained spear dwarf, but she was in the end killed by Moldath Heatbook.
+
+[00:14:01] Drew:
+Heatbook. I like that as a last name. I liked how toxic the Marco and Henry were to each other.
+
+[00:14:03] Kristin:
+Yes, so that was okay, and we haven't seen any forgotten beasts yet. I'm glad about that because, especially because we're still working on our defenses. In the caverns, my trap system has worked really, really well, and we have the aforementioned plump helmet men and blind cave ogres, some bat bugs, and six drunians, which are a large quadruped with a mane circling its man-like face and hands at the end of its forelimbs. It lives underground and is fond of raiding the supplies of cavern outposts. I've never encountered them, but now I have six of them in cages.
+[interjection] Drew: Fair enough.
+[interjection] Kristin: We also have captured seven elk birds, and I have started training them.
+
+[00:14:49] Drew:
+Excellent. Have you started breeding the Drunians?
+
+[00:14:52] Kristin:
+Um, I have all male Drunians, so there will be no Drunian breeding.
+
+[00:14:58] Drew:
+Why? I don't understand.
+
+[00:14:59] Kristin:
+I don't think they reproduce asexually.
+
+[00:15:01] Drew:
+Alas.
+
+[00:15:03] Kristin:
+I mean, they might. I didn't look that up in the Wikipedia entry or in the wiki entry to confirm. So yes, I could be wrong about that. But yeah, so now I went down a rabbit hole of animal training.
+
+[00:15:20] Drew:
+Exciting.
+
+[00:15:20] Kristin:
+Mm-hmm. So Drew, have you done much with animal training?
+
+[00:15:24] Drew:
+I've tried it a time or two with mixed success. I have trained elk birds before, and I find that they're relatively trainable, but they [interjection] Kristin: take time.
+[interjection] Drew: don't really hold on to the training that well.
+
+[00:15:35] Kristin:
+That does seem to be the case with my experience so far. I had planned on starting with the Drunians because I was like, well that'd be kind of cool and terrifying, but then you said that you'd seen and even been attacked with trained elk birds before, so.
+
+[00:15:50] Drew:
+Yeah, some cavern dwellers I thought had trained elf birds. Yeah.
+[interjection] Kristin: Yes.
+[interjection] Drew: Those are the ones that I captured.
+
+[00:15:56] Kristin:
+So luckily I had a couple of decent animal trainers in my fort and I took a deep dive into animal training.
+
+[00:16:03] Drew:
+Okay, well tell me about it.
+
+[00:16:05] Kristin:
+Yeah, so certain trapped animals, trapped wild animals can be trained in the STEAM version. Once you have them caged in your cage trap under others, you can assign them to a trainer. So that's the others tab with like your population and your pets and livestock and it's that tab. Wild animals are trained in their cages, so you don't let them out, which is good because if they don't go into a pasture, I am unclear on how to let animals out of cages. The training zone that you can designate seems to be for domesticated animals like dogs. So animals that have a permanent baseline of training will go and can be trained in that zone.
+
+[00:16:46] Drew:
+Makes sense. I wonder if, um, I do know that wild animals, if they breed, then the children that are bred in captivity... Am I stepping on your toes?
+
+[00:16:56] Kristin:
+Oh, you're getting a little ahead of me. All right. Yes.
+
+[00:16:57] Drew:
+I'll just step back then. 
+
+[interjection]
+Okay, okay, you gotta let me talk about my caged elk birds. So like I said, I had seven. That was actually, I think, six females and one male, but you know, good enough. Although now we're down to five because I did run out of food. Sorry, half-trained elk birds, but you got it. And one of them, some of its bones got turned into an artifact. Ooh. Yeah. So they were in their cages. I put them in, I made like a little animal training room. And the trainer went presumably in there and fed them little bits of food and turned them into trained elk birds. So at that point, I assigned the male and one of the females to a pasture, hoping to get new baby elk birds.
+
+[00:17:48] Drew:
+Giggity.
+
+[00:17:49] Kristin:
+Yes, um, well, it's not going great so far because one of the females was not very well trained. So I spent a good five minutes watching the trainer lead a terrified elk bird to a pasture, and then she would run out of the pasture, and he would catch her again and lead her back to the pasture, and she would run out.
+
+[00:18:13] Drew:
+That doesn't seem like it would be very conducive to breeding.
+
+[interjection]
+[00:18:17] Kristin:
+Not even a little bit, but it was really funny for me. So eventually I put her in a cage again and replaced her with a more biddable female. Oh no, it's terrible sounding. So according to the wiki, elk birds can be really hard to breed. So I don't have really high hopes for having a permanent army of elk birds, but fingers crossed. And I might get some drunions and bug bats trained for pets just for fun. But in order to really get them to be pets, you have to take them through nine levels of training from wild to domesticated. The value of the pet is somewhere assigned to them that I found on the wiki. That determines how much time it takes to train them. So elk birds, for example, are very low value pets and are trained quickly versus something I'm assuming like a unicorn is a high value pet and would take a lot longer and more skill. Makes sense. Wild animals that you've caged and started training require ongoing training to hold onto their knowledge. So if you stop training them, they'll just revert to at least semi-wild. But then if they have babies, those babies will be domesticated. Hooray.
+
+[interjection]
+[00:19:35] Kristin:
+Nice. I believe that it can be a little fuzzy reading about it, but that is my understanding.
+
+[00:19:42] Drew:
+That's my understanding as well. And I think I managed to get one elk bird child in the course of playing one time when I was working on it. And that one did train and became someone's pet, I think. Yeah.
+
+[00:19:54] Kristin:
+Yeah, so fingers crossed. I would like to have a little elk bird army because I can get war training, and that would be useful.
+
+[00:20:02] Drew:
+Release the war elk birds.
+
+[00:20:05] Kristin:
+Exactly.
+
+[00:20:06] Drew:
+I do like the Elk Bird sprites; they're very cute.
+They are kind of cute, yeah. And they do look more like elk than birds, but they are apparently flightless, so of course they look more like elk than birds. Oh, well, goodness, that might be the most I've talked in one sitting since, like, my senior thesis project. Usually we trade back and forth a little bit, so.
+
+[00:20:29] Drew:
+No, this time I felt like the material did really kind of stack up in a very effective way for the two of them. They returned to what they were doing.
+
+[00:20:35] Kristin:
+Yeah, we each had kind of a topic that we wanted to cover and that we had both been doing some exploration of.
+[interjection] Drew: Tick-tock.
+[interjection] Kristin: So let's give my poor little sad voice a break, and you can tell me what is happening at CopperStreams!
+
+[00:20:50] Drew:
+Copper Streams, when last we left, was not doing super-duper great. We had had four, maybe five, Forgotten Beast invasions.
+
+[00:21:00] Kristin:
+Ooh, that's a lot of forgotten beasts.
+
+[00:21:02] Drew:
+And we'd gone down from a relatively large population to 62. But we were back on track. It was very pounding, very fun.
+
+[00:21:09] Kristin:
+Yes, you know, that's, you gotta start somewhere.
+
+[00:21:12] Drew:
+Yeah, and we had turned off all of the labor so everyone could focus on hauling the dead bodies to burial sites or trash depending, as is respectively needed.
+
+[00:21:23] Kristin:
+A bummer. Well, don't forget to turn your plant gathering back on. Well...
+
+[00:21:26] Drew:
+Well, after that was all taken care of, and eventually it was all taken care of, we got all the bodies taken care of.
+
+[00:21:31] Kristin:
+No miasma? Ghosts?
+
+[00:21:33] Drew:
+We did have miasma and ghosts, but eventually it all sorted itself out.
+[interjection] Kristin: Fair enough.
+[interjection] Drew: And so we then started to build ourselves back up. To get our feet back under us, to get some food cooked, some drinks made, resume normal life. And part of that, we decided we should enlarge and clean up the duke's tomb because he had become a duke at the end of our last session, and he wanted a fancy tomb.
+
+[00:22:06] Kristin: Well, I mean, he's a duke. Of course, he does.
+
+[00:22:09] Drew: So we expanded that, but it was dirty. So we decided that we should polish it and carve it. We polished it very nicely. And then we began carving it. It became this entire activity for the fort, a unifying moment where we could-
+
+[00:22:22] Kristin: Everyone is all gathered together, creating.
+
+[00:22:25] Drew: Exactly, this beautiful tomb. When suddenly-
+
+[00:22:30] Drew: A murderous ghost appeared. Oh no, what?
+
+[00:22:32] Kristin: Oh no.
+
+[00:22:33] Drew: Oh no!
+
+[00:22:34] Drew: Right where everyone could see it, and as it appeared, it scared Cyril Evandel to death.
+
+[00:22:42] Kristin: Oh no, did he just drop dead?
+
+[00:22:44] Drew: Yes, he dropped dead, contorted in fear.
+
+[00:22:48] Kristin: Oh, that's upsetting. I'm sure the rest of the dwarves gathered there really enjoyed that.
+
+[00:22:53] Drew: Yes, they all basically stopped what they were doing, became extremely frightened, and ran out of the room.
+
+[00:23:00] Kristin: I can't blame them for that.
+
+[00:23:02] Drew: That caused everyone to become unhappy.
+
+[00:23:05] Kristin: Yeah, I would also be unhappy. Can't fault the dwarves there.
+And yeah, we had to deal with that ghost, another ghost, and then a third ghost that appeared over the course of the next... So many ghosts. Yeah. But we built slabs for them all, got that all engraved for each of them, put them down, exorcised them, or whatever we want to call that. Right. And things, again, started to settle down. Good. When we had our first migrant wave. Oh. Where it announced that some migrants had decided to brave this place, knowing it may be their tomb.
+
+[00:23:41] Kristin:
+Oh, wow. I've never seen that one. I've seen "Despite the Danger," but knowing that it may be their tomb? Yeah. Wow.
+
+[00:23:54] Kristin:
+That was your first clue that this fort might not be that much longer for this world.
+
+[00:24:00] Drew:
+Yes, but I wanted to try to recover Copper Streams because I love Copper Streams.
+
+[00:24:04] Kristin:
+I, you know, I'm pretty fond of Copper Streams too. You had such a cool entrance and project there. It was like the most successful project either of us has had. Water project.
+
+[00:24:13] Drew:
+Yeah, I really like it and perhaps, you know, foreshadowing we will try to reclaim it again at some point.
+
+[00:24:20] Kristin:
+Uh-oh.
+
+[00:24:21] Drew:
+But next up came a wave of reptile men who came up from the caverns and attempted to raid Copper Streams. We fought them back, but at the cost of the lives of five dwarves to something like 25 reptile men.
+
+[00:24:36] Kristin:
+Well, it's not a terrible ratio, but when you're already on the brink of collapse, it's not great.
+
+[00:24:42] Drew:
+No. The other funny part with the reptile men was that they continually went back into the water and just kind of sat there submerged. We've kind of been seeing this in Krog Smash's videos.
+
+[00:24:53] Kristin:
+Krog has the frogmen or amphibian men. I had some of those too, and I think it's kind of adorable that they retreat into the water and just sit there like burbling.
+
+[00:25:01] Drew:
+Yeah, I thought they were dead because they changed color, but I think that just means that they're submerged, not dead.
+[interjection] Kristin: Yeah!
+[interjection] Drew: So yeah. Action.
+
+[00:25:08] Kristin:
+I shouldn't be quite so charmed by cave dwellers as I am.
+
+[00:25:12] Drew:
+Well, when it's cave swallow men, I mean, that's a whole other thing.
+[interjection] Kristin: Yeah.
+[interjection] Drew: But, after we fought off those reptile men and everyone took a breather, a sound was heard in the depths and Daz the Subtle, an amber beast with large mandibles and undulating rhythmically appeared. It shot webs.
+
+[00:25:31] Kristin:
+Ah, I was gonna say a really bad word there.
+
+[00:25:35] Drew:
+So, we had an amber beast attacking, who, I thought it was a good sign, was clumsy, though he does have a good intellect, a way with words, and a large deficit of willpower.
+
+[00:25:46] Kristin:
+Hmm, I think I relate. Ha Ha Ha.
+
+[00:25:50] Drew:
+But his attack began.
+
+[00:25:53] Kristin:
+Mm-hmm.
+
+[00:25:54] Drew:
+A mighty battle with 25 losses. Oh.
+
+[00:25:56] Kristin:
+Oh, that's a lot of dead dwarves.
+
+[00:25:59] Drew:
+Until finally he was severely wounded and immobilized by recruit Degil Armorthind, a new arrival from the wave that came knowing it may be their tomb.
+
+[00:26:09] Kristin:
+Welcome to your tomb now kill this thing or you know die in your tomb.
+[interjection] Drew: Die.
+
+[00:26:16] Drew:
+And Degil did a good job for a new arrival. But while he was fighting, Zaz Ragwheel rose from the dead, causing Degil to flee in terror and then be struck down from behind by Daz.
+
+[00:26:31] Kristin:
+That's really funny and unfortunate.
+
+[00:26:35] Drew:
+At this point, we were down to 25 people left in Copper Streams.
+[interjection] Kristin: Yeah.
+I decided it was time. It was time for Meng Tongpassions, the Baron, to come and join the battle with his great skill and masterwork mace.
+
+[00:26:51] Kristin:
+Nice. No more leaning from the back, Meng.
+
+[00:26:55] Drew:
+Nope, Meng decided to show up, and he did a good job opening an artery of the beast. But then the beast caught him by the head and exploded his head in a spray of gore, apparently knocking him unconscious and one assumes killing him.
+[interjection] Kristin: Ew.
+
+[00:27:08] Kristin:
+I think that having my head exploded would make... I really hope I would be unconscious at that point. Yikes.
+
+[00:27:15] Drew:
+The only thing left behind was a rose gold ring and a rose gold figurine of Melara Ravenspiral, the goblin that they're all weirdly obsessed with.
+
+[00:27:25] Kristin:
+I forgot to mention that my dwarves are all really obsessed with one of their queens.
+
+[00:27:29] Drew:
+That makes more sense to me than a goblin.
+
+[00:27:30] Kristin:
+Yeah, okay, the goblin thing is pretty weird.
+
+[00:27:33] Drew:
+But at any rate, I thought it was very poignant that just his ring and a figurine were all that were left of Mengtong passions. Oh, that's beautiful.
+
+[00:27:42] Drew:
+The rest of the dwarves, now seventeen, were formed into two squads, the Furnaces of Virginity.
+
+[00:27:49] Kristin:
+The jokes just write themselves.
+
+[00:27:51] Drew:
+and Copper Crips.
+
+[00:27:52] Kristin:
+Ooh, Copper Crips.
+
+[00:27:54] Drew:
+I thought that was good. Yeah.
+
+[00:27:55] Kristin:
+Yes, that's excellent.
+
+[00:27:57] Drew:
+Absolutely every limb was broken at this stage of Daz's, and he was finally slain by Vabok Gildlance, Militia Captain, then Mayor, because the other Mayor had been killed in the course of the fighting.
+
+[00:28:10] Drew:
+So Vabok consulted with Tobul, the deity of metals, minerals, jewels, and wealth that was the main deity for Copper Streams.
+[interjection] Kristin: Mhm.
+[interjection] Drew: And after carving one last thing on the exit, they abandoned Copper Streams.
+
+[00:28:25] Kristin:
+Ooh, very epic.
+
+[00:28:28] Kristin:
+Now, you abandoned it to ruin. You didn't retire it, right? That is correct. Did you not have the option to retire it?
+
+[00:28:34] Drew:
+I do not believe so. I think we were down below the threshold. Yep. So just some bookkeeping. We had two interesting artifacts over the course of that last playtime.
+[interjection] Kristin: Alright.
+[interjection] Drew: The Shattered Universes, a silver barrel.
+[interjection] Kristin: Mm-hmm.
+
+[00:28:48] Kristin:
+Mmm!
+
+[00:28:49] Drew:
+Again engraved. That sounds fancy. Engraved again with an image of Melira Raven spirals being struck down by a human who I'll talk about later.
+
+[00:28:58] Drew:
+And then, Gorothard, the glowing empire, a platinum mug with encrusted emeralds.
+
+[00:29:03] Kristin:
+Ooh, I want a platinum mug with emeralds.
+
+[00:29:06] Drew:
+Yeah, I thought The Glowing Empire was an interesting one.
+
+[00:29:09] Kristin:
+Yeah.
+
+[00:29:10] Drew:
+So that was the end of Copper Streams.
+
+[00:29:13] Kristin:
+Alas. So when that happened, I was kind of surprised. I felt a little sad, a little like nostalgia. It was like a TV series that I enjoyed was ending because I had never played with Copper Streams, but I'd heard so much about it and it was like, oh, my favorite show is ending, kind of.
+
+[00:29:30] Drew:
+I understand that feeling. Like I was really proud of making that waterfall. And I made that image of Copper Streams that I really, really like. I'm going to keep that around. And I just was sad. Like I really wanted to make that one work, but it just got down so low. Like once you're past 10, you just...
+
+[00:29:49] Kristin:
+Yeah, you can do like an epic reclamation mission someday, but...
+
+[00:29:54] Drew:
+I need to look up if the ghosts continue to haunt the forts or not because I imagine they don't.
+
+[00:30:01] Kristin:
+That would still be a pretty fun challenge. Yeah.
+
+[00:30:02] Drew:
+Interrupting people's work, interrupting fights and all this stuff and just causing so many problems. And some of them were even murderous. Like I said, I'm not even exaggerating.
+
+[00:30:15] Kristin:
+I've seen the murderous ghost.
+
+[00:30:18] Drew:
+Like, you know, sometimes I take a little artistic liberties with things. Sure, yeah. But, no, the ghost appeared and just struck a person dead. The alert said, "died contorted, their face contorted with fear."
+
+[00:30:31] Kristin:
+That is fascinating. You know, when I get to the end of my forts usually I'm like, "oh screw this, I'm done with this place." But this one I was like, "oh." And I think it's because I was just witnessing it and not doing it myself, you know?
+
+[00:30:45] Drew:
+The point of Dwarf Fortress is the stories. And I feel like Copper Streams had a good story.
+[interjection] Kristin: Mm-hmm. Mm-hmm.
+[interjection] Drew: It really did. And that was an epic ending. It was. I thought it was very thematically nice that we had the amber beast, you know, amber is kind of copper-colored. And then the copper crypts is one of the squads. Although the furnaces of virginity was also just hilarious at the time. Yeah, that was really funny. And yeah, so I was pretty happy with that. Yeah. And then comes the part that is sort of like when you have to eat a challenging meal and then have an interesting dessert. No, that's not quite right. But you know what I'm saying.
+
+[00:31:23] Kristin:
+It's like Thanksgiving. It's like the pumpkin pie.
+
+[00:31:25] Drew:
+Exactly. You can pull up Legends Mode. Yay! Now that Legends Mode is back, you can also export it, but I don't know if the viewers have been updated to deal with it quite yet. I haven't even tried yet. But Legends Mode. I decided to investigate Malara Ravenspiral. I think it's a great name. It really is. I think I frequently say Malira. I think I'm just changing vowels around, but at any rate, this was a female goblin, one of the first of her kind. She fought in the battles of Robust Lightnings four times against the human Khemsa Bitterholds. She was a member of the Immorality of Gulfs, and her mother was queen at Monstrous Copper. More copper. More copper. Which incidentally was interesting for having a troll called the Orb of Bones.
+
+[00:32:12] Kristin:
+Oh, that's an impressive title.
+
+[00:32:14] Drew:
+Khemsa Bitterholds was the one who eventually slew Malara Ravenspiral. She was the second daughter of Thola Hopeglass, who settled in Robust Lightnings but traveled around settling in other towns, but always coming back to Robust Lightnings.
+
+[00:32:29] Kristin:
+Was she a dwarf or...?
+
+[00:32:30] Drew:
+She was a human.
+
+[00:32:31] Kristin:
+Oh, a human, okay.
+
+[00:32:32] Drew:
+She struck down nearly 15 goblins in her time, but Malara was the only notable one. She told her dwarf friend Tobol Tomzowerz, a legendary carver, about Malara and the battle. She was a member of eight organizations, including being a sacred grave of the Fatal Communion.
+
+[00:32:53] Drew:
+The Fatal Communion, you'll remember, was a fairly big religious community in my previous two esteemed manners, Copper Streams. And Khemsa worshipped Sath Gravedust, [interjection] Kristin: Yeah. [interjection] Drew: the human female god of death, represented as a rotting female. Sansa Dikap, the love of gladness, a human male known for oaths. And Ilda, a human male centered around healing.
+
+[00:33:22] Kristin:
+Yeah?
+
+[00:33:24] Drew:
+So those were the three gods that Khemsa worshipped the most.
+
+[00:33:27] Kristin:
+Fair enough.
+
+[00:33:28] Drew:
+So Khemsa, who struck down Melera Ravenspiral, I believe, told her friend Tobol Tomzowers about that battle, and then he made carvings that other dwarves saw, and eventually the battle became a key point in the civilization.
+
+[00:33:47] Drew:
+Which is why it was then illustrated and everyone always carried around figurines of Melara Ravenspiral, though you think it would be Khemsa.
+
+[00:33:54] Kristin:
+Yeah, you would think. But nope.
+[interjection] Drew: But nope.
+[interjection] Kristin: Interesting.
+
+[00:33:58] Drew:
+With that, that's our little expedition into Legends mode. Yeah. I then went and started my new settlement. Hooray! Fiery Cities!
+
+[00:34:06] Kristin:
+Ooh, cool name.
+
+[00:34:07] Drew:
+Which is going to be on an island.
+
+[00:34:09] Kristin:
+Ah, is it an island continent like mine or like a small island?
+
+[00:34:12] Drew:
+It's a fairly small island. Oh, cool. Just the settlement zone is just a little bit smaller than the entire island. Cool.
+
+[00:34:19] Kristin:
+Oh wow, so truly an island then. Yeah.
+
+[00:34:26] Kristin:
+Oh, and is she interesting in any way?
+
+[00:34:30] Drew:
+Well, she values tranquility and has high stamina,
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: but meager creativity and little intuition. Interestingly, she clicks her tongue when bored, shakes her finger when excited, and laughs in a unique way when nervous.
+
+[00:34:45] Drew:
+And that's not my laugh. No.
+
+[00:34:48] Drew:
+So that's the end of Copper Streams and the start of Fiery Cities. Hopefully, Fiery Cities will not go the same way.
+
+[00:34:59] Kristin:
+Yes, well, you know, Copper Streams had a really good journey. It really did. It's about the journey, not the destination. Isn't that what Brandon Sanderson says? Exactly. Journey before destination.
+
+[00:35:12] Drew:
+Um...
+
+[00:35:13] Drew:
+Yeah, but now that I'm having to settle a new fortress, I've really been putting my mind to professions and how all of that works together in Dwarf Fortress.
+[interjection] Kristin: Yeah.
+[interjection] Drew: So I thought I'd talk a little bit about that. The topic was suggested by one of our listeners over in our Discord. You should really join the Discord if you haven't already.
+
+[00:35:32] Kristin:
+Yes, and thanks to Mr. Whiskey for the good suggestion.
+
+[00:35:35] Drew:
+Yeah, but also feel free to join the Discord and just lurk if you want. You know, nobody's nobody.
+
+[00:35:42] Kristin:
+We like lurkers.
+
+[00:35:43] Drew:
+We're just wanting to see those numbers go up.
+
+[00:35:47] Kristin:
+Oh, well it sounds bad when you put it that way.
+
+[00:35:51] Drew:
+Alright, professions. The interesting thing about professions in Dwarf Fortress is that it is really just a grouping for skills, with the Dwarf's profession, in quotes, being their best skill.
+
+[00:36:04] Drew:
+It's important to distinguish between professions and labors, because when you say a dwarf's profession, I think most humans initially think they're labor, i.e. what task are they assigned to do.
+[interjection] Kristin: Yeah.
+[interjection] Drew: But instead, profession is a representation of your dwarf's best skill in order to help you decide what they should be working on.
+
+[00:36:24] Kristin:
+Yes. Fair enough. Okay.
+
+[00:36:26] Drew:
+So the color of a dwarf's name in the various interfaces is colored for their profession. This seems like it would be very helpful, but in typical Dwarf Fortress fashion...
+
+[00:36:37] Kristin:
+Wow, okay.
+
+[00:36:39] Drew:
+I'm going to list out five of the 15 because I want people to keep listening to this podcast. Sure. The first is gray. That means they're a miner. Dark gray means they're a metalsmith.
+
+[00:36:52] Kristin:
+Haha.
+
+[00:36:53] Drew:
+Violet means they're a craft dwarf.
+
+[00:36:56] Kristin:
+Okay.
+
+[00:36:56] Drew:
+Purple means administration.
+
+[00:36:59] Kristin:
+Yeah.
+
+[00:37:00] Drew:
+And then black background with white text is military.
+
+[00:37:03] Kristin:
+Wow, interesting. I've seen all those colors and I don't think that I had ever really realized that they were a category. I, for some reason, was like, does it mean that they're better at what they do? No.
+
+[00:37:17] Drew:
+No, so the different colors, even though you would think that that would be it, because again, they go through a lot of different shades, when you look at the DF wiki, you can see that there's purple, chartreuse, violet, a couple of other purple colors that I can't think of the name of right now. But each of those colors is actually a distinct profession, out of 15 different colors. The other interesting note related to that is if they are legendary in that profession, so if they have a legendary skill in that category, then their name will also flash.
+
+[00:37:54] Kristin:
+Yes, I have seen that and we like to see that.
+
+[00:37:58] Drew:
+So.
+
+[00:37:59] Kristin:
+So I hadn't realized that it just meant that's their best skill, right? So I have Bim who's an animal trainer and another guy who's an animal trainer, and Bim's animals were always better trained than the other guys, even though they're both animal trainers. So I'm assuming Bim is just good at it.
+
+[00:38:19] Drew:
+Exactly. He just has one of the animal training skills, which there are probably a variety of.
+
+[interjection] Kristin: Left.
+[interjection] Drew: Right.
+
+[00:38:23] Kristin:
+Right, and the other animal trainer has it, but to a lesser degree, presumably.
+
+[00:38:28] Drew:
+Yeah, because animal training is his labor.
+
+[00:38:33] Kristin:
+It's not, it doesn't say that, it said it before he was assigned to it. Like it's just his tag. Yeah, exactly. All right.
+
+[00:38:39] Drew:
+OK.
+
+[00:38:41] Drew:
+The professions are a grouping for the skills.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: The skills are kind of like Elder Scrolls for those of you who've played that, which is a use it or lose it skill system, where the more you use a given skill, the more XP you gain in it, and the less you use it, or the more that you don't use it over time, it begins to degrade.
+
+[00:39:06] Kristin:
+Kind of neutralizes.
+
+[00:39:08] Drew:
+Exactly. Any given skill starts at zero and increases up to 18,000 XP, with each level increasing by 100. From zero to the first level is 100, second is 200, and so on. The decay of that skill decays according to a pretty complicated clock within Dwarf Fortress. You know, there are three intersecting systems, and so on.
+[interjection] Kristin: Yeah.
+
+[00:39:32] Kristin:
+So when you see the very rusty, that is a degraded skill.
+
+[00:39:35] Drew:
+Exactly. The skills will go to rusty and then very rusty, each of which has a penalty.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Rusty gives you about a 50% penalty to skill check and then very rusty 75% penalty and then a loss of a skill level.
+
+[00:39:51] Kristin:
+Okay. Do those who are rusty gain skill faster than someone who has never done it before? Any idea? Or are they just starting at a higher level?
+
+[00:39:59] Drew:
+They're starting at a higher level.
+
+
+[00:40:03] Drew:
+The skills are also influenced by attributes, traits, and status effects.
+
+[00:40:08] Kristin:
+Wow, okay.
+
+[00:40:08] Drew:
+And preferences. The status effects are perhaps the biggest one to be aware of, which is if you have a negative status effect, they all kind of universally do somewhere between a 25% to 75% damage to your skill check when completing a task. The 50% ones, the most common, are dehydrated, starving, and very drowsy.
+
+[00:40:31] Kristin:
+Oh, okay. So that's why.
+
+[00:40:34] Kristin:
+Yeah, I just built a dormitory because I realized that my smelter was exhausted from having gone down 100 z-levels. Sure, you know, like to get that far I would like you to get some sleep, poor dwarf.
+
+[00:40:47] Drew:
+The combination of all these different factors either increases the quality of a creation or the speed at which a task is completed. The die roll for legendary skilled, which is the top skill, I didn't really want to read the 15 skills, but for legendary is multiple times more likely to produce a masterwork.
+[interjection] Kristin: Sure.
+[interjection] Drew: Than a newbie.
+
+[00:41:10] Kristin:
+Okay, yeah.
+
+[00:41:12] Drew:
+And for those with a legendary skill in something that doesn't result in a craft output, their performance becomes shockingly fast. Someone with a legendary in shearing, for example, will shear an animal in one tick as opposed to five or ten ticks for even someone who isn't legendary. Like one level below legendary, they're still taking ten ticks to do it, where a legendary will do it in one step.
+[interjection] Kristin: Wow.
+
+[00:41:39] Kristin:
+Okay, so it is worth specializing, is what you're saying.
+
+[00:41:43] Drew:
+It really is.
+
+[00:41:45] Kristin:
+At what point do you start to specialize your dwarves though?
+
+[00:41:48] Drew:
+That is a good question. It depends a little bit, in my view, on what you want your fort to be about. 
+
+[00:41:55] Kristin:
+I also should probably take one step backward and say, what do I mean by specializing your dwarves? And what I am saying is assigning a workshop to a particular dwarf.
+
+[00:42:03] Drew:
+Yeah, I think that's a good way to look at it because that way you make sure and also maybe turning them off from doing other tasks. Which you can do by within their character sheet, I think.
+[interjection] Kristin: tasks. Yeah.
+[interjection] Drew:
+
+[00:42:13] Kristin:
+Yeah, I think, yeah. Or maybe within labor. Either way.
+
+[00:42:17] Drew:
+It's pretty good to do that, I think, for the items that you want to be high-value trade items. Metal smithing is, of course, a good one.
+
+[00:42:28] Kristin:
+Well, they also get boosts if they sleep in like a master bed or whatever. That is true.
+
+[00:42:35] Drew:
+I always find, because I tend to cheat and have everything be made of wood to start with, I frequently wind up with one dwarf who's very skilled in woodcraft. I do have a...
+
+[00:42:44] Kristin:
+I do have a, I also have a skilled wood crafter.
+
+[00:42:47] Drew:
+I think usually because they're just churning out bins and barrels. Yeah.
+
+[00:42:51] Kristin:
+And beds.
+
+[00:42:53] Drew:
+No, pots, barrels, and pots are.
+
+[00:43:04] Kristin:
+Pots or... it's rock pots.
+
+[00:43:06] Drew:
+Yeah, rock pots and wooden barrels. Those are two good ways of getting your carpenters and stoneworkers leveled up pretty fast. And if they can make legendary doors, then people see them a lot.
+
+[00:43:23] Kristin:
+Yeah, it's a small one, but it is a boost.
+
+[00:43:28] Drew:
+This is how we all end up with masterpiece meals stacked in barrels or bins or whatever and half your created wealth is in food.
+
+[00:43:39] Kristin:
+Exactly, yeah.
+
+[00:43:40] Kristin:
+Just because if you turn on meals, then it goes forever and they get really, really good at cooking eel liver or whatever gross thing the dwarves are eating.
+[00:43:51] Drew:
+Before I read this, I hadn't actually internalized quite the labor versus profession distinction. I don't think that's super clear or intuitive. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: I think that's just more about gonna sometimes uncheck those datasets whenever you feel. 
+
+[00:44:00] Kristin:
+No, like I might actually sit down and read it for myself as well. When I start a fort, I tend to just let whoever works at the workshop do it. 
+
+[00:44:09] Kristin:
+Work at the workshop, like when I need stuff done, just get it done. And it's not until I've started, like I have my feet under me and we're solid that I start assigning workers to their own workshops and specialized. 
+
+[00:44:21] Drew:
+Yeah, I think the only one I really do that for in the beginning is metalworking, because even with metalworking, I feel like I need so much stuff getting done that I can't really do that. Like everybody, it's all hands on deck. Right. Gem cutting. 
+
+[00:44:37] Drew:
+Yeah, that one's worth it to assign one person to it and let them get good because you don't have that many gems. Usually you do have a decent number of semi-precious that they can practice on, but then when you get lower, you don't have that many. No. In the second one. Okay. 
+
+[00:44:53] Kristin:
+No, and the value, the cut really, really makes a big difference in the value when you're using them for trade. 
+
+[00:44:59] Drew:
+Exactly. 
+
+[00:45:00] Kristin:
+Actually, that reminds me, I need to make sure I have a dwarf assigned to mine, because I think it might still just be anybody doing it. 
+
+[00:45:06] Drew:
+Mm-hmm. 
+
+[00:45:08] Drew:
+And for me at least, usually my first three miners or whatever frequently become legendary just because they wind up grabbing all of the mining at the beginning when I'm digging everything.
+[interjection] Kristin: Yeah.
+
+[interjection] Drew: Alright. So it's an interesting system and I do enjoy seeing the little notifications pop up that so-and-so has become ex-proficient because they're so good at it.
+
+[interjection] Kristin: Because they're so...
+
+[00:45:31] Kristin:
+Yeah, I always enjoy seeing what weird masterworks have been created and right now for me it's a lot of cave spider silk cloth. We have a lot of excellent, excellent cloth.
+
+[00:45:43] Drew:
+The other fun part to remember, of course, is that some of the strange moods will result in the person who has them becoming a legendary crafter in whatever they did.
+
+[interjection] Kristin: Oh, I didn't know that.
+
+[00:45:55] Kristin:
+Very cool.
+
+[00:45:55] Drew:
+Yeah.
+
+[00:45:56] Drew:
+I can't remember the list offhand and I don't want to go look through the DF wiki, but you can take a look at that. It's, I think, three out of the six do that, maybe just two or one. But yeah.
+
+[00:46:08] Kristin:
+Well, I think that was a good overview. I had never really seen necessarily a value in just having a ton of workshops. But if you're assigning a specific dwarf to them, I can really see the value.
+
+[00:46:21] Drew:
+Yeah, I frequently will do that later on in my fort. I'll have multiple of, like, metal crafting and [interjection] Kristin: later.
+
+[interjection] Drew: One will be designated for, like, one guy to be making, you know, really high-quality breastplates or something to trade because everybody pays a lot of money for the breastplates. Fair enough.
+
+[00:46:40] Drew:
+Well, I think that's all the topics we kind of had there. Should we go to housekeeping?
+
+[00:46:44] Kristin:
+Yeah, first off, if you didn't know, we were on DF Roundtable. Yay! It was really fun being a guest on their podcast. 
+
+[00:46:54] Drew:
+Yeah, those guys are really a lot of fun to talk to and I thought that was actually a really good interview even if we didn't talk that much about Dwarf Fortress. Entirely our fault.
+
+[00:47:01] Kristin:
+We got a little off track. Well, it's fun because you meet people who play Dwarf Fortress, and it's almost like you are already friends. And so just sitting down and talking to them is very natural.
+
+[00:47:12] Drew:
+It's very funny, I think about two-thirds of the way through there we started talking about if we've ever run into anyone else who plays Dwarf Fortress in real life. I talked a little bit about my co-workers, but all of those are virtual as well. So yeah, it was just good. It was like having friends.
+
+[00:47:28] Kristin:
+What else do we have housekeeping-wise?
+
+[00:47:34] Drew:
+I created a transcription system for us to load up past episodes and create transcriptions out of.
+[interjection] Kristin: Yeah.
+[interjection] Drew: that using OpenAI and all that sort of thing. We will be including links to those in each of our episodes going forward, and the back catalog has been updated with links to it. Those are in two parts. One, the direct link is to kind of a fixed-up version where some of it has been cleaned up by the AI system. It sometimes also gets a little creative and might have the occasional phrase.
+[interjection] Kristin: And you might have the occasion.
+[interjection] Drew: that wasn't actually in the podcast, but overall I think it flows pretty well. Take a look, let me know what you think. Also, it's open source, so if you guys want that, you can grab it for any of your podcasts and use it to parse those out relatively cheaply.
+
+[00:48:23] Kristin:
+The nice accessibility feature that we're pretty proud of.
+
+[00:48:26] Drew:
+Yeah, and eventually I'm going to use it to create summaries and stuff for us about past episodes, make sure we don't cover the same ground, but also I think be able to make a little wiki of topics we've covered, all that sort of thing. Yeah. So let's see. There are a bunch of Dwarf Fortress theme mods that have come out that were interesting. You should listen to the roundtable about that. I'm trying to think of any I wanted to mention at the moment, but I think mostly just to check them out.
+
+[00:48:54] Kristin:
+Yeah, there's been a lot of teasing about Adventure Mode forthcoming, but we don't know when.
+
+[00:49:00] Drew:
+That's true, but it seems like they're really making an effort to make that happen.
+
+
+[00:49:04] Drew:
+They talked about it some in an interview with the Dwarf Fortress team, so Zac and Tarn, and the Caves of Qud team, part of the PC Gamer Chat Log podcast. We'll include that in the show notes, where they talked about the plans for Adventure Mode, how GPT-4 stuff is influencing kind of the creation of more content within Dwarf Fortress, Cave of Qud. And just kind of about the respective games and their philosophies, because Caves of Qud is kind of like an Adventure Mode, is like what Dwarf Fortress Adventure Mode is, except it has a built-in story that you're not pushed through, but being gently encouraged to follow. Interesting. And Caves of Qud, I've played on stream a time or two, and it's fun. Cool. So I think that's everything I had.
+
+[00:50:01] Kristin:
+I don't think I have anything to add other than you can join our Discord. There's a link on the website and in the show notes. The website is astrangemoodpodcast.com. You can email us at astrangemoodpodcast@gmail.com.
+
+[00:50:15] Kristin:
+On YouTube, we are at A Strange Mood, and I think that about covers it.
+
+[00:50:20] Drew:
+Join the Discord!
+
+[00:50:21] Kristin:
+Join the Discord, come chat with us.
+
+[00:50:23] Drew:
+We're always happy to have new friends. It's like we're all friends.
+
+[00:50:27] Kristin:
+It's like having friends. Okay.
+
+[00:50:30] Drew:
+Anyway...
+
+[00:50:31] Kristin:
+Thanks for listening and take care.
+
+[00:50:32] Drew:
+And just keep digging!

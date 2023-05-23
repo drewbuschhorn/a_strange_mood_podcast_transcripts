@@ -1,0 +1,85 @@
+1
+00:00:00,000 --> 00:00:02,560
+They talked about it some in an interview
+
+2
+00:00:02,560 --> 00:00:06,440
+with the Dwarf Fortress team, so Zac and Tarn,
+
+3
+00:00:06,440 --> 00:00:10,080
+and the Caves of Qud team,
+
+4
+00:00:10,080 --> 00:00:14,160
+part of the PC Gamer Chat Log podcast,
+
+5
+00:00:14,160 --> 00:00:16,320
+we'll include that in the show notes,
+
+6
+00:00:16,320 --> 00:00:18,440
+where they talked about the plans for Adventure Mode,
+
+7
+00:00:18,440 --> 00:00:23,080
+how chat GPT, GPT-4 stuff is influencing
+
+8
+00:00:23,080 --> 00:00:24,920
+kind of the creation of more content
+
+9
+00:00:24,920 --> 00:00:27,240
+within Dwarf Fortress, Cave of Qud.
+
+10
+00:00:27,240 --> 00:00:32,200
+And just kind of about the respective games
+
+11
+00:00:32,200 --> 00:00:34,440
+and their philosophies, because Caves of Qud
+
+12
+00:00:34,440 --> 00:00:36,440
+is kind of like an Adventure Mode,
+
+13
+00:00:36,440 --> 00:00:39,040
+is like what Dwarf Fortress Adventure Mode is,
+
+14
+00:00:39,040 --> 00:00:41,760
+except it has a built-in story
+
+15
+00:00:41,760 --> 00:00:44,180
+that you're not pushed through,
+
+16
+00:00:44,180 --> 00:00:47,080
+but being gently encouraged to follow.
+
+17
+00:00:47,080 --> 00:00:48,360
+Interesting.
+
+18
+00:00:48,360 --> 00:00:52,280
+And Caves of Qud, I've played on stream a time or two,
+
+19
+00:00:52,280 --> 00:00:53,560
+and it's fun.
+
+20
+00:00:53,560 --> 00:00:54,400
+Cool.
+
+21
+00:00:54,400 --> 00:00:57,360
+So I think that's everything I had.
+
+

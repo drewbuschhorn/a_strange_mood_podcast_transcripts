@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:06,640
+Exactly. The skills will go to rusty and then very rusty, each of which has a penalty.
+
+2
+00:00:07,760 --> 00:00:13,040
+Rusty gives you about a 50% penalty to skill check and then very rusty 75%
+
+3
+00:00:13,040 --> 00:00:30,480
+penalty and then a loss of a skill level.
+
+

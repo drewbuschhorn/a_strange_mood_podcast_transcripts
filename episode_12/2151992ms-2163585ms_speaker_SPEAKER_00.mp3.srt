@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:07,440
+Alright, professions. The interesting thing about professions in Dwarf Fortress is that it is really just a grouping for skills,
+
+2
+00:00:07,440 --> 00:00:31,440
+with the Dwarf's profession, in quotes, being their best skill.
+
+

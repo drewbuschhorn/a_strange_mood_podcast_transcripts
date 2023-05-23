@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:04,000
+The professions being a grouping for the skills.
+
+2
+00:00:04,000 --> 00:00:11,000
+The skills are kind of, the skills act a little bit like Elder Scrolls for those of you who've played that,
+
+3
+00:00:11,000 --> 00:00:19,000
+which is a use it or lose it skill system, where the more you use a given skill, the more XP you gain in it,
+
+4
+00:00:19,000 --> 00:00:30,000
+and the less you use it, or the more that you don't use it over time, it begins to degrade.
+
+
