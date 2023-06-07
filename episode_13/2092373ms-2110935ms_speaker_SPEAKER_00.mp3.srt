@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:02,320
+Okay, yeah, DFHack has been surprising me.
+
+2
+00:00:02,320 --> 00:00:09,440
+Like I was, I painted a temple zone just to peek at my deities and get those worshiping numbers.
+
+3
+00:00:10,040 --> 00:00:14,800
+And then I was making that temporary temple zone go away and DFHack popped up and was like,
+
+4
+00:00:14,800 --> 00:00:16,320
+are you sure you want to delete this zone?
+
+5
+00:00:16,320 --> 00:00:31,200
+And I was like, yeah.
+
+

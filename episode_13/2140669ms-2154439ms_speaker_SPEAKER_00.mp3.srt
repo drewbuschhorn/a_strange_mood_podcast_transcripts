@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:07,640
+I feel like once I was in Legends mode, DFHack had like export to XML.
+
+2
+00:00:07,640 --> 00:00:09,280
+No that's part of it now.
+
+3
+00:00:09,280 --> 00:00:10,760
+That's part of Legends mode now?
+
+4
+00:00:10,760 --> 00:00:11,760
+Yeah, that's part of it.
+
+5
+00:00:11,760 --> 00:00:12,760
+Even without DFHack?
+
+6
+00:00:12,760 --> 00:00:13,760
+Oh, fair enough.
+
+7
+00:00:13,760 --> 00:00:31,080
+Yeah, it's that simple.
+
+

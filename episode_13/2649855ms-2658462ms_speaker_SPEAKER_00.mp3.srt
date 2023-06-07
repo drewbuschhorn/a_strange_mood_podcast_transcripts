@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:01,400
+Yeah, the one that we're using.
+
+2
+00:00:01,400 --> 00:00:03,240
+There are apparently more than one,
+
+3
+00:00:03,240 --> 00:00:05,800
+or maybe it's just a variety of different links
+
+4
+00:00:05,800 --> 00:00:09,840
+pointing to the same place that are then all the same thing.
+
+

@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:04,320
+It's very, very cool and I spent a lot of time messing around with that this afternoon.
+
+2
+00:00:04,320 --> 00:00:10,360
+I will say that the one complication is still that you need to save your fort to another
+
+3
+00:00:10,360 --> 00:00:12,960
+timeline if you're doing the same fort.
+
+4
+00:00:12,960 --> 00:00:31,680
+And then do the retire fort in that other save so that you don't screw yourself over.
+
+

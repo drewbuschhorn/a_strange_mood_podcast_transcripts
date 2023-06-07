@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:02,080
+Yeah, I don't really know.
+
+2
+00:00:02,080 --> 00:00:06,440
+I know that one of the previous ones is still not working
+
+3
+00:00:06,440 --> 00:00:09,780
+because it refuses to start without having the map
+
+4
+00:00:09,780 --> 00:00:11,680
+information, and the map information is not
+
+5
+00:00:11,680 --> 00:00:12,840
+being exported right now.
+
+6
+00:00:12,840 --> 00:00:31,880
+OK.
+
+

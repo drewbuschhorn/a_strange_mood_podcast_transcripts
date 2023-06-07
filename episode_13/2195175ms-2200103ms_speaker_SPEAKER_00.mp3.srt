@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,000
+You know, there's still a couple of events that are occurring.
+
+2
+00:00:02,000 --> 00:00:29,000
+Like unknown connection and stuff like that.
+
+

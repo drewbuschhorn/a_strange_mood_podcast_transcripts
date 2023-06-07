@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,280
+You should dig out a room and then put all of the various creatures in there,
+
+2
+00:00:05,280 --> 00:00:11,120
+associate them all to one lever outside the room, lock the door, and pull the lever.
+
+3
+00:00:11,120 --> 00:00:29,440
+Just like them.
+
+
