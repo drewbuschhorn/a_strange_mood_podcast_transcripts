@@ -1,0 +1,928 @@
+[00:00:00] Kristin:
+The audio quality is of the highest quality. But it's a little outdated. Today we're dropping an episode we recorded about six weeks ago about the marvelous game Dwarf Fortress.
+
+[00:00:11] Drew:
+Dwarf Fortress is a game that is under rapid development. When we recorded this, the Foxes update had just dropped. A lot of this won't make sense at the start, but they've continued to add many new features, including treasure stags, wandering merchants, and many other UI improvements.
+
+[00:00:30] Kristin:
+Yes, and one of the exciting things that we actually talk about a lot in the episode is that on their roadmap, they have some tutorial improvements. And that was one of our biggest critiques of the game, that it didn't really teach you in a way that we wanted to be taught.
+
+[00:00:44] Drew:
+Yep, but that's probably enough to start with. Enjoy the episode.
+
+[00:00:47] Kristin:
+Yeah. Thanks for listening.
+
+[00:01:05] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress podcast. I'm Kristin.
+
+[00:01:10] Drew:
+And I'm Drew.
+
+[00:01:11] Kristin:
+And we are a couple playing Dwarf Fortress.
+
+[00:01:14] Drew:
+Well actually, Kristin, this week I cheated on you. Ah!
+
+[00:01:18] Kristin:
+What?
+
+[00:01:19] Drew:
+I played Against the Storm.
+
+[00:01:22] Kristin:
+So you will actually lead me and you played a different game?
+
+[00:01:25] Drew:
+That's correct.
+
+[00:01:26] Kristin:
+Oh no! I played it too, it's okay.
+
+[00:01:29] Drew:
+Alright, well if we both did it, I guess it must be okay.
+
+[00:01:33] Kristin:
+All right, well, in case you hadn't figured out, both from the title and from that moment just now, I don't know what that was. I was a little scared.
+
+[00:01:40] Drew:
+Was that a skit? I think it's a skit.
+
+[interjection]
+It might have been a skit. I was unprepared for it though, and it worked well. We have been playing Against the Storm. Drew, why don't you tell us what Against the Storm is?
+
+[00:01:51] Drew:
+Okay, Kristin.
+
+[00:01:56] Drew:
+Against the Storm is a member of a new genre of video game, the roguelike city builder.
+
+[00:02:03] Kristin:
+Is this a new genre, or is this just this game?
+
+[00:02:06] Drew:
+I would like to believe that this is going to become a new genre, even if I have to write my own next game in the genre. Yeah, because it's really cool. It is a really cool concept, and I'm actually really excited to have played it and to see it have an actual innovation in the city builder formula.
+
+[00:02:22] Kristin:
+Yeah, this game is cool enough that we had been planning this episode, and Drew was gonna get pretty familiar with it, and I was just gonna play a little bit of it so that I could be like the newbie voice. No, I have now played 11 hours of it. It was really good.
+
+[00:02:36] Drew:
+It's a really good game, and as we go throughout this episode, you know, we are going to have criticisms, but really like as you listen, understand that it comes from a place of love.
+
+[00:02:48] Kristin:
+Yeah, it's a place of love. Right.
+
+[00:02:50] Drew:
+Right, like we're actually able to engage with it.
+
+[00:02:54] Kristin:
+Yeah, we're thinking critically about it because it's drawing us in so much.
+
+[00:02:59] Drew:
+Because the worst thing isn't love or hate, it's indifference.
+
+[00:03:03] Kristin:
+Yes, this is true, and we are definitely not indifferent. We love it!
+
+[00:03:06] Drew:
+We do love it.
+
+[00:03:07] Kristin:
+But we have notes.
+
+[00:03:08] Drew:
+I- there are parts of it I hate.
+
+[00:03:10] Kristin:
+Oh, yeah, okay. Fair enough. All right.
+
+[00:03:12] Drew:
+Ermitage Studios and published by Hooded Horse Games. Ermitage Studios is a European game company. Some guys who've actually worked in some pretty cool places before this got together and decided to make a game that's actually pretty original. And then Hooded Horse, their publisher, has published a bunch of kind of indie weird strategy games. The most popular one that springs to my mind besides this was Terra Invicta, which is a variant of XCOM made by the people who made the Long War mod of XCOM that takes XCOM from a game you can beat in a weekend into a game that you can play for the better part of a year. Yeah.
+
+[00:04:02] Kristin:
+That's one of those games where you shoot people. Yes. And so I don't really play it. And it's still early access, right? And how long has it been in early access?
+
+[00:04:13] Drew:
+Since 2021.
+
+[00:04:15] Kristin:
+Wow, that's a long time. But they do seem to be doing big patches like every two weeks or at least like twice a month. It's wild.
+
+[00:04:26] Drew:
+They've been in early access, so they've been in public early access since November 1st, 2020.
+
+[00:04:32] Kristin:
+Okay, so not that long, kind of. I mean, it's good. Kind of a long time. Yeah. All right. It does not feel like a game that's in early access.
+
+[00:04:41] Drew:
+No, you can definitely tell that the developers have worked on other games before, like all of them.
+
+[00:04:47] Kristin:
+Yeah, it's very polished.
+
+[00:04:49] Drew:
+When I first started playing it and I saw the videos, I was like, huh, I wonder what big company, like this has gotta be basically released and all of that and from a big company. And actually in the end, it's not. It's from a small group of devs. They've just done a really excellent job with the polish. When you play the game, it really does seem like a AAA title.
+
+[00:05:09] Kristin:
+It's visually beautiful and the sound is good. The music is excellent, and the sound design creates really good atmospheric effects. Oh, and the UI also feels quite smooth. I think I inevitably have UI notes because sometimes things aren't necessarily intuitive to me in every single game that I play.
+
+[00:05:31] Drew:
+But I do think that, yeah, the polish on the game is really great. Most of our criticisms actually fall into the category, I would say, of the actual game, not the video game.
+
+[00:05:42] Drew:
+Some of the mechanics and how they interact. Exactly. So why don't you tell us briefly what the premise of this game is?
+
+[00:05:56] Drew:
+You are being sent out by the queen of a fantasy realm that is being periodically ravaged by storms. You're being sent out to found cities to gather resources with any of the currently five playable races that recently changed from four to head out, gather resources to bring back to the Citadel, your home base. Because as part of the post-apocalyptic nature of the game, every so often a giant storm will come through and wipe out all of the cities that you've made. And this is the way in which it's kind of roguelike because you build up an area, but then those cities get destroyed, and you start again, but you have new abilities and resources that you've gained over the course of the previous run.
+
+[00:06:52] Kristin:
+Right. So within the game, even though you are building multiple settlements and you can see them surrounding the Citadel where the queen lives, you start new settlements, a new run periodically. So it tells you when you are done, there are win conditions, kind of win-lose conditions. And when you have satisfied the queen, oh my, for a particular settlement,
+[interjection] Drew: for April.
+[interjection] Kristin: That run is over and you get points, you get XP, you get resources, you level up your tech tree, kind of, resource tree. And then you- 
+[interjection] Drew: Yeah.
+[interjection] Kristin: 
+
+[00:07:29] Drew:
+Unlock new buildings and... 
+
+[00:07:30] Kristin:
+Yeah, and then you start another settlement and as you spread out from the citadel, you get into increasingly difficult terrain. 
+
+[00:07:39] Drew:
+Yeah, but also which give increasingly interesting bonuses and rewards. Yes. Overall, this is kind of the key thing that makes this game different from other city builders, and if you're interested just up to this point, I do think you should go get this game. I just wanted to say that. Thanks for watching. 
+
+[00:07:53] Kristin:
+I definitely recommend it. 
+
+[00:07:54] Drew:
+It is taking the city builder idea, which one of the challenges always is, is that one, when do you end, and two, does this just go on for too long, and really compressing it down. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: So that when you play a run of Against the Storm and you build your city in there, it's like 90 minutes and we'll have a conversation about that. 
+
+[00:08:15] Kristin:
+We'll talk about that later. 
+
+[00:08:17] Drew:
+But, you know, it's a relatively fixed period of time. You complete it, and it ends basically just as you're done doing the interesting parts of setting up a city and getting your engine going. Because that's what city builder games really are, they're engine makers. 
+
+[00:08:31] Kristin:
+They're engine makers. Yeah, and if you're someone like me who has talked on this podcast about how once you have, say, a Dwarf Fortress fort that is just sort of ticking along and the engine is running, you get kind of bored and you want to go do another settlement, this is for you.
+It's exactly what this game is centered around. It captures that perfectly. And every time I've played, you know, the moment I get bored is when the game has ended.
+
+[00:08:56] Kristin:
+Yes, yeah.
+
+[00:08:56] Drew:
+So when the run has ended, I should say.
+
+[00:08:58] Kristin:
+Yeah. We should also preface some of this by saying that neither of us has completed the game. I mean, there are higher difficulty levels that we have not seen, and there are current ends to the tech tree, kind of.
+
+[00:09:14] Drew:
+Yeah, and that's something we'll talk a little bit more about later on in the conversation here because honestly that's kind of my biggest criticism about the game is that there is a lot of time to be spent in Against the Storm. Yes. The question is, is it too much time? I don't know; you have to decide that for yourself. But let's get back to the world-building.
+
+[00:09:34] Drew:
+So tell me about the races.
+
+[00:09:35] Kristin:
+So there are beavers, there are humans, there are lizards, harpies, and now foxes. Foxes! And some of them are very cute, and since rain is a, this is sort of a player versus nature game as well, they walk around in little raincoats. Yeah. And the humans kinda look like pill bugs. Each race has different bonuses to their abilities. They also have likes and dislikes, so some like certain food, some do better at certain jobs, but also they like certain jobs differently, so you are balancing their needs and their wants.
+
+[00:10:13] Kristin:
+As well as what they do best.
+
+[00:10:16] Drew:
+Leaving aside the question of the whole city-builder roguelike aspect of it, this is another thing that I really feel like this game just hits perfectly in a way that I haven't experienced in other games, really. Which is it really hits that balancing of the dynamic tension of opposites very well.
+
+[00:10:35] Kristin:
+Yeah. 
+
+[00:10:36] Drew:
+Not just in an asymmetric way like StarCraft does, where each race is good at one thing, but rather each race is good at one thing, but also bad at another. And so you're constantly balancing these two opposing tensions. Do you want your beavers to be chopping wood, which they're really good and fast at, or do you want them to be engineering, which they're happy doing, but they're not any faster than anybody else doing it, they're just...
+
+[00:11:08] Kristin:
+This whole game is really about balancing those kind of dual dynamics. So on the one hand, you have the Queen's impatience, and on the other hand, you're renowned, which you get for delivering resources or making your people happy.
+
+[00:11:21] Drew:
+Who cares?
+
+[00:11:25] Kristin:
+Who cares about those happy people? Exactly. That's... I mean, you can see where I balance that.
+
+[00:11:30] Drew:
+And the funny part about the game is it does make it very clear that these are dynamic tensions because with the, you know, you have two bars for your win condition which is, so you have a win condition and a loss condition. We're just dropping into mechanics now here.
+
+[00:11:44] Kristin:
+Yes, we are. I think that this is a fairly organic flow, but we're really excited about this game and so like I hope that comes through as we just talk about everything all at once.
+
+[00:11:54] Drew:
+Yeah, and I mean this is the thing. We would like to talk more about city builders, but eventually we'll have to figure out a format rather than just... But anyway, here we are. So the dynamic tension that I love so much about this game, um, is that it's a dynamic tension that's not [interjection] Kristin: Yeah. [interjection] Drew: just about the city, but it's about the dynamic tension that's about the city itself. And so I think that's what's so interesting about this game, is that it's not just about the city.
+You have both a win and loss condition, and they're separate in the game. In a particular run for a particular village, you have the loss condition, which is the Queen's Impatience bar filling up completely.
+
+[00:12:21] Drew:
+That increases over time, and if you make bad choices with some stuff we'll talk about, that can cause an increase in the queen's impatience. To win, though, you have to complete your renowned bar.
+
+[00:12:33] Drew:
+And your renown is built up by doing things that make the queen happy, or by making your villagers happy, or by completing world events, that sort of thing. It not only gives you renown, but it also removes a bar from the queen's impatience.
+[interjection] Kristin: Thank you.
+[interjection] Drew: And also, there are higher-level things that you can mess up that cause you to lose a chunk of renown, and then that just slides over into the queen's impatience.
+[interjection] Kristin: Yeah.
+[interjection] Drew: And so you've got this push-pull constantly with every decision you make in this game.
+
+[00:13:09] Kristin:
+Landscape, because another feature of this game is exploration. And one of the resources that you use a lot is wood. So you are constantly chopping wood. This can anger the forest, but also you need to chop into undiscovered glades, which have different resources and occasionally events.
+
+[00:13:37] Drew:
+And the events are usually bad if you don't resolve them quickly. But to resolve them quickly, you usually have to spend a lot of resources, which also tends to make your people unhappy.
+
+[00:13:48] Kristin:
+Yeah.
+
+[00:13:48] Drew:
+And so again, you're in this dynamic tension of, do I want to resolve this thing that will cause me more problems over time by taking some problems now, or do I want to let it fester to keep other plates in the air?
+
+[00:14:04] Drew:
+It creates a lot of dynamic feeling of progress and struggle throughout the game that then turns around very quickly towards the end, either into a win or loss, and then you've hit your condition.
+
+[00:14:21] Kristin:
+What is this game and can we kind of get nitty-gritty about it?
+
+[00:14:28] Drew:
+I think so. So this is going to kind of probably be where we drop into the criticisms. But again, like I said, you know, I would recommend going to buy the game.
+
+[00:14:34] Kristin:
+Like nine out of ten.
+
+[00:14:36] Drew:
+Yeah, if you're listening to this podcast and you like Dwarf Fortress, you're probably going to like this game. Yeah.
+
+[00:14:42] Kristin:
+All right, so let's... How did you find out about this game?
+
+[00:14:46] Drew:
+So I found out about this game just through Steam. It was one of the ones recommended for if you like Dwarf Fortress, you might like this. Actually, you know what, it might not be from if you like Dwarf Fortress? It might be if you like Terra Nil. Okay, well, yeah, that makes sense. Either way.
+
+[00:14:56] Kristin:
+And you played it earlier than I did, so a couple of patches ago. What was your onboarding experience like in this game?
+
+[00:15:08] Drew:
+It was interesting because I felt like that first tutorial was really quite easy and I enjoyed that. I kind of plowed through it pretty quickly. I think I did the tutorial in probably less than 30 minutes. Wow. And I felt coming out of that like I had a real handle on the game.
+
+[00:15:30] Drew:
+And I was wrong. I was so wrong. Yeah.
+
+[00:15:34] Kristin:
+Yeah, I, uh, I had some issues with the tutorial. I, um...
+It did not take me less than 30 minutes. It took me longer. And when I came out of it, I still really had no idea what was going on. And granted, I was not paying that much attention to the tutorial, because you were streaming Dwarf Fortress at the time, and it was amusing. So I was just, you know, half paying attention to my own tutorial. But I came out of there pretty unclear on what the win condition of the game was.
+
+[00:16:04] Drew:
+Yeah, there's something going on with the tutorial of this game, if you buy it and play it, where it is almost the equivalent of one of those tutorials that just teaches you like WASD and then says, okay, good luck, have fun.
+[interjection] Kristin: Good luck!
+
+[00:16:19] Kristin:
+I mean, you know, the current Dwarf Fortress tutorial is also really shallow.
+
+[00:16:25] Drew:
+Yeah, I mean maybe that's just where tutorials are right now, but in this game, I really have thought about this and I feel like the tutorial was made by someone who was
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: not directly involved with playing and developing the game.
+
+[00:16:41] Kristin:
+And to me, it just felt like it was for an older version of the game.
+
+[00:16:45] Drew:
+That may be the case as well, it just has never been really updated because they're like, "Yeah, that's probably good enough." But some key aspects of the game are not in the tutorial, like trading. Trading is critically important in this game.
+
+[00:16:59] Kristin:
+In the skin. Yes, yeah, it absolutely is, and you don't ever do it in the tutorial. It's mentioned.
+
+[00:17:03] Drew:
+Yeah, it's mentioned, but they don't even show you where the interface is because you can't unlock the interface to trade until like level 4.
+[interjection] Kristin: Yeah.
+It's crazy. No, that's not true. I can unlock the... I only just hit level 4. Anyway, so yeah, I went into it like... I'm pretty sure that I built a building called a makeshift post thinking it was going to be a trading post and it was not.
+
+[00:17:28] Drew:
+No, the trading post is a trading post. It's a trading post.
+
+[00:17:29] Kristin:
+Anyway, so I really did not understand how all of the systems interacted, in particular, the importance versus reputation.
+
+[00:17:42] Drew:
+Yeah, let's talk about some of these big mechanics that they have with a brief summary. So there's trading. Trading is how you get rare resources because each of your runs is randomized what resources are available, and to complete deliveries, you have to have the right resources, and there's no way to get them except trading in a lot of cases.
+
+[00:18:05] Kristin:
+What buildings you have available to you are also randomized. So like you might have a location with a bunch of farm fields and never see the option to build a farm.
+
+[00:18:14] Drew:
+Yeah, to use those for anything productive. Yeah.
+
+[00:18:18] Drew:
+Um...
+
+[00:18:19] Drew:
+There's the delivery system. Again, not super explained just how valuable that is, I feel like, in the tutorial.
+
+[00:18:26] Kristin:
+I felt like that was kind of all the tutorial did. At least that was the only impression the tutorial left on me was doing deliveries.
+
+[00:18:34] Drew:
+Fair enough. And so deliveries are basically challenges from the queen to complete certain tasks or get certain sets of items and then send them off to her to get a reputation point.
+
+[00:18:46] Drew:
+And then the XP system. The XP system really wasn't covered at all in the tutorial.
+
+[00:18:52] Kristin:
+The XP system is basically outside of each individual run.
+
+[00:18:56] Drew:
+Yeah, you get XP at the end of the run depending on how well you did, how quickly you completed it.
+[00:19:03] Kristin:
+And the difficulty level that you completed it at.
+
+[00:19:05] Drew:
+Right, and that was not emphasized in the tutorial, so I played probably four games, four runs at the lowest difficulty level.
+
+[00:19:15] Drew:
+And was like, huh, this is pretty easy, but also like I'm not really leveling up or anything. I'm not getting much XP. And then I realized that the lowest difficulty level, you have an XP modifier of like one quarter.
+
+[00:19:29] Kristin:
+Yeah, essentially the easier difficulties are playing with a handicap versus higher difficulties giving you a bonus like in Diablo.
+
+[00:19:40] Drew:
+Exactly.
+
+[00:19:42] Kristin:
+Which is frustrating and not clear.
+
+[00:19:44] Drew:
+Then also, the tutorial doesn't emphasize the importance of tools and parts in the game.
+
+[00:19:49] Kristin:
+I'm not even kidding.
+
+[00:19:51] Drew:
+Because in order to complete a lot of the Glade challenges, which are where you dig into a particular corner and have the option to do something challenging for a big reward,
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: A lot of those, the only way to resolve them is with tools. Or at least that used to be the case. The most recent release, they changed it from only being able to solve most of those with tools to also then being able to use some more common resource for a lesser reward. Thank goodness. But yeah, when those were only tools, that was a real pain. Because I frequently would wind up with like 12 tools total and you need 12 for a big Glade challenge usually.
+
+[00:20:28] Kristin:
+Usually, and you can buy them from a trader but you don't know that. Yeah. So that was definitely another big one and like the parts one, I don't even know where I'm at in the game, I can't make parts. I don't know if you ever can.
+
+[00:20:43] Drew:
+Yeah, I think you can, but in order to do that, you both have to be in a location that has a mine, so you can get the copper.
+
+[00:20:52] Kristin:
+Then you have to have a smelter.
+
+[00:20:53] Drew:
+Which building it is that goes from the smelted copper bars to the actual tools. But still, that's it.
+
+[00:21:05] Kristin:
+Not the tools. I know how to make the tools. I'm talking about the parts. The parts, yeah. Yeah, okay.
+
+[00:21:08] Drew:
+So that means you need two random unlocks and a location that has the thing you need. Right. And there's not really a way to force any of that. Yeah. You can, as you level up, you can get the option to unlock, like, re-rolls of different random selections, but you don't ever really get that option at lower levels, any way to handle that.
+
+[00:21:33] Kristin:
+Yeah, I think the final note that we really have about the tutorial is that it frequently was telling me to look at the wiki to know more about this. I want the tutorial to teach me. I don't want to be told to stop playing and go look at the handbook.
+
+[00:21:51] Drew:
+Exactly. And not just in the tutorial itself, because the tutorial is that sort of segregated initial experience, but also frequently the tooltips and stuff will link out to the wiki. And I'm like, no, man, I'm playing the game. I don't want to go read a wiki.
+
+[00:22:08] Kristin:
+Right, yeah, that's not what we're doing right now.
+
+[00:22:10] Drew:
+Which is a weird criticism coming from a Dwarf Fortress player, but it's... I don't know.
+
+[00:22:13] Kristin:
+But it's... Yeah.
+
+[00:22:16] Drew:
+Part of the challenge with this game versus Dwarf Fortress, to give our listeners a reason why they showed up, is that Against the Storm is much more immediate and fast-paced. Yes, there's a lot of...
+
+[00:22:27] Kristin:
+And you feel like you're just a lot of pressure. It's like you're constantly dealing with a siege.
+
+[00:22:31] Drew:
+Exactly. Or, you know, forgetting [forgot] to deal with three forgotten beasts all attacking at once, something like that. Like you've got a short period of time to do all this and to pause it and go out and look at the wiki interrupts the flow in a way that it doesn't with Dwarf Fortress.
+
+[00:22:44] Kristin:
+Yeah, I do spend a lot of time paused in this game.
+
+[00:22:48] Drew:
+The sort of [My] last topic there is just the question that I want to put to you to think about as we talk about this game is if it strikes the right balance between the player['s] time investment and the rewards that you get.
+
+[00:23:04] Drew:
+Because I feel a lot of the time in playing this that it doesn't really. Yeah. I enjoy playing it, but I do sometimes feel like at the end of a run, after I've spent the better part of an hour plus, [um-hmm] that the reward I get is really quite small in terms of actual game mechanics. Like I feel accomplished, like I enjoyed my time.
+
+[00:23:28] Kristin:
+Unless you lost. Well, there is that. Thank you. Sure.
+
+[00:23:31] Drew:
+But I also feel like I expected more from it. Like I won. I want my cookie.
+
+[00:23:38] Kristin:
+Yeah.
+
+[00:23:39] Drew:
+and the cookie it gives me is very small.
+
+[00:23:41] Kristin:
+It's a tiny little cookie.
+
+[00:23:42] Drew:
+I pressed the lever. Give me my rat chow.
+
+[00:23:47] Kristin:
+I did a run this morning, not on the lowest setting of ease, but on, like, I guess normal. Like instead of goo goo gaga baby, it's just normal. And while I did not get a lot of XP, and that's another area that we're not even talking about in terms of so many interacting mechanics, you get bonuses for accomplishing certain deeds, they call them. So these are basically one-time XP bonuses.
+
+[00:24:17] Drew:
+They're achievements. Yes. They're basically STEAM achievements.
+
+[00:24:18] Kristin:
+They're basically team achievements. Yes, and you get additional XP for that. I only got one of those this run, and I really did not get a lot of XP. However, I did get a lot of bread, which is how you purchase Citadel upgrades. And so I was able to get a couple of things that will make life easier for me, including getting an additional option to select from for buildings and that, so.
+
+[00:24:43] Drew:
+Yeah, and I mean that one run that I did lose. Thank you for bringing that up publicly to all of our listeners.
+
+[00:24:49] Kristin:
+Well, I think it's important to talk about what happens when you do lose. There's a lose condition.
+
+[00:24:53] Drew:
+Exactly. At any rate, I lost one run, and so I didn't get XP from that.
+[interjection] Kristin: Yeah.
+[interjection] Drew: That's so frustrating.
+[interjection] Kristin: I'm so frustrated.
+[interjection] Drew: But I did get all of the various items that we collected, and a lot of bread. I think I got like 65 bread or something from it.
+
+[00:25:08] Kristin:
+I feel like some patch recently might have adjusted the bread amounts or maybe I'm just getting more now because I'm playing at a higher difficulty.
+
+[00:25:16] Drew:
+Something like that. But, you know, so I came out of it, I still came out with a lot of resources to unlock more things in the Citadel.
+
+[00:25:24] Kristin:
+Yeah.
+
+[00:25:25] Drew:
+Even if I didn't level up.
+
+[00:25:28] Kristin:
+Right. So I think that the fox race only unlocks at like level 10 or something, and I think I'm level four and I've played quite a few runs now.
+
+[00:25:37] Drew:
+Yeah, I think I've probably played 20 hours, 25 hours now. And no, I can't play 25 hours. I've only done like 11 runs. But anyway.
+
+[00:25:46] Kristin:
+Yeah, I mean you might have played 16 to my 11 or something like that. 
+
+[00:25:49] Drew:
+Somewhere along the way, but yeah, so I'm at level 9. I haven't hit 10 yet because of that loss.
+
+[00:25:58] Drew:
+And yeah, it's interesting. And again, like everything is interacting, but when you go and unlock something in Citadel, frequently the reward is like 1%. 
+
+[00:26:08] Kristin:
+Yeah, it is really discouraging to see like... 
+
+[00:26:12] Kristin:
+1% increase to villager speed or something like that. I don't know if that's actually one, but you know what I'm saying. 
+
+[00:26:17] Drew:
+Right. I mean, that's my thing is that like, again, that cookie is so small, man. Yeah. I want a bigger cookie. 
+
+[00:26:22] Kristin:
+And related to that, you've said that you wish that individual runs of settlements were faster. 
+
+[00:26:28] Drew:
+Yeah, I have a real problem. Like, there's this psychological barrier in my head at least. 
+
+[00:26:37] Drew:
+Please cut that out. Yes. There is a psychological barrier, I think, to the one hour plus of a game run that turns it from "I'm going to sit down and do this" to "I need to block out time and do this". And Day Nine, when he played against the Storm, he said as well, and it made me feel better, that it took him about an hour and a half to complete a run. 
+
+[00:27:00] Kristin:
+Yeah, I think that I'm averaging an hour and a half, hour 45 even. 
+
+[00:27:04] Drew:
+And when I've really focused on it, I've been able to kind of get that down to maybe an hour five on the easier difficulty and all of that. But it still seems like, you know, like the sweet spot for a best of three StarCraft game is usually around 45 minutes. Best of three Magic game, usually around 35, maybe 40 minutes, depending on...
+
+[00:27:28] Kristin:
+Mm, yeah. 
+
+[00:27:30] Drew:
+That just seems to be kind of the magical zone for a complete satisfying session of a game. 
+
+[interjection] Kristin: Yeah.
+I see what you're saying, but I think that the barrier in my head is more that it's hard to walk away in the middle of a particular run, because you are juggling a lot of mechanics, and it could be easy to forget that, like, oh, I need to turn off making packs of building materials because I need planks for building such, or for a delivery. And if I take a break in the middle of my hour and 45-minute run and come back to it in two days, I'm not going to remember. So I'm not really, it sounds strange to say that I'm not hung up on the duration of a run. I don't seem to be able to save and quit out if I need to, you know?
+
+[00:28:21] Drew:
+Yeah, and then also with how frequently they do updates. And again, this is a weird thing to criticize somebody that... Oh my god.
+
+[00:28:26] Kristin:
+Yeah, like, oh no, they're doing too many updates.
+
+[00:28:29] Drew:
+But I've lost two runs that I've been playing to updates happening between when I saved it and came back to it. And it's like, hey, we did an update, so we finished off your run for you. Here's like double the rewards you would have gotten and no XP. And once again, I'm like, I kind of want the XP. Like, I want to finish this off.
+[interjection] Kristin: Yeah.
+[interjection] Drew: So that one kind of frustrated me, especially when it happened a second time. I was a little frustrated.
+
+[00:28:55] Drew:
+Um...
+
+[00:28:57] Kristin:
+But again, it's hard to criticize people for being proactive about updating their game.
+
+[00:29:02] Kristin:
+With regard to the duration and some of the mechanics, to me, it feels at times like a board game designer made this. I don't believe that's the case, but with the RNG for what you are able to build and what resources you get, that sort of thing, it feels a little bit like drawing from a deck of cards.
+
+[00:29:26] Drew:
+It really does, in part because they display them as cards to select from. But there's over 30 buildings, I think, in total to unlock. I think I've gotten about 20 of them at level 9 or whatever so far. So 30 buildings does kind of seem, again, like a board game deck of cards, you know, cards that you're selecting from type thing.
+
+[00:29:56] Kristin:
+Yeah, and like 90-plus minutes feels like sitting down to play Scythe or something like that.
+
+[00:30:01] Drew:
+It really does. And same for the way the resource management is kind of held because there are all these different unique ones, and you're trading them. And again, the trading in here would make more sense if you were playing it with three other people, kind of, and you could trade for what you need a little bit more efficiently. So I think there's a lot of board game influence. It just makes me think a little bit of like Armello, which was a video game that the designers talked a lot about how he initially designed it as a board game or played it as a board game before trying to code it. I get that feeling here. Like this feels like a lot of the mechanics that don't make a whole lot of sense from a video game city builder point of view would make more sense as a board game. So some other mechanics that just kind of show the complexity of this and how you have so many intersecting pieces are that as the game goes on, you unlock more buildings, as we talked about. Cornerstones, which are kind of bonuses that you can choose from the queen.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Again, well, you know, I think those, the cornerstones, do actually have a pretty big game impact frequently. Yeah, that is an interesting point too.
+
+[00:31:13] Kristin:
+Yeah, those are decent.
+
+[00:31:15] Drew:
+Because those can be pretty big things, like you get enough food to feed all of your villagers every time one of them dies. And we call that cannibalism or something like that.
+[interjection] Kristin: Uh-huh.
+
+[00:31:30] Drew:
+And then, but those also factor into both the buildings and the cornerstones factor into the delivery mechanics, which are part of how you get the reputation to the renowned to complete a run. So you really need to hit those deliveries. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: And if you don't get the right combination of buildings, cornerstone, trade, and resources and all that, sometimes you just can't hit those. And so then you have to go to your secondary win condition, which again was something not super emphasized in the tutorial of the resolve of your villagers, right? Because if your villagers have the resolve above a certain level, which is different for each race. 
+
+[00:32:18] Drew:
+Yeah, then that starts counting towards your renown towards your win condition, and so that's kind of your secondary win condition, which is completely not emphasized in the tutorial but is an important part because again over the course of a run the little bit that you get from happy villagers can equal like two or three deliveries. 
+[00:32:39] Kristin:
+Yeah, and that's an element that I frequently don't even think about that much. I feel like I rarely unlock the specialized housing for lizards or whatever, and so I typically am just trying to focus on deliveries and sending things back to the Citadel when I get a Glade event because the resolve thing is tough and has a lot of moving parts. 
+
+[00:33:01] Drew:
+It does. It really does. Because there's like each race has seven, I think, different um, different things like having clothes, you know, having cloaks, or you know, having beer available. Right. Usually two races will get a bonus from any particular thing, and then the other three won't care. Yeah. All that sort of thing, you got to balance all that together, um, and then keep that all balanced and happy while the forest is being angry at you and making everyone's resolve drop and keep 
+
+[00:33:36] Kristin:
+Right. So let's talk about the whole angry forest thing. 
+
+[00:33:40] Drew:
+Yeah, this is kind of one of the weird things in the game because the name of the game is Against the Storm. 
+
+[00:33:46] Kristin:
+Right. And you are constantly in a phase of the storm, whether that's drizzle or storm or something else. 
+
+[00:33:53] Drew:
+And the game calls itself a rainpunk game. The idea being that you can collect the rain that's coming down from these magical storms and use them to enhance your stuff. 
+
+[00:34:02] Kristin:
+Right, I haven't done that at all yet. 
+
+[00:34:04] Drew:
+Yeah, well again, you don't unlock it until level 5. 
+
+[00:34:06] Kristin:
+All right, well, that would be why I haven't done it. 
+
+[00:34:08] Drew:
+And so you collect this rain and you use it to enhance your various buildings and all that. But the thing is that the rain actually, to me, doesn't feel that big of an impact in the game. It just sort of is there. And even though one thing that happens in the course of a year in the game is the storm, which is where the rain really starts pelting down and everyone's resolve drops and everyone's unhappy about it. And no joke, 
+
+[00:34:35] Kristin:
+I didn't know traders come. 
+
+[00:34:36] Drew:
+Exactly. 
+
+[00:34:38] Kristin:
+That doesn't feel like that big of a deal because you know when it's gonna happen. 
+
+[00:34:43] Kristin:
+Right, and you do see it plummet. 
+
+[00:34:45] Drew:
+So what feels more real of an influence in the game to me is actually the forest. Yeah. Because the forest, its anger continually increases as you chop down wood, which you have to do. But also you choose the speed at which you chop down wood. And then as the forest becomes angrier, the glades, when you open them up, have, you know, worse and worse penalties. And also open up better and better rewards too.
+
+[00:35:12] Kristin:
+Better and better rewards too.
+
+[00:35:14] Drew:
+Exactly. And also, angrier forests make your villagers more unhappy, makes traders slower to come, all these different things. And so, I spend a lot more time thinking about the forest than I do about the rain. How do you feel?
+
+[00:35:28] Kristin:
+I feel like I still don't understand the forest's anger mechanic very much. Like I haven't felt it get angry enough for me to really see an effect. I'm sure that I am seeing it in Resolve, but given how I frequently am sort of ignoring Resolve, maybe it hasn't mattered.
+
+[00:35:44] Drew:
+Yeah, I think that can be the case with it, but also then in the viewpoint of the glades as well, like again, that I view as the forest, and I think those play a big part in how you interact.
+
+[00:35:55] Kristin:
+And how you interact. Oh, definitely, yeah.
+
+[00:35:57] Drew:
+Like you spend a lot of time thinking about which part of the forest is not going to cut it.
+
+[00:35:59] Kristin:
+Right. When am I going to open? How difficult of a glade? And what's the timing on this? Because like if you open something that's going to affect resolve, you don't really want that to happen during a storm because that's taking resolve down too. And also you can get bonuses based on the time of year that you open a particular glade.
+
+[00:36:18] Drew:
+The number of global modifiers is staggering.
+
+[interjection]
+Yeah, by the end of a 90-minute run, you frequently have three rows of 10 modifiers sitting at the bottom of your screen.
+
+[00:36:30] Kristin:
+Yes, it's... I should have taken a screenshot actually when I did a run today because I looked at those modifiers and was like, those are all doing things that I'm only vaguely aware of. Like if it's not, you know, speed of woodcutters, then I'm... Or cannibalism. Or... well, I have never chosen cannibalism. I have not had a lot of villagers leave or die. Fair enough. I have been really lucky with my dangerous glades, is what I'm saying. Yeah. Um, because those... those will kill your villagers.
+
+[00:37:02] Drew:
+Yeah, the game I lost was because I opened up a dangerous glade and it had a corrupted rain punk, steam punk, giant mecha thing in it which I was able to defeat but by the time I defeated it, it had caused so much poison around things that my villagers were all unhappy and I kind of was in from Dwarf Fortress a tantrum spiral basically. And so I was able to kind of [interjection] Kristin: roll basically. [interjection] Drew: stabilize each time just as the storm started up again everyone's resolve went down everyone went angry and so I kind of got stuck in that loop until time just ran out on me and the queen's impatience filled up.
+
+[00:37:41] Kristin:
+Right. One other element of the world and the gameplay related to the storm and the forest is the hearth. We haven't talked about that at all. Your settlements all have a hearth as their core, and you build around this, and certain buildings have to be within a certain radius of the hearth.
+
+[00:37:58] Drew:
+And the hearth is tended to by a hearthkeeper.
+
+[00:38:01] Kristin:
+Uh-huh, and you get different bonuses depending on the race that is tending the hearth.
+
+[00:38:05] Drew:
+Exactly. I usually go with Lizard because they give a plus five global resolve bonus when they're tending a hearth, which is kind of, I think, just intrinsically better than most of the other things.
+[interjection] Kristin: Mm-hmm.
+
+[00:38:15] Kristin:
+I haven't even really looked at what the other ones were.
+
+[00:38:17] Drew:
+Certainly at our level. Yeah. But, yeah, but, you know, beavers make wood burning last longer because the hearth is where you burn the fire and do all of the sort of, we're a cozy community keeping back the dark.
+
+[00:38:32] Kristin:
+It seems to keep them alive in some way. And there are a variety of fuels you can burn. The main one obviously being wood, but you need just, pardon my language, a shit ton of wood to get through this game.
+
+[00:38:46] Drew:
+Yeah, you really do. I usually wind up with three sets of woodcutters, which I'm assuming has to be playing wrong.
+
+[00:38:53] Kristin:
+I don't know. I follow the subreddit and kind of lurk in the discord and it seems like wood is inescapable.
+
+[00:39:01] Drew:
+So, and then you got oil and coal and all this other stuff you could do.
+
+[00:39:03] Kristin:
+You can burn sacrifices to make the forest happy.
+
+[00:39:08] Drew:
+So when the forest's aggression or hostility gets high, or during the storm, you can make everyone happier, lower the hostility by burning different resources. Wood basically will reduce that hostility, I think. Just starting to get into the mechanics of it. Right, we don't need to get [into it].
+
+[00:39:33] Drew:
+Because your hearth is always consuming something. Yeah, it's always consuming something. And if you sacrifice, that basically means you're like doubling or tripling. You can choose how much it's burning of that resource. Yeah.
+
+[00:39:48] Drew:
+Again, yeah, right, like I'm gonna throw the next three away.
+
+[00:39:51] Kristin:
+The next three trips. They're gonna throw away three cards in order to get something, yeah.
+[00:39:54] Drew:
+Right, and so frequently you need to do that as your run goes on. You'll frequently need to kind of do that during a storm because you know you get all these negatives during the storm but you can fight against them by burning sacrifices. 
+[interjection] Kristin: You can.
+
+[00:40:08] Kristin:
+And then you build additional hearths as you need space. 
+
+[00:40:13] Drew:
+Because some buildings only function when they're within a certain radius of the hearth. And to have room to do that, because one hearth can't overlap with another hearth in their ba-ba-ba-ba-ba-ba. 
+
+[00:40:26] Kristin:
+You gotta cut down trees. 
+
+[00:40:27] Drew:
+You've got to cut down trees, which makes the forest angry. And to reduce the hostility, you build hearths. So there's this constant dynamic tension. And we've kind of been... 
+
+[00:40:37] Drew:
+You know, criticizing now for probably 20 minutes about the game. But that dynamic tension is so fun and addictive. 
+
+[00:40:43] Kristin:
+It's so good. It is so good. 
+
+[00:40:46] Drew:
+Right? Like every decision is kind of that drip of dopamine. 
+
+[00:40:50] Kristin:
+Yeah, well, and every decision is impactful, including decisions to take, say, a cornerstone that I know isn't going to have any effect because the other cornerstone would create more work for me or something like that. 
+
+[00:41:04] Drew:
+Yeah, but you do sometimes have to make a conscious choice for something that, you know, doesn't really benefit you just to avoid taking something that would be actively negative. Again, like kind of like a board game, right? Like... 
+
+[00:41:16] Kristin:
+I feel really kind of silly saying like, oh, this game is like a board game because I mean kind of a lot of games are like board games and some board games are like video games, you know. Something like Scythe I think works better as a video game because the computer does math for you.
+[00:41:32] Drew:
+Right, and I think again if you played this game as a board game...
+
+[00:41:37] Kristin:
+It'd be way too complex.
+
+[00:41:38] Drew:
+Yeah, you'd be spending all of your time figuring out the rules.
+
+[00:41:40] Kristin:
+This would be the exact kind of game that at Gen Con I would be like, I must have it because it had so many like tiny little pieces and cards and stuff and I'm just swept away by the complexity and then I never want to play it.
+
+[00:41:53] Drew:
+Then we paid $200 for a board game that you never want to play.
+
+[00:41:57] Kristin:
+They take too long to set up and we have cats and it's just, you know, it doesn't end well. So I don't really buy board games anymore. More is a pity.
+
+[00:42:04] Drew:
+The last piece of tension that I feel like we didn't really talk about was again how you recover from mistakes in it. Mm, yeah. Because I feel like one of the key, one of the key, well I don't feel like, a part of game theory, a part of the theory of games. You want to take it again?
+[interjection] Kristin: You wanna take it again?
+[interjection] Drew: A part of the theory of games. Yes. To distinguish it from game theory which is this whole mathematical sub-genre.
+[interjection] Kristin: and then
+
+[00:42:29] Kristin:
+I'm gonna leave all that in, that was fun.
+
+[00:42:31] Drew:
+The theory of games, one of the key aspects is what makes a game a game is the ability to make impactful decisions but in a reversible way, in a low penalty way. And I'm not super sure this
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: game always hits that mark because the main way I feel like to recover from errors, like making the wrong decision in it, is through trading. Let's take a look.
+
+[00:42:53] Kristin:
+Yes, absolutely.
+
+[00:42:54] Drew:
+And the trading doesn't always give you the option to do what you need to do to undo a bad choice. Right. 
+
+[00:42:59] Kristin:
+Right, sometimes you have to get kind of creative to go in a different direction. And I've had multiple runs that I only get through because of trading. Like, being entirely self-sufficient would be really challenging. I actually saw, I think it's called a cornerstone, like, you get such and such a bonus, and it was really good, but you wouldn't be able to trade. And I was just like, no way.
+
+[00:43:20] Drew:
+Yeah, you really have to commit to that playstyle if that's what you go for. And I think honestly that might be a playstyle that's focused on making your villagers happy. And I guess maybe that's part of what distinguishes an easy game from a hard game is [interjection] Kristin: Mm-hmm. Yeah. [interjection] Drew: how much of that recovery from error you're presented with. Yeah, that's true.
+
+[00:43:39] Kristin:
+Yeah, that's a good point.
+
+[00:43:40] Drew:
+And I don't think they set out to make an easy game. In which case, mission accomplished.
+
+[00:43:47] Kristin:
+Yeah, but super engaging. Not easy. I mean, actually, I guess the easy level is kind of easy, yeah.
+
+[00:43:54] Drew:
+Yeah, no, I mean there's a... Not very rewarding, though. There's a definite jump in the difficulty level. Yeah. But, again, from the viewpoint... I said at the start of the episode here that I wanted to put a pin in the question of does this game really respect the player's time? I don't think so.
+
+[00:44:13] Kristin:
+I'm on the fence on this one because I want to say that I am getting my money's worth for my time, but I have more time than you do. I don't work the hours that you work. I have more flexibility with that, and so I can sit down and play this game for an hour and 45 minutes.
+
+[00:44:33] Drew:
+I would also say that you've played a lot of it. You've played 10 hours. But it's a game that's literally, I think, made to be played for 100 hours. Right.
+Right, like there was a fox update. I love foxes, like I love the creatures foxes. They have this whole goth look in the game. I don't know when I'm gonna see those.
+
+[00:44:52] Drew:
+Because you need to be level 10.
+
+[00:44:55] Drew:
+The top of the tech tree, I'm not sure what level it is, but it's high.
+[interjection] Kristin: Yeah.
+[interjection] Drew: It's at least level 20 and I think it's more than 20.
+[interjection] Kristin: It's at least...not 10.
+[interjection] Kristin: Yes.
+[interjection] Drew: I have no idea.
+[interjection] Kristin: I don't.
+[interjection] Drew: But I really feel like as well, your XP gains level off a bit. But on the other hand, I see people on Reddit who are playing what are the equivalent of the Paragon levels. Yes, I also see that.
+
+[00:45:19] Kristin:
+Yes, I always want to call them Paragon levels and see where we come from.
+
+[00:45:23] Drew:
+Yeah, they're Viceroy levels or whatever. And again, this is why this is such a great game, because they've really taken that city builder concept and come up with this new twist on it. At the higher levels, you get the Paragon ones where there are strange new difficulties and all that sort of thing. And then also they have daily and weekly challenge maps.
+
+[00:45:39] Drew:
+Right, that I haven't even looked at. It's amazing.
+
+[00:45:48] Drew:
+Right, because we don't unlock them.
+
+[00:45:50] Kristin:
+Right. Yeah.
+
+[00:45:51] Drew:
+And that's what I mean by respect to the player's time. I love that you're doing all this stuff, but guys...
+
+[00:45:57] Kristin:
+You're not the only game I play!
+
+[00:45:59] Drew:
+And I want to play this. I want to play these new ones. I want to see that.
+
+[00:46:03] Kristin:
+I want to see the endgame at some point.
+
+[00:46:05] Drew:
+Right, and I don't want to spend a hundred hours at it. Like, again... It's rough. Diablo, you can... They're like, hey, you know what? If you want to just skip and play the Paragon stuff in Diablo, you can do that. Yeah, that's all seasonal things. We're not going to give you the risk.
+
+[00:46:19] Kristin:
+We're not going to give you the real thing.
+
+[00:46:21] Drew:
+We're not going to give you the really, really hard stuff, but we're going to give you like 95% of the cool stuff. And I'm good with that. I understand that there are people better than me at playing these games. Yeah, for sure. I just want to see the cool stuff. And I'm still not getting to play this cool stuff. And I got to go on a work retreat this week and all this stuff. And I'm not going to give you the hard stuff.
+
+[00:46:39] Kristin:
+And like, I'm not- Like you gotta play Dwarf Fortress so we can talk about that. Right, like-
+
+[00:46:45] Drew:
+Well, with regard to that, this is a game that I think that we will do another episode about later.
+
+[00:46:52] Kristin:
+Yeah, we didn't even talk about the lore stuff we've got in our outline. We have like-
+
+[00:46:55] Kristin:
+Oh, our outline, we have like five more pages here.
+
+[00:46:57] Drew:
+Yeah, no, I think we should probably call it here, but yeah. Yeah. Um... We're gonna... yeah, we're going to continue to, I think, do the occasional episode about this, you know, and also try to talk about some other city builders as time goes on. Yeah, I think...
+
+[00:47:09] Kristin:
+Yeah, and we'll do them as bonus episodes. Like, you'll still be getting Dwarf Fortress every other week. I think that's a promise we can make.
+
+[00:47:17] Drew:
+Yeah, and basically, I think the big question for me is whether or not our listeners would like to continue having it be in this stream or if they want us to kind of create a separate feed. Yeah, a different feed. We'll see how things go, if anybody actually expresses an opinion or not. I mean, you can skip this episode easily and these episodes easily enough. Yeah.
+
+[interjection]
+
+[00:47:34] Kristin:
+It's clearly marked. The other thing that I will say with regard to this episode is this is the first time that we've done a review-style episode, and we gave you an absolute whirlwind tour through a very deep game.
+
+[00:47:52] Kristin:
+We are the law of our place. We know that.
+
+[00:47:54] Drew:
+It was a little bit like squirrels.
+
+[00:47:56] Kristin:
+Yeah, we're a little squirrelly, but we're going to try to work on the format. And if you have thoughts about how to format a review so that it's easy to digest, we want to hear it.
+
+[00:48:06] Drew:
+Yeah, and I think again, if we didn't have so much else to talk about in this, about the mechanics and just how much we were kind of in love with this game, although again, every time we talk about it doesn't seem like that. But we always do.
+
+[00:48:17] Kristin:
+I know, we say, like, we have so many criticisms of it, but, like, I'm pretty obsessed with this. Like...
+
+[00:48:24] Drew:
+This is the most I've really seen you engage with a city builder outside of Dwarf Fortress in a while. Yeah. Since Banished, really. Oh yeah.
+
+[00:48:30] Kristin:
+Since Banished, really. Oh yeah, for sure.
+
+[00:48:33] Drew:
+Um...
+
+[00:48:34] Kristin:
+I mean, I played a lot of Settlement Survival, but then Dwarf Fortress came out, so I abandoned it. 
+
+[00:48:38] Drew:
+And I'm really excited about that. And I want to see other people also take this ball and run with it, because again, I would like a little bit easier one, honestly. I would like a roguelike city builder that I could pound through a run in 45 minutes.
+
+[00:48:59] Kristin:
+Oh, that can be fun. Certainly fast-paced. So we haven't even talked about the Twitch integration that this has, but we have streamed it a couple of times. So those are on YouTube, and I'm sure one of us will stream it again on our Twitch channel.
+
+[00:49:12] Drew:
+Yeah, and we haven't really talked particularly about the lore, about the races. I don't... did we ever actually list the races? Yes. Okay, we did list the races. Yeah. But at any rate, talked about their characteristics or that sort of thing. Like how the humans are so adorable in it because they... Yeah, they look quite adorable.
+
+[00:49:26] Kristin:
+Like little pill bugs in their coats.
+
+[00:49:27] Drew:
+In their coats. They've got their little leather coats, but then they also have like these little wooden leather-like shells over them that they can pull over themselves when it really starts raining hard, and they look like pill bugs.
+
+[00:49:38] Kristin:
+I'm kind of getting a takeaway here that we just need a "Against the Storm" podcast, but we are not going to do that right now.
+
+[00:49:45] Drew:
+One podcast is enough. For now. Thanks for tuning in.
+
+[00:49:49] Kristin:
+All right, well, you can find us at our website, astrangemoodpodcast.com. You can join our Discord. There will be a link in the show notes. You can find us on Facebook, but we mostly abandon that in favor of Discord because, yeah.
+
+[00:50:02] Drew:
+We got enough people on there to make it interesting. YouTube, you can find us at A Strange Mood.
+
+[00:50:07] Kristin:
+Yep, that's the easiest one, and both of our Twitch channels dump there.
+Yeah, no, I think that's it. And again, I hope you enjoyed. Go buy this game. 
+[interjection] Kristin: Hope you enjoyed. Thanks for watching.
+[interjection] Drew: This is a very good game, and I honestly think it's only getting better. Also, from what I've seen, I think they're starting to have the internal conversation of, "Let's make this a little bit easier on our players." 
+
+[00:50:26] Kristin:
+Yeah, hopefully. 
+
+[00:50:27] Drew:
+At any rate, we'll see you. 
+
+[00:50:28] Kristin:
+See you! 
+
+[00:50:28] Drew:
+Just keep digging!

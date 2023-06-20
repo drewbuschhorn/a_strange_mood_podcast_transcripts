@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:05,200
+But the interesting part is that when you do something that makes the queen happy,
+
+2
+00:00:05,200 --> 00:00:12,100
+it not just gives you renown, but it also removes a bar from the queen's impatience.
+
+3
+00:00:12,100 --> 00:00:18,100
+And also, there are at the higher level things that you can mess up that cause you to lose a chunk of renown,
+
+4
+00:00:18,100 --> 00:00:21,200
+and then that just slides over into the queen's impatience.
+
+5
+00:00:21,200 --> 00:00:31,200
+And so you've got this push-pull constantly with every decision you make in this game.
+
+

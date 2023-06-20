@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,280
+Wow, that's a long time.
+
+2
+00:00:02,280 --> 00:00:07,280
+But they do seem to be doing big patches
+
+3
+00:00:07,960 --> 00:00:10,200
+like every two weeks or at least like twice a month.
+
+4
+00:00:10,200 --> 00:00:31,200
+It's wild.
+
+

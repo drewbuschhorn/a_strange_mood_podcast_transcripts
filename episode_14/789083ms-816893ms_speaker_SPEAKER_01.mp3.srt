@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:08,080
+Yeah. So that's kind of the very basic high-level win-lose. Let's talk a little bit more about the
+
+2
+00:00:08,080 --> 00:00:14,560
+landscape, because another feature of this game is exploration. And one of the resources that
+
+3
+00:00:14,560 --> 00:00:19,680
+you use a lot is wood. So you are constantly chopping wood. This can anger the forest,
+
+4
+00:00:19,680 --> 00:00:26,000
+but also you need to chop into undiscovered glades, which have different resources and
+
+5
+00:00:26,000 --> 00:00:30,000
+occasionally events.
+
+

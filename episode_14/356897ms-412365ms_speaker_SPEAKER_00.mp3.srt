@@ -1,0 +1,37 @@
+1
+00:00:00,000 --> 00:00:08,160
+Okay, so the premise of this game is that you are a Viceroy, which is to say, kind of a landlord,
+
+2
+00:00:08,880 --> 00:00:17,040
+who is being sent out by the queen of a fantasy realm that is being periodically ravaged by
+
+3
+00:00:17,040 --> 00:00:21,600
+storms. And you're being sent out to found cities to gather resources with any of the
+
+4
+00:00:21,600 --> 00:00:29,200
+currently five playable races that recently changed from four to head out, gather resources
+
+5
+00:00:29,200 --> 00:00:35,760
+to bring back to the Citadel, your home base. Because as part of the post-apocalyptic nature
+
+6
+00:00:35,760 --> 00:00:41,520
+of the game, every so often a giant storm will come through and wipe out all of the cities that
+
+7
+00:00:41,520 --> 00:00:46,880
+you've made. And this is the way in which it's kind of roguelike, because you build up an area,
+
+8
+00:00:46,880 --> 00:00:52,560
+but then those cities get destroyed and you start again, but you have new abilities and
+
+9
+00:00:52,560 --> 00:01:01,920
+resources that you've gained over the course of the previous run.
+
+

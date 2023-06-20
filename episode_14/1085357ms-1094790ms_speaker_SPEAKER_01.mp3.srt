@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,440
+What buildings you have available to you are also randomized. So like you might have a location with
+
+2
+00:00:05,440 --> 00:00:29,760
+a bunch of farm fields and never see the option to build a farm.
+
+

@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:04,560
+Yeah, let's talk about some of these big mechanics that they had with a brief summary.
+
+2
+00:00:04,560 --> 00:00:11,360
+So there's trading. Trading is how you get rare resources because each of your runs is randomized
+
+3
+00:00:11,360 --> 00:00:19,280
+what resources are available and in order to complete deliveries you have to have the
+
+4
+00:00:19,280 --> 00:00:30,480
+right resources and there's no way to get them except trading in a lot of cases.
+
+

@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,600
+Then also, the tutorial doesn't emphasize the importance of tools and parts in the game.
+
+

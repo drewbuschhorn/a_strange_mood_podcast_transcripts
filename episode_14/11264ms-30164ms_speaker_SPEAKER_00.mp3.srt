@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:04,000
+Against the Storm is a game that is under rapid development.
+
+2
+00:00:04,000 --> 00:00:08,000
+When we recorded this, the Foxes update had just dropped.
+
+3
+00:00:08,000 --> 00:00:14,000
+A lot of this won't make sense at the start, but they've continued to add many new features,
+
+4
+00:00:14,000 --> 00:00:32,000
+including treasure stags, wandering merchants, and many other UI improvements.
+
+

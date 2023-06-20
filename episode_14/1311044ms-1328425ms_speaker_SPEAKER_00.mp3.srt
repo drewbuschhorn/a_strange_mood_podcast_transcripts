@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:00,960
+Exactly.
+
+2
+00:00:00,960 --> 00:00:03,480
+And not just in the tutorial itself,
+
+3
+00:00:03,480 --> 00:00:07,240
+because the tutorial is that sort
+
+4
+00:00:07,240 --> 00:00:09,200
+of segregated initial experience,
+
+5
+00:00:09,200 --> 00:00:12,440
+but also frequently the tool tips and stuff
+
+6
+00:00:12,440 --> 00:00:14,440
+will link out to the wiki.
+
+7
+00:00:14,440 --> 00:00:16,240
+And I'm like, no, man, I'm playing the game.
+
+8
+00:00:16,240 --> 00:00:17,560
+I don't want to go read a wiki.
+
+

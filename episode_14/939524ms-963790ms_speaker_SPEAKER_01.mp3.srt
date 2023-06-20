@@ -1,0 +1,49 @@
+1
+00:00:00,000 --> 00:00:02,160
+It did not take me less than 30 minutes.
+
+2
+00:00:02,160 --> 00:00:03,760
+It took me longer.
+
+3
+00:00:03,760 --> 00:00:05,240
+And when I came out of it,
+
+4
+00:00:05,240 --> 00:00:07,840
+I still really had no idea what was going on.
+
+5
+00:00:07,840 --> 00:00:11,200
+And granted, I was not paying that much attention
+
+6
+00:00:11,200 --> 00:00:12,040
+to the tutorial,
+
+7
+00:00:12,040 --> 00:00:13,920
+because you were streaming Dwarf Fortress at the time,
+
+8
+00:00:13,920 --> 00:00:15,040
+and it was amusing.
+
+9
+00:00:15,040 --> 00:00:16,960
+So I was just, you know,
+
+10
+00:00:16,960 --> 00:00:19,320
+half paying attention to my own tutorial.
+
+11
+00:00:19,320 --> 00:00:21,680
+But I came out of there like pretty unclear
+
+12
+00:00:21,680 --> 00:00:31,680
+on what the win condition of the game was.
+
+

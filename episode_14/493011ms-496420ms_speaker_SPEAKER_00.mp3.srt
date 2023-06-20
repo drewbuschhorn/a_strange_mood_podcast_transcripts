@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:03,200
+It's like 90 minutes and we'll have a conversation about that.
+
+

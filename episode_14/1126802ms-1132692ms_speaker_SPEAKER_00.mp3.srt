@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,000
+And then the XP system. The XP system really wasn't covered at all in the tutorial.
+
+

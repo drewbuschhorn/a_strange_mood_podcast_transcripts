@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,000
+That increases over time and if you make bad choices with some stuff we'll talk about,
+
+2
+00:00:04,000 --> 00:00:07,500
+that can cause increase in the queens and patients.
+
+3
+00:00:07,500 --> 00:00:30,500
+To win though, you have to complete your renowned bar.
+
+
