@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:07,320
+A gladiator tournament is where you create creatures in Dwarf Fortress and then submit
+
+2
+00:00:07,320 --> 00:00:30,800
+them to be pitted against one another in a battle royale.
+
+

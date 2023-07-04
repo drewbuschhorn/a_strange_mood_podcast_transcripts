@@ -1,0 +1,910 @@
+
+[00:00:00] Kristin:
+podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress Podcast. I'm Kristin. 
+
+[00:00:24] Drew:
+and I'm Drew. 
+
+[00:00:25] Kristin:
+And you know, we've been on vacation. 
+
+[00:00:27] Drew:
+Yeah, Kristin. 
+
+[00:00:28] Kristin:
+Yeah, it was nice. So we stopped doing chores. 
+
+[00:00:31] Drew:
+No chores whatsoever, really. 
+
+[00:00:32] Kristin:
+None, none. So there's just like rotting food sitting around everywhere. 
+
+[00:00:37] Drew:
+I know, we just let the food rot until it just is billowing out clouds and clouds of foul air in our bedroom. That just seems a way to live, really. 
+
+[00:00:45] Kristin:
+Yeah. I mean, it was very relaxing. And here we were worried we didn't have an opener. Yeah, exactly. 
+
+[00:00:53] Drew:
+one of these because our listeners got that extra bonus episode about Against the Storm previously. Yeah, good game. It is a good game. 
+
+[00:01:08] Kristin:
+but we're not here to talk about that. 
+
+[00:01:09] Drew:
+No, just like we're not here to talk about Diablo. 
+
+[00:01:13] Kristin:
+Well, now that we've established what we're not here to talk about, what are we talking about? 
+
+[00:01:18] Drew:
+I think Dwarf Fortress. 
+
+[00:01:19] Kristin:
+Oh, okay, good, because that's what I have notes about. 
+
+[00:01:22] Kristin:
+So do we have any housekeeping this week? 
+
+[00:01:25] Drew:
+Not too terribly much, but one interesting item has come to us from Tekkid. 
+
+[00:01:30] Kristin:
+Mm-hmm. 
+
+[00:01:31] Drew:
+and he is helping organize the Gladiator tournament over in Bay 12 forums, Bay 12 game forums. 
+
+[00:01:39] Kristin:
+Yeah, I think we actually heard about it originally from the moderator there who's... 
+
+[00:01:44] Kristin:
+Discord and Reddit name, I don't really know how to say. 
+
+[00:01:47] Drew:
+Yes, but at any rate. 
+
+[00:01:49] Kristin:
+Yes. 
+
+[00:01:50] Drew:
+So, Gladiator tournament. 
+
+[00:01:52] Kristin:
+Yeah. 
+
+[00:01:53] Drew:
+A gladiator tournament is where you create creatures in Dwarf Fortress and then submit them to be pitted against one another in a battle royale. 
+
+[00:02:04] Kristin:
+So how do these fictional creatures battle? 
+
+[00:02:06] Drew:
+They get instantiated and placed into a built-up arena. Oh. 
+
+[00:02:11] Kristin:
+Oh, in that testing mode, arena mode or whatever that is. That sounds actually really cool. 
+
+[00:02:17] Drew:
+There are also some other ways that it's been done in the past with the older version. Like, um, I think Krug Smash made a, an entire little coliseum at one point. Uh, like built it with dwarves and then instantiated using, you know, hacking the, the save file. Uh, instantiated the different creatures and all of that. Whoa, that's crazy. I think he instantiated them into, uh, cages and then released them to fight each other. Something like that. 
+
+[00:02:43] Kristin:
+At any rate, it's pretty cool, but I think that the entry period only goes through tomorrow, because today, when you're hearing this, assuming you're hearing this on the day it releases, is July 4th. I guess happy 4th of July. July, yeah. If you do that. Anyway, so if you want to enter one of your monsters, you need to scurry over to the Bay12 forums, right? 
+
+[00:03:03] Drew:
+Yeah, we'll include a link in the show notes to it. It's a pretty simple process actually because you don't actually have to make it in the Dwarf Fortress game. Like there's a set of rules in the dock in any way to submit it in the forum. There's still I think a couple of slots open so they might not be too terribly tight about that. 
+
+[00:03:21] Kristin:
+Deadline. Whoa. Yeah. We should check and maybe the forgotten beast that I left trapped in our evil fort can be entered. Exactly. 
+
+[00:03:28] Drew:
+Exactly, exactly. So that's really the only piece of housekeeping I think that's come up recently. Yeah, I think so. The other thing I guess, you can drop this if you want, the other thing I guess is to wish the Dwarf Fortress Roundtable guys happy vacation. They're doing their summer break. 
+
+
+[00:03:51] Drew:
+Well, I always love being stuck with you. 
+
+[00:03:54] Kristin:
+Aww, how sweet. I love being stuck with you two. Alright, well, shall we move on to news from the forts? 
+
+[00:04:01] Drew:
+News from the forts. Tell me about how Bellblade is doing. 
+
+[00:04:06] Kristin:
+Well, I have to say, I don't really have any news from Bellblade because I retired it. 
+
+[00:04:13] Drew:
+Alas. 
+
+[00:04:14] Kristin:
+Yeah, you know, after I had a couple weeks off from the game, just kind of taking a break from that, because it's good to not burn out on, you know, even fun things. I went back to Bellblade, I booted it up, I was looking around. I couldn't remember. Like, there was this guild hall that I was building, and I couldn't remember who it was for, and there was just a lot going on, but nothing really was happening, and it was all very defensible, and I was just like, you know, I feel kind of done with this one. Like, it's doing really well, it's a metropolis. And then there was another migrant wave that was pushing the population up over 170. And I was, like, thinking about how much work it 
+[interjection] Drew: Jeez.
+[interjection] Kristin: was going to be to get the bedrooms and everything and furnished for all that, and I was just like, yeah, it's time. I just retired it. And, you know, I might check back in on them, kind of like I did with Curlkey, but I don't feel too remorseful. I was kind of attached to a few individuals there, but also, like, they don't really exist. So I wasn't that sad. 
+
+[00:05:16] Drew:
+Yeah, well, 170 dwarves is really, really a large amount to have to keep managing and all that sort of thing. 
+
+[00:05:23] Kristin:
+Well, related to that, I looked it up in Legends mode, and after the time had passed for me to start a new fort and then a year in that fort, the population of Bellblade is around 400. 400. 
+
+[00:05:37] Drew:
+In a year, it went from 170 to 400 in a year. 
+
+[00:05:41] Kristin:
+I mean, maybe the number that is given to me from my New Forks worldview is like overestimating or something, but yeah, 400. 
+
+[00:05:51] Drew:
+Cheers. 
+
+[00:05:52] Kristin:
+People really apparently wanted to settle this island continent and now they're moving out there in droves. It's like the freaking Wild West or something. 
+
+[00:06:02] Drew:
+There's gold in them there waves. 
+
+[00:06:04] Kristin:
+At any rate, I then played around a little bit in Legends mode and not, I was trying to look up some of my beloved characters. 
+
+[00:06:18] Drew:
+Oh, explain what Legends Mode is in ten seconds. 
+
+[00:06:19] Kristin:
+this in 10 seconds. Oh, well we have talked about Legends Mode before, but Legends Mode is when you export your world save and you can look at all the people and the history of cities and civilizations and things. It's very fun. So I looked up the history and goings on of Bellblade and as I was saying, none of my beloved characters had really done anything interesting like Rith Guildthunders, that unhappy child whose parents died in a demon attack. There's no additional information about her, so I'm assuming she's just still wandering around despondently. Whatever. But I did notice that there had been a change in leadership a little bit and in the late autumn of 134, I believe I left in like summer of 134. 
+
+[00:07:10] Kristin:
+The dwarves selected Asen Trustwhiped to be their champion, the champion of the roughness of Moz, which is their site government. 
+
+[00:07:18] Drew:
+Remember the roughness of malls. 
+
+[00:07:20] Kristin:
+Yeah, and a different dwarf replaced her as the bookkeeper. So I had wondered, like I saw that she stopped being bookkeeper and I was like, what on earth did they do? Well, they made her champion. And browsing through Legends mode even more, it looks like she was a resident of my fort's tomb dens, rasp boat, and Krolky at the very least. Like those are the ones that I like remembered 
+[interjection] Drew: Those are the ones that...
+[interjection] Kristin: and stuck out to me. So she, I guess, has migrated around in her life and then came out to this far continent. And now I'm wondering, it's a different civilization, but she has changed civilizations before if she will come to Wet Ring. So I am I'm going to be on the lookout for her. She is married and has two children. And her husband's goal was to start a family. Oh, hers was to master a skill. So hopefully she can do that as fort champion. But her husband, Bim Frosty Fountains, is quite a martial leader. Yes, I love that name, 
+[interjection] Drew: the big martial leader!
+[interjection] Kristin: Bim Frosty Fountains. But he's led several attacks for the Razor of Socketing, which is that other civilization that I forgot to start my new fort in for continuity. But he lost all of those attacks except one, I think. So it's a good thing that like his goal is not to be a successful military leader and is instead to have a family because now they have two children. They seem happy. 
+
+[00:08:46] Drew:
+It's always nice to see a non-traditional family. 
+
+[00:08:48] Kristin:
+Yeah, I mean, when I was looking at it, I'm really bad. I hate to admit this, with the male-female signs. And you can't really tell from dwarf names. And so I, as I'm looking at my notes, my pronouns are all mixed up, because I was assuming that the one with the goal of starting a family was the woman, and I was wrong. Nice. I love seeing a dwarf power couple. 
+
+[00:09:10] Drew:
+Exactly, rejection of traditional gender roles. Star. 
+
+[00:09:13] Kristin:
+Oh yes, I love it. 
+
+[00:09:15] Drew:
+I actually will have a power couple of two with my fort eventually when we get there. 
+
+[00:09:19] Kristin:
+Yeah. Uh, well, why don't you give us the news from Fiery City? 
+
+[00:09:24] Drew:
+Well, Fiery City has had a couple of interesting things occur over the course of the last, about, I think I've played two years worth of it. The first thing is that we've established a new tavern. I'm calling it a wet tavern because it has the mist generator that I designed, 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: falling down the center of it and splashing out and creating a one level of water deep thing throughout the entire floor. 
+
+[00:09:51] Kristin:
+So it's like puddled? Yes. Aww, do the dwarves like that? 
+
+[00:09:56] Drew:
+I don't super think so, but it's less of an issue for the taverns because if it gets to two levels, I think, I don't know if it's two or three, but they'll abandon what the job they're doing because they say unsafe terrain. Less of a concern in the tavern. 
+[interjection] Kristin: Sure.
+[interjection] Drew: This is sort of the same thing that Krug Smash ran into. 
+
+[00:10:18] Kristin:
+Right, he kept having trouble with the, was it Northbridge? Yeah. The mist generator that he was trying to build for his tavern. 
+
+[00:10:24] Drew:
+It would do the same thing, which is that the water would tend to spill out more than it really should when you have grates, right? Because it seems like it should all stay at one and pass through the grate. It might just be a programming issue or something like that right now. 
+
+[00:10:39] Kristin:
+Yeah, or maybe the grate is like really, really, really fine mesh and so the water can just sit on top of it. Something, yes. 
+
+[00:10:45] Drew:
+I'm not going to sit on top of it. Something, yeah, something like that. But when it gets above a certain level, it does go through the grate. So it's fine. We're just kind of enjoying our tavern with wet boots. 
+
+[00:10:57] Kristin:
+It does seem like the positive moodlet from Mist would maybe be undone by the negative moodlet from Wet Feet. 
+
+[00:11:06] Drew:
+Uh, the other fun part about that is that tavern is called the Blockaded Breakfast. 
+
+[00:11:12] Kristin:
+I can't. It's so silly. So is that a tavern other than the puddle of water that I would 
+[interjection] Drew: So theュ
+[interjection] Kristin: be proud of? One... oh my gosh. 
+
+[00:11:26] Kristin:
+There's like two sentences all mixed up together in there. So is that a tavern that I would approve of, like one that I would build that is large enough for your dwarves to have a dance party? Yes, yes it is. Good, good. I'm so proud of you. You learned. 
+
+[00:11:42] Drew:
+Exactly, and people do spend a lot of time in there, and they don't ever seem to get a negative moodlet from the wet feet. That's because of the alcohol. Exactly, but they are getting positive moodlets from the mist that's falling down in a couple of places through it. 
+
+[00:11:53] Kristin:
+Well, despite the puddle, it sounds like a fun place to be. 
+
+[00:11:59] Drew:
+Yeah, the general design for the mist generator there is that it's got little 8x8 sections of fortifications in the kind of middle of the tavern floor, with the center emptied down into the cavern water. 
+[interjection] Kristin: Mhm.
+[interjection] Drew: So the water falls down into that little hole, hits, and then spreads out mist for a couple of tiles around. Oh, nice! Which then apparently condenses. 
+
+[00:12:21] Kristin:
+Yeah. 
+
+[00:12:21] Drew:
+So here we are. And that blockaded breakfast misgenerator was the idea of our new mayor, who I'll talk about a little later. 
+
+[00:12:31] Drew:
+He's part of the power couple. 
+
+[00:12:33] Kristin:
+Ooh, good. 
+
+[00:12:33] Drew:
+We've also had to deal with a series of vermin infestations. We've actually not had too many forgotten beasts show up. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Only one so far and it never actually tried to attack us. 
+
+[00:12:45] Kristin:
+Oh wow, just wandered through. 
+
+[00:12:48] Drew:
+But we've had so many crundles, as always. And in order to deal with the large number of crundles and then some other vermin that came through, we decided to home alone it. 
+
+[00:13:00] Kristin:
+Uh-huh. 
+
+[00:13:01] Drew:
+By which I mean, we put down a long corridor full of weapons traps. Nice. 
+
+[00:13:07] Kristin:
+So they're just getting stabbed and I don't know shredded and whatever. Bludgeoned and shined. 
+
+[00:13:12] Drew:
+bludgeon shot with crossbow bolts, yes. Or I'm never entirely sure if you put a crossbow into the weapons trap if it's actually shooting the crossbow because I don't know if you have to put bolts or if it's just banging them in the face with a crossbow. 
+[interjection] Kristin: Hmm.
+
+[00:13:26] Kristin:
+I'd just be hitting them with the crossbow, would be my guess. 
+
+[00:13:31] Drew:
+Yeah, so at any rate. 
+
+[00:13:34] Drew:
+That, um, put paid to, I think at last count I found somewhere around like 40 crundleheads. 
+
+[00:13:41] Kristin:
+Ew. 
+
+[00:13:42] Drew:
+But that gives us plenty of crundle soap. 
+
+[00:13:45] Kristin:
+Ah, gross. I was just about to ask, can you do anything with their remains? Do you have like a bunch of crumpled bone garments and rings and things? 
+
+[00:13:53] Drew:
+Actually, we do. So a mood took one of our dwarves who then became obviously the Grand craftsman of being a craft dwarf and he made lore Memorate the letters of crucifixion out of crundle bone and Tanzanite fancy. Yep 
+[interjection] Kristin: Fancy.
+[interjection] Drew: It was a statue of Zang glaze healed related to his ascension as king of the oar of walks in 98 Oh, well, yes, it's I'm sure extremely pretty or grim. I'm not entirely sure 
+[interjection] Kristin: Oh, well.
+
+[00:14:26] Kristin:
+I'm not entirely sure which. Yeah, it's unclear. On all dwarven artifacts, if they menace with spikes of something, I'm not sure if they're pretty or just sort of threatening, so who knows. 
+
+[00:14:36] Drew:
+Then came a wave of voracious cave crawlers, which are kind of like toothy slugs, I think. Once again, they died in the trap corridor, so that was good. And then finally we had a blind 
+[interjection] Kristin: Okay.
+[interjection] Drew: cave ogre who daredeviled its way through five tiles of the traps, but the sixth and seventh got him. 
+
+[00:14:58] Kristin:
+Oh, well, I'm glad that he was eventually caught. 
+
+[00:15:01] Drew:
+That wounded them. 
+
+[00:15:03] Kristin:
+Yeah. 
+
+[00:15:04] Drew:
+that did not actually kill them because then they got through and played round robin around the staircase going up from that level with a guard dog for something like two days as other dwarves walked by. Oh my gosh. That blind cave ogre was a little bit of a character. Let's do some description. He has an amazing memory, a lot of willpower, but he has an iffy sense for music. He tends to ask others for help with difficult decisions. He does not have a great aesthetic sensitivity and he considers ideas and abstractions over practical applications. 
+
+[00:15:42] Kristin:
+Wow. Yes. 
+
+[00:15:42] Drew:
+Yes. So that was uh... 
+
+[00:15:45] Kristin:
+Surprisingly thoughtful for a cave ogre. 
+
+[00:15:48] Drew:
+That's sort of my view, but again, round-robined with a guard dog for two days. Dwarves just walked back and forth through the corridors. 
+
+[00:15:59] Kristin:
+You would think one of the dwarves would do something about that? You know, like, bludgeoning it to death with the crossbow? 
+
+[00:16:06] Drew:
+I'm inclined to believe they thought the dog was having fun. 
+
+[00:16:09] Kristin:
+Oh, okay, yeah. 
+
+[00:16:10] Drew:
+And then, yeah, so that was our, those were our vermin waves. Meanwhile, plans to turn this into an aquarium fort are proceeding apace. Oh, good. 
+[interjection] Kristin: Good.
+[interjection] Drew: We've got a, we've gotten down to lava. We've got a good glass industry going. I think last county had something like 45 glass terrariums or aquariums. Yeah. And so I'm going to start having people work on catching the various saltwater creatures around, including sea nettles. Oh, cute. Yeah, exactly. I want to, I want to catch some of those sea nettles. But unfortunately, and I'll talk about this again a little bit later, our best fisher dwarf is dead. 
+[interjection] Kristin: Mm-hmm.
+
+[00:16:53] Kristin:
+Ah, alas. 
+
+[00:16:55] Drew:
+Yep. 
+
+[00:16:56] Kristin:
+I've been having some fishing problems at, uh, I had some at Bellblade and we talked about it a little bit, that maybe I was just telling them to capture live fish, not like catch them for eating. And I have, I've set up a fishery in like the cave lake and nothing's happening. Like no one's doing anything. And I have fishing enabled and people assigned, so something I'm going to have to think about again. Fishing. 
+
+[00:17:23] Drew:
+Do they have access down to the water? 
+
+[00:17:26] Kristin:
+I think so, but I will double check. Maybe I need to make a ramp or something. Yeah, something like that. 
+
+[00:17:32] Drew:
+Yeah. Let's see. So what I'm curious about, though, is whether or not, because I have four or five kids in my fort, I'm curious whether or not I can assign them to do that fish collecting and sea nettle collecting. 
+
+[00:17:50] Kristin:
+Oh, like if that's one of the things that they will do. 
+
+[00:17:53] Drew:
+Yeah, so, I don't know. I mean, the question of how children interact in Dwarf Fortress has always kind of perplexed me. 
+
+[00:18:01] Kristin:
+Right, and you know, we still haven't had the question answered to my satisfaction of the negative one-year-old dwarven babies that walk around with like amethyst looking heads. 
+
+[00:18:13] Drew:
+Yeah, I kind of wondered about that and it seems like the programming team just prefers to laugh every time someone mentions it. Right. 
+
+[00:18:20] Kristin:
+Right, and I feel like no one but me is bothered by this. 
+
+[00:18:25] Drew:
+Everyone else is just more used to the bugginess. 
+
+[00:18:29] Kristin:
+But it's weird. It is weird that they're... 
+
+[00:18:30] Drew:
+It is weird that they walk around with no head. 
+
+[00:18:35] Drew:
+Yeah, so dwarven children. Yeah. This is the part, dear listener, where we start looking at DF wiki to uh... 
+
+[00:18:44] Kristin:
+Right, well, my fort was boring this week, so we got to talk about something right now. We're not going to like straight up read to you from DFWiki like what was his name on How I Met Your Mother, Sandy Rivers, who would just read the newspaper. 
+[interjection] Drew: Exactly.
+[interjection] Kristin: Yeah, but we do want to know a little bit more about child labor because when I had, you know, like seven children and four adults, I told the children to not do anything because the goal was just to make it through with no one going axe crazy. And now just sort of by default, I turn off children chores. So I don't even really know what it is that they can do. 
+
+[00:19:22] Drew:
+I mean, by and large, I've found, especially since it seems like in this version of Dwarf Fortress, it's pretty rare to have a population crunch, you know, without there being a major problem. Yeah. That it's kind of best to turn off those chores because the children get really kind of grumpy doing chores. They 
+
+
+[00:19:47] Drew:
+Exactly. I don't know if that's then helped by having toys around for them to play with. It seems like that gives them a positive moodlet, but they just seem to they just tend to go down the anger well. 
+
+[00:20:02] Kristin:
+Yeah, I just I found the children are often angry chores or no chores So I know that they clean what what else do they do? 
+
+[00:20:11] Drew:
+Oh yeah. And that becomes a challenge because they'll haul corpses of different types and become horrified. 
+
+[00:20:19] Kristin:
+I remember you had a child hauling a forgotten beast corpse, remember? 
+
+[00:20:24] Drew:
+That's right, and they were both horrified and unable to move it. 
+
+[00:20:27] Kristin:
+Oh, that's funny. That is 
+
+[00:20:30] Drew:
+And it just kept trying. Oh, poor little kid. Because I think there's some sort of math about when you're hauling, like your weight versus the weight you're trying to haul, and then the risk of slippage 
+[interjection] Kristin: and the risk.
+[interjection] Drew: when you're doing that. And so it just kept slipping again and again. And they were getting thirsty and all this sort of stuff. So. It's pretty funny. 
+
+[00:20:47] Kristin:
+Well, I know they can have strange moods because I've had a lot of artifacts made by children, but I don't know that they're using those workshops normally. I don't know if I say make 10 rock tables. I don't think a child is doing that. 
+
+[00:21:01] Drew:
+I don't think so. I think that they wind up getting a strange mood and then doing the thing just sort of spontaneously. Yeah. Because you can't assign them to a workshop. I remember that at least. It's a strange thing. 
+
+[00:21:14] Kristin:
+Yeah, and you can't make them nobility. You can't have a child king. Exactly. 
+
+[00:21:18] Drew:
+Exactly, or assign them to squads. 
+
+[00:21:20] Kristin:
+Ah, see, that would be a good use for the children. Cannon fodder. 
+
+
+[00:21:32] Kristin:
+Um, yeah, I did. I, uh, was... I forgot about that. Yeah, I was looking to see why she was so unhappy and she was dwelling on the the moodlet of having had a miscarriage. And I gather that injury or, you know, extreme thirst or whatever, um, can cause dwarves to have miscarriages. And I don't know what had caused hers. Um, it actually, if I recall that dwarf right, she had had that miscarriage before arriving, maybe. Maybe the long journey to New Fort and she miscarried or something like that. 
+
+[00:22:05] Drew:
+miscarried on the ocean. 
+
+[00:22:06] Kristin:
+Yeah. 
+
+[00:22:08] Drew:
+The fact that the children also can become emancipated from their parents if their parents are like exiled from the fort maybe or just die. Maybe they then just kind of wander around in our feral children. 
+
+[00:22:23] Kristin:
+I mean, that's kind of what that sad child Rith Guildthunders is like. Like, I would watch her for long spans of time, because I was waiting for her to have a tantrum, really. And she would just, like, play make-believe in her room, and then go to sleep, and then she'd go wander around despondently outside. But she never seemed to, like, wander away to the point of dying of thirst, like an adult who is severely depressed would do. Stumbling obliviously, I think, is what it is. 
+[interjection] Drew: Bye.
+
+[00:22:52] Drew:
+I think feral children will be fed and watered by adults, kind of like animals. I'm not entirely, like I said, I'm not 100% sure on this, but that seems to be what I've seen happen, that they will be thirsty and then be given drink. 
+[interjection] Kristin: They will.
+
+[00:23:08] Kristin:
+It's kind of sad, maybe I should have put her in a cage. Exactly. You need to go to a trainer. 
+
+[00:23:13] Drew:
+Oh, they gotta learn the skills somehow. 
+
+[00:23:15] Kristin:
+And I wonder what will become of her. I like, I don't know. 
+
+[00:23:19] Kristin:
+I guess there's a chance that she could become an adult and I can keep an eye on her in Legends mode. 
+
+[00:23:27] Drew:
+The other fun thing about that is that you can have guild halls, and they will go into guild halls and learn. 
+
+[00:23:34] Kristin:
+Oh, well see that's good. They say in The Sims that you're like second generation of Sims is going to be better at everything they do because they have actual Sims teaching them things. Now, children's, children in The Sims are the reason I don't play The Sims, what are we on three, four? Four. Yeah, I don't play The Sims 4 anymore because children 
+[interjection] Drew: more.
+[interjection] Kristin: are just so incredibly janky and needy and they just made them more complicated so I'm never touching that again. But yeah, so the dwarven children who are going into guild halls and learning presumably are going to be smarter and better at stuff than their parents. 
+
+[00:24:10] Drew:
+Yeah, the unfortunate thing though is that I believe that it takes an actual 18 in-game years for the child to go from being, you know, a neonate to actually... 
+[interjection] Kristin: Yeah.
+
+
+[00:24:26] Drew:
+Yeah, I know some people run like hundred year forts and that sort of thing so they would probably see a couple generations but nah, I've never managed I think over like maybe 25 years. 
+
+[00:24:36] Kristin:
+Yeah, I think Rith was like four or five, so there's a good chance that I can look and see what she's up to as an adult. 
+
+[00:24:44] Drew:
+if uh i guess you could probably get a kid from a migrant who's like you know 16 and then ranks up into adulthood um but i don't know if i've ever noticed it i don't know if you get a notification 
+[interjection] Kristin: Oh yeah.
+[interjection] Drew: or anything so you 
+
+[00:24:56] Kristin:
+Hmm, yeah, we want to know if you know if you get a notification about children becoming adults became a man today. Don't make that face at me. It was deliberately a terrible phrase. Anyway, we want to know. 
+
+[00:25:12] Drew:
+Yeah, the other fun part of managing children that I recall is that you can assign them to individual rooms, but you don't have to. And it's very confusing to me. I always get very confused in Dwarf Fortress when there are things that you can do, but don't have to do to accomplish something. It's the same thing with that you can assign either a room 
+
+[00:25:36] Drew:
+eating area or a meeting area to be a tavern. And I'm always like, which one should I do? I only want one option. 
+
+[00:25:42] Kristin:
+Yeah, that's fair. Well, if you want things to be simple, you're playing the wrong game. I don't know. Riff had a bedroom that was hers exclusively that she would play in and sleep in, and I didn't assign that to her. 
+
+[00:25:55] Drew:
+Yeah, well maybe that's again because your parents died so once you're emancipated you just grab one. 
+
+[00:26:00] Kristin:
+Yeah, fair. I think it's really cute that, um, because she would go in there and I think that there was like a chest in a cabinet and stuff and she would get her toy and I think that she had, I think it was a toy boat, but I think it's really cute that they'll have like toy hammers and anvils and things like that. 
+
+[00:26:16] Drew:
+It is, and they'll pick it up and just, that will become theirs. They can't do anything about it because of the potency of air-conditioning. 
+
+[00:26:20] Kristin:
+Yeah, it's adorable. 
+
+[00:26:22] Drew:
+It's also interesting in the chore stuff that they will feed and water prisoners, which always seems like a rather dangerous job to be giving children to me. 
+
+[00:26:32] Kristin:
+Well, I mean that's better than them having to like haul and bury the corpse of their parents or whatever which is unpleasant 
+
+[00:26:40] Drew:
+Yep. Oh yeah, and then the DF wiki does make the note there at the bottom. Dwarf babies can sometimes have an age which is negative, most commonly negative one or zero. In that case, they will appear headless. 
+
+[00:26:52] Kristin:
+But why? Oh well, I guess we'll never know. 
+
+[00:26:58] Drew:
+Yeah, like a lot of the weird bugs in Dwarf Fortress, we're just going to shrug emoji and move on. 
+
+[00:27:05] Kristin:
+Yeah, all right. Well, should we move on? What's what's hell what else is happening in our forts? 
+
+[00:27:11] Drew:
+Yeah, so tell me about your new fort because you abandoned Bellblade to its fate. I did. Which is apparently to do better than it was doing with you. I know. 
+
+[00:27:19] Kristin:
+I mean, I think that Krolky did better without me too because it became like their chief economic center of their civilization. 
+
+[00:27:29] Drew:
+So where are you at now? 
+
+[00:27:31] Kristin:
+Well, my new fort's name, and I'm sorry to tell you this, is Wet-Ringed. 
+
+[00:27:38] Drew:
+wet-ringed. 
+
+
+[00:27:41] Drew:
+I guess it's better than moist. 
+
+[00:27:43] Kristin:
+better than butthole. Yes, so my new ford is named Wet Ringed. I wanted kind of a new challenge but to stay on that same continent because I figured I'd put in the work to to get dwarves living there. So I looked up north and I was like, oh I'll do a tundra and I was aiming for a tundra but I got the... I was aiming for the tundra of gurgling which is like almost at the ice cap up there but not 
+[interjection] Drew: Nice.
+[interjection] Kristin: quite and I instead got on the plane of fastening. So while it is really snowy for like half the year we do get plants and things growing outside for the other 
+
+[00:28:24] Drew:
+Well that's nice at least. 
+
+[00:28:25] Kristin:
+Yeah, so it's pretty easy. I don't think that it was a calm or peaceful or whatever location. Like I expected to have wildlife and we really, really haven't. Not even, not outdoors or in the caves. So it's seemed to be a peaceful location and I might end up regret, end up regretting choosing it. But the nice thing about it so far, even though I haven't found a lot of metals yet, we have a lot of the really beautiful, colorful stones. So we've got a ton of jet. So that looks really cool in combination with like marble and microclime. And I have like a really neat bedroom setup with like four long spokes off a staircase and the rooms are kind of staggered off of it. And they're all in those colors and just without really any work from me, it looks pretty cool. 
+
+[00:29:14] Drew:
+That sounds really pretty. Yeah. So before we move on, I just have to make the joke. So you are trying to get the wet ring of gurgling. 
+
+[00:29:23] Kristin:
+Yeah, I was trying to get the wet ring of gurgling. 
+
+[00:29:26] Drew:
+And what's the name of your civilization? Because you said you didn't get the same pre-realization. 
+
+[00:29:29] Kristin:
+Oh shoot. The same pre-vilization. You know, I don't. Oh, our civilization, since I forgot to go with the razor of socketing, is the fountain of paint. 
+
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: 
+
+[00:29:42] Kristin:
+Yes, so we're an interesting people. Apparently we like wet things. But it's, so for other city facilities, we're still in like our first 18 months, I would say. Just got a tavern up and running. It's not very exciting. I put in like a marble floor. I only have a few tables so far, again, with the various colors. And we only have 17 dwarves, so it's not like things are really booming anyway. The temple I just started and it's really pretty rough, but I didn't want anyone to end up with the prayer deficit where they have to go and pray for three months or whatever. And let's see, let's see. 
+
+[00:30:27] Drew:
+Have you found magma yet? No. 
+
+[00:30:28] Kristin:
+This unfortunately, that's not very excited. Like I said, my dwarves have been kind of boring like nothing exciting is happening yet 
+[interjection] Drew: Like a-
+[interjection] Kristin: Um, there was a hive outside that I built a hive box and they seemed to have been bored. 
+
+[00:30:41] Drew:
+Migrated in. Claimed it. 
+
+[00:30:41] Kristin:
+it or whatever and I'm making a bunch of jugs so that we can get the honey because oh yeah I guess that's one thing to note I am I am using DF hack now because you use DF hack to get the legends plus or whatever which is more detailed legends mode and DF hack I don't know like what do with it but it without me doing anything has a bunch of little quality of life things and now I'm having a really hard time telling what is like new and updated in Dwarf Fortress and what is DF hack making things a little bit easier for me. 
+
+[00:31:17] Drew:
+I've always thought that was the nice thing about DFHack is that if you don't choose any extra options or run any extra commands, it just sort of makes the whole process easier. 
+
+[00:31:25] Kristin:
+Yeah, and like one example is that stockpiles, if you select all, it will automatically have refuse and corpses unchecked. So it's like one less thing to think about. And then it did a forced pause to tell me that a stray alpaca was starving, and it had come with migrants and I just hadn't gotten it assigned to the cave pasturian. So I was able to save that alpaca. 
+
+[00:31:50] Drew:
+Nice, so you've gotten to the caves pretty quick with this one. Yeah. 
+
+[00:31:52] Kristin:
+Yeah, I've gotten to the first and second layer of caves, but back to with the DF hack thing in the hive box, I noticed when I looked at the hive that it said it would need jugs. And I was like, is this Dwarf Fortress or is this DF hack? I don't know, but I guess I better go make some jugs. So hopefully we'll have some honey. Do they make mead with that? What happens? Thank you. 
+
+[00:32:13] Drew:
+Yeah, you can make a mead I think at the still if you have honey in jugs. You need a screw press to get the honey out of the hive. 
+
+[00:32:26] Kristin:
+Oh, didn't mention that. 
+
+[00:32:28] Drew:
+Because I think when it grows to a certain level or is ready to split or something like that, you can have them harvest it. And it will then get you comb, honeycomb, which can then be pressed into royal jelly and honey, I think. 
+
+[00:32:43] Kristin:
+Oh, okay, gross. At any rate, I'm going to have to look up, what is beekeeping called? Apiary? Apiary, yeah. Anyway, yes, got to look up apiary in the wiki. So maybe next time I can report back about my adventures in Dwarven Honey. But the biggest problem that I've had actually so far is related to the caverns in that I have been really diligent with my last few fort ventures about walling off where we're living in the caverns so that we don't get all the cave people invading constantly. The caverns at this fort are really like craggy and hilly, so the terrain is just spanning multi-levels. And it's going to be really, really hard to wall in, I think, because those walls will have to extend like this. 
+
+[00:33:34] Kristin:
+multiple levels. 
+
+[00:33:36] Drew:
+Yeah, that's interesting. I feel like all of the levels I've gotten lately have been pretty flat for the caverns, like you know just a smooth circular cavern almost versus a flat one. 
+
+[00:33:46] Kristin:
+Yeah, a lot of mine have been like that too, so this is definitely a new challenge for me to deal with. I will stream this new fort this week and do a little tour and everybody can see kind of what I'm running up against. But we haven't had anything come out of there yet, like regular size olms, which best I can tell are just sort of snakes, and like some bats, and like the dogs and cats are 
+[interjection] Drew: Yeah.
+[interjection] Kristin: taking care of all that. So yeah. 
+
+[00:34:13] Drew:
+Yeah, I think I think Olms are like snakes, but with little stubby legs. Yeah, exactly. A little amphibian type. I don't know if they are amphibians or not, but. 
+
+[00:34:22] Kristin:
+I don't know, but they're small. Yeah, I've had. 
+
+[00:34:24] Drew:
+Yeah, yeah, I haven't had any, um, I haven't had any cavern dwellers really for my fort either right now 
+[interjection] Kristin: But nothing.
+[interjection] Drew: or ogre which just sort of happens. Yeah. 
+
+[00:34:39] Kristin:
+Yeah, I don't know. I definitely still need to get to magma. We have, part of why I picked this location is because of the variety of stone. We have multiple colors of sand, which you told me and I was disappointed just all lead to green glass. Alas, because black glass would have been really cool. Oh well. At any rate, got lots of sand. I think I have clay too, so I can have all kinds of industries at this new fort. I guess I'll try to compensate for the lack of violent action by starting various industries. And I did, I finally put in a dye workshop for the first time because we were getting our cloth industry started and I'm trying to stay ahead of the need for clothes. And I was like, oh, I'll dye them. And then I was like, wait, I don't have, nevermind. 
+
+[00:35:30] Drew:
+Well, with farming being a little bit easier now, getting at least that most basic blue dye from the dimple cups. Yeah. 
+
+[00:35:37] Kristin:
+And then I bought some seeds from our merchants that I think must need to be grown outside. I don't remember what they were. Because I couldn't get, I know we have them, but I couldn't get the option to plant them in the caves where all of my farms are. So I'll explore that and report back. 
+
+[00:35:57] Drew:
+Well, that sounds good. 
+
+[00:35:58] Kristin:
+Yeah, well, why don't you give us the rest of the news from your fort? 
+
+[00:36:01] Drew:
+Ah, so Fiery City. There were two kind of other big things that I wanted to cover from Fiery City, which is that, one, we elected a new mayor. Oh. 
+
+[00:36:13] Drew:
+And that mayor is actually part of a power couple. So we have Tocid Whisperlashes, elected mayor, along with his wife Tulan Cloister-Fishers. Click here to vote on으's call to action 
+
+[00:36:26] Kristin:
+oyster fishers. For sure. Can get away from it for sure. 
+
+[00:36:29] Drew:
+They are our two best negotiators in the fort. They have the highest value of that skill. Yeah. 
+
+[00:36:36] Kristin:
+Yes, they negotiated each other to marry them. Exactly. And then... 
+
+[00:36:40] Drew:
+exactly and then he negotiated his way to power yes and he has great creativity a good feel for social relationships and a good intellect but he has bad intuition and then we get into these weird paradoxical statements oh i love those he is a perfectionist he finds a chaotic mess referable to the boredom of harmonious living he is very friendly and always tries to say nice things to others and he's burdened by this tendency because he dislikes the idea of friendship 
+
+[00:37:08] Kristin:
+What? Okay. 
+
+[00:37:09] Drew:
+He does not easily fall in love and rarely develops positive sentiment. He has little interest in joking around, but when he's thinking, he has a tendency to chew on his cheek. 
+
+[00:37:19] Kristin:
+Yeah, we're trying to chew on our cheek and it's not going very well. 
+
+[00:37:23] Drew:
+Um... 
+
+[00:37:24] Drew:
+His wife, Toulon Cloyster Fishers, has great analytical abilities, a way with words, and good creativity, but poor spatial sense. She is rarely happy or enthusiastic, and conflicted by this as she values parties and merrymaking in the abstract. 
+
+[00:37:39] Kristin:
+I feel like it's the idea of going to a party and having fun. I thought you were going to. Yes, I relate to that very much. 
+
+[00:37:45] Drew:
+She tends to avoid crowds and is quick to anger. She prefers that everyone live as harmoniously as possible and has a tendency to go it alone without considering the advice of others. 
+
+[00:37:55] Kristin:
+What are you looking at me for? I'm starting to feel a little called out by this dwarf. 
+
+[00:37:59] Drew:
+She laughs very loudly whenever she's nervous. 
+
+[00:38:01] Kristin:
+I don't think I'd do that necessarily. 
+
+[00:38:03] Drew:
+And yeah, so that's our power couple. 
+
+[00:38:08] Kristin:
+What is her job today? Did you tell us that? 
+
+[00:38:10] Drew:
+Oh, so he is mayor. And she is our chief trader. 
+
+[00:38:15] Kristin:
+Ah, well, very cool. 
+
+[00:38:17] Drew:
+There you go. 
+
+[00:38:18] Kristin:
+Yeah. 
+
+[00:38:18] Drew:
+However, his election happened after Zuglar Dimpleashes, our indefatigable leader, died 
+[interjection] Kristin: Oh.
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: mysteriously. 
+
+[00:38:31] Kristin:
+Oh, did they get murdered? 
+
+[00:38:34] Drew:
+No, actually. Uh-huh. What happened? 
+[interjection] Kristin: what happened.
+[interjection] Drew: 
+
+[00:38:43] Kristin:
+Accidental incineration. 
+
+[00:38:45] Drew:
+Well, let me finish the story. They were digging out a new pit of lava for a magma smelter when Delir Torch moistened, who you'll recall knew about the death of Zuglar's boyfriend, Kadol, who was murdered by the Sparrow women, 
+[interjection] Kristin: All right.
+[interjection] Drew: but hadn't told Zuglar yet. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: Well, they were working together to do that dig, and I think... 
+
+
+[00:39:17] Drew:
+Delir overcome with grief chose that moment to tell Zuglar and Zuglar caused them both to be immolated. 
+[interjection] Kristin: Uh-huh.
+
+[00:39:25] Kristin:
+Ah, what a tragedy. Yep. 
+
+[00:39:28] Drew:
+But it did clear the way for Tocid, and we have great hopes for Tocid's rulership. 
+
+[00:39:33] Kristin:
+Yeah, he seems like he's going to be a good fit. 
+
+[00:39:38] Drew:
+Yeah, he seems like he's a pretty going to fit in pretty well and he came over as a member of the greatest coven uh, the main for our both our um civilization at this point But also our fort which is the worship of the fireman deity vosh. Yeah Who I think I talked about previously perhaps it's no great coincidence that the The thing keeping him from keeping the you know, high ranking member of this coven. Yeah from power Or died as a result of magma and fire. Yeah 
+
+[00:40:15] Kristin:
+Yeah, that is fitting. 
+
+[00:40:17] Drew:
+So that led me to Legends mode. Oh, yeah. 
+[interjection] Kristin: Yep.
+[interjection] Drew: Because I wanted to find out more about the Greatest Coven because it's shown up repeatedly throughout my forts. 
+
+[00:40:25] Kristin:
+Yeah, like the denomination of hardiness and the denomination of defenses. See, I remember them now because all of the dwarves are members of these. 
+
+[00:40:34] Drew:
+The Greatest Coven has demanded a shrine. The Temple Prince of Confucius is taking part of the early sixteenth century to establish 
+
+[00:40:38] Drew:
+The Greatest Coven is demanded a temple in fiery cities, which I have provided and, you know, made pretty. And so I decided to look up the Greatest Coven. And obviously they're centered around the fireman deity Vosh. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: And this coven was actually started in the civilization by Atir Trade Manners, who is who was originally the first sacred control of the Greatest Coven, then the high controller of the Greatest Coven, and now the absolute cloud of the Greatest Coven, which is apparently the... TITLE. 
+
+[00:41:11] Kristin:
+which is apparently very- I don't know what to call it. The Absolute Cloud. 
+
+[00:41:14] Drew:
+The absolute cloud. Isn't that great? That's their pope. Exactly. And this was founded in friend tombs after a conversation in the terrible lemon tavern. 
+
+
+[00:41:32] Drew:
+It's composed of 60% dwarfs, 35% goblins, and 5% elves. 
+
+[00:41:37] Kristin:
+Alright. 
+
+[00:41:38] Drew:
+And the interesting thing about Fren'Tum, where it was established, was that it was established there two years after Envy Profane Cloaks, the infinite witch of Vaults, an elk brute focusing on lies, treachery, and trickery, was entombed after being killed. 
+
+[00:42:02] Kristin:
+Well... 
+
+[00:42:02] Drew:
+He was entombed in Fren-tomb. 
+
+[00:42:04] Kristin:
+And a year. 
+
+
+[00:42:07] Kristin:
+Oh, well, sign me up. Exactly. Ha ha ha. 
+
+
+[00:42:21] Kristin:
+Yeah, I want a giant badass pet. That'd be awesome. 
+
+[00:42:24] Drew:
+Well, you have to be an elk brute in order to accomplish it. 
+
+[00:42:26] Kristin:
+No, oh well. 
+
+[00:42:28] Drew:
+So that was kind of the rabbit hole I went down with Legends mode for this time. Yeah, I think. 
+
+
+[00:42:37] Drew:
+Absolutely. I mean, so many interesting things go on around in the world. 
+
+[00:42:42] Kristin:
+date we would never ever know about. 
+
+[00:42:44] Drew:
+I also tried to look up the backstory behind the Seelicanth god, who had created I think 
+[interjection] Kristin: Oh yeah.
+[interjection] Drew: three or four different necromancers. I couldn't find too many more details about the Seelicanth god himself. He doesn't have any temples or he doesn't have any groups or societies. 
+[interjection] Kristin: Oh.
+[interjection] Drew: But he doesn't seem to be great luck for his necromantic followers either, though. Two of them died rather quickly after becoming necromancers using the tablets he created. 
+[interjection] Kristin: bit off.
+[interjection] Drew: One seems like kind of a fun person because she's been married and divorced eight times. 
+
+[00:43:32] Kristin:
+All divorces and not, you know, offing the husbands? I don't believe so. You got that right. 
+
+[00:43:36] Drew:
+Yeah, I think they were all divorces, usually after about two years. And then one, a human necromancer, is the chief advisor or chief magistrate, whatever, for his human civilization, and has apparently a lot of plots going. Unfortunately, it's way on the other side of anything that I actually interact with, so it's just going to keep going on there. In the background. Yeah. Interesting, but yeah, I'm pretty happy that they've got Legends mode working. Yeah, I'm... 
+
+[00:44:09] Kristin:
+Yeah, I'm really excited about that. 
+
+[00:44:11] Drew:
+You can tell so many interesting stories there, and that's definitely a project I want to work more on. 
+
+
+[00:44:17] Drew:
+So, yeah, so working on that is going to be a... So working with Legends mode is definitely going to be a project I want to keep going with with Dwarf Fortress. For my city itself, I'm just going to stay focused, I think, on getting that aquarium fort stuff going. I really like that. I'm going to dig out and let the saltwater areas I have in my map extend further around on top and see if I can get more fish and stuff there. 
+
+[00:44:43] Kristin:
+fort before I make any really concrete plans other than bees. Bees! 
+
+[00:44:53] Drew:
+Bees! You'll find it fun when you start working with it. You'll see that they will, it will say that you have like 10,000 bees. Oh, I saw that, yeah. It was really funny. I'm like, it's, they're probably simulated with their own moods in Door Fortress. Um, let's see, do you have any projects you want to tease? 
+
+[00:45:12] Kristin:
+I'm working on some edited video content and it's slow going because I'm teaching myself this whole video editing thing, but that's forthcoming I think. 
+
+[00:45:23] Drew:
+I've got a project going on to try to see if we can get some Succession Fort stuff going. Yeah. Hopefully that'll come together in the next couple of weeks, and I'll be able to invite some people to see what we think about it. If it's good, then maybe we'll ask our listeners to participate. 
+
+[00:45:38] Kristin:
+Yeah, and we also want to start opening up for some Dwarven correspondents and have listeners tell us about their forts and the dramas that go on there and we can follow them over time and learn about what's happening in other people's worlds. So if you're interested in doing that, you can email me at a strange mood podcast at gmail.com. That's probably the best way to get it directly in front of my eyes if you are not joining our discord. 
+
+[00:46:05] Drew:
+Yeah, and obviously if you want to follow our content on the web, see you there. 
+
+[00:46:11] Kristin:
+Yeah, the videos all go from Twitch to YouTube where we are at a strange mood. I think you can just use that at thing. 
+[interjection] Drew: Mm-hmm.
+
+[00:46:22] Drew:
+and you're that Kristin. 
+
+[00:46:23] Kristin:
+On Twitch. Yep. 
+
+[00:46:25] Drew:
+And you can go to our website at astrangemood.com. 
+
+[00:46:28] Kristin:
+I think it's thestrangemoodpodcast.com. 
+
+[00:46:33] Kristin:
+But close enough. Yeah. So I think that's everything. Come join our Discord, hang out. We chat about Dwarf Fortress and other games. There's been some Diablo chat in there. 
+
+[00:46:43] Drew:
+Uh-huh. Well, there's Diablo chat everywhere. It does. 
+
+[00:46:46] Kristin:
+It's true, yeah. 
+
+[00:46:47] Drew:
+But it's been really great to come back and record another episode for you guys. 
+
+[00:46:52] Kristin:
+Yeah, we feel refreshed and ready for the next 15. Exactly. 
+
+[00:46:55] Drew:
+So I think there's nothing else to do but sign off with a good old, Just keep digging! 

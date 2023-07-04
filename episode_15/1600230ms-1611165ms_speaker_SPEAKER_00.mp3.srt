@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,960
+Yep. Oh yeah, and then the DF wiki does make the note there at the bottom. Dwarf babies can
+
+2
+00:00:04,960 --> 00:00:09,680
+sometimes have an age which is negative, most commonly negative one or zero. In that case,
+
+3
+00:00:09,680 --> 00:00:39,680
+they will appear headless.
+
+

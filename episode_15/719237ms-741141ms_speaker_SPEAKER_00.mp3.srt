@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:13,500
+Yeah, the general design for the mist generator there is that it's got little 8x8 sections of fortifications in the kind of middle of the tavern floor, with the center emptied down into the cavern water.
+
+2
+00:00:13,500 --> 00:00:19,500
+So the water falls down into that little hole, hits, and then spreads out mist for a couple of tiles around.
+
+3
+00:00:19,500 --> 00:00:20,000
+Oh, nice!
+
+4
+00:00:20,000 --> 00:00:30,500
+Which then apparently condenses.
+
+

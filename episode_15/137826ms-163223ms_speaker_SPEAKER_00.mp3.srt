@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:03,000
+There are also some other ways that it's been done in the past with the older version.
+
+2
+00:00:03,000 --> 00:00:09,000
+Like, um, I think Krug Smash made a, an entire little coliseum at one point.
+
+3
+00:00:09,000 --> 00:00:15,500
+Uh, like built it with dwarves and then instantiated using, you know, hacking the, the save file.
+
+4
+00:00:15,500 --> 00:00:18,000
+Uh, instantiated the different creatures and all of that.
+
+5
+00:00:18,000 --> 00:00:19,000
+Whoa, that's crazy.
+
+6
+00:00:19,000 --> 00:00:24,500
+I think he instantiated them into, uh, cages and then released them to fight each other.
+
+7
+00:00:24,500 --> 00:00:30,000
+Something like that.
+
+

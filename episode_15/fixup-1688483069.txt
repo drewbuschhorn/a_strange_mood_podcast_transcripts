@@ -1,0 +1,850 @@
+[00:00:00] SPEAKER_01:
+This podcast is of the highest quality. 
+
+[00:00:19] SPEAKER_01:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress Podcast. I'm Kristen. 
+
+[00:00:24] SPEAKER_00:
+And I'm Drew. 
+
+[00:00:25] SPEAKER_01:
+And you know, we've been on vacation. 
+
+[00:00:27] SPEAKER_00:
+Yeah, Kristen. 
+
+[00:00:28] SPEAKER_01:
+Yeah, it was nice. So we stopped doing chores. 
+
+[00:00:31] SPEAKER_00:
+No chores whatsoever, really. 
+
+[00:00:32] SPEAKER_01:
+None, none. So there's just like rotting food sitting around everywhere. 
+
+[00:00:37] SPEAKER_00:
+I know, we just let the food rot until it's billowing out clouds and clouds of foul air in our bedroom. That just seems a way to live, really. 
+
+[00:00:45] SPEAKER_01:
+Yeah. I mean, it was very relaxing. And here we were worried we didn't have an opener. Yeah, exactly. 
+
+[00:00:53] SPEAKER_00:
+We had one of these because our listeners got that extra bonus episode about Against the Storm previously. Yeah, good game. It is a good game. 
+
+[00:01:08] SPEAKER_01:
+But we're not here to talk about that. 
+
+[00:01:09] SPEAKER_00:
+No, just like we're not here to talk about Diablo. 
+
+[00:01:13] SPEAKER_01:
+Well, now that we've established what we're not here to talk about, what are we talking about? 
+
+[00:01:18] SPEAKER_00:
+I think Dwarf Fortress. 
+
+[00:01:19] SPEAKER_01:
+Oh, okay, good, because that's what I have notes about. 
+
+[00:01:22] SPEAKER_01:
+So do we have any housekeeping this week? 
+
+[00:01:25] SPEAKER_00:
+Not too terribly much, but one interesting item has come to us from Tekkid. 
+
+[00:01:30] SPEAKER_01:
+Mm-hmm. 
+
+[00:01:31] SPEAKER_00:
+And he is helping organize the Gladiator tournament over in Bay 12 forums, Bay 12 game forums. 
+
+[00:01:39] SPEAKER_01:
+Yeah, I think we actually heard about it originally from the moderator there who's... 
+
+[00:01:44] SPEAKER_01:
+Discord and Reddit name, I don't really know how to say. 
+
+[00:01:47] SPEAKER_00:
+Yes, but at any rate. 
+
+[00:01:49] SPEAKER_01:
+Yes.
+So, Gladiator tournament.
+
+Yeah.
+
+A gladiator tournament is where you create creatures in Dwarf Fortress and then submit them to be pitted against one another in a battle royale.
+
+So how do these fictional creatures battle?
+
+They get instantiated and placed into a built-up arena. Oh.
+
+Oh, in that testing mode, arena mode or whatever that is. That sounds actually really cool.
+
+There are also some other ways that it's been done in the past with the older version. Like, um, I think Krug Smash made an entire little coliseum at one point. Uh, like built it with dwarves and then instantiated using, you know, hacking the save file. Uh, instantiated the different creatures and all of that. Whoa, that's crazy. I think he instantiated them into, uh, cages and then released them to fight each other. Something like that.
+
+At any rate, it's pretty cool, but I think that the entry period only goes through tomorrow, because today, when you're hearing this, assuming you're hearing this on the day it releases, is July 4th. I guess happy 4th of July. July, yeah. If you do that. Anyway, so if you want to enter one of your monsters, you need to scurry over to the Bay12 forums, right?
+
+Yeah, we'll include a link in the show notes to it. It's a pretty simple process actually because you don't actually have to make it in the Dwarf Fortress game. Like there's a set of rules in the doc in any way to submit it in the forum. There's still I think a couple of slots open so they might not be too terribly tight about that.
+
+Deadline. Whoa. Yeah. We should check and maybe the forgotten beast that I left trapped in our evil fort can be entered. Exactly.
+Exactly, exactly. So that's really the only piece of housekeeping I think that's come up recently. Yeah, I think so. The other thing I guess, you can drop this if you want, the other thing I guess is to wish the Dwarf Fortress Roundtable guys a happy vacation. They're taking their summer break. 
+
+[00:03:51] SPEAKER_00:
+Well, I always love being stuck with you. 
+
+[00:03:54] SPEAKER_01:
+Aww, how sweet. I love being stuck with you two. Alright, well, shall we move on to news from the forts? 
+
+[00:04:01] SPEAKER_00:
+News from the forts. Tell me about how Bellblade is doing. 
+
+[00:04:06] SPEAKER_01:
+Well, I have to say, I don't really have any news from Bellblade because I retired it. 
+
+[00:04:13] SPEAKER_00:
+Alas. 
+
+[00:04:14] SPEAKER_01:
+Yeah, you know, after I had a couple of weeks off from the game, just kind of taking a break from that, because it's good to not burn out on, you know, even fun things. I went back to Bellblade, I booted it up, I was looking around. I couldn't remember. Like, there was this guild hall that I was building, and I couldn't remember who it was for, and there was just a lot going on, but nothing really was happening, and it was all very defensible, and I was just like, you know, I feel kind of done with this one. Like, it's doing really well, it's a metropolis. And then there was another migrant wave that was pushing the population up over 170. And I was, like, thinking about how much work it 
+[interjection] SPEAKER_00: Jeez.
+[interjection] SPEAKER_01: was going to be to get the bedrooms and everything furnished for all that, and I was just like, yeah, it's time. I just retired it. And, you know, I might check back in on them, kind of like I did with Curlkey, but I don't feel too remorseful. I was kind of attached to a few individuals there, but also, like, they don't really exist. So I wasn't that sad. 
+
+[00:05:16] SPEAKER_00:
+Yeah, well, 170 dwarves is really, really a large amount to have to keep managing and all that sort of thing.
+[00:05:23] SPEAKER_01:
+Well, related to that, I looked it up in Legends mode, and after the time had passed for me to start a new fort and then a year in that fort, the population of Bellblade is around 400. 400. 
+
+[00:05:37] SPEAKER_00:
+In a year, it went from 170 to 400 in a year. 
+
+[00:05:41] SPEAKER_01:
+I mean, maybe the number that is given to me from my New Forks worldview is like overestimating or something, but yeah, 400. 
+
+[00:05:51] SPEAKER_00:
+Cheers. 
+
+[00:05:52] SPEAKER_01:
+People really apparently wanted to settle this island continent and now they're moving out there in droves. It's like the freaking Wild West or something. 
+
+[00:06:02] SPEAKER_00:
+There's gold in them there waves. 
+
+[00:06:04] SPEAKER_01:
+At any rate, I then played around a little bit in Legends mode and not, I was trying to look up some of my beloved characters. 
+
+[00:06:18] SPEAKER_00:
+Oh, explain what Legends Mode is in ten seconds. 
+
+[00:06:19] SPEAKER_01:
+This in 10 seconds. Oh, well we have talked about Legends Mode before, but Legends Mode is when you export your world save and you can look at all the people and the history of cities and civilizations and things. It's very fun. So I looked up the history and goings-on of Bellblade and as I was saying, none of my beloved characters had really done anything interesting like Rith Guildthunders, that unhappy child whose parents died in a demon attack. There's no additional information about her, so I'm assuming she's just still wandering around despondently. Whatever. But I did notice that there had been a change in leadership a little bit and in the late autumn of 134, I believe I left in like summer of 134. 
+
+[00:07:10] SPEAKER_01:
+The dwarves selected Asen Trustwhiped to be their champion, the champion of the roughness of Moz, which is their site government. 
+
+[00:07:18] SPEAKER_00:
+Remember the roughness of malls. 
+
+[00:07:20] SPEAKER_01:
+Yeah, and a different dwarf replaced her as the bookkeeper. So I had wondered, like I saw that she stopped being bookkeeper and I was like, what on earth did they do? Well, they made her champion. And browsing through Legends mode even more, it looks like she was a resident of my fort's tomb dens, rasp boat, and Krolky at the very least. Like those are the ones that I remembered 
+[interjection] SPEAKER_00: Those are the ones that...
+[interjection] SPEAKER_01: and stuck out to me. So she, I guess, has migrated around in her life and then came out to this far continent. And now I'm wondering, it's a different civilization, but she has changed civilizations before if she will come to Wet Ring. So I am going to be on the lookout for her. She is married and has two children. And her husband's goal was to start a family. Oh, hers was to master a skill. So hopefully she can do that as fort champion. But her husband, Bim Frosty Fountains, is quite a martial leader. Yes, I love that name, 
+[interjection] SPEAKER_00: the big martial leader!
+[interjection] SPEAKER_01: Bim Frosty Fountains. But he's led several attacks for the Razor of Socketing, which is that other civilization that I forgot to start my new fort in for continuity. But he lost all of those attacks except one, I think. So it's a good thing that his goal is not to be a successful military leader and is instead to have a family because now they have two children. They seem happy. 
+
+[00:08:46] SPEAKER_00:
+It's always nice to see a non-traditional family. 
+
+[00:08:48] SPEAKER_01:
+Yeah, I mean, when I was looking at it, I'm really bad. I hate to admit this, with the male-female signs. And you can't really tell from dwarf names. And so I, as I'm looking at my notes, my pronouns are all mixed up, because I was assuming that the one with the goal of starting a family was the woman, and I was wrong. Nice. I love seeing a dwarf power couple. 
+
+[00:09:10] SPEAKER_00:
+Exactly, rejection of traditional gender roles. Start.
+
+[00:09:13] SPEAKER_01:
+Oh yes, I love it.
+
+[00:09:15] SPEAKER_00:
+I actually will have a power couple of two with my fort eventually when we get there.
+
+[00:09:19] SPEAKER_01:
+Yeah. Uh, well, why don't you give us the news from Fiery City?
+
+[00:09:24] SPEAKER_00:
+Well, Fiery City has had a couple of interesting things occur over the course of the last, about, I think I've played two years' worth of it. The first thing is that we've established a new tavern. I'm calling it a wet tavern because it has the mist generator that I designed,
+[interjection] SPEAKER_01: Mm-hmm.
+[interjection] SPEAKER_00: falling down the center of it and splashing out and creating a one level of water deep thing throughout the entire floor.
+
+[00:09:51] SPEAKER_01:
+So it's like puddled? Yes. Aww, do the dwarves like that?
+
+[00:09:56] SPEAKER_00:
+I don't super think so, but it's less of an issue for the taverns because if it gets to two levels, I think, I don't know if it's two or three, but they'll abandon what the job they're doing because they say unsafe terrain. Less of a concern in the tavern.
+[interjection] SPEAKER_01: Sure.
+[interjection] SPEAKER_00: This is sort of the same thing that Krug Smash ran into.
+
+[00:10:18] SPEAKER_01:
+Right, he kept having trouble with the, was it Northbridge? Yeah. The mist generator that he was trying to build for his tavern.
+
+[00:10:24] SPEAKER_00:
+It would do the same thing, which is that the water would tend to spill out more than it really should when you have grates, right? Because it seems like it should all stay at one and pass through the grate. It might just be a programming issue or something like that right now.
+
+[00:10:39] SPEAKER_01:
+Yeah, or maybe the grate is like really, really, really fine mesh and so the water can just sit on top of it. Something, yes.
+
+[00:10:45] SPEAKER_00:
+I'm not going to sit on top of it. Something, yeah, something like that. But when it gets above a certain level, it does go through the grate. So it's fine. We're just kind of enjoying our tavern with wet boots.
+
+[00:10:57] SPEAKER_01:
+It does seem like the positive moodlet from Mist would maybe be undone by the negative moodlet from Wet Feet.
+
+[00:11:06] SPEAKER_00:
+Uh, the other fun part about that is that the tavern is called the Blockaded Breakfast.
+
+[00:11:12] SPEAKER_01:
+I can't. It's so silly. So is that a tavern other than the puddle of water that I would 
+[interjection] SPEAKER_00: So the
+[interjection] SPEAKER_01: be proud of? One... oh my gosh.
+
+[00:11:26] SPEAKER_01:
+There's like two sentences all mixed up together in there. So is that a tavern that I would approve of, like one that I would build that is large enough for your dwarves to have a dance party? Yes, yes it is. Good, good. I'm so proud of you. You learned.
+
+[00:11:42] SPEAKER_00:
+Exactly, and people do spend a lot of time in there, and they don't ever seem to get a negative moodlet from the wet feet. That's because of the alcohol. Exactly, but they are getting positive moodlets from the mist that's falling down in a couple of places through it.
+
+[00:11:53] SPEAKER_01:
+Well, despite the puddle, it sounds like a fun place to be.
+
+[00:11:59] SPEAKER_00:
+Yeah, the general design for the mist generator there is that it's got little 8x8 sections of fortifications in the middle of the tavern floor, with the center emptied down into the cavern water.
+[interjection] SPEAKER_01: Mhm.
+[interjection] SPEAKER_00: So the water falls down into that little hole, hits, and then spreads out mist for a couple of tiles around. Oh, nice! Which then apparently condenses.
+
+[00:12:21] SPEAKER_01:
+Yeah.
+
+[00:12:21] SPEAKER_00:
+So here we are. And that blockaded breakfast mist generator was the idea of our new mayor, who I'll talk about a little later.
+
+[00:12:31] SPEAKER_00:
+He's part of the power couple.
+
+[00:12:33] SPEAKER_01:
+Ooh, good.
+
+[00:12:33] SPEAKER_00:
+We've also had to deal with a series of vermin infestations. We've actually not had too many forgotten beasts show up.
+[interjection] SPEAKER_01: Mm-hmm.
+[interjection] SPEAKER_00: Only one so far and it never actually tried to attack us.
+
+[00:12:45] SPEAKER_01:
+Oh wow, just wandered through.
+
+[00:12:48] SPEAKER_00:
+But we've had so many crundles, as always. And in order to deal with the large number of crundles and then some other vermin that came through, we decided to "home alone" it.
+
+[00:13:00] SPEAKER_01:
+Uh-huh.
+
+[00:13:01] SPEAKER_00:
+By which I mean, we put down a long corridor full of weapon traps. Nice.
+
+[00:13:07] SPEAKER_01:
+So they're just getting stabbed and, I don't know, shredded and whatever. Bludgeoned and shined.
+
+[00:13:12] SPEAKER_00:
+Bludgeon shot with crossbow bolts, yes. Or I'm never entirely sure if you put a crossbow into the weapon trap if it's actually shooting the crossbow because I don't know if you have to put bolts or if it's just banging them in the face with a crossbow.
+[interjection] SPEAKER_01: Hmm.
+
+[00:13:26] SPEAKER_01:
+I'd just be hitting them with the crossbow, would be my guess.
+
+[00:13:31] SPEAKER_00:
+Yeah, so at any rate.
+
+[00:13:34] SPEAKER_00:
+That, um, put paid to, I think at last count I found somewhere around like 40 crundle heads.
+
+[00:13:41] SPEAKER_01:
+Ew.
+
+[00:13:42] SPEAKER_00:
+But that gives us plenty of crundle soap.
+
+[00:13:45] SPEAKER_01:
+Ah, gross. I was just about to ask, can you do anything with their remains? Do you have like a bunch of crumpled bone garments and rings and things?
+
+[00:13:53] SPEAKER_00:
+Actually, we do. So a mood took one of our dwarves who then became obviously the Grand craftsman of being a craft dwarf and he made "Lore Memorate," the letters of crucifixion, out of crundle bone and Tanzanite fancy. Yep.
+[interjection] SPEAKER_01: Fancy.
+[interjection] SPEAKER_00: It was a statue of Zang glaze, related to his ascension as king of the oar of walks in '98. Oh, well, yes, it's I'm sure extremely pretty or grim. I'm not entirely sure. 
+[interjection] SPEAKER_01: Oh, well.
+
+[00:14:26] SPEAKER_01:
+I'm not entirely sure which. Yeah, it's unclear. On all dwarven artifacts, if they menace with spikes or something, I'm not sure if they're pretty or just sort of threatening, so who knows. 
+
+[00:14:36] SPEAKER_00:
+Then came a wave of voracious cave crawlers, which are kind of like toothy slugs, I think. Once again, they died in the trap corridor, so that was good. And then finally we had a blind 
+[interjection] SPEAKER_01: Okay.
+[interjection] SPEAKER_00: cave ogre who daredeviled its way through five tiles of the traps, but the sixth and seventh got him. 
+
+[00:14:58] SPEAKER_01:
+Oh, well, I'm glad that he was eventually caught. 
+
+[00:15:01] SPEAKER_00:
+That wounded them. 
+
+[00:15:03] SPEAKER_01:
+Yeah. 
+
+[00:15:04] SPEAKER_00:
+That did not actually kill them because then they got through and played round robin around the staircase going up from that level with a guard dog for something like two days as other dwarves walked by. Oh my gosh. That blind cave ogre was a little bit of a character. Let's do some description. He has an amazing memory, a lot of willpower, but he has an iffy sense for music. He tends to ask others for help with difficult decisions. He does not have a great aesthetic sensitivity and he considers ideas and abstractions over practical applications. 
+
+[00:15:42] SPEAKER_01:
+Wow. Yes. 
+
+[00:15:42] SPEAKER_00:
+Yes. So that was uh... 
+
+[00:15:45] SPEAKER_01:
+Surprisingly thoughtful for a cave ogre. 
+
+[00:15:48] SPEAKER_00:
+That's sort of my view, but again, round-robined with a guard dog for two days. Dwarves just walked back and forth through the corridors. 
+
+[00:15:59] SPEAKER_01:
+You would think one of the dwarves would do something about that? You know, like bludgeoning it to death with a crossbow?
+
+[00:16:06] SPEAKER_00:
+I'm inclined to believe they thought the dog was having fun.
+
+[00:16:09] SPEAKER_01:
+Oh, okay, yeah.
+
+[00:16:10] SPEAKER_00:
+And then, yeah, so that was our vermin waves. Meanwhile, plans to turn this into an aquarium fort are proceeding apace. Oh, good.
+[interjection] SPEAKER_01: Good.
+[interjection] SPEAKER_00: We've got a good glass industry going. I think last count we had something like 45 glass terrariums or aquariums. Yeah. And so I'm going to start having people work on catching the various saltwater creatures around, including sea nettles. Oh, cute. Yeah, exactly. I want to catch some of those sea nettles. But unfortunately, and I'll talk about this again a little bit later, our best fisher dwarf is dead.
+[interjection] SPEAKER_01: Mm-hmm.
+
+[00:16:53] SPEAKER_01:
+Ah, alas.
+
+[00:16:55] SPEAKER_00:
+Yep.
+
+[00:16:56] SPEAKER_01:
+I've been having some fishing problems at, uh, I had some at Bellblade and we talked about it a little bit, that maybe I was just telling them to capture live fish, not catch them for eating. And I have set up a fishery in the cave lake and nothing's happening. Like no one's doing anything. And I have fishing enabled and people assigned, so it's something I'm going to have to think about again. Fishing.
+
+[00:17:23] SPEAKER_00:
+Do they have access down to the water?
+
+[00:17:26] SPEAKER_01:
+I think so, but I will double-check. Maybe I need to make a ramp or something. Yeah, something like that.
+
+[00:17:32] SPEAKER_00:
+Yeah. Let's see. So what I'm curious about, though, is whether or not, because I have four or five kids in my fort, I'm curious whether or not I can assign them to do that fish collecting and sea nettle collecting.
+
+[00:17:50] SPEAKER_01:
+Oh, like if that's one of the things that they will do.
+
+[00:17:53] SPEAKER_00:
+Yeah, so, I don't know. I mean, the question of how children interact in Dwarf Fortress has always kind of perplexed me.
+
+[00:18:01] SPEAKER_01:
+Right, and you know, we still haven't had the question answered to my satisfaction of the negative one-year-old dwarven babies that walk around with amethyst-looking heads.
+
+[00:18:13] SPEAKER_00:
+Yeah, I kind of wondered about that and it seems like the programming team just prefers to laugh every time someone mentions it. Right.
+
+[00:18:20] SPEAKER_01:
+Right, and I feel like no one but me is bothered by this.
+
+[00:18:25] SPEAKER_00:
+Everyone else is just more used to the bugginess.
+
+[00:18:29] SPEAKER_01:
+But it's weird. It is weird that they're...
+
+[00:18:30] SPEAKER_00:
+It is weird that they walk around with no head.
+
+[00:18:35] SPEAKER_00:
+Yeah, so dwarven children. Yeah. This is the part, dear listener, where we start looking at DF wiki to uh...
+
+[00:18:44] SPEAKER_01:
+Right, well, my fort was boring this week, so we got to talk about something right now. We're not going to like straight up read to you from DF Wiki like what was his name on How I Met Your Mother, Sandy Rivers, who would just read the newspaper.
+[interjection] SPEAKER_00: Exactly.
+[interjection] SPEAKER_01: Yeah, but we do want to know a little bit more about child labor because when I had, you know, like seven children and four adults, I told the children to not do anything because the goal was just to make it through with no one going axe crazy. And now just sort of by default, I turn off children chores. So I don't even really know what it is that they can do.
+
+[00:19:22] SPEAKER_00:
+I mean, by and large, I've found, especially since it seems like in this version of Dwarf Fortress, it's pretty rare to have a population crunch, you know, without there being a major problem. Yeah. That it's kind of best to turn off those chores because the children get really kind of grumpy doing chores. They 
+
+[00:19:47] SPEAKER_00:
+Exactly. I don't know if that's then helped by having toys around for them to play with. It seems like that gives them a positive moodlet, but they just seem to they just tend to go down the anger well. 
+
+[00:20:02] SPEAKER_01:
+Yeah, I just I found the children are often angry, chores or no chores. So I know that they clean, but what else do they do? 
+
+[00:20:11] SPEAKER_00:
+Oh yeah. And that becomes a challenge because they'll haul corpses of different types and become horrified. 
+
+[00:20:19] SPEAKER_01:
+I remember you had a child hauling a forgotten beast corpse, remember? 
+
+[00:20:24] SPEAKER_00:
+That's right, and they were both horrified and unable to move it. 
+
+[00:20:27] SPEAKER_01:
+Oh, that's funny. That is 
+
+[00:20:30] SPEAKER_00:
+And it just kept trying. Oh, poor little kid. Because I think there's some sort of math about when you're hauling, like your weight versus the weight you're trying to haul, and then the risk of slippage 
+[interjection] SPEAKER_01: and the risk.
+[interjection] SPEAKER_00: when you're doing that. And so it just kept slipping again and again. And they were getting thirsty and all this sort of stuff. So. It's pretty funny. 
+
+[00:20:47] SPEAKER_01:
+Well, I know they can have strange moods because I've had a lot of artifacts made by children, but I don't know that they're using those workshops normally. I don't know if I say make 10 rock tables. I don't think a child is doing that. 
+
+[00:21:01] SPEAKER_00:
+I don't think so. I think that they end up getting a strange mood and then doing the thing just sort of spontaneously. Yeah. Because you can't assign them to a workshop. I remember that at least. It's a strange thing.
+
+[00:21:14] SPEAKER_01:
+Yeah, and you can't make them nobility. You can't have a child king. Exactly.
+
+[00:21:18] SPEAKER_00:
+Exactly, or assign them to squads.
+
+[00:21:20] SPEAKER_01:
+Ah, see, that would be a good use for the children. Cannon fodder.
+
+[00:21:32] SPEAKER_01:
+Um, yeah, I did. I, uh, was... I forgot about that. Yeah, I was looking to see why she was so unhappy and she was dwelling on the moodlet of having had a miscarriage. And I gather that injury or, you know, extreme thirst or whatever, um, can cause dwarves to have miscarriages. And I don't know what had caused hers. Um, actually, if I recall that dwarf right, she had had that miscarriage before arriving, maybe. Maybe the long journey to New Fort and she miscarried or something like that.
+
+[00:22:05] SPEAKER_00:
+Miscarried on the ocean.
+
+[00:22:06] SPEAKER_01:
+Yeah.
+
+[00:22:08] SPEAKER_00:
+The fact that the children also can become emancipated from their parents if their parents are exiled from the fort maybe or just die. Maybe they then just kind of wander around as feral children.
+
+[00:22:23] SPEAKER_01:
+I mean, that's kind of what that sad child Rith Guildthunders is like. Like, I would watch her for long spans of time because I was waiting for her to have a tantrum, really. And she would just, like, play make-believe in her room, and then go to sleep, and then she'd go wander around despondently outside. But she never seemed to, like, wander away to the point of dying of thirst, like an adult who is severely depressed would do. Stumbling obliviously, I think, is what it is.
+[interjection] SPEAKER_00: Bye.
+
+[00:22:52] SPEAKER_00:
+I think feral children will be fed and watered by adults, kind of like animals. I'm not entirely sure on this, but that seems to be what I've seen happen, that they will be thirsty and then be given a drink.
+[interjection] SPEAKER_01: They will.
+
+[00:23:08] SPEAKER_01:
+It's kind of sad, maybe I should have put her in a cage. Exactly. You need to go to a trainer.
+
+[00:23:13] SPEAKER_00:
+Oh, they gotta learn the skills somehow.
+
+[00:23:15] SPEAKER_01:
+And I wonder what will become of her. I don't know.
+
+[00:23:19] SPEAKER_01:
+I guess there's a chance that she could become an adult and I can keep an eye on her in Legends mode.
+
+[00:23:27] SPEAKER_00:
+The other fun thing about that is that you can have guild halls, and they will go into guild halls and learn.
+
+[00:23:34] SPEAKER_01:
+Oh, well see that's good. They say in The Sims that your second generation of Sims is going to be better at everything they do because they have actual Sims teaching them things. Now, children in The Sims are the reason I don't play The Sims 4 anymore because children 
+[interjection] SPEAKER_00: more.
+[interjection] SPEAKER_01: are just so incredibly janky and needy and they just made them more complicated so I'm never touching that again. But yeah, so the dwarven children who are going into guild halls and learning presumably are going to be smarter and better at stuff than their parents.
+
+[00:24:10] SPEAKER_00:
+Yeah, the unfortunate thing though is that I believe that it takes an actual 18 in-game years for the child to go from being, you know, a neonate to actually... 
+[interjection] SPEAKER_01: Yeah.
+
+[00:24:26] SPEAKER_00:
+Yeah, I know some people run hundred-year forts and that sort of thing so they would probably see a couple generations but nah, I've never managed to go over like maybe 25 years.
+
+[00:24:36] SPEAKER_01:
+Yeah, I think Ruth was like four or five, so there's a good chance that I can look and see what she's up to as an adult.
+
+[00:24:44] SPEAKER_00:
+If, uh, I guess you could probably get a kid from a migrant who's like, you know, 16 and then ranks up into adulthood, but I don't know if I've ever noticed it. I don't know if you get a notification. 
+[interjection] SPEAKER_01: Oh yeah.
+[interjection] SPEAKER_00: Or anything, so you 
+
+[00:24:56] SPEAKER_01:
+Hmm, yeah, we want to know if you know if you get a notification about children becoming adults. Became a man today. Don't make that face at me. It was deliberately a terrible phrase. Anyway, we want to know. 
+
+[00:25:12] SPEAKER_00:
+Yeah, the other fun part of managing children that I recall is that you can assign them to individual rooms, but you don't have to. And it's very confusing to me. I always get very confused in Dwarf Fortress when there are things that you can do, but don't have to do to accomplish something. It's the same thing with that. You can assign either a room 
+
+[00:25:36] SPEAKER_00:
+Eating area or a meeting area to be a tavern. And I'm always like, which one should I do? I only want one option. 
+
+[00:25:42] SPEAKER_01:
+Yeah, that's fair. Well, if you want things to be simple, you're playing the wrong game. I don't know. Ruth had a bedroom that was hers exclusively that she would play in and sleep in, and I didn't assign that to her. 
+
+[00:25:55] SPEAKER_00:
+Yeah, well maybe that's again because your parents died, so once you're emancipated you just grab one. 
+
+[00:26:00] SPEAKER_01:
+Yeah, fair. I think it's really cute that, um, because she would go in there and I think that there was like a chest in a cabinet and stuff and she would get her toy and I think that she had, I think it was a toy boat, but I think it's really cute that they'll have like toy hammers and anvils and things like that. 
+
+[00:26:16] SPEAKER_00:
+It is, and they'll pick it up and just, that will become theirs. They can't do anything about it because of the potency of air conditioning.
+
+[00:26:20] SPEAKER_01:
+Yeah, it's adorable.
+
+[00:26:22] SPEAKER_00:
+It's also interesting in the chore stuff that they will feed and water prisoners, which always seems like a rather dangerous job to be giving children to me.
+
+[00:26:32] SPEAKER_01:
+Well, I mean that's better than them having to haul and bury the corpse of their parents or whatever, which is unpleasant.
+
+[00:26:40] SPEAKER_00:
+Yep. Oh yeah, and then the DF wiki does make the note there at the bottom. Dwarf babies can sometimes have an age which is negative, most commonly negative one or zero. In that case, they will appear headless.
+
+[00:26:52] SPEAKER_01:
+But why? Oh well, I guess we'll never know.
+
+[00:26:58] SPEAKER_00:
+Yeah, like a lot of the weird bugs in Dwarf Fortress, we're just going to shrug emoji and move on.
+
+[00:27:05] SPEAKER_01:
+Yeah, all right. Well, should we move on? What else is happening in our forts?
+
+[00:27:11] SPEAKER_00:
+Yeah, so tell me about your new fort because you abandoned Bellblade to its fate. I did. Which is apparently to do better than it was doing with you. I know.
+
+[00:27:19] SPEAKER_01:
+I mean, I think that Krolky did better without me too because it became like their chief economic center of their civilization.
+
+[00:27:29] SPEAKER_00:
+So where are you at now?
+
+[00:27:31] SPEAKER_01:
+Well, my new fort's name, and I'm sorry to tell you this, is Wet-Ringed.
+
+[00:27:38] SPEAKER_00:
+Wet-Ringed.
+
+[00:27:41] SPEAKER_00:
+I guess it's better than moist.
+
+[00:27:43] SPEAKER_01:
+And what's the name of your civilization? Because you said you didn't get the same pronunciation. 
+
+[00:29:29] SPEAKER_01:
+Oh shoot. The same pre-civilization. You know, I don't. Oh, our civilization, since I forgot to go with the razor of socketing, is the fountain of paint.
+
+[interjection] SPEAKER_01: Uh-huh.
+[interjection] SPEAKER_00:
+
+[00:29:42] SPEAKER_01:
+Yes, so we're an interesting people. Apparently we like wet things. But for other city facilities, we're still in our first 18 months, I would say. We just got a tavern up and running. It's not very exciting. I put in a marble floor. I only have a few tables so far, again, with various colors. And we only have 17 dwarves, so it's not like things are really booming anyway. The temple I just started and it's really rough, but I didn't want anyone to end up with a prayer deficit where they have to go and pray for three months or whatever. And let's see, let's see.
+
+[00:30:27] SPEAKER_00:
+Have you found magma yet? No.
+
+[00:30:28] SPEAKER_01:
+Unfortunately, that's not very exciting. Like I said, my dwarves have been kind of boring. Nothing exciting is happening yet.
+[interjection] SPEAKER_00: Like a-
+[interjection] SPEAKER_01: Um, there was a hive outside that I built a hive box and they seemed to have been bored.
+
+[00:30:41] SPEAKER_00:
+Migrated in. Claimed it.
+
+[00:30:41] SPEAKER_01:
+it or whatever and I'm making a bunch of jugs so that we can get the honey because oh yeah I guess that's one thing to note. I am using DF hack now because you use DF hack to get the legends plus or whatever, which is a more detailed legends mode. And DF hack, I don't know what to do with it, but without me doing anything, it has a bunch of little quality of life things. Now I'm having a really hard time telling what is new and updated in Dwarf Fortress and what is DF hack making things a little bit easier for me.
+
+[00:31:17] SPEAKER_00:
+I've always thought that the nice thing about DFHack is that if you don't choose any extra options or run any extra commands, it just sort of makes the whole process easier.
+
+[00:31:25] SPEAKER_01:
+Yeah, and one example is that stockpiles, if you select all, it will automatically have refuse and corpses unchecked. So it's like one less thing to think about. And then it did a forced pause to tell me that a stray alpaca was starving, and it had come with migrants and I just hadn't gotten it assigned to the cave pasture. So I was able to save that alpaca.
+
+[00:31:50] SPEAKER_00:
+Nice, so you've gotten to the caves pretty quickly with this one. Yeah.
+
+[00:31:52] SPEAKER_01:
+Yeah, I've gotten to the first and second layer of caves, but back to the DFHack thing in the hive box, I noticed when I looked at the hive that it said it would need jugs. And I was like, is this Dwarf Fortress or is this DFHack? I don't know, but I guess I better go make some jugs. So hopefully we'll have some honey. Do they make mead with that? What happens? Thank you.
+
+[00:32:13] SPEAKER_00:
+Yeah, you can make mead, I think, at the still if you have honey in jugs. You need a screw press to get the honey out of the hive.
+
+[00:32:26] SPEAKER_01:
+Oh, you didn't mention that.
+
+[00:32:28] SPEAKER_00:
+Because I think when it grows to a certain level or is ready to split or something like that, you can have them harvest it. And it will then give you comb, honeycomb, which can then be pressed into royal jelly and honey, I think.
+
+[00:32:43] SPEAKER_01:
+Oh, okay, gross. At any rate, I'm going to have to look up, what is beekeeping called? Apiary? Apiary, yeah. Anyway, yes, I have to look up apiary in the wiki. So maybe next time I can report back about my adventures in Dwarven Honey. But the biggest problem that I've had actually so far is related to the caverns in that I have been really diligent with my last few fort ventures about walling off where we're living in the caverns so that we don't get all the cave people invading constantly. The caverns at this fort are really craggy and hilly, so the terrain is just spanning multiple levels. And it's going to be really, really hard to wall in, I think, because those walls will have to extend like this.
+
+[00:33:34] SPEAKER_01:
+multiple levels.
+
+[00:33:36] SPEAKER_00:
+Yeah, that's interesting. I feel like all of the levels I've gotten lately have been pretty flat for the caverns, like you know just a smooth circular cavern almost versus a flat one.
+
+[00:33:46] SPEAKER_01:
+Yeah, a lot of mine have been like that too, so this is definitely a new challenge for me to deal with. I will stream this new fort this week and do a little tour and everybody can see kind of what I'm running up against. But we haven't had anything come out of there yet, like regular-sized olms, which best I can tell are just sort of snakes, and like some bats, and like the dogs and cats are 
+[interjection] SPEAKER_00: Yeah.
+[interjection] SPEAKER_01: taking care of all that. So yeah.
+
+[00:34:13] SPEAKER_00:
+Yeah, I think Olms are like snakes, but with little stubby legs. Yeah, exactly. A little amphibian type. I don't know if they are amphibians or not, but.
+
+[00:34:22] SPEAKER_01:
+I don't know, but they're small. Yeah, I've had.
+
+[00:34:24] SPEAKER_00:
+Yeah, yeah, I haven't had any, um, I haven't had any cavern dwellers really for my fort either right now 
+[interjection] SPEAKER_01: But nothing.
+[interjection] SPEAKER_00: or ogre which just sort of happens. Yeah.
+[00:34:39] SPEAKER_01:
+Yeah, I don't know. I definitely still need to get to magma. We chose this location because of the variety of stone. We have multiple colors of sand, which you told me and I was disappointed to learn that they all lead to green glass. Alas, because black glass would have been really cool. Oh well. Anyway, we have lots of sand. I think I also have clay, so I can have all kinds of industries at this new fort. I guess I'll try to compensate for the lack of violent action by starting various industries. And I did, I finally put in a dye workshop for the first time because we were getting our cloth industry started and I'm trying to stay ahead of the need for clothes. And I was like, oh, I'll dye them. And then I was like, wait, I don't have, never mind. 
+
+[00:35:30] SPEAKER_00:
+Well, with farming being a little bit easier now, we can at least get that basic blue dye from the dimple cups. Yeah. 
+
+[00:35:37] SPEAKER_01:
+And then I bought some seeds from our merchants that I think need to be grown outside. I don't remember what they were because I couldn't get the option to plant them in the caves where all of my farms are. So I'll explore that and report back. 
+
+[00:35:57] SPEAKER_00:
+Well, that sounds good. 
+
+[00:35:58] SPEAKER_01:
+Yeah, well, why don't you give us the rest of the news from your fort? 
+
+[00:36:01] SPEAKER_00:
+Ah, so Fiery City. There were two other big things that I wanted to cover from Fiery City, which is that, one, we elected a new mayor. Oh. 
+
+[00:36:13] SPEAKER_00:
+And that mayor is actually part of a power couple. So we have Tocid Whisperlashes, elected mayor, along with his wife Tulan Cloister-Fishers. Click here to vote on the call to action 
+
+[00:36:26] SPEAKER_01:
+Oyster fishers. For sure. Can't get away from it for sure. 
+
+[00:36:29] SPEAKER_00:
+They are our two best negotiators in the fort. They have the highest value in that skill. Yeah.
+[00:36:36] SPEAKER_01:
+Yes, they negotiated with each other to marry. Exactly. And then... 
+
+[00:36:40] SPEAKER_00:
+Exactly, and then he negotiated his way to power. Yes, and he has great creativity, a good feel for social relationships, and a good intellect, but he has bad intuition. And then we get into these weird paradoxical statements. Oh, I love those. He is a perfectionist. He finds a chaotic mess preferable to the boredom of harmonious living. He is very friendly and always tries to say nice things to others, and he's burdened by this tendency because he dislikes the idea of friendship. 
+
+[00:37:08] SPEAKER_01:
+What? Okay. 
+
+[00:37:09] SPEAKER_00:
+He does not easily fall in love and rarely develops positive sentiment. He has little interest in joking around, but when he's thinking, he has a tendency to chew on his cheek. 
+
+[00:37:19] SPEAKER_01:
+Yeah, we're trying to chew on our cheek and it's not going very well. 
+
+[00:37:23] SPEAKER_00:
+Um... 
+
+[00:37:24] SPEAKER_00:
+His wife, Toulon Cloyster Fishers, has great analytical abilities, a way with words, and good creativity, but poor spatial sense. She is rarely happy or enthusiastic and conflicted by this as she values parties and merrymaking in the abstract. 
+
+[00:37:39] SPEAKER_01:
+I feel like it's the idea of going to a party and having fun. I thought you were going to. Yes, I relate to that very much. 
+
+[00:37:45] SPEAKER_00:
+She tends to avoid crowds and is quick to anger. She prefers that everyone live as harmoniously as possible and has a tendency to go it alone without considering the advice of others. 
+
+[00:37:55] SPEAKER_01:
+What are you looking at me for? I'm starting to feel a little called out by this dwarf. 
+
+[00:37:59] SPEAKER_00:
+She laughs very loudly whenever she's nervous. 
+
+[00:38:01] SPEAKER_01:
+I don't think I'd do that necessarily. 
+
+[00:38:03] SPEAKER_00:
+And yeah, so that's our power couple. 
+
+[00:38:08] SPEAKER_01:
+What is her job today? Did you tell us that? 
+
+[00:38:10] SPEAKER_00:
+Oh, so he is the mayor. And she is our chief trader.
+
+[00:38:15] SPEAKER_01:
+Ah, well, very cool.
+
+[00:38:17] SPEAKER_00:
+There you go.
+
+[00:38:18] SPEAKER_01:
+Yeah.
+
+[00:38:18] SPEAKER_00:
+However, his election happened after Zuglar Dimpleashes, our indefatigable leader, died 
+[interjection] SPEAKER_01: Oh.
+[interjection] SPEAKER_01: Mm-hmm.
+[interjection] SPEAKER_00: mysteriously.
+
+[00:38:31] SPEAKER_01:
+Oh, did they get murdered?
+
+[00:38:34] SPEAKER_00:
+No, actually. Uh-huh. What happened?
+[interjection] SPEAKER_01: What happened?
+[interjection] SPEAKER_00: 
+
+[00:38:43] SPEAKER_01:
+Accidental incineration.
+
+[00:38:45] SPEAKER_00:
+Well, let me finish the story. They were digging out a new pit of lava for a magma smelter when Delir Torch moistened, who you'll recall knew about the death of Zuglar's boyfriend, Kadol, who was murdered by the Sparrow women, 
+[interjection] SPEAKER_01: All right.
+[interjection] SPEAKER_00: but hadn't told Zuglar yet. 
+[interjection] SPEAKER_01: Yeah.
+[interjection] SPEAKER_00: Well, they were working together to do that dig, and I think... 
+
+[00:39:17] SPEAKER_00:
+Delir, overcome with grief, chose that moment to tell Zuglar, and Zuglar caused them both to be immolated. 
+[interjection] SPEAKER_01: Uh-huh.
+
+[00:39:25] SPEAKER_01:
+Ah, what a tragedy. Yep.
+
+[00:39:28] SPEAKER_00:
+But it did clear the way for Tocid, and we have great hopes for Tocid's rulership.
+
+[00:39:33] SPEAKER_01:
+Yeah, he seems like he's going to be a good fit.
+
+[00:39:38] SPEAKER_00:
+Yeah, he seems like he's pretty going to fit in pretty well, and he came over as a member of the greatest coven, uh, the main for our both our um civilization at this point. But also our fort, which is the worship of the fireman deity Vosh. Yeah, who I think I talked about previously. Perhaps it's no great coincidence that the thing keeping him from keeping the, you know, high-ranking member of this coven, yeah, from power, or died as a result of magma and fire. Yeah.
+[00:40:15] SPEAKER_01:
+Yeah, that is fitting. 
+
+[00:40:17] SPEAKER_00:
+So that led me to Legends mode. Oh, yeah. 
+[interjection] SPEAKER_01: Yep.
+[interjection] SPEAKER_00: Because I wanted to find out more about the Greatest Coven because it's shown up repeatedly throughout my forts. 
+
+[00:40:25] SPEAKER_01:
+Yeah, like the denomination of hardiness and the denomination of defenses. See, I remember them now because all of the dwarves are members of these. 
+
+[00:40:34] SPEAKER_00:
+The Greatest Coven has demanded a shrine. The Temple Prince of Confucius is taking part of the early sixteenth century to establish. 
+
+[00:40:38] SPEAKER_00:
+The Greatest Coven has demanded a temple in fiery cities, which I have provided and, you know, made pretty. And so I decided to look up the Greatest Coven. And obviously they're centered around the fireman deity Vosh. 
+[interjection] SPEAKER_01: Mm-hmm.
+[interjection] SPEAKER_00: And this coven was actually started in the civilization by Atir Trade Manners, who was originally the first sacred control of the Greatest Coven, then the high controller of the Greatest Coven, and now the absolute cloud of the Greatest Coven, which is apparently the... TITLE. 
+
+[00:41:11] SPEAKER_01:
+which is apparently very- I don't know what to call it. The Absolute Cloud. 
+
+[00:41:14] SPEAKER_00:
+The absolute cloud. Isn't that great? That's their pope. Exactly. And this was founded in friend tombs after a conversation in the terrible lemon tavern. 
+
+[00:41:32] SPEAKER_00:
+It's composed of 60% dwarfs, 35% goblins, and 5% elves. 
+
+[00:41:37] SPEAKER_01:
+Alright. 
+
+[00:41:38] SPEAKER_00:
+And the interesting thing about Fren'Tum, where it was established, was that it was established there two years after Envy Profane Cloaks, the infinite witch of Vaults, an elk brute focusing on lies, treachery, and trickery, was entombed after being killed. 
+
+[00:42:02] SPEAKER_01:
+Well... 
+
+[00:42:02] SPEAKER_00:
+He was entombed in Fren-tomb.
+And a year. 
+
+Oh, well, sign me up. Exactly. Ha ha ha. 
+
+Yeah, I want a giant badass pet. That'd be awesome. 
+
+Well, you have to be an elk brute in order to accomplish it. 
+
+No, oh well. 
+
+So that was kind of the rabbit hole I went down with Legends mode for this time. Yeah, I think. 
+
+Absolutely. I mean, so many interesting things go on around in the world. 
+
+[interjection] SPEAKER_01: date we would never ever know about. 
+
+I also tried to look up the backstory behind the Coelacanth god, who had created I think 
+[interjection] SPEAKER_01: Oh yeah.
+[interjection] SPEAKER_00: three or four different necromancers. I couldn't find too many more details about the Coelacanth god himself. He doesn't have any temples or he doesn't have any groups or societies. 
+[interjection] SPEAKER_01: Oh.
+[interjection] SPEAKER_00: But he doesn't seem to be great luck for his necromantic followers either, though. Two of them died rather quickly after becoming necromancers using the tablets he created. 
+[interjection] SPEAKER_01: bit off.
+[interjection] SPEAKER_00: One seems like kind of a fun person because she's been married and divorced eight times. 
+
+All divorces and not, you know, offing the husbands? I don't believe so. You got that right. 
+
+Yeah, I think they were all divorces, usually after about two years. And then one, a human necromancer, is the chief advisor or chief magistrate, whatever, for his human civilization, and has apparently a lot of plots going. Unfortunately, it's way on the other side of anything that I actually interact with, so it's just going to keep going on there. In the background. Yeah. Interesting, but yeah, I'm pretty happy that they've got Legends mode working. Yeah, I'm...
+Yeah, I'm really excited about that.
+
+[00:44:11] SPEAKER_00:
+You can tell so many interesting stories there, and that's definitely a project I want to work more on.
+
+[00:44:17] SPEAKER_00:
+So, yeah, working on that is going to be a... So working with Legends mode is definitely going to be a project I want to keep going with Dwarf Fortress. For my city itself, I'm just going to stay focused, I think, on getting that aquarium fort stuff going. I really like that. I'm going to dig out and let the saltwater areas I have in my map extend further around on top and see if I can get more fish and stuff there.
+
+[00:44:43] SPEAKER_01:
+First, I'll make any really concrete plans other than bees. Bees!
+
+[00:44:53] SPEAKER_00:
+Bees! You'll find it fun when you start working with it. You'll see that they will, it will say that you have like 10,000 bees. Oh, I saw that, yeah. It was really funny. I'm like, it's, they're probably simulated with their own moods in Dwarf Fortress. Um, let's see, do you have any projects you want to tease?
+
+[00:45:12] SPEAKER_01:
+I'm working on some edited video content and it's slow going because I'm teaching myself this whole video editing thing, but that's forthcoming I think.
+
+[00:45:23] SPEAKER_00:
+I've got a project going on to try to see if we can get some Succession Fort stuff going. Yeah. Hopefully that'll come together in the next couple of weeks, and I'll be able to invite some people to see what we think about it. If it's good, then maybe we'll ask our listeners to participate.
+
+[00:45:38] SPEAKER_01:
+Yeah, and we also want to start opening up for some Dwarven correspondents and have listeners tell us about their forts and the dramas that go on there. We can follow them over time and learn about what's happening in other people's worlds. So if you're interested in doing that, you can email me at astrangemoodpodcast@gmail.com. That's probably the best way to get it directly in front of my eyes if you are not joining our Discord.
+
+[00:46:05] SPEAKER_00:
+Yeah, and obviously if you want to follow our content on the web, see you there.
+
+[00:46:11] SPEAKER_01:
+Yeah, the videos all go from Twitch to YouTube where we are at astrangemood. I think you can just use that @ thing.
+[interjection] SPEAKER_00: Mm-hmm.
+
+[00:46:22] SPEAKER_00:
+And you're that Kristen.
+
+[00:46:23] SPEAKER_01:
+On Twitch. Yep.
+
+[00:46:25] SPEAKER_00:
+And you can go to our website at astrangemood.com.
+
+[00:46:28] SPEAKER_01:
+I think it's thestrangemoodpodcast.com.
+
+[00:46:33] SPEAKER_01:
+But close enough. Yeah. So I think that's everything. Come join our Discord, hang out. We chat about Dwarf Fortress and other games. There's been some Diablo chat in there.
+
+[00:46:43] SPEAKER_00:
+Uh-huh. Well, there's Diablo chat everywhere. It does.
+
+[00:46:46] SPEAKER_01:
+It's true, yeah.
+
+[00:46:47] SPEAKER_00:
+But it's been really great to come back and record another episode for you guys.
+
+[00:46:52] SPEAKER_01:
+Yeah, we feel refreshed and ready for the next 15. Exactly.
+
+[00:46:55] SPEAKER_00:
+So I think there's nothing else to do but sign off with a good old, "Just keep digging!"

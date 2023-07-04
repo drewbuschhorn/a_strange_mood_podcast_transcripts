@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,800
+That's sort of my view, but again, round-robined with a guard dog for two days.
+
+2
+00:00:04,800 --> 00:00:23,800
+Dwarves just walked back and forth through the corridors.
+
+

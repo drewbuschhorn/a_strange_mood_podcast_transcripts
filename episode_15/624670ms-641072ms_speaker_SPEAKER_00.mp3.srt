@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,600
+It would do the same thing, which is that the water would tend to spill out more than it really should
+
+2
+00:00:05,600 --> 00:00:11,200
+when you have grates, right? Because it seems like it should all stay at one and pass through the grate.
+
+3
+00:00:11,200 --> 00:00:29,440
+It might just be a programming issue or something like that right now.
+
+
