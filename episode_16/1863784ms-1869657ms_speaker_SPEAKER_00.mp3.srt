@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,000
+What does that say there?
+
+2
+00:00:01,000 --> 00:00:05,840
+Snow may never answer the door to strangers or talk to elderly women.
+
+

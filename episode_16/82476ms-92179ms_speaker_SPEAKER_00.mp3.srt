@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,300
+I can still play it on my computer, it's only the GPU on my computer that actually broke.
+
+2
+00:00:05,300 --> 00:00:09,620
+For some reason, it melted down while playing Diablo.
+
+

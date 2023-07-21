@@ -1,0 +1,922 @@
+
+[00:00:00] Kristin:
+podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress Podcast. I'm Kristin. And I'm Drew. How are you doing, Drew? 
+
+[00:00:25] Drew:
+I'm doing pretty good Kristin. Are you ready to record a podcast? No, unfortunately I have to cancel this podcast. 
+
+[00:00:31] Kristin:
+What? Why? 
+
+[00:00:33] Drew:
+Because my tool broke. 
+
+[00:00:35] Kristin:
+Oh, oh, wait, what? Your tool broke. 
+
+[00:00:38] Drew:
+My computer broke and therefore I have to throw down all of my tools and walk away. 
+
+[00:00:43] Kristin:
+No more work, ever. 
+
+[00:00:44] Drew:
+That's right, I'm going to the tavern. 
+
+[00:00:47] Kristin:
+I'm cancelling all jobs. 
+
+[00:00:48] Drew:
+That's like all jobs forever 
+
+[00:00:50] Kristin:
+You should maybe go cry on the manager too. 
+
+[00:00:51] Drew:
+Exactly. I cried on the manager. I feel better. 
+
+[00:00:55] Kristin:
+I feel satisfied. 
+
+[00:00:56] Drew:
+Aren't you the manager? Should I just cry on you? 
+
+[00:00:58] Kristin:
+And then I can feel so empathetic, like Cole did. I'm so... 
+
+[00:01:01] Drew:
+Exactly. I'm so empathetic. 
+
+[00:01:03] Kristin:
+I am so empathetic. Well, you probably can't tell, but we are a Dwarf Fortress podcast. 
+
+[00:01:10] Drew:
+That we are, Kristin, that we are. 
+
+[00:01:13] Kristin:
+And Drew's computer did break but it's okay because we can still talk about Dwarf Fortress and I think you might be able to play Dwarf Fortress on your phone or like a calculator maybe. 
+
+[00:01:22] Drew:
+I can still play it on my computer, it's only the GPU on my computer that actually broke. For some reason, it melted down while playing Diablo. 
+
+[00:01:30] Kristin:
+We can blame Diablo for that one. So let's talk housekeeping. What do we have going on? 
+
+[00:01:38] Drew:
+Well, first we have Blind IRL's interview with Zach, Tarn, and Putnam. That is going to be happening on Blind IRL's Twitch stream July 20th at 3pm Pacific. You can send in questions at the link that we'll have in the show notes. And yeah, Reddit is the place to go to put your questions there if you're still visiting Reddit. 
+
+[00:02:01] Kristin:
+yes apparently it needs upvotes uh i haven't been to reddit in a long time because reddit is the bad place now i think we hate reddit now 
+
+[00:02:08] Drew:
+I don't know, man. We hate Twitter. We hate Reddit. It's kind of running out of social media. We never liked Facebook. 
+[interjection] Kristin: Yeah.
+
+[00:02:14] Kristin:
+Right, I don't like Facebook. 
+
+[00:02:15] Drew:
+So apparently it's Discord, and I'm sure Discord is going to do something problematic tomorrow. 
+
+[00:02:19] Kristin:
+I think Discord is already starting to do evil stuff, we just don't know about it yet. 
+
+[00:02:24] Drew:
+Fair enough. 
+
+[00:02:24] Kristin:
+But on that note, thanks to those of you who have joined our Discord. 
+
+[00:02:29] Drew:
+Exactly. Those of you who have come over from the DFHack discord server, welcome! 
+
+[00:02:36] Kristin:
+Welcome, we're glad to have you, while we can still use Discord and before we have to protest it for some reason, I'm sure. 
+
+[00:02:42] Drew:
+Exactly. The last bit of housekeeping I wanted to cover, I'll talk for a little bit about, which is the state of the gladiator competition. You'll remember that in our last episode we invited you to go to Bay 12 Games, look for the Dwarf Fortress 8th Annual, I think, something like that, gladiator contest and submit some gladiators. Some of you did and we've had enough people there that they've started the game. It's ongoing, the betting ring is open, so if you go to the link in the show notes you can actually put bets on the second round, the first round has already passed. 
+
+[00:03:24] Drew:
+and see if you can't win your dwarves a little bit of money. The current winner there is Lemonade. I wasn't able to find much more about them. 
+
+[00:03:32] Kristin:
+This is a dwarf. 
+
+[00:03:33] Drew:
+Well, it's a Dwarf Fortress player's name. Oh, okay, okay. So they've won the most money, but I couldn't find who they actually were with Bay12Games or if they're like doing a succession for it or anything like that, but if anyone knows, let me know. Maybe they listen. 
+
+[00:03:50] Kristin:
+Maybe. Welcome. I don't really know what's going on. It's summer, so all of my time goes to horses, so I'm sort of sitting here going, who am I? What are we doing? Anyway. 
+
+[00:04:00] Drew:
+Ah, the other fun notes from the first round of that competition. Yeti, soon to become Spaghetti, was the first winner. I chose the top three fighters based off the number of bets that were placed on their rounds. 
+[interjection] Kristin: Okay.
+[interjection] Kristin: Yeah.
+[interjection] Drew: So Yeti, soon to become Spaghetti, was the winner. His managers seemed to be a rather secretive bunch of dwarves from the north. He fought the human Peacock, a maritime mercenary there to support his village, who was strangled by the Yeti. Dark. Dark! 
+
+[00:04:36] Drew:
+The next one is Evil Deathroll. Kill the Gremlin fought Evil Deathroll, the reptile man, with Gremlin rushing forward screaming kill while waving its axe around. As Kill was hit and flailed on the ground, Evil Deathroll planted the head of his axe guitar in Kill's chest. 
+
+[00:04:56] Kristin:
+So the gremlin is named Kill. Yes. And was running forward screaming its own name. Slash the verb kill. So is this sort of like Derek from The Good Place? I think so. Derek? Derek. OK, we're nerds. 
+
+[00:05:10] Drew:
+Alright, and then the third one was, the third most bet on one, was Marmota Monax, who wound up losing their fight against the Beast of Spear Impale. Marmota was a groundhog man who stood in his side of the arena with a bloodstained black bronze pickaxe. The beast was a hellish minotaur with nothing more than a copper shield. The shield was, um, the minotaur jammed his shield between Marmota's ribs, milling them to paste, resulting in Marmota's death. 
+
+[00:05:43] Kristin:
+Alas. 
+
+[00:05:44] Drew:
+Round two is ongoing, and I've got my eye on a battle between a leechman and a beaverman. 
+
+[00:05:50] Kristin:
+Okay. 
+
+[00:05:51] Drew:
+Queen Regina form Morcorum, an antwoman queen fighting an elf, and Dorf Dreddhof the Minotaur. Alas, Squirtplank, the beaverman, was turned into a porcupine the hard way by another elf in the first round. 
+
+[00:06:09] Kristin:
+Huh. Oh, I see. I see. It's a metaphor. 
+
+[00:06:11] Drew:
+Exactly. 
+
+[00:06:13] Kristin:
+You know, as you're listing these out and I'm picturing them, I'm imagining a sort of Dwarf Fortress world wrestling, you know, and all of these like costumed fantasy wrestlers taking each other on. 
+
+[00:06:26] Drew:
+I think that's the right way to look at it and if you go to Bay12Games, the link in the show notes, you'll be able to read both the combat logs if you want to torture yourself or the fun summaries that each of them have written about their fights that I have cribbed shamelessly for this. 
+
+[00:06:44] Kristin:
+That's okay. It's fun. 
+
+[00:06:45] Drew:
+i feel like i put a little bit of an announcer spin on it 
+
+[00:06:48] Kristin:
+I liked it, yes. 
+
+[00:06:50] Drew:
+So. 
+
+[00:06:51] Drew:
+That is it for the show notes I have, did you have anything else you wanted to cover? 
+
+[00:06:55] Kristin:
+Anything else to add? I don't think I do 
+
+[00:06:57] Drew:
+Alright, well, I think it's time for news from wet rings. 
+
+[00:07:00] Kristin:
+It's wet ringed. 
+
+[00:07:02] Drew:
+wet ringed well it's like with my name i think i've said fiery city fiery cities fiery's city fiery's possessive city exactly it's like spiders 
+
+[00:07:09] Kristin:
+Well, the news from Wet-Ringed is good. You know, we finally had some migrants, and our population is now up to a booming 50. Nice. We also had our first mayor elected. That's Irvod Atulalon, Axdwarf. She's also our tavern keeper, so I would imagine she spent a lot of her time in the tavern glad-handing and, you know, handing out stickers and campaigning to win. 
+
+[00:07:40] Drew:
+I like that you've moved over to at least trying the dwarf names. 
+
+[00:07:44] Kristin:
+I don't know what her English name is because I wrote down the dwarf name in my notes and I don't have the English names and I regret that choice that I made earlier for myself right now. She is married to Avuz Rithnakul, a Mace Dwarf, and they have ten children. Only one of them lives in the fort. 
+
+[00:08:07] Drew:
+Interesting. 
+
+[00:08:08] Kristin:
+Yes. And that child is actually the only child in the fort. And I feel like last time I had 
+[interjection] Drew: All right.
+[interjection] Kristin: said something, maybe not on the episode, about we had had a baby born and parents were not married and I must have either hallucinated this or they got married and I missed it. I don't know. But also that child was an infant. And this one is a child, but it's only one year old. So it could 
+[interjection] Drew: Yeah.
+[interjection] Kristin: have aged up from infant to child. So they seemed to be thriving. They were both on the squadron, which is how Irvaad was in Axe Dwarf. But I decided that I probably didn't want my mayor to be on my squadron. I don't know. 
+
+[00:08:45] Drew:
+I think that's usually for the best. 
+
+[00:08:47] Kristin:
+Yeah, so I took her off squadron. That's okay. We actually have quite a few people on our we have the full 10 on the squadron despite our population being 50 because I noticed several unhappy dwarves were angry because they hadn't been able to train or fight like that was distinctly in their in their moodlets, their thoughts and memories. So I was like, Oh, well, we can fix that. You can go beat the crap out of your fellow dwarves in the barracks in the name of training. Yes. So the other fun note that we had was an artifact slide whistle. Oh, really? Well, it's not actually called a slide whistle. It's called an inure. 
+
+[00:09:26] Drew:
+Ignore. 
+
+[00:09:27] Kristin:
+It's made of limonite. It is encircled with bands of rectangular limonite cabochons. This object menaces with spikes of magnetite and limonite. The inure is a mid-sized, handheld, straight-bone horn. The musician blows into the instrument and selects pitch by adjusting a slide. The instrument has a three-octave range, going from a mid-low to a high pitch. At all pitches, the instrument has a focused, even timbre. It has two registers. The low register has a buzzy, crisp timbre. The high register begins at middle pitch and has a full, strained, crisp timbre. 
+
+[00:10:01] Drew:
+Timber. So do you really say timber? Timber? Is that how you say it? I don't. I say timber. Yeah. You're the music person. I assume this is one of those things like bass and bass. 
+
+[00:10:12] Kristin:
+I don't know, that's how I know to say it, so someone can, don't correct me, I'm having a rough week. Be nice to me. 
+
+[00:10:19] Drew:
+Can you, um, can you whistle in three octaves? 
+
+[00:10:22] Kristin:
+Can I? I've never tried. And I can't really whistle. So I think the answer is no. Fair enough. But we were... I was telling you about this and I was like, it's a kazoo. And you were like, that's... No, that's not a kazoo. It's a slide whistle. 
+
+
+[00:10:35] Kristin:
+It could also be like a rock trombone. 
+
+[00:10:42] Drew:
+I like that. With the, with the buzzy, crisp timbre. 
+
+[00:10:45] Kristin:
+I think it's a rock strong bone. 
+
+[00:10:48] Drew:
+I think it's a slide whistle, you know, it's a slide show-a-bob. 
+
+[00:10:53] Drew:
+Wow, I did not pull that off at all. 
+
+[00:10:56] Kristin:
+Yes, that's okay. We liked it. Thank you for that. Let's see. And so I guess let's 
+
+[00:11:05] Kristin:
+Um, and the other fun note that we have from wetringed that I don't really know what's going on with it is that today I was playing the game, minding my own business, building a temple, because, you know, that's what you do. 
+
+[00:11:22] Kristin:
+And suddenly I got the announcement that Ralph, cat and cat, catina cat. 
+
+[00:11:27] Drew:
+Cat to the cat. 
+
+[00:11:27] Kristin:
+I got the announcement that Raoul Katinakat, drunk, had been found dead. I have no idea what he died of. 
+
+[00:11:35] Drew:
+I think you may get to use the justice system. 
+
+[00:11:38] Kristin:
+I'm excited to see. I've never seen someone just described as drunk. Drunk. It feels oddly judgmental, but also like, I don't know, maybe he had it coming. Sometimes they get rowdy when they're intoxicated. 
+
+[00:11:51] Drew:
+Entirely possible, but still you don't want to die and then have, you know, your god's description to the world be drunk Drunk in public 
+
+[00:12:01] Kristin:
+Oh, we probably shouldn't admit that we've seen that. I think that that's it for the major news events. So I think that's all the major, that's the headlines from Wet Rain. What's going on at, what is your town called? Fiery City. 
+
+[00:12:16] Drew:
+Fiery cities, fire cities, fiery cities. 
+
+[00:12:19] Kristin:
+Wait, but it's only one city in the notes. 
+
+[00:12:22] Drew:
+Fiery Cities. I don't know man. So some interesting happenings at Fiery City are one, the Greatest Coven, I mentioned them previously, the worshippers of Vush and kind of the biggest religious group at the fort, founded the Sizzling Church with Likot Scalybridge as the sacred control. She's an accomplished blacksmith and carries around a gold crown. She beat out Sakzul Inkbells, a recent arrival and metal crafter for the title of Sacred Control. 
+
+[00:12:57] Kristin:
+Did she literally beat it? 
+
+[00:13:00] Drew:
+You're, you're interrupting me. I'm sorry. You're always interrupting me! Stop. 
+
+[00:13:03] Kristin:
+Stop undermining me. Undermining, you're always undermining me. It might have been interrupting, I don't know. We're making references no one is gonna even. They watched The Bachelor, I'm sure. Yeah, but it's like 10 years old, Bachelor. 
+
+[00:13:14] Drew:
+Oh! 
+
+[00:13:15] Drew:
+Licat is deliberately cruel to those unfortunate enough to be subject to her sadism. Daur is a rule, she dreams of raising a family, and detests slugs. 
+
+[00:13:25] Kristin:
+Well, who doesn't? 
+
+[00:13:27] Drew:
+So that's really the sort of priest you want, I think. 
+
+[00:13:30] Kristin:
+That sounds about right. 
+
+[00:13:31] Drew:
+All right. Meanwhile, Tulan, the wife of Tosid, who is still mayor, Tulan has become a baroness as we've been elevated to a barony. She has become obsessed with making and banning the export of gauntlets. 
+
+[00:13:48] Kristin:
+Oh, that's a weird thing to get fixated on. 
+
+[00:13:50] Drew:
+It is, kind of. We haven't had too many interesting objects created. We've got a 12,000 dwarf bucks platinum crown called Skinny Flay, the Contingent Law, which has almost nothing interesting about it. It is just a- It's just made of platinum. Yeah, not even encrusted with any gems, though we have a lot of gems sitting around. And then the other object I enjoyed was a 4,000 dwarf buck. 
+
+[00:14:17] Drew:
+Gabbro toy hammer, so just a toy hammer made out of 
+
+[00:14:22] Kristin:
+Gabbro? 
+
+[00:14:23] Drew:
+Random stone rock. Yeah called the bewildering distraction 
+
+[00:14:29] Kristin:
+I like to think that's what you call me. 
+
+[00:14:32] Drew:
+So, well, I think it's a good name for a toy. 
+
+[00:14:34] Kristin:
+Oh. Hmm. Maybe I don't want you to call me that. 
+
+[00:14:38] Drew:
+We've survived repeated attacks by two-headed Et'en women, possibly sisters I like to think in my headcanon. 
+
+[00:14:47] Kristin:
+What's an et-etin? 
+
+[00:14:49] Drew:
+And Et'en is kind of like a giant, but I think smaller. 
+
+[00:14:54] Kristin:
+I'm two-headed. 
+
+[00:14:55] Drew:
+Yes. 
+
+[00:14:56] Drew:
+And, uh, the first was Lali driven-quested the Sienna Petal of Radiance. 
+
+[00:15:01] Drew:
+Now that is a name! 
+
+[00:15:02] Kristin:
+Yeah. 
+
+[00:15:03] Drew:
+Once again, Lali, driven, quested the Sienna Petal of Radiance. 
+
+[00:15:07] Kristin:
+A petal of radiance, okay, that's my name. Not the bewildering distraction. 
+
+[00:15:13] Drew:
+You and me both. Okay. She was 338 years old, disdains loyalty, and dreams of becoming a... ...warrior. 
+
+[00:15:20] Drew:
+However, as she arrived at our fort and began causing trouble outside, she was severely wounded by an agitated osprey, which is sort of like a seagull hawk type thing? 
+
+[00:15:31] Kristin:
+I don't know, but it has os in it and it's a bird, so I always imagine it as being like a flying ostrich. Fair enough. 
+
+[00:15:38] Drew:
+um and so was so severely wounded that she was killed easily although she did succeed in murdering Zhang Oldes the cat who uh ran out of the fort to attack her as her owner was coming 
+
+[00:15:52] Kristin:
+That's so sad. Poor kitty. 
+
+[00:15:55] Drew:
+She was then two months later followed by Nithim the Ettan, just Nithim, who is zany but values decorum. She killed three dwarves before being killed by Lore Thunder Anvils, a newly arrived peasant, with an epic blow from his crutch, causing her neck to fly away. She has two necks, so I'm not... 
+
+[00:16:18] Kristin:
+Maybe losing one is enough. 
+
+[00:16:20] Drew:
+Well, I know that one head decapitation of a two-headed creature is not enough to kill it. Oh. I don't know if they have two necks, actually. 
+
+
+[00:16:28] Drew:
+I don't know the answer to this question and I should probably find out. 
+
+[00:16:29] Kristin:
+question and I should probably find out. You don't know the anatomy of an ettin. 
+
+[00:16:33] Drew:
+But after Lore Thunder Anvils killed Nethim, he promptly went into a fit, threw a valuable mug at an altar, and I banished him. Because we don't truck with that sort of behavior. 
+
+[00:16:46] Kristin:
+Hehehehe 
+
+[00:16:47] Drew:
+Finally, after those exciting events, we discovered the volcanic wall and mining is going well. So, we've got obsidian and gems and that sort of thing. We had one problem when an enforcer of Sted Pikeman named Kynzesudar was found in the obsidian wall, rushed out, and began attacking people in Divine Judgment. As it turns out, she was made of ice, and as she was killed, she won, got used to tragedy, was dressed all in singing metal gear, but her body itself was made of ice. And after she was killed, one leg melted into leg water and one piece of her neck melted into neck water. 
+
+
+[00:17:36] Drew:
+NECKWATER 
+
+[00:17:37] Kristin:
+That's gross. 
+
+[00:17:38] Drew:
+Yeah, so interestingly enough we've gotten to that volcanic wall and begun mining pretty effectively. I'm using a water pump actually this time to pump out water and lava. 
+
+[00:17:48] Kristin:
+Neck water? 
+
+[00:17:49] Drew:
+Not neck water. Neck water is only for sipping. Exactly. But we have not had any problems with Forgotten Beasts. None have shown up. Both of the ettins were above ground. Yeah. And we also have not had any problems so far with cavern dwellers. We have not had any problems with cavern dwellers. They don't seem to be showing up at this fort currently or else I just have us sealed up so well. The only real ones have been some trolls and some other things previous episode. So I don't know. How have you been doing with cavern dwellers? 
+
+[00:18:24] Kristin:
+Whirly, on the other hand, they keep appearing and somehow, and we're not sure how, do we thank Selir, our primary god, but these reptile men have just been dead. They just die suddenly, all in one swoop. 
+
+[00:18:41] Drew:
+Is Salir a god of death? 
+
+[00:18:43] Kristin:
+No, Selir is the dwarf goddess of mountains, caverns, and beauty. So that seems unlikely that she is causing these deaths, and it is possibly more likely that they are caused by me using TFHack to exterminate the reptile men as they appear. 
+
+[00:19:02] Drew:
+Well, you should at least build a temple to Siliere to thank her for creating DFHack. 
+
+[00:19:06] Kristin:
+I am in process, in the process of making her a very nice temple it is, we have. 
+
+[00:19:11] Kristin:
+like fungal wood flooring and it's all engraved and we've got some gold altars in there. So she shall be honored. But I have been thinking about this a lot because for a little while I was not having fun with Wet-Ringed because we had had some reptile men appear and they didn't do a lot of damage. They didn't kill anyone and then they went back into the water in our caverns and are just chilling in the water. They weren't attacking anyone. They weren't moving. They were just sitting under there burbling I guess. But I could not get my dwarves to do anything. Like I, they would be going down the stairs and there was one point of the stairs that was fully enclosed and they would cancel jobs because they spotted reptile men. 
+
+[00:19:55] Drew:
+under the water. 
+
+[00:19:56] Kristin:
+I don't even know how they could see them through rock, underwater. It was so frustrating because we just couldn't get anything done. And it was either like, abandon the caverns and all of the resources down there. I guess the reptile men did kill all of our livestock. That was a big bummer. Yeah. So I was finally just, I was just done with it. So I looked it up, how to do it using the F hack and I use the exterminate. And they are dead. You can see the little skeletons. And I think they were all underwater. So I didn't have to deal with the resultant miasma or anything like that. 
+
+[00:20:36] Kristin:
+And since then, I had, like, the first one was 7, and then the next one was 17, and then the next one was, like, 25, and I just keep exterminating, exterminating wave after wave. And, um, I feel a little bit weird about it, but also okay, which I'll get to, but I did go into the difficulty settings within Dwarf Fortress, and you can set, like, how much the Cavern Dweller attacker waves increase by, and the default was 10. So every attack, you get 10 more, and the maximum attacker default was, I think, set to 500. That might be wrong. Hopefully, it was 100, but... 
+
+[00:21:13] Drew:
+That's pretty intense. 
+
+[00:21:14] Kristin:
+Yeah, that's too many. I just don't want to deal with that. That element of this game is not really fun for me and especially in the caverns like what I currently have where the terrain is really uneven and building walls is just, it's really challenging. 
+
+[00:21:30] Drew:
+Yeah, I think that's fair. I mean, and they know that. That's why that difficulty setting is there, I think. 
+[interjection] Kristin: You
+[interjection] Drew: Although I always tend to forget that the difficulty setting exists, so... If you're new to Dwarf Fortress, be sure to check out the difficulty setting and play with it. 
+
+[00:21:42] Kristin:
+right and you can like turn off monster attacks and all kinds of different settings in there without using dfhack 
+
+[00:21:48] Drew:
+Yeah, it's important, I think, to be able to do some of that, especially with what essentially amounts to trash mobs. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: They're not named, they don't have anything interesting about them. It's nice to see that you have a certain amount of cavern dwellers, but just wave after wave to no purpose just, I think, kind of wastes time if you've got other things going on. 
+
+[00:22:13] Kristin:
+right if you have other projects that you want to focus on if you are into the engineering and the laying out traps and the the military defenses and stuff like that then go nuts that that can be your area but i think that in a game like this where it is so open to whatever kind of fun you want to have whether that's role playing or make designing mega projects and realizing those or whatever um you you don't have to put up with something that's not fun 
+
+[00:22:42] Drew:
+So, do you feel like a big, big cheater? 
+
+[00:22:46] Kristin:
+Um... 
+
+[00:22:47] Kristin:
+I thought that I would and I didn't. I thought I was going to feel kind of dirty, to be honest, because I play most of my games vanilla, you know? I do my raid things and I don't use those bots that tell me where to go and what mechanics are coming and what to do, I figure that out for myself. 
+
+[00:23:04] Drew:
+In a lot of the various games, I know you've always kind of stayed away from mods and that sort of thing. 
+
+[00:23:11] Kristin:
+game in the spirit in which it was intended and I think that I could argue that Dwarf Fortress is not not intended to be messed with in order to not have to. 
+
+[00:23:30] Drew:
+Yeah, I think that's pretty fair, and it's interesting because there's all these different mods in the Steam Workshop for Dwarf Fortress at this stage, and there were a lot of those mods well before Steam, you know, the Steam release and all that sort of stuff, where... 
+
+[00:23:49] Drew:
+Some things that seem kind of like weird choices are smoothed over, and it's hard to tell, it's hard to decide. Like, one example that always gets me. 
+
+[00:23:59] Drew:
+is the fact that you can work around. 
+
+[00:24:03] Drew:
+needing wood for everything except beds. For some reason beds are a rule and you have to have beds right at the start and all that sort of stuff and they can only be made of wood which does make the um which does make treeless embarks really difficult unless you go and customize your loadout and all that sort of thing and it's like this doesn't make any sense to me dwarves would probably prefer stone beds. 
+
+[00:24:27] Kristin:
+Right. You would think. And it's not like sleeping on wood is inherently softer than sleeping on rock. Like, you're still putting down a mattress, presumably. 
+
+[00:24:36] Drew:
+Yeah, you just do some gravel or something, you know. Dwarves would know which stones are the softest and can be powdered. You're rolling around in mica. I don't know. Yeah. But the fact that, you know, there's a mod that would let you build beds out of stone, I find it very hard to see that as, like, not being the spirit in which Dwarf Fortress was intended. Whereas on the other hand, you know, you might have the mods that let you essentially build above ground or, you know, build forts as an elf or something like that. That starts to seem like you're creeping away from what was intended. 
+
+[00:25:12] Kristin:
+from the spirit of Dwarf Fortress. 
+
+[00:25:14] Drew:
+But with Dwarf Fortress being so open-ended, like in most of those cases, I think you only wind up punishing yourself then. Because if you decide to stay above ground and build above ground, then you just wind up with not really a whole lot going on. 
+
+[00:25:27] Kristin:
+People do it though and seem to have a lot of fun. Like that's an interesting challenge for them. So is there something in Dwarf Fortress that you would consider cheating at Dwarf Fortress? 
+
+[00:25:37] Drew:
+There are some DFHack mods that you can run that will tell you what resources are on given levels and like label it all. Is it StoneSense? No, StoneSense, you'd think StoneSense would be that, but StoneSense is actually the 3D renderer thing. 
+
+[00:25:56] Kristin:
+Okay um what am I thinking of then? I might cut that out because that's apparently a stupid question. Oh no. Yeah I just I thought there was some there's some mod that people make 
+[interjection] Drew: Oh, no.
+[interjection] Kristin: the argument that like they're dwarves they they would know what rocks would be where. 
+
+[00:26:09] Drew:
+Yeah, I can't remember what it's called offhand, but it's not StoneSense. StoneSense is the thing. I should double-check that while we do the rest of this reporting, but yeah. And that I consider maybe a little bit cheating, just because it's really, really messing up the RNG, kind of, like the layer and all of that. 
+[interjection] Kristin: Mmm.
+[interjection] Drew: But, you know, it's hard to tell other people how to play their game. Yeah. I know in some games you have a lot of different complicated challenges that people do, and we haven't seen a whole lot of that yet evolve for Dwarf Fortress, but I think it will. 
+
+[00:26:46] Kristin:
+I think it, I mean, it might exist and we just don't know about it. Like embark with no animals or something like that. Like those kinds of things. So part of what I'm thinking of with this is with the Sims and people have over the years come up with all kinds of like just crazy challenges. So like, so a Sim that never leaves the lot which would be really challenging because you need money and stuff. Or I remember back in the day it got spread around that I think it was Rosebud was the just automatic get a million Gill and there was mother load for a lot more than that. And sometimes we just, we being me and my, you know other teenage friends would just do that so that we could design fancy houses and our Sims could have all of the cool stuff and all of that. But I mean, it is a cheat, I guess, you know you have to bring up the cheat code ability but at the same time, some of these other challenges that would be genuinely challenging require you to choose traits or raise your Sims in such a way that it causes a challenge. So like telling, preventing Sim parents from interacting with their children beyond like enough to keep Sims Child Protective Services from coming and taking the child away. And then you have this like. 
+
+[00:28:10] Kristin:
+feral child that then grows up into an awful sim and then you have that sim as your next generation and like that's a fun challenge for people and people do kind of like sadistic things but you have to manipulate the game in such a way to make those challenges possible and I think Dwarf Fortress would lend itself to the same kind of play. 
+
+[00:28:29] Drew:
+I think so. Yeah, I think that's fair. I think there are a lot of different challenges one could make with Dwarf Fortress, you know, like only use one type of metal or that sort of stuff. 
+
+[00:28:40] Kristin:
+So that sounds like actually kind of a fun challenge and something that could be actually really aesthetically pleasing. If you're only going to make furniture out of like silver and blue stone or whatever like that, that could be really, it would be really difficult, but you can make something really cool and pretty at the end of it. And I think that to some degree the challenges are just built in within the game, so like settling in an icy biome or whatever. 
+
+[00:29:06] Drew:
+yeah i think the settling in an icy biome you know it gets a little bit towards our like the difference between a challenge and kind of a project for it is starting to be a gradation 
+[interjection] Kristin: Mm-hmm.
+
+[00:29:15] Kristin:
+Right. Yeah, maybe it's the same thing. And I was thinking that at some point, it might be fun for us to like, create a challenge or come up with it and do it ourselves, and have some of our listeners do it as well and just see kind of what results we can get. And it would be fun to know what other Fortress Challenge Embarks people do. 
+
+[00:29:34] Drew:
+Yeah, and, you know, something like, for example, the, uh, only, you know, only one weird type of, um, alcohol or... Yeah. 
+
+
+[00:29:45] Kristin:
+I don't think you could do it, but there's like a Sims challenge where you start with children and you don't have adults, and so you try to get those children to adulthood. And maybe you can have teenagers, because I don't know how the children would feed themselves. 
+
+[00:30:01] Drew:
+Yeah, I was wondering about that. I vaguely remember because I played 3 and 4 a little bit. 
+
+[00:30:05] Kristin:
+yeah and i don't know i i occasionally mourn the sims because the sims 4 i i had such high hopes for it and then it's janky as stuff 
+
+[00:30:16] Drew:
+That's stuff 
+
+[00:30:17] Kristin:
+It's tough. 
+
+[00:30:18] Drew:
+So, yeah, so what are some other fun Sims ones here that you've got pulled up? 
+
+[00:30:23] Kristin:
+Well, I was looking at this earlier while I was getting my hair colored for four hours. So everyone knows the the legacy type challenges where, you know, you have two sims and they have one child and as soon as that child's an adult you move with the child and there are other rules that people apply. There are story-based legacy challenges such as, like, we're looking at a Disney princess challenge in which every generation your sim is themed around a particular Disney princess so you will set their goals and their motive and their family and stuff to match up with Snow White or Cinderella. 
+
+[00:31:03] Drew:
+What does that say there? Snow may never answer the door to strangers or talk to elderly women. 
+
+[00:31:09] Kristin:
+right because of the whole elderly woman who showed up and gave her what the apple poisoned apple yeah 
+[interjection] Drew: Yeah.
+[interjection] Kristin: and then there are like aesthetic challenges that people will like try to you know make um 
+
+[00:31:22] Kristin:
+sims of a certain body type or sims of a certain fashion or change the way that their sims are living their lives and they share results like if everyone doing the same challenge like posts in their forums and share what's going on and I would like to see kind of some of that happen with Fortress and I'm sure that some of this has gone on because this game has existed for 
+
+[00:31:48] Drew:
+Yeah, I think a lot of it is I think a lot of these that have happened have happened on the Bay 12 forums, which I like Bay 12 forums, but I also understand how it can be very intimidating for for people because it's very much a early 2000s forum. Right. 
+
+[00:32:06] Kristin:
+Right. I, I'm, I used to use forums a lot more and nowadays I have a really hard time kind of jumping into them, so like... 
+
+[00:32:14] Kristin:
+something like Reddit where I'm not really using it anymore was easier for me, but jumping into a forum like that is kind of scary. 
+
+[00:32:22] Drew:
+Intimidating, and especially if you don't know the right words to look for. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Some of the Bay12 threads literally are like ten years old and have over a hundred pages 
+[interjection] Kristin: Yeah.
+[interjection] Drew: worth of comments and stuff, so it's a challenge. There was also, we watched a YouTube video of a guy who tried to do a single dwarf fortress and failed miserably. 
+
+[00:32:43] Kristin:
+Oh yeah, and he was telling a story with that, but that would be really interesting to have a single dwarf embark. 
+
+[00:32:49] Drew:
+Yeah, he kind of went insane with it and was murdering visitors. 
+
+[00:32:54] Kristin:
+Well, it was kind of a dark story, yes. We won't call him out too much, but it was scary. 
+
+[00:33:00] Drew:
+It was kind of scary, I started to worry about it. 
+
+[00:33:01] Kristin:
+It was like a dwarven horror story, but I mean that's fun for as a challenge, you know, to try to tell a particular type of story in that way. 
+
+[00:33:13] Drew:
+And I think one that I will eventually get to is trying to stick with my seven dwarves, 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: not let anyone immigrate, and see if I can't level each of them up to maximum in their thing and make them have a strange mood in their particular field that I want them to become an expert at. 
+
+[00:33:33] Kristin:
+Yeah, that would be really cool. And it would be fun on my side, where I'm like, looking at all the stories and things that develop to see how their relationships grow and change. And if they just end up in like a giant polyamorous relationship. Because, well, I mean, that doesn't happen on on long journeys, you see couples form or throuples or whatever, but you never see. No, I'm not gonna say never, because I'm pretty sure that I've seen someone say that they had. 
+
+[00:34:01] Kristin:
+a long journey for their embark and all of the dwarves were just more or less in love with each other. 
+
+[00:34:07] Drew:
+other. By the end, yes. People make friends along the way, I guess. 
+
+[00:34:13] Drew:
+So. 
+
+[00:34:14] Drew:
+No, I think I think that that's something and you know, we 
+
+[00:34:19] Drew:
+I feel like as the mods continue and that sort of thing, doing these challenges will become easier, sharing it I think is maybe the big challenge. 
+
+[00:34:28] Kristin:
+Yeah, the lack of a central place, even though B12 Forums is the central place, it's still also not. Like we have a fair few people that we know through Discord who are not there at all. 
+
+[00:34:39] Drew:
+Yeah, and the... 
+
+[00:34:42] Drew:
+Ability to kind of upload your forts easily and all that sort of thing because the file sharing there has gotten has had issues 
+[interjection] Kristin: It's gone.
+
+[00:34:50] Kristin:
+Right, and there's a whole further question of like how to save this sort of institutional knowledge from a place like Reddit and Imgur, and we talked about that. But kind of what my 
+[interjection] Drew: Yeah.
+[interjection] Kristin: point was that like the line between cheating and creating arbitrary rules for yourself is it's a moving target or maybe it doesn't exist. 
+
+[00:35:11] Drew:
+Yeah, I think that's fair, as long as it always falls down to the informed consent. As long as everyone knows what's going on, then, yeah. 
+
+[00:35:20] Kristin:
+And when it's a video game challenge, like, who cares? 
+
+[00:35:23] Drew:
+Yeah, and when it's a single-player game as well, like, you're making your own fun, if you make it too easy, then you're only depriving yourself. 
+[interjection] Kristin: Oh yeah.
+
+[00:35:30] Kristin:
+Yeah, but, you know, then if it's fun for you, then... Anyway, for myself, in justifying my use of the exterminate function, I was trying to like create a little story around what's happening with the reptile men, and that got me looking at the deities. So I made like a temple zone and I was looking through to see who had the most worshippers. And until I got down to like the 30-odd range, the highest number one was the 20 dwarves from Wet-Ringed worship the Itch of Puke, a female bumblebee deity of muck. 
+[interjection] Drew: Ew.
+
+[00:36:06] Drew:
+I don't know what muck would be with a bumblebee. Is it just, like, honey mashed into the dirt? Dirty honey? I guess, something like that. 
+
+[00:36:15] Kristin:
+I don't know, but the name The Itch of Puke made me go, oh, why? Because you don't have that much information when you're just setting up the temples down. So I had to go into legends mode and pull it out. And I was quite charmed to find that it was a bumblebee deity. 
+
+[00:36:29] Drew:
+Bumblebee deity. Yeah, there are a lot of fun kind of side deities. I wish there was more information on I mean, I understand that they don't get filled that but again the Silicant deity. Yeah, I've dug through legends mode 
+[interjection] Kristin: Yeah.
+[interjection] Drew: There's not actually that much there about him other you know about it 
+[interjection] Kristin: Oh
+
+[00:36:46] Kristin:
+And 20 of my 50 dwarves, I guess it's 49 now, that Raul the Drunk is dead. 
+
+
+[00:36:56] Drew:
+That's crazy, though, because the, uh, it's crazy to me because, you know, I've got the worshipers of Ush as kind of the big group for mine. Um, but they, that at least makes sense, because, like, you know, you're all beating on... 
+
+[00:37:11] Drew:
+beating on metal all the time in the forges, so you could worship a fireman, that makes sense. 
+
+[00:37:16] Kristin:
+Yeah, my two main deities, one was a Dwarven god of fortresses, and then Sylir is mountains, caverns, and beauty. Like, does pretty unremarkable things for dwarves. And then 
+[interjection] Drew: Mm-hmm.
+[interjection] Kristin: you have the creative ones who worship the bumblebee deities and muck. 
+
+[00:37:33] Drew:
+Yeah, that might be a challenge sometime that I would do, which is try to make temples for every god worshipped in my fort and keep that going. 
+
+[00:37:42] Kristin:
+See, I love that. That sounds like a great challenge. And then you can decorate them thematically. So I should make a temple for the itch of puke and put a bumblebee statue in it. 
+
+[00:37:52] Drew:
+Yeah, um, I think some are a bunch of 
+
+[00:37:53] Kristin:
+or a bunch of bumblebee statues. 
+
+[00:37:55] Drew:
+a bunch of bumblebee statues somebody was talking on our um one of our new members was talking on the 
+
+[00:38:02] Drew:
+in the Discord about making sort of custom objects. And yeah, using that custom statue option is, I think, really powerful and really interesting. 
+
+[00:38:13] Kristin:
+Yeah, and you can get really granular with that so that you don't end up with the one, like what I had of the statue of the mayor for his tomb and he was losing an election. 
+
+[00:38:22] Drew:
+Exactly, instead when you put the order in for the statue you can actually choose to be like a bumblebee dancing with a 
+
+[00:38:31] Kristin:
+In some muck. I don't know. Yeah, exactly. 
+
+[00:38:32] Drew:
+It's a muck. But you can, by clicking that, I think it's a magnifying glass. 
+[interjection] Kristin: Mhm.
+[interjection] Drew: Yeah, you can choose that option on some objects and choose what's going to be kind of put there. 
+
+[00:38:43] Kristin:
+Yeah, so moving forward I'm definitely gonna be making some temples and we're gonna continue to look for magma because we haven't found any yet. Got a lot of gems and I did just do a massive trade so I think we'll probably get a lot of migrants and possibly an elevation to Barony soon. I should probably get ahead on the the beds expecting the migrants that I have now bought. What's what's ahead for your fort? 
+
+[00:39:13] Drew:
+For my fort, we're continuing to work on trying to get the sea creatures to come in our saltwater sea area. So then they can be caught and put into the aquarium, the aquaria. Aquaria? I'm not sure if it's aquariums or whatever, the plural would be there. But we're going to have kind of the entire first level of the fort, as people come in, it's just going to be full of green glass aquarium with... 
+
+[00:39:42] Drew:
+sea creatures in there. I discovered that in order to catch the sea creatures they don't just run out and catch them with their hands when you tell them to catch a live fish sea creature. Yeah. Instead you need to have an animal trap and they'll take the animal trap, put the animal trap down until they catch something and take it back and then they'll 
+[interjection] Kristin: Take it back.
+[interjection] Drew: come and put that into the aquarium. Fair enough. But I'm having fun with that. I'm going to work on building that out. They seem to get some pleasant moods walking by the high quality aquarium and also I have it set so every aquarium also they make a window and I've been putting the windows around just to increase the values. So no my glass industry is going well. 
+
+[00:40:25] Kristin:
+I'm looking forward to getting some glass going at mine, but I don't really want to until we have magma. 
+
+[00:40:30] Drew:
+Yeah, it just uses up too much wood. Right, it's a lot of labor, too. Yeah. 
+
+[00:40:34] Kristin:
+start my process of just digging out spurs until I hit it, I guess, because we have gotten to the purple caverns. 
+
+[00:40:46] Drew:
+The other thing I need to work on is clothing, getting the clothing going. Also, at some point, I need to really... 
+
+[00:40:52] Drew:
+do afford that gets the stage of having the um having the nobility having the the monarch oh yeah come in 
+
+[00:40:58] Kristin:
+Oh, yeah. Come in. I mean, that's a project of its own. 
+
+[00:41:01] Drew:
+yeah i don't know why i've never really gotten that and i know other people have um i think possibly it's because i tend to pick bigger civilizations to be a part of 
+
+[00:41:10] Kristin:
+That could be, yeah. 
+
+[00:41:12] Drew:
+And then also, you know, as we do the world, because, you know, you and I stick to the same world a lot. 
+
+[00:41:19] Kristin:
+Yes. 
+
+[00:41:20] Drew:
+Other people do start new worlds every time and all that. For this world, I have looked in Legends mode and found that some of my previous forts eventually did get the Monarch moving there. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: So it's sort of like I'm setting up the fort into good quality and then moving on and they sort of follow behind me. 
+
+[00:41:38] Kristin:
+That happened to me with Curlkey, I think. 
+
+[00:41:41] Drew:
+Yeah, yeah, I think we talked about that, so... 
+
+[00:41:44] Drew:
+I don't know if that means I'm a bad manager or I'm a really good manager and then I move on. I'm a fixer. 
+
+[00:41:48] Kristin:
+You're a fixer. That's how I'm going to think of myself. 
+
+[00:41:52] Kristin:
+So I also wanted us to take a couple of minutes and talk about other games that we've been playing because I know that people have been interested in both our Against the Storm episode and when we stream other things and also because I'm really obsessed with this new game that I'm playing and I wanted to shill for it a little bit even though like they're not giving me anything except a good time in-game. I was gonna say except a good time and then I was like wait a minute. 
+
+[00:42:12] Drew:
+a good time and then i was like wait a minute even in game i'm still like 
+
+[00:42:16] Kristin:
+They're not giving me anything except some value for my money. Nope, there's no good way to end that sentence. 
+
+[00:42:23] Drew:
+So, tell us about this game. 
+
+[00:42:25] Kristin:
+Sunhaven is one of those Stardew clones, which then in turn means it's a Harvest Moon or whatever. 
+
+[00:42:33] Drew:
+Yeah, I think calling it a clone maybe does a disservice. You can say a like. It's a starting with like. Yeah. 
+
+[00:42:37] Kristin:
+It's a star they will like. But it is much more magical in the sense of there is magic in the world. I'm not saying that it's like a more enjoyable, wonderful game in a slangy way. So you play a character that comes to a village to have a farm and you can fight monsters and mine and date the people and everything. But in the character creation, there's a lot of customization. You can play as an elf or a demon or an angel or an elemental. And everyone is very cute or anime hot. So your romance choices are, they look like anime characters in the art style. And the pests are baby dragons. It's so cute. And there's a big golden dragon who rules the city. 
+[interjection] Drew: Awe.
+[interjection] Kristin: And for combat, you get spells as well as sword and crossbow and stuff. So I'm really enjoying it in that it's really flexible in what your character's background is and what your special skills are from your race and what your focus is. So like, I'm not really big into fishing in any of these games. So I'm just, I've been able to completely ignore fishing. And I think it's leveling passively because some quests will give me that regardless. It also has a multiplayer function. So I will probably force you to play this even though you're not really into the starties. 
+
+[00:44:04] Drew:
+yeah um can you use magic to help your crops or help your farm or is it only 
+
+[00:44:08] Kristin:
+Yes, to a degree. There are things that you can build that give you boosts and like magical fertilizers and things that will make them grow faster or stay watered or stuff like that. 
+
+[00:44:20] Drew:
+Nice. Interesting. 
+
+[00:44:21] Kristin:
+Yeah, so I'm pretty hooked on it. I was big into Stardew. I was big into Stardew back before it was cool. 
+
+[00:44:29] Drew:
+Before there was multiplayer started. Yeah 
+
+[00:44:31] Kristin:
+Yeah, I was playing Stardew for a long time, and then I haven't done a lot of the features that were added later. So for me, Sunhaven feels really expansive at the point that it's at, like the map feels really big, even though I know that Stardew has gotten much bigger than it was when when I spent my most time in it. 
+
+[00:44:51] Drew:
+Was Sardi Valli always LGBTQIA type? Was it queer friendly? Yeah. 
+
+
+[00:44:58] Drew:
+Well, I couldn't remember if it was at the very start or if it was... Yeah, I think so. 
+
+[00:45:00] Kristin:
+character's gender. You just make them look and dress how you want them to. None of the characters ever use pronouns for you, so you're a totally flexible blank slate in a way that's really cool. 
+
+[00:45:18] Drew:
+Yeah, and that does really make the whole queer romance question much simpler from a programming point of view as well. I honestly think a lot of games that winds up being part of the problem is just figuring that out. And with what I've seen in this game, it seems to be very flexible and let's love be love. 
+
+[00:45:39] Kristin:
+Yeah, for sure. Like, I think one of the romance options is, like, a cat girl, and I'm, what did I say, I'm an elf, and, like, everybody loves everybody. 
+[interjection] Drew: Yeah.
+[interjection] Kristin: Elementals can love elves, can love demons, can love cat girls. And who doesn't love a cat girl? 
+
+[00:45:53] Drew:
+That's the message we get from Final Fantasy XIV, that's for sure. 
+
+[00:45:57] Kristin:
+That is absolutely for sure. That might be all Final Fantasies. So, Sunhaven is from, this is useless, Pixel Sprout Studios. Sunhaven is from Pixel Sprout Studios. It is available on Steam for $24.99 right now. Gets excellent reviews. I got it in the sale that has now ended, so I did not pay $25, but we might get you a copy just so we can play it together. 
+
+[00:46:23] Drew:
+I had already bought a copy. 
+
+[00:46:24] Kristin:
+You did. Aww. 
+
+[00:46:27] Drew:
+I haven't actually played it yet though, because I've been on my particular kick at the moment, which is Metroidvanias. I'm still trying to complete Hollow Knight. 
+
+[00:46:35] Kristin:
+Oh, I tried Hollow Knight once and it was too hard. Yeah, no. 
+
+[00:46:38] Drew:
+Yeah, no, the souls likes are are frequently too hard. Yeah. But yeah, so I've been doing that. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: And then I also went back to a game I had apparently bought back in when it first came out, or maybe later. I think I bought it in 2021. And it came out in 2020, or something like that, called Monster Sanctuary. I'm kind of enjoying it. It's a Metroidvania that is also a little bit like Pokemon in that you collect different elemental creatures and battle with them. 
+
+[00:47:12] Kristin:
+Let's take one beat back and have you define what is a metroidvania for those who don't know. 
+
+[00:47:19] Drew:
+Okay, a metroidvania is a game where you progress get new items to unlock area to unlock to unlock uh portions in areas that you've been to previously so you do a lot of backtracking okay but also it's usually involves pretty creative problem solving with those um tools that you get okay um so the classic obviously is metroid where you you know get one kind of power 
+[interjection] Kristin: You okay?
+[interjection] Drew: up and that lets you double jump and so now you can get to this whole other set of areas and that sort of thing yeah um and then castlevania some of the later castlevanias were that way as well so they're called metroidvanias yeah um in this case it's interesting because it this game monster sanctuary harkens back to a very very old nintendo game original nintendo game called a boy and his blob which is where you would go around with as a titular boy with his blob and your blob would change into different things depending on what kind of jelly bean you fed it 
+
+[00:48:20] Kristin:
+So does it become your tool? 
+
+[00:48:23] Drew:
+yes so if you feed it like a cinnamon jelly bean it turns into a fire blob 
+[interjection] Kristin: Ah!
+
+[00:48:32] Drew:
+If you feed it a cinnamon jellybean, it breathes fire. If you feed it a licorice jellybean, it becomes the latter's, you know, a little bit of. 
+
+[00:48:39] Kristin:
+Yeah. I imagine there's a little trial and error as you're doing this. 
+
+[00:48:43] Drew:
+Yeah, it's a little bit of, um... 
+
+[00:48:45] Drew:
+What's the game master logic thing? 
+
+[00:48:48] Drew:
+Full moon logic. Oh. 
+
+[00:48:51] Drew:
+But. 
+
+[00:48:52] Drew:
+In this one, your various creatures, as you capture them, they can each be kind of equipped individually when you're out in the world, as opposed to fighting. And they will do different things to let you get to new regions. You got that a little bit in Pokemon as well, but this is more focused directly on that. So you start out, well, I chose a bird to start out with, and so I can fly around holding onto it. And I've gotten a sword cat knight type thing that will chop down barriers for me. Oh, cool. So it's fun. It doesn't require a whole lot of mental energy. It's just kind of exploring an interesting world. 
+
+[00:49:33] Kristin:
+Yeah. Well, that sounds like fun. So yeah, that's what we've been playing, other than Dwarf Fortress. 
+
+[00:49:39] Drew:
+Yeah, plenty of games out there, but Dwarf Fortress is still something we enjoy and come back to and also think of new and creative ways to interact with it. You guys come up with new and creative ways to interact with it, let us know in our Discord or email us at... 
+[interjection] Kristin: Yeah, what do you want to know?
+
+[00:49:55] Kristin:
+a strange mood podcast at gmail.com 
+
+[00:49:58] Drew:
+or visit us on our website. 
+
+[00:49:59] Kristin:
+A Strange Mood Podcast dot com. And we are also on YouTube at A Strange Mood. No podcast there. I guess because it's our videos. Hey, that makes sense. 
+
+[00:50:09] Drew:
+Well, some people call the video things podcast. I don't know. 
+
+[00:50:14] Kristin:
+We don't need to pull at that thread. And then I'm on Twitch, and Drew streams there as well, as thatKristin, K-R-I-S-T-I-N. We've been on a little bit of a streaming break, but I think that we're going to get back to it. 
+
+[00:50:27] Drew:
+Yeah, so, especially with all the new games that have come out, once I get a computer that the GPU isn't melted into slag, I will be back on there. 
+
+[00:50:36] Kristin:
+Yes, the random beeps were a little alarming. 
+
+[00:50:41] Drew:
+Yeah, they got a little frightening to me too, until I figured out what was going on. 
+[interjection] Kristin: until I figure it out.
+
+[00:50:46] Kristin:
+Well, thanks for listening, and we will catch you in two weeks with more Dwarf Fortress content. And remember, just keep digging. 

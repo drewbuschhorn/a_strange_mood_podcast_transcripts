@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:11,500
+And since then, I had, like, the first one was 7, and then the next one was 17, and then the next one was, like, 25, and I just keep exterminating, exterminating wave after wave.
+
+2
+00:00:11,500 --> 00:00:28,000
+And, um, I feel a little bit weird about it, but also okay, which I'll get to, but I did go into the difficulty settings within Dwarf Fortress, and you can set, like, how much the Cavern Dweller attacker waves increase by, and the default was 10.
+
+3
+00:00:28,000 --> 00:00:37,500
+So every attack, you get 10 more, and the maximum attacker default was, I think, set to 500. That might be wrong. Hopefully, it was 100, but...
+
+

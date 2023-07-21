@@ -1,0 +1,41 @@
+1
+00:00:00,000 --> 00:00:01,640
+It's made of limonite.
+
+2
+00:00:01,640 --> 00:00:05,620
+It is encircled with bands of rectangular limonite cabochons.
+
+3
+00:00:05,620 --> 00:00:08,600
+This object menaces with spikes of magnetite and limonite.
+
+4
+00:00:08,600 --> 00:00:12,160
+The inure is a mid-sized, handheld, straight-bone horn.
+
+5
+00:00:12,160 --> 00:00:16,760
+The musician blows into the instrument and selects pitch by adjusting a slide.
+
+6
+00:00:16,760 --> 00:00:21,220
+The instrument has a three-octave range, going from a mid-low to a high pitch.
+
+7
+00:00:21,220 --> 00:00:25,180
+At all pitches, the instrument has a focused, even timbre.
+
+8
+00:00:25,180 --> 00:00:26,980
+It has two registers.
+
+9
+00:00:26,980 --> 00:00:30,040
+The low register has a buzzy, crisp timbre.
+
+10
+00:00:30,040 --> 00:00:34,080
+The high register begins at middle pitch and has a full, strained, crisp timbre.
+
+

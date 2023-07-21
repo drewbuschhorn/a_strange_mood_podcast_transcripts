@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:00,640
+It's a muck.
+
+2
+00:00:00,640 --> 00:00:01,200
+I don't know.
+
+3
+00:00:01,200 --> 00:00:02,760
+Yeah, exactly.
+
+4
+00:00:02,760 --> 00:00:06,840
+But you can, by clicking that, I think it's a magnifying glass.
+
+5
+00:00:06,840 --> 00:00:09,520
+Yeah, you can choose that option on some objects
+
+6
+00:00:09,520 --> 00:00:13,040
+and choose what's going to be kind of put there.
+
+
