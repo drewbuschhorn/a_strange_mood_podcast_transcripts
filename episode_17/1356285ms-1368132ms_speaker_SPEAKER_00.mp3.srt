@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,520
+Alas, my fishing attempts to create an aquarium have utterly failed.
+
+2
+00:00:05,520 --> 00:00:09,680
+We've captured no fish, even though we have multiple places to put them.
+
+3
+00:00:09,680 --> 00:00:11,840
+I'm just sort of moving on with that for the moment.
+
+

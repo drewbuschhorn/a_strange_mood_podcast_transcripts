@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,000
+Our population has gone over a hundred.
+
+2
+00:00:02,000 --> 00:00:02,500
+Nice.
+
+3
+00:00:02,500 --> 00:00:06,000
+Or at least it was until the Divine Judgment happened.
+
+

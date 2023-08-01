@@ -1,0 +1,904 @@
+
+[00:00:00] Kristin:
+podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress Podcast. I'm Kristin. 
+
+[00:00:19] Drew:
+And I'm Drew. 
+
+[00:00:23] Kristin:
+And we have a new microphone. It's very exciting. 
+
+[00:00:27] Drew:
+You seem very excited. I just want to... 
+
+[00:00:28] Kristin:
+I just wanted to get that in there. 
+
+[00:00:29] Drew:
+Do you know what I'm excited about what my mom? 
+
+[00:00:32] Kristin:
+Oh. Okay. What's exciting about your mom? 
+
+[00:00:37] Drew:
+Well, as you know, my mother is a member of the Weaver's Guild. 
+
+[00:00:39] Kristin:
+I know. She tried to get me to join, but I resisted. 
+
+[00:00:42] Drew:
+Well, it was maybe for the best because actually she's been charged with embezzlement. Oh my gosh. Dun dun. 
+
+[00:00:49] Kristin:
+What kind of things is she embezzling from the Weaver's Guild? 
+
+[00:00:53] Drew:
+One assumes money but I didn't think it polite to ask. All I know is that she would go to the 
+[interjection] Kristin: Oi!
+[interjection] Drew: weaver's guild, give demonstrations, occasionally kidnap small children off the side of the street and teach them how to weave until they had these weird mental explosions and just made these beautiful items and then she would sell it and keep the money herself. 
+
+[00:01:12] Kristin:
+Oh, how dare she? J'kiss. That does sound like your mom, though. That's mean. I know. 
+
+
+[00:01:22] Kristin:
+No, but we did learn about dwarf embezzlement this week. 
+
+[00:01:27] Drew:
+and guilds. 
+
+
+[00:01:30] Drew:
+Dwarf embezzling guilds. Embezzling dwarf guilds? 
+
+[00:01:33] Kristin:
+there should be an embezzlers guild. There should be. Anyway, let's talk housekeeping. What do we got this week? 
+
+[00:01:40] Drew:
+So this week we had a couple of interesting housekeeping items. One is to remind you that the Dwarf Fortress update slash blind IRL interview with the Dwarf Fortress team happened I think about a week, week and a half ago. You should check that out if you haven't. They cover the Dwarf Fortress update and kind of delve into more details of questions and smaller items that didn't really make it into Zach and Tarn's five-minute YouTube video. That includes new tutorials coming with blind IRL. 
+
+[00:02:13] Kristin:
+That's fun. 
+
+[00:02:14] Drew:
+Adventure mode progress, more procedural customization, including faces, clothes, and size of sprites, and then a bunch of other things. 
+
+[00:02:24] Kristin:
+Very fun. I'll have to check that out. I have not. We've been kind of busy and I haven't watched it. 
+
+[00:02:28] Drew:
+Yeah, no, I mean, I think, um, you know, it's going to be a little while before adventure mode is ready, but, uh, yeah, overall, I don't know necessarily if we need to do the Dwarf Fortress, uh, update announcement on this podcast, because if people are listening, I mean, I don't know how you would find this podcast before you're somehow clued into Dwarf Fortress updates, the program updates, but I don't know. Yeah. 
+[interjection] Kristin: ready but yeah
+
+[00:02:50] Kristin:
+program updates. I don't know. Maybe people listen to us to fall asleep. They listen to our dulcet tones. 
+
+[00:02:54] Drew:
+Well, in that case, they don't really care too terribly much what we say, just that we say it in a soothing ASMR manner. Yes. Do you remember when ASMR was a thing? 
+
+[00:03:03] Kristin:
+Yeah, I think maybe it's still a thing. We just don't run in those circles. Apparently. 
+
+[00:03:07] Drew:
+apparently next we have the gladiator tournament updates uh round two of the gladiator tournament update over at bay 12 game has uh continued and uh let's see some updates paper plink plonk who brought the ant woman queen has made the most gold so far in the last round 
+
+[00:03:26] Kristin:
+Is that a sentence you ever thought you'd say? 
+
+[00:03:29] Drew:
+really no it's just it just just kind of become noise doesn't it uh paper flink plonk is somewhat famous in the dwarf fortress uh community for running the uh succession fort slash story fort the sand sparkle saga story of a koala woman 
+
+[00:03:48] Kristin:
+That sounds pleasant. 
+
+[00:03:50] Drew:
+Yeah, it's interesting. It's got, I think, four episodes, maybe five episodes. Cool. Back in the days before so much moved over to YouTube. To get to the results, let's see. The Leechman and Skunkman fight resulted in Leechman winning after an early toe injury and a severed artery, but he bit down and drilled through the Skunkman's chest. 
+
+[00:04:15] Kristin:
+Ah, yikes. 
+
+[00:04:17] Drew:
+Meanwhile, Queen Regina Formicarium, which I think is, you know, Formica is Latin for ant, the Antwoman Queen, she faced off against Estua Amazon the Dwarf. Estua Amazon was able to swing his warhammer multiple times, but continually was blocked and parried by the nimble Antwoman. In exchange, Queen Regina's strikes were careful and well-timed. With Estua's will broken, Queen Regina aimed for his head and to the credit of his thick skull, the Dwarf's thick skull, it took four strikes to break through, but she split his head open and he died. 
+
+[00:05:01] Kristin:
+Yeah, most people would. 
+
+[00:05:03] Drew:
+I think so. Dreadhoof the Minotaur, I mentioned last time. He fought against Boofy the Ant Drone. Boofy. 
+
+
+[00:05:13] Drew:
+yeah i think just woman queen yeah i think maybe there's two or three it gets very confusing um 
+[interjection] Kristin: Mmm.
+[interjection] Drew: haruf um was on a mission to reclaim the right of his to use his family name after he's exiled for his belief in avoiding pain as a part of combat he made one step on that journey by decapitating decapitating 
+
+[00:05:31] Kristin:
+Decapitating? I don't even know what that is, but it sounds bad. 
+
+[00:05:33] Drew:
+After he decapitated Grump Gromp the Roach Man. But he has several more steps to take. One of those, of course, being Buffy. He has made quite the impact on the crowd with his hefty platinum pick, Buffy has. But Buffy collapsed in a puddle of his own ichor, swinging wildly. Ichor? Ichor. Swinging wildly with his pickaxe while hoof loomed over him. Buffy's flailing rapidly weakened, though, as the flow of ichor from his stump slow before finally stopping altogether. Congratulations to Haruf on his victory. And alas, Yeti stooned to become spaghetti, became spaghetti. And Dead Death Roll, the reptile man with the axe guitar, also lost his fight. Mm, too bad. So basically everyone we talked about last time wound up dying this round. That's OK. 
+
+[00:06:20] Kristin:
+That's okay, it's still fun to hear about it. 
+
+[00:06:22] Drew:
+That's how gladiator combat goes. But we'll keep an eye on the Antwoman Queen. She seems fun. 
+[interjection] Kristin: Yeah, it's fun.
+[interjection] Drew: Place your bets. Yep, so go back to Bay12Games and place your bets for round three. Ooh. 
+
+[00:06:34] Drew:
+Eventually they'll also start doing the battle royale where everyone just fights in the arena all at once. 
+
+[00:06:41] Kristin:
+That sounds like fun. Yeah. 
+
+[00:06:43] Drew:
+Yeah, so finally for Eratta, one of our community members, Gash, was kind enough to point out that actually on the Dwarf Fortress Wiki, there is a section for fort challenges of different types. It's actually quite extensive. And if you were interested in our previous episode where we talked about challenges that you could do with your fort, you should go check that out for some of the ideas there. Although I think as the Steam Workshop stuff improves, there'll be more opportunities to do that in a more public way. Yes. 
+
+[00:07:18] Kristin:
+We might do some kind of community challenge this fall amongst our listeners. 
+
+[00:07:22] Drew:
+Yeah, I think that might be a good idea, Kristin. 
+
+[00:07:23] Kristin:
+Yeah, we pick one of those and then I'll do it and share the results. 
+
+[00:07:28] Drew:
+Yeah, I think that might be fun. See what people do. Yeah. Well, Kristin, what news is there from wet rings? 
+
+[00:07:34] Kristin:
+what ringed what ringed what you know i even corrected that in the notes 
+[interjection] Drew: wet-ringed. You know, I even corrected
+[interjection] Kristin: you can never remember is it plural or past tense 
+
+[00:07:43] Drew:
+past tense i don't know i can never remember if mine is mine is named fiery city fiery cities fiery 
+
+[00:07:49] Kristin:
+Who cares? Fiery cities. Anyway, we're doing well. We've had a population boom, and now have 86 dwarves in residence. Oh my. 
+[interjection] Drew: Oh my!
+[interjection] Kristin: It was at 77, and then while I was taking notes this afternoon, we got those remaining nine dwarves. So, very exciting. I'm also pleased to report that the mystery of Ral, the dead drunk from last week, has been solved, because our mayor, that I also talked about last week, Urvad Atulalan, was also found dead. 
+[interjection] Drew: Mmm!
+[interjection] Kristin: And you know, I had started the justice, and there was no mysteries or anything like that, and then I started getting all these combat notifications, and realized that there was a giant ulm in the caverns that was fighting with dwarves, and it was named, and I looked at its kills, and the mystery was solved. So now we know. I still don't know why he was just described as drunk, but maybe he was drunk at time of death, and now that's what he's remembered for. 
+
+[00:08:49] Drew:
+That's how we go down in history. 
+
+[00:08:51] Kristin:
+Yes. I talked a little bit about Rivad's marriage and their 10 children. And I checked in on her husband to see how he felt about his wife's death. And either he is unaware, or just doesn't care. Abbas Bellriddles is currently ecstatic. He has the happiest mood. And I noticed is a legendary metal crafter. He is the one that I had assigned to our metal crafting workshop thingy. And some 
+[interjection] Drew: Mmm.
+[interjection] Kristin: of his contributing factors to his good mood are feeling proud of the metal statues he has created for Wet Ring, and for teaching someone actually, which is something that we'll talk about a little bit later with Guild Halls. Oh, yeah, that's our topic for today. I guess we didn't mention that we're going to talk about Guild Halls. He also had, um, I noticed that he had created a something. So I went into the into Legends mode, because the name of what he was the creator of was cut off in his character sheet. And it was Grimtaxt the Bronze Earring, his family heirloom, that was recently destroyed at Wet Ring. Though I didn't ever get a notification or know what happened. Maybe, maybe his wife was wearing it, and she she died. But I perhaps we'll never know. I looked it up and couldn't find out. Yeah, yeah. And in further looking him up, he he's quite the guy. He's like 137. I think he has 18 children, 18, 18, only 10 of which were with the former mayor, 
+[interjection] Drew: Hmm.
+[interjection] Kristin: as he was both married and divorced before he met Urvaad. 
+
+[00:10:31] Drew:
+Fair enough, he gets around. 
+
+[00:10:32] Kristin:
+Yes, and in his history, in the early winter of 73, he was the manager of the Plank of Groups, which did not involve me, as that was before I started playing. That was in the history. And he was then convicted of embezzlement and imprisoned for a term of 10 years. 
+[interjection] Drew: Jeez.
+[interjection] Kristin: I didn't even know that dwarves could embezzle, or I mean, I guess I knew they could be imprisoned or whatever, but 10 years, that's a long time. That's longer than I stick with a lot of forts. 
+
+[00:11:07] Drew:
+It's interesting that then also, I guess he came out thinking family is important because then he proceeded to have 20 children. Yes! 
+
+[00:11:14] Kristin:
+Yes, I did not look to see if his eight children were born before he was 
+
+[00:11:19] Drew:
+Well, he still had another ten. 
+
+[00:11:20] Kristin:
+He did have another 10. Yes. And he became a blacksmith after his imprisonment. And yeah, his dream in his character sheet was to raise a family. And this dream obviously was realized. Many times. Yes. And then I kind of went down a little rabbit hole looking up embezzlement because I had no idea it was a thing. And you also encountered it this week, which we will talk about. And that was part of the villains update to the game, which was before my time. And dwarves can be tempted by nefarious villains. But in this case, 
+[interjection] Drew: Mm-hmm.
+[interjection] Kristin: there's no indication that he was led astray by any mysterious person. He just embezzled. 
+
+[00:12:02] Drew:
+He spontaneously became a villain. Exactly. Someone has to be. 
+
+[00:12:06] Kristin:
+Right. I mean, you know, he's creating interest for all of us. But then I got to wondering what dwarf embezzlement looks like since dwarf bucks are just an abstract concept, really. And they it's like all barter and, you know, communist. 
+
+[00:12:22] Drew:
+Yeah, you make coins, but the coins don't really have value to trade. I'm very confused. 
+
+[00:12:27] Kristin:
+So like, was he skimming off the top of the drink barrels? 
+
+[00:12:31] Drew:
+that's entirely possible or maybe he was keeping back some of the metal you know he was doing the whole chiseling you know keeping the gold scraps from the 
+
+[00:12:39] Kristin:
+Right, but he could just go and get some metal. Yeah. And have it. Like, anyway, so back to Irvod the Mayor. She has been replaced now by Tulon Knifehoves, a Grandmaster Miner and Skilled Organizer, which seems pretty fitting for a dwarf mayor. 
+
+[00:12:58] Drew:
+Knife holes! 
+
+[00:12:59] Kristin:
+Yes, it's an impressive name. She's not married and has no family members at Wet-Ringed, but she has many close friends among the dwarves, and she's a little unhappy currently because she still needs better quarters and an office and a dining hall and all of that stuff. But she began her tenure as mayor by banning the export of bolts, which we're not making anyway and we're getting rid of. Yeah, fair enough. Yeah. In other news, we did lose a gem cutter to a strange mood. She needed rock and inexplicably could not get rock. She was surrounded by rock. I made a stockpile full of rock right next to the workshop while she was slowly going mad, and it was not the right kind of rock, I guess. 
+[interjection] Drew: Ciao.
+
+[00:13:45] Drew:
+yeah i think maybe you need a specific like economic non-economic rock i don't i don't 
+[interjection] Kristin: Rock? I don't...
+[interjection] Drew: know or maybe it was blocks because oh yeah 
+
+[00:13:54] Kristin:
+Oh, yes, I bet it was blocks and I forgot about that damn blocks. Yeah, she needed rock blocks. Oh well 
+[interjection] Drew: ROCK BLOCKS
+[interjection] Kristin: So she she's dead, but we did have some successful artifacts cog standard fences a stone worker Created the high rim a limonite crown worth 12,000 more for us. Yeah, that's some skill if it's made out of limonite 
+[interjection] Drew: Power Farce.
+[interjection] Kristin: It's encrusted it has gold on it It's encrusted with cushioned limonite cabochons and oval native gold cabochons and decorated with dog bone 
+[interjection] Drew: Ah.
+[interjection] Kristin: Subject menaces with spikes of dog bone and milk quartz and it was fortunate for a cog that I had had to do a mass puppy Slaughter right before this happened because we wouldn't have had any other bones. I don't think so Yeah, he got lucky timing wise and then we also had a very boring artifact made by besmar paddled tramples a gelder He made the spattered stigma, which is a cool name kind of metal goth a little metal especially coming 
+
+[00:14:54] Drew:
+A little metal, especially coming from a gelder. 
+
+[00:14:57] Kristin:
+yeah i didn't even think about that uh it is a goblin cap wooden bin that menaces with spikes of more goblin cap it's a spiky wooden bin 
+
+[00:15:08] Drew:
+He really stretched himself with that one, didn't he? 
+
+[00:15:09] Kristin:
+with that one. Yeah, he was feeling really creative. Uh, that was only worth $1,500, dwarf bucks. Fair enough. In other excitement, we have many, many, many, many, many pests at this fort. So we've had a bunch of hungry heads and flesh balls. I looked up the hungry heads and they're pretty much what they sound like. Yeah. They're a head and a mouth with wings and they fly around and are terrifying, I would assume. 
+
+[00:15:33] Drew:
+More or less than the flesh balls. 
+
+[00:15:35] Kristin:
+Um, I mean, at least the flesh balls aren't flying. 
+
+[00:15:38] Drew:
+Bye. 
+
+[00:15:38] Kristin:
+They weren't doing much damage or anything, so I've, again, been using cage traps to deal with these things. And so I have, it's got to be upwards of 30 different creatures in cages, and I don't know what to do with them, so I just put them down in the bottom cavern level, and they're sitting there. And some of the troglodytes and naked mole dogs have had children and or puppies, and now those are in the cages. So we might train some naked mole dogs, I guess. You can train troglodytes, but I don't want to. That one weirds me out a little bit. And let's see. There was a notification that a hunter was hunting, which is apparently a thing that you get, and I don't care, but it was really ominous to have it pop up and say, so-and-so, a hunter is hunting. Like, what are you hunting? 
+
+[00:16:28] Drew:
+Do you have someone who is trained as a hunter? Maybe they just spontaneously started doing it. It must be that. 
+
+
+[00:16:37] Drew:
+Yeah, I occasionally get notifications that my particular hunter wasn't able to find anything during the hunt or something. I think it's just basically telling you that that person isn't available for assignment. 
+
+[00:16:47] Kristin:
+Oh, okay. Well, it felt very much like I was in like a fairy tale or a horror story. I'm not sure which one. 
+
+[00:16:54] Drew:
+It felt like you were being told for a reason. 
+
+[00:16:57] Kristin:
+yeah at any rate so that's the highlights out of wet rings i did build some guild halls and we're going to talk about that today but first why don't you tell me the news from fiery cities 
+
+[00:17:10] Drew:
+You got it. Fiery Cities has been having some success with their mining. We are continuing to mine through the obsidian spike with relatively few problems. I think we've had two people die to magma mistakes. Yeah. But in the meantime, we've gotten, you know, probably close to 50,000, 80,000 dwarf bucks worth of gems of different sorts. And then 150,000 dwarf bucks worth of 
+[interjection] Kristin: Oh, wow.
+[interjection] Drew: divine artifacts. 
+
+
+[00:17:48] Drew:
+So the technique of pumping out the water sections and lava sections in those obsidian walls does seem to work pretty well. 
+
+[00:17:56] Kristin:
+for you. I need to try again. 
+
+[00:17:59] Drew:
+Our population has gone over a hundred. Nice. Or at least it was until the Divine Judgment happened. 
+
+[00:18:06] Kristin:
+Oh, boy. Okay. 
+
+[00:18:08] Drew:
+Yeah, when we dug out the Divine Judgment from the Obsidian Wall, we released Tress Clutches, the Fountains of Legend, a scaly... a scaly cotoy... cotoy? I don't know. I didn't know that word. Yeah, some sort of, um, I think it was South American, like, raccoon cat thing. 
+[interjection] Kristin: Mm-hmm.
+
+[00:18:30] Kristin:
+Yeah, it was an interesting little creature. 
+
+[00:18:33] Drew:
+A scalicota in humanoid form, covered with a filmy sac, amethyst scales are small and far apart. 
+
+[00:18:39] Kristin:
+Wait, did you say covered with a filmy sack? Yeah. Ew. 
+
+[00:18:43] Drew:
+It was created by the human god Kikofluebastion and is a part with birth, discipline, laws, marriage, oaths, and pregnancy. It killed ten dwarves before we were able to bring it down. Whoa. The interesting thing with that for me is that it said something like it was the enforcer of laws, which as I looked into it and then realized that it was made by the god Kikofluebastion, I realized that it was called the enforcer of laws because laws was one of the spheres that Kikofluebastion was in charge of. 
+
+[00:19:17] Kristin:
+Gotcha 
+
+[00:19:18] Drew:
+At any rate, it did make clear that we need to get our military going. Yeah, sounds like it. Yeah, so that's gonna be the priority over the course of the next week there. The Greatest Coven has continued its good work for Vush. 
+
+[00:19:35] Drew:
+With Lika Tskalybridge, the sacred control accomplished blacksmith, who you'll remember previously was well-known for being cruel to those under her, 
+[interjection] Kristin: Yes.
+[interjection] Drew: she has increased her social skills into becoming a proficient intimidator. 
+
+[00:19:51] Kristin:
+Mmm! 
+
+[00:19:52] Drew:
+Meanwhile, Meng muscles labor. 
+
+[00:19:55] Kristin:
+Muscles, labor. 
+
+[00:19:56] Drew:
+the metal crafter who left the Greatest Coven to be second in command. 
+
+[00:20:09] Drew:
+The other big event is that our Myst Tavern that was making people so happy has unfortunately at this stage been overrun by ghosts. Three in the course of one year. 
+
+[00:20:19] Kristin:
+Wow, is this from the Divine Judgment? 
+
+[00:20:23] Drew:
+Yes, it's from people who died during the attack of the Divine Judgment. So everyone is now hanging out upstairs in the tiny tavern that 
+
+[00:20:31] Kristin:
+Why don't you carve some slabs? Get rid of those ghosts. 
+
+[00:20:35] Drew:
+Well, I did, but now no one seems to want to hang out in there anymore. 
+
+[00:20:37] Kristin:
+Ah, fair enough. 
+
+[00:20:39] Drew:
+So currently, uh, when I last saved it, 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: currently when I last saved it, um, they were piled three deep, uh, per tile in the tiny, in the tiny tavern up on the first level. 
+
+[00:20:50] Kristin:
+the first level. Oh man. Meanwhile, my dwarves have like a pretty nice tavern and I have yet to see a dance party or hear Drinkin' Industry, the fun song. 
+
+[00:21:01] Drew:
+Yeah, there's some sort of weighting towards these different activities that I think a given society has. 
+[interjection] Kristin: Come on.
+
+[00:21:07] Kristin:
+I'm usually so good on taverns and they're not a big fan of the one that I made them this time. 
+
+[00:21:13] Drew:
+But not all bad news, because we've had a not all bad news. We've been made a county, and Tosed was reelected mayor. And obviously, his wife was made a countess. Yes. The Geared Boulders, our metal crafting hall, has had a lot of success, with Kaga Bellblock, an accomplished surgeon, being filled with wonder watching a demonstration. 
+
+[00:21:36] Kristin:
+Yeah, I love that. 
+
+[00:21:37] Drew:
+The demonstration was done by Vorash Voicetown, an adequate metal crafter of opposite gender, so perhaps there are wedding bells in the future there. The other big event was an invasion by 
+[interjection] Kristin: Aw.
+[interjection] Drew: giant deer, which was quite cute because their sprites on the surface level are quite large and very cute. 
+
+[00:22:00] Kristin:
+Yeah, I did see one and it was indeed quite cute. 
+
+[00:22:04] Drew:
+Unfortunately, one of them, Weakened Scars, the Vices of Notching, killed multiple dwarves. 
+
+[00:22:09] Kristin:
+Oh, wow. 
+
+[00:22:11] Drew:
+Interestingly though, one of the dead dwarves had the socks and shoes of the countess. 
+
+[00:22:18] Kristin:
+That's kind of creepy, like maybe he's, you know, one of those guys. Yeah. 
+
+[00:22:22] Drew:
+Yeah, maybe it's one of those guys. At any rate, I've never actually encountered that before that I noticed, where a dead dwarf had items from another dwarf. 
+
+[00:22:34] Kristin:
+Yeah, that's really puzzling. 
+
+[00:22:36] Drew:
+Alas, my fishing attempts to create an aquarium have utterly failed. 
+[interjection] Kristin: have.
+[interjection] Drew: We've captured no fish, even though we have multiple places to put them. I'm just sort of moving on with that for the moment. 
+
+[00:22:48] Kristin:
+She could put something else in there. 
+
+[00:22:49] Kristin:
+Thanks. 
+
+[00:22:50] Drew:
+Yeah, I mean, that's going to be the plan. We'll turn it into a terrarium of some sort. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: But yeah, we've gotten all of those ancient treasures, which unfortunately I'm always kind of sad are not really interesting to talk about because they're just, you know, like twisted metal or whatever. So they're very powerful, 
+[interjection] Kristin: It's not very-
+[interjection] Drew: but they don't have anything interesting description-wise. So we've only had one weird artifact created, which was the gold statue of a moon snail man. 
+
+[00:23:17] Kristin:
+a moonsnail man moonsnail that was much higher pitched than i realized but i was kind of excited 
+[interjection] Drew: Moonsnail
+[interjection] Kristin: i want to know what a moonsnail man looks like 
+
+[00:23:25] Drew:
+Well, it's a moon snail. 
+
+[00:23:27] Kristin:
+I don't know what a moon snail looks like. Exactly. 
+
+
+[00:23:33] Kristin:
+Very cool. 
+
+[00:23:35] Drew:
+So, those have been kind of the highlights. It's a little bit of a pick-and-mix. 
+
+[00:23:40] Kristin:
+Mine was a little bit too, and that's okay. I mean, that's playing Dwarf Fortress, I think. 
+[interjection] Drew: Yeah.
+
+[00:23:44] Drew:
+I think so, too. Yeah, so the Geard Boulders Metalcrafting Hall thing was interesting to me, because I didn't really think that an accomplished surgeon would be that excited about watching a demonstration of metalcrafting. 
+
+[00:23:59] Kristin:
+Yeah, we had decided to talk about guild halls this week, so I went and built a couple. I chose just the two... well, let me back up. 
+
+[00:24:10] Kristin:
+I already had a farmer's guild, because inevitably that one gets enough workers and wants a guild hall really quickly. But then I went and searched what categories of jobs had the most workers, and they were miner, of course, and rangers, obviously. 
+
+[00:24:27] Drew:
+So what's a ranger? 
+
+[00:24:29] Kristin:
+Rangers are dwarves that work with live animals, which includes trainers, caretakers, dissectors, trappers, and ambushers. I question whether dissectors are in fact working with live animals. 
+
+[00:24:41] Drew:
+I was going to say that when you were reading it, but then I was like, I don't want to nitpick. 
+
+[00:24:44] Kristin:
+Yes, well, I'm just parroting the wiki here. So, uh, anyway, apparently we have eight of those, but we had ten, maybe not ten, maybe it was eight miners and six or something rangers. But, uh, the miner guild was just immediately flooded with dwarves. Like, they all wanted to go hang out there and learn about mining, and then I went and looked, and various dwarves had positive memories of learning about mining and watching a demonstration and teaching about mining, and I was just, I was, I had no idea that dwarves were so thirsty for knowledge. 
+
+[00:25:18] Drew:
+Did you get a prompt to establish the minor guild hall or did you? No. So you did that off your own accord? 
+
+[00:25:22] Kristin:
+guild halls lets your dwarves start to learn and improve even before there's a guild. 
+
+[00:25:33] Drew:
+That's my understanding because supposedly you will get the prompt to create a guild when you have 10 or more of a given profession in your fortress. What I didn't know looking through the wiki was that I'd never really connected for me before that you have both a sort of general guild but then also specific guild halls. 
+
+[00:25:55] Kristin:
+Yeah, so those dissectors could have their own guildhall. 
+
+[00:25:59] Drew:
+Right, so they could be a member of the Rangers Guild and then also the Animal Dissectors Guild. Yeah. 
+
+[00:26:04] Kristin:
+Yeah, that's, that's pretty cool. 
+
+[00:26:06] Drew:
+Yeah, and miners are kind of the only exception to that. Miner is its own thing, I think, probably for historical reasons. But when you start then breaking that down, you can wind up with a lot of guilds. 
+
+[00:26:19] Kristin:
+Yeah, the list of all possible dwarven professions is huge. 
+
+[00:26:24] Drew:
+And that does make it possible then to kind of decide on your own what you want your fort to specialize in because you can make guilds before you have a request for a guild hall. 
+
+[00:26:32] Kristin:
+Yeah, and start training them in a certain direction. Exactly. So I have that legendary metal worker, but not a ton of other metal workers. But he enjoys teaching and demonstrating, and I think that I'm going to build that guild hall so that other dwarves can benefit. 
+
+[00:26:49] Drew:
+I think that's the way to go and the other cool thing about that as well is you can get the kids to go into those guild halls and learn useful skills and also I think make 
+[interjection] Kristin: and we'll be right back.
+[interjection] Kristin: and we'll be right back.Coming up on KELOLAND newsat six. We'll be right back.
+[interjection] Drew: them happier. 
+
+[00:26:59] Kristin:
+Yeah, and, I mean, I don't know how to make children happy, but if that will make a child happy, then, by God, get you to the Guildhall child. 
+
+[00:27:07] Drew:
+Exactly. I'm assuming maybe you put toys in there or something to attract them? Yeah. Because you make a guild hall by designating it as a usual type of meeting zone and then there's an option in the panel to select the particular guild that you want it to be. 
+
+[00:27:23] Kristin:
+Yes, yeah, that's that's correct. And then you choose who can go to it 
+
+[00:27:30] Drew:
+Right, so what were the options there? 
+
+[00:27:32] Kristin:
+So you can do only guild members, all residents, and anyone, and then you can have people come from outside of your fort who will attend demonstrations and things and maybe bring knowledge. 
+
+[00:27:44] Drew:
+I assume give demonstrations, right? Like, so if you do it from people outside the fort, then you can have like legendary travel, legendary human travelers come in and show. That's so cool. Yeah. 
+
+[00:27:52] Kristin:
+yeah that's so cool yeah so i definitely i think that i set mine to not have visitors allowed because i was starting i'm starting to struggle on the drinks again so i need to i didn't want 
+[interjection] Drew: Mm-hmm.
+[interjection] Kristin: to have like a population explosion because my amazing guild halls uh it's worth noting also that um to be to meet the covenant when you agree to make a guild hall um it needs to reach that two thousand dwarf buck value 
+
+[00:28:19] Drew:
+And you have to go in and establish it yourself. And then also that you need to do that within a year. 
+
+[00:28:26] Kristin:
+Yes, yeah, and they they get unhappy if you don't fulfill it I had had that happen to me a couple of times and I'm like, but I made you a guild hall And it wasn't high enough value. Yeah 
+
+[00:28:35] Drew:
+yeah yeah the challenge there as well is uh what i always do is take a screenshot when i agree to one of those because it's hard to find where you've agreed to yes 
+
+[00:28:43] Kristin:
+Yes, I have not. That was my problem. I actually have gotten back to taking notes when I'm playing Dwarf Fortress to remind myself like, hey, you need to meet a guild pact requirement. 
+
+[00:28:57] Drew:
+It's funny that you have to take notes in this game, but you gotta do what you gotta do. 
+
+[00:29:00] Kristin:
+I take notes in everything, so that's normal for me. 
+[interjection] Drew: Yeah, that's fair enough
+[interjection] Kristin: I also saw that you can overlap zones, so if you put a medical doctor's guild or whatever overlapping with a hospital, that can be useful. 
+
+[00:29:18] Drew:
+Because the doctor will be doing guild stuff, I guess, when he's not actually doing direct doctoring stuff. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: It's sort of like, I like to make the doctor's room, like his quarters next to there, just because then he's always around and ready to do things there. Yeah, I think that's a good plan. And again, at some point we need to do a deep dive into kind of how zoning works in Poor Fortress. 
+
+[00:29:43] Kristin:
+Mm-hmm and layering zones because I have also heard of people like layering tavern with a guild and they can learn and Drink at the same time 
+
+[00:29:54] Drew:
+Which sounds very dwarf-y if you're just in there. Yeah, it really does. 
+
+[interjection] Drew: while they're-
+
+[00:30:01] Drew:
+Exactly. Well, it's like what they say that if you learned for your test drunk, then you have to be drunk when you take your test. And dwarves work drunk, so they probably should learn drunk. 
+
+[00:30:12] Kristin:
+Yeah fair enough, didn't think of that. So have you decorated any of your guilds accordingly? 
+
+[00:30:19] Drew:
+A little bit. So I've made some custom statues here and there to be able to put the specific items in there. 
+[interjection] Kristin: It should be.
+[interjection] Drew: Yeah. And that's always kind of fun. And then also, you know, to choose a metal or color for the area that matches the topic. 
+[interjection] Kristin: Mhm.
+[interjection] Drew: Also it makes it easier to remember which is which. 
+[interjection] Kristin: Also.
+[interjection] Drew: Yeah, that's the big thing. 
+
+[00:30:39] Kristin:
+ranger really meant. And I was thinking in terms of like, you know, Aragorn or D&D classes. And I 
+[interjection] Drew: All right.
+[interjection] Kristin: was like, I don't know, a dwarf with a bow. And when you're making that, designating the custom statue, you have like the X and Y and choose like an action or whatever. And I was making a dwarf shooting a bow. But then it occurred to me that I don't know transitive intransitive, but I don't know if the dwarf was shooting the bow as in drawing the bow to shoot it or shooting the bow with something else, possibly another bow. 
+
+[00:31:24] Kristin:
+I would 
+
+
+[00:31:25] Kristin:
+Yeah, so I need to look more carefully at that statue once it's made to see what it is actually doing. And I think that in the Miner's Guild, I have a silver statue of a dwarf using a pickaxe, or holding a pickaxe. 
+
+[00:31:39] Drew:
+holding a pickaxe proudly like Luke in the... 
+
+[00:31:42] Kristin:
+I didn't specify like what they're doing with it so he might be looking at it confusedly for all I know because I just set that legendary metal crafter to work like have fun other than I want a dwarf with a pick 
+
+[00:31:54] Drew:
+This reminds me of one of my favorite bugs for Dwarf Fortress that I think is fixed at this stage, but with the right amount of luck, when a dwarf makes a statue or other kind of artistic item that has a topic, they could hit recursion and make an image of themselves, and it would just loop out until it stopped. 
+[interjection] Kristin: making an image up, and it would just loop out until the end.
+[interjection] Kristin: Yeah.
+[interjection] Drew: And I always thought that was hilarious, people would have that, because it would also then make it very valuable because it kept having more and more... It's so intricate. 
+
+[00:32:35] Kristin:
+Yeah, my favorite is still the statue that was throwing shade, the statue for the mayor of him losing an election. 
+
+[00:32:42] Drew:
+I have a topic like that from Legends Mode that I'll tell us in a minute. Before we move on, I do want to say... 
+
+[00:32:47] Kristin:
+Yeah, I have some more stuff I want to say about guilds, so... 
+
+[00:32:50] Drew:
+Yeah, but before we move on, to do this statue thing, or there's a couple other items. 
+[interjection] Kristin: Oh
+[interjection] Drew: We'll have to talk about this specifically at some point. But when you add the work order or you create it, you'll see a little magnifying lens next to it in the work list. You click on that, and then you can specify the sort of specific topic yourself. 
+
+[00:33:14] Kristin:
+Exactly. Yeah, it's not super obvious. 
+
+[00:33:17] Drew:
+Yeah, I don't know. The magnifying lens just never really jumped out at me as this is how you do this, but... 
+
+[00:33:23] Kristin:
+Here we are. 
+
+[00:33:23] Drew:
+Yeah. So you have more stuff about guilds. 
+
+[00:33:25] Kristin:
+Well, I wanted to ask, what guilds do you see requested most frequently, because we mentioned that the farmers always want one, and often miners or stoneworkers, but what others have you seen the dwarves unionize and want to guild haul? 
+
+[00:33:41] Drew:
+Metalsmith usually and again, this is I think because of the way we play You know because I try to I try to get to magma as quick as possible and then I have a lot of metalsmithers 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Yeah, metalsmithies. I think I've gotten requests for Brewers guilds before Let me double check that that is actually a thing, but I'm pretty sure 
+
+[00:34:00] Kristin:
+It seems like it would be a sub-guild to farmers. Yeah, yeah. 
+
+[00:34:03] Drew:
+yeah yeah yep brewer's hall yeah yep so i've gotten that before i have never gotten any of 
+[interjection] Kristin: Yeah.
+[interjection] Drew: the engineering ones um hey 
+
+[00:34:12] Kristin:
+I don't do a lot of engineering, so... 
+
+[00:34:15] Drew:
+yeah i think i've gotten a request for a doctor's guild before i've never gotten a specific sub uh 
+[interjection] Kristin: Yeah, we're good.
+[interjection] Drew: yeah like 
+
+[00:34:21] Kristin:
+Yeah, like, Diagnosticians Guild. 
+
+[00:34:25] Drew:
+I'm surprised that I've never gotten an engraver's guild request. 
+
+[00:34:28] Kristin:
+Oh, I think that I frequently end up 
+
+[00:34:31] Kristin:
+setting everyone to engrave so that when you have a hundred dwarves the odds of them doing repeated engraving and becoming an engraver may be a little lower. 
+
+[00:34:41] Drew:
+Yeah, I guess that's probably fair. The other different thing about guilds is that you don't 
+[interjection] Kristin: Yeah.
+[interjection] Drew: have to specify the leaders of them, unlike with the religious organizations. I'm assuming they do some sort of like whip-round vote or something for who's in charge. You can ask your mom. Let's see, you had other questions? 
+
+[00:35:02] Kristin:
+Um, if I did I've now forgotten them, but I did want to ask the one that you've seen spontaneously 
+
+[00:35:07] Drew:
+um guild halls are interesting because it's like you've got these different places where dwarves can learn about different things because you've got the guild halls for their skills you've got barracks for combat skills and you've got taverns for social skills yeah 
+
+[00:35:22] Kristin:
+Yeah, but they like to socialize in the guild halls too. 
+
+[00:35:26] Drew:
+They do. They do. And I think you build up certain social skills from that. 
+
+[00:35:29] Kristin:
+want to see how this affects the work that we're doing in my fort. Not that we're really doing any specific work at this fort. I keep having like ideas of what I want to do with it and then I never follow through or it's something that I have to look up and then I just kind of move on to something else. 
+
+[00:35:52] Drew:
+Yeah, I'm disappointed that I can't seem to get my damn fissures to work right. 
+
+[00:35:55] Kristin:
+Have you looked it up? 
+
+[00:35:57] Drew:
+I have, and it just, yeah, I just can't seem to make it work. 
+
+[00:36:01] Kristin:
+My fishing is not working at all. And I have had, I've fed multiple forts with fishing. And this time, actually the last couple of forts, I've had fishers and fisheries and all of those things and they're never catching any fish. 
+
+[00:36:15] Drew:
+Yeah, I made the traps, animal traps, or small traps, 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: or whatever the hell it's called, 
+[interjection] Kristin: Yeah.
+[interjection] Drew: that is what you supposedly need in order to catch live fish and put them into things. And it doesn't seem to do anything. They just sort of stand there with them. Anyway, I'm moving on from that. I'm finding a different topic. I'm having fun digging out the obsidian. Oh, yes. 
+
+[00:36:40] Kristin:
+Yes, that's that sounds like fun. I can't find magma at wet ringed so I'm getting a little frustrated with that because we have a lot of wood because we have just very Verdant caverns, but I'm getting tired of having to fuel my forges 
+
+[00:36:56] Drew:
+Yeah, I think that's it gets old fast having to having to keep that up to make it the charcoal 
+[interjection] Kristin: Yeah.
+[interjection] Drew: and then get the charcoal to the forges and all of that sort of thing. 
+
+[00:37:06] Kristin:
+And my my other I do have one other failure in my forts. It's not really a failure It's just a forgotten project is the the bees the bees bees 
+[interjection] Drew: You
+[interjection] Kristin: I I don't know the hive box thing is occupied, but I have none done nothing further with it so I need to remember to look that up and 
+
+[00:37:24] Drew:
+Yeah, you've got to get the press going and all that other stuff to get the honey. 
+
+[00:37:28] Kristin:
+That's like the cloth dying. I have not followed through on that either. 
+
+
+[00:37:36] Kristin:
+Oh, that would be fun. I wonder if anyone would like if there are any workers currently. I'll have to check. But anyway, that's enough. Belly aching for me about my not following through 
+
+[00:37:54] Drew:
+Yeah, normally I try to talk about like the Forgotten Beasts and that sort of thing that happened at my fort, but honestly with this fort I haven't had any Forgotten Beasts. I haven't either. So I went digging through Legends Mode, in part inspired by that attack of the Divine Retribution. Right. 
+
+[00:38:09] Drew:
+And so I looked for Kiko Flute Basin, Flute Bastion. Ah. Flu... Kiko Flute Bastion. You should leave all those takes in. 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: Okay. Who, incidentally, the leader of his organization's religious groups are called Holy Glitters. 
+
+[00:38:28] Kristin:
+Oh, I want to be a holy glitter. I think I say that about all of the religious leader titles. 
+
+[00:38:35] Drew:
+Um, except for that, uh, except for that, uh, muck bee. 
+
+[00:38:39] Kristin:
+Yeah, the, I don't want to work for the itch of puke. 
+
+[00:38:42] Drew:
+Yeah, exactly. Kiko Flute Bastion, despite his spheres being birth, discipline, law, marriage, oaths, and pregnancy, you would think he would be kind of good aligned. 
+[interjection] Kristin: Mhm.
+
+[00:38:55] Drew:
+bound a coyote demon to the world with a copper slab at the time before history. Oh, wow. So. Coyote demon. Yeah, that seems a little weird to me, but I don't know. It's Yeah. But one of the top people in his religious organization is Kikrost Lenzbranded. Kikrost Lenzbranded, a female dwarf born in the year three. 
+[interjection] Kristin: Warning
+[interjection] Drew: She was the second eldest daughter of Arab metal charmed and Donas craft armor. She's led an interesting life and not really a good one. 
+
+[00:39:40] Drew:
+Is she a villain, too? She is a villain. Yay. In 21, she became a scout in Groveslings. In midwinter 21, she fooled the Sword of Warriors into believing she was the poet Unib Worksmiths of the Sword of Warriors. Then in the midwinter of 21, as the poet Unib Worksmith, she visited Cryptshield to gather intel. In 29, she became lovers with Zahn Granitslipt. In 30, she married Zahn Granitslipt. In 30, she left where she was living with Zahn Granitslipt 
+[interjection] Kristin: Grab the clips.
+[interjection] Drew: and settled in Anguish Iron. In 31, she fooled the Entangled Realms into believing she was the monster slayer Onaf Shurok of the Entangled Realms. In the early summer of 31, she visited Fauntel to gather information. In 42, she became lovers with Massus Diamondclasp and married Massus Diamondclasp in 47. 
+
+[00:40:37] Kristin:
+Did she ever divorce Zahn? 
+
+[00:40:39] Drew:
+No. 
+
+[00:40:40] Kristin:
+Oh. 
+
+[00:40:40] Drew:
+She left Massus Diamondclasp in 47 to settle in Sackquisses. She then became the manager of the Saber of Authoring. In the early winter of 66, she began embezzling funds as the manager of the Saber of Authoring. In mid-autumn of 71, she ceased to be the manager of the Saber of Authoring. In the mid-autumn, she was convicted of embezzlement and imprisoned for a term of six years. In 78, she became a miner in Sackguises. In 80, she gave up being a miner to become a weaponsmith in Sackguises. In 80, she became- 
+
+[00:41:15] Kristin:
+I sense commitment problems. Yes. 
+
+[00:41:17] Drew:
+and then began embezzling funds as the Alderperson of the Scarlet Guild. In the early spring of 88, 
+[interjection] Kristin: person.
+[interjection] Drew: she ceased to be Alderperson of the Scarlet Guild and became a weaponsmith again. In 61, she was taken by a fey mood in Sackguises and created Crested Conjured. Crested Conjured is what brought her to the attention of Kikou Flute Bastion. 
+
+[00:41:48] Kristin:
+Ah, okay. 
+
+[00:41:49] Drew:
+because Crested Conjured was a silver mace. All the craftsmanship, of course. All the craftsmanship, of course, was of highest quality. Encircled with bands of opal jet cabochons, menacing with spikes 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: of onyx opal. On the item is the image of Licat Craftslick, the dwarf, and dwarves in giant cave spider silk. The dwarves are refusing Licat Craftslick. Licat Craftslick looks confused. It relates to the removal of the dwarf, Licat Craftslick, from the position of Chief Medical Dwarf of the Sable of Arthur. 
+
+[00:42:23] Kristin:
+More scandal. Is there any indication of whether or not the the personalities she assumed were made up or was she stealing an identity? 
+
+[00:42:32] Drew:
+i believe she was stealing identities. i love it. but she was also stealing them in the place where 
+[interjection] Kristin: I love it.
+[interjection] Drew: the people were or part of the community the people were from although i guess if you steal the identity from a place people don't know about where you are then it doesn't do anything because it's like that character because then it's just like that character in final fantasy 14 who's 
+
+[00:42:52] Drew:
+I was actually my sister this whole time! 
+
+[00:42:55] Kristin:
+I didn't know you had a sister. 
+
+
+[00:43:01] Kristin:
+So this makes no difference. I don't care. 
+
+[00:43:05] Drew:
+It was this sort of in Final Fantasy 14 It was just this dramatic reveal where she pulled off her mask and said I was my sister the whole time 
+
+[00:43:14] Kristin:
+okay yeah but now that i know you can you go back to being your sister because she seemed cooler 
+
+[00:43:19] Drew:
+Exactly. She seemed cooler. She seemed cooler. You were cooler with the mask. Let's just put this back on. 
+
+[00:43:23] Kristin:
+Let's just put that right back on there. So. 
+
+[00:43:28] Drew:
+So, that's my tales from Legends mode. 
+
+[00:43:31] Kristin:
+That's fun. That's really fun. 
+
+[00:43:32] Drew:
+It's just weird how much is going on off in the world without sharing this game. 
+
+[00:43:36] Kristin:
+without you in this game. Well, it's like the mayor's husband. I don't know if I would have ever looked him up until I saw how happy he was, even after his wife died. 
+
+[00:43:46] Drew:
+Yeah, I know. We need to be able to find out, like, see when they find out about it. 
+
+[00:43:51] Kristin:
+Yeah, there was no indication that he knew, so. 
+
+[00:43:55] Drew:
+Yeah, maybe you'll eventually see a negative moodlet from the decay of a loved one. 
+
+[00:44:01] Kristin:
+yeah and maybe he just didn't see her dead body and somehow she got 
+[interjection] Drew: Yeah.
+[interjection] Kristin: buried without him ever knowing because she's entombed now 
+
+[00:44:08] Drew:
+and no one ever bothers to tell him. 
+
+
+[00:44:11] Drew:
+I haven't seen my wife in nine months. I wonder where she is. Oh, well, I'm so happy I'm so happy with my metal smithing Getting so much metal smithing done 
+
+[00:44:22] Kristin:
+Wow. It's amazing what you can do when you're the mother of your 10 children isn't around. 
+
+[00:44:28] Drew:
+Exactly 
+
+[00:44:28] Kristin:
+Bye! 
+
+[00:44:29] Kristin:
+Anyway, so I think that just about covers it. 
+
+[00:44:34] Drew:
+yeah um let's see you talked about the future of wet rings already a little bit yeah wet ringed wet ringed um let's see and i yeah for the future of fiery cities i'm having to move on from i'm 
+[interjection] Kristin: A little bit, yeah.Wet-ringed?Wet-ringed.
+[interjection] Drew: going to have to move on from the aquarium plan because i just can't get that off the ground 
+
+[00:44:50] Kristin:
+can't get that off the ground. Just gotta let that dream go. 
+
+[00:44:53] Drew:
+No, I think I need to build up my military in order to see if we can fight some demons. I might actually be able to get to the demons this time with the obsidian. 
+[interjection] Kristin: It's the same with the...
+
+[00:45:01] Kristin:
+well you know if you set that goal it's not going to happen so you've got to set a different goal fair 
+
+[00:45:05] Drew:
+Fair enough. Well, my goal is to build a bunch more rooms at the moment and get us from a hundred to like two hundred. Ooh, yeah. So I can finally, for the first time, get my place up to the mountain home. 
+[interjection] Kristin: Ooh.Yeah.Sorry.
+[interjection] Drew: Because I've certainly gotten a lot of money made. Yeah. 
+
+[00:45:19] Kristin:
+made yeah that is true and if you're not having like beast problems or invader problems oh that reminds me i do have in the list of others on creatures i have some cave swallow people lurking somewhere i don't know where they are but they're out there 
+
+[00:45:34] Drew:
+Well, those are easier to deal with or not have be quite as hostile as the frog people. Yeah, those reptile men. 
+
+[00:45:40] Kristin:
+yeah those reptile men i haven't seen any more since i just oh right i turned the thing off with the invaders i forgot about that yeah so 
+
+[00:45:47] Drew:
+Yeah, so I guess the Swallowmen maybe aren't invaders. 
+
+
+[00:45:52] Drew:
+Well... 
+
+[00:45:53] Kristin:
+I think that covers it for this week. 
+
+[00:45:56] Drew:
+Yeah, you guys should try making guilds. If you're new Dwarf Fortress players, make some guilds. See how that improves the skills of the people in your fort and lets you customize your fort to the direction you want to take it in. 
+
+[00:46:09] Kristin:
+Yeah, watch those dwarves get smart. 
+
+[00:46:12] Drew:
+Watch those miners get good. 
+
+[00:46:15] Kristin:
+And until next time. 
+
+
+[00:46:18] Kristin:
+Just keep digging! 

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,680
+setting everyone to engrave so that when you have a hundred dwarves the odds of them
+
+2
+00:00:05,680 --> 00:00:09,360
+doing repeated engraving and becoming an engraver may be a little lower.
+
+

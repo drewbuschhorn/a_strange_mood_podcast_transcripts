@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:27,000
+This reminds me of one of my favorite bugs for Dwarf Fortress that I think is fixed at this stage, but with the right amount of luck, when a dwarf makes a statue or other kind of artistic item that has a topic, they could hit recursion and make an image of themselves, and it would just loop out until it stopped.
+
+2
+00:00:27,000 --> 00:00:35,000
+And I always thought that was hilarious, people would have that, because it would also then make it very valuable because it kept having more and more...
+
+3
+00:00:35,000 --> 00:00:36,000
+It's so intricate.
+
+4
+00:00:36,000 --> 00:00:41,000
+Yeah. I think that was a fun little... Is it a bug or a feature?
+
+

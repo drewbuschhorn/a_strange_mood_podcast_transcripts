@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,840
+Adventure mode progress, more procedural customization,
+
+2
+00:00:03,840 --> 00:00:07,280
+including faces, clothes, and size of sprites,
+
+3
+00:00:07,280 --> 00:00:09,120
+and then a bunch of other things.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,300
+Yeah, I occasionally get notifications that my particular hunter wasn't able to find anything during the hunt or something.
+
+2
+00:00:06,300 --> 00:00:10,140
+I think it's just basically telling you that that person isn't available for assignment.
+
+

@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,920
+Do you have someone who is trained as a hunter?
+
+2
+00:00:02,920 --> 00:00:05,320
+Maybe they just spontaneously started doing it.
+
+3
+00:00:05,320 --> 00:00:06,160
+It must be that.
+
+

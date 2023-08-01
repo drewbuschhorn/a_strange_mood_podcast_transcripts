@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:04,560
+Yeah, but before we move on, to do this statue thing,
+
+2
+00:00:04,560 --> 00:00:06,880
+or there's a couple other items.
+
+3
+00:00:06,880 --> 00:00:09,280
+We'll have to talk about this specifically at some point.
+
+4
+00:00:09,280 --> 00:00:14,080
+But when you add the work order or you create it,
+
+5
+00:00:14,080 --> 00:00:17,560
+you'll see a little magnifying lens next to it in the work
+
+6
+00:00:17,560 --> 00:00:18,440
+list.
+
+7
+00:00:18,440 --> 00:00:21,200
+You click on that, and then you can
+
+8
+00:00:21,200 --> 00:00:25,600
+specify the sort of specific topic yourself.
+
+
