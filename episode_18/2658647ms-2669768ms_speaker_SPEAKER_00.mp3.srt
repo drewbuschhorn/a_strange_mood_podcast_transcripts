@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,320
+It's hard to bring your own fun, and with any type of simulation game at some point you start to see the spreadsheet behind the game.
+
+2
+00:00:06,720 --> 00:00:10,920
+And once you start seeing the numbers moving around, it's not as fun.
+
+

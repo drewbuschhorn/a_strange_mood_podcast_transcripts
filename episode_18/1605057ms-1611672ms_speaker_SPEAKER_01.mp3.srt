@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,200
+And these are against rolling a 20-sided die.
+
+2
+00:00:03,200 --> 00:00:06,560
+So it can be very hard to, very hard to lose.
+
+

@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:03,440
+But we'll get to all that. Let's take care of some housekeeping first.
+
+

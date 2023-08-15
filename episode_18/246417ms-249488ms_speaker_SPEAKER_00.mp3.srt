@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:03,080
+Oh wow, it's taken a while for you to get a Forgotten Beast at that fort.
+
+

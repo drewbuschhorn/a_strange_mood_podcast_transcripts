@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:02,600
+So first up, Gash on our Discord
+
+2
+00:00:02,600 --> 00:00:05,000
+is working on a programming project
+
+3
+00:00:05,000 --> 00:00:09,720
+where he needs some people familiar with BB code,
+
+4
+00:00:09,720 --> 00:00:14,720
+the forum language, and the Simple Machine Forums system.
+
+5
+00:00:15,840 --> 00:00:17,800
+If you're familiar with that, hop on the Discord
+
+6
+00:00:17,800 --> 00:00:20,560
+and see if you're interested in helping him out.
+
+

@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,200
+The one that killed the most of the dwarves was named
+
+2
+00:00:02,200 --> 00:00:04,640
+Sold Boats, the giant fox.
+
+3
+00:00:04,640 --> 00:00:05,480
+Sold Boats.
+
+4
+00:00:05,480 --> 00:00:06,320
+Sold Boats.
+
+
