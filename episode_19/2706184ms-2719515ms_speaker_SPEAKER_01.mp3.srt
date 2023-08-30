@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:05,000
+My other issue is how much of the interesting detail
+
+2
+00:00:05,040 --> 00:00:07,140
+that Dwarf Fortress generates
+
+3
+00:00:07,140 --> 00:00:10,920
+that then disappears off into the ether,
+
+4
+00:00:10,920 --> 00:00:13,480
+unavailable to the player to access, really.
+
+

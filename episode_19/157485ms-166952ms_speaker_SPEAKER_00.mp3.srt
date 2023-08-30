@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:03,120
+I have written books, yes. And you can buy them sometimes.
+
+2
+00:00:03,120 --> 00:00:03,760
+Sometimes?
+
+3
+00:00:03,760 --> 00:00:07,200
+Yes, it's very unclear because the publisher dropped the line,
+
+4
+00:00:07,200 --> 00:00:09,280
+but it's still for sale, so I have no idea.
+
+

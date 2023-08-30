@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:02,600
+while the dyer continued working on the dye.
+
+

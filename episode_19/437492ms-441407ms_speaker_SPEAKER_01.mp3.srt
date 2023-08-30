@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,120
+It was a happy coincidence.
+
+2
+00:00:01,120 --> 00:00:01,760
+It was.
+
+3
+00:00:01,760 --> 00:00:03,840
+An unhappy coincidence. I'm not sure which.
+
+

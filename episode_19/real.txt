@@ -1,0 +1,977 @@
+
+[00:00:00] Kristin:
+is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress Podcast. I'm Kristin. 
+
+[00:00:23] Drew:
+And I'm Drew. 
+
+[00:00:24] Kristin:
+And we are a couple. 
+
+[00:00:26] Drew:
+who are playing Dwarf Fortress. Yes. 
+
+[00:00:27] Kristin:
+Yes, and we actually did play Dwarf Fortress this week. 
+
+[00:00:30] Drew:
+the last two weeks. 
+
+
+[00:00:32] Drew:
+We're at every other week podcast. 
+
+[00:00:34] Kristin:
+Whatever, I've lost all sense of time. 
+
+[00:00:36] Drew:
+Time is an illusion, but do you know what's not an illusion, Kristin? What? Right now, I feel so empathetic. You do? Yeah. Why? Because I brought you to rest. 
+
+[00:00:46] Kristin:
+Oh, yeah, that's true, and you brought me water, too. 
+
+[00:00:49] Drew:
+That's right. Really, I'm the hero here. 
+
+[00:00:52] Kristin:
+Yes, but unfortunately I have lost my ability to walk. 
+
+[00:00:55] Drew:
+You've lost your ability to stand. 
+
+[00:00:57] Kristin:
+Yes, I can stand no longer and so I will not be able to work. I will just be depressed and stay in bed. 
+
+[00:01:04] Drew:
+Alas, alas, alas, but I feel so empathetic. I bought you crutches. 
+
+[00:01:09] Kristin:
+Oh, yep, you did. Yep, they're masterwork crutches. 
+
+[00:01:12] Drew:
+Meh, they're on their way. 
+
+[00:01:13] Kristin:
+I don't know. I feel pretty good because I've gotten better at using a crutch and also I feel good about having been brought water. That made me feel loved. It was nice to be cared for. 
+
+[00:01:24] Drew:
+Absolutely. 
+
+[00:01:27] Drew:
+So, in actuality, you are injured. 
+
+[00:01:29] Kristin:
+I am injured, but I can still walk and stand. 
+
+[00:01:32] Drew:
+Um, I don't know about that. 
+
+[00:01:34] Kristin:
+Well, okay, I can stand. I can't walk very well. 
+
+[00:01:37] Drew:
+You kind of hobble around going gurp, gurp, gurp, gurp. 
+
+[00:01:39] Kristin:
+Gerp. Gerp. Gerp. Yeah, no. I do do that a little bit. Yeah. Sometimes just for fun though. 
+[interjection] Drew: Yeah.
+
+[00:01:46] Drew:
+Well, and your visit to the Chief Medical Dwarf was not the most successful. 
+
+[00:01:51] Kristin:
+He was not the best diagnostician in the fort, it's possible, but, you know, they gave me medicine and eventually I'll get better. 
+
+[00:01:59] Drew:
+Something like that. 
+
+[00:02:01] Kristin:
+Well, what have we got on the podcast docket this week? 
+
+[00:02:05] Drew:
+Ah, well, today we're going to talk about how to find stories in Dwarf Fortress. Yes. Or even which story to choose in Dwarf Fortress, because you kind of trip over them. 
+
+[00:02:16] Kristin:
+Yes, this is a topic that is near and dear to my heart, and to go along with it, I did write a very short, short story that will be in the episode somewhere, either at the end or in the middle. 
+
+[00:02:27] Drew:
+I don't know. You're the one who stitches this all together at the end. 
+
+[00:02:30] Kristin:
+That'll be at the end. 
+
+[00:02:31] Drew:
+So, um, and why is it near and dear to your heart, Kristin? Well, because I'm a writer. And have you written any books? 
+
+[00:02:37] Kristin:
+I have written books, yes. And you can buy them sometimes. Sometimes? Yes, it's very unclear because the publisher dropped the line, but it's still for sale, so I have no idea. 
+
+[00:02:47] Drew:
+The joys of the modern publishing industry. 
+
+[00:02:49] Kristin:
+I love it. 
+
+[00:02:52] Drew:
+They're somewhere on Amazon. 
+
+[00:02:53] Kristin:
+Yes, they are. 
+
+[00:02:54] Drew:
+Housekeeping 
+
+
+[00:02:56] Drew:
+I think it tends to be in the summer as everyone's off doing other things. 
+
+[00:03:02] Kristin:
+Oh, we were talking about Baldur's Gate a lot there for a while. Yeah. 
+
+[00:03:05] Drew:
+Yeah, and we'll be talking about it again. Yes, but for the moment, I will tell you the results of the tournament 
+[interjection] Kristin: Yes.
+
+[00:03:12] Kristin:
+Hooray. 
+
+[00:03:13] Drew:
+the 8th annual tournament. Hope it's the 8th, I didn't actually write it down this time. But we're just going to run with 8th. Sure. So, over at Bay12Games, you can read the entire fight yourself, but the tournament wound up with Logum Branch Syrup, the Wolverine Man, versus Knifing Around, the Hori Marmot Woman, which I remember we talked about both of them previously. Yeah. Katana Blows from Logum gave him an early lead, and Knifing Around was never able to recover, losing legs, feet, arms, and hands every time she tried to attack Logum. Eventually, after one last lunge cost her what remained of her left arm, Knifing Around's blood-streaked body slammed to the ground and failed to rise again. Congratulations to Logum Branch Syrup, champion of the 8th tournament. 
+
+[00:04:02] Kristin:
+What does he say when? 
+
+[00:04:04] Drew:
+I think he gets to live. 
+
+[00:04:05] Kristin:
+Oh! Great! 
+
+[00:04:07] Drew:
+but he also wins the right to fight the winner of the seventh tournament. 
+
+[00:04:10] Kristin:
+Oh, I didn't know they did that. 
+
+[00:04:12] Drew:
+Logan Branchsyrup, the champion of Tournament 8, versus the reigning arena champion, Poppy Penetrator, a snapping turtle man, the champion of Tournament 7. We're just going to move on. We're just going to breeze right past it. 
+
+[00:04:24] Kristin:
+Yep, we're not going to talk about the snapping turtle, man. 
+
+[00:04:27] Drew:
+The, the, the name Poppy Penetrator. 
+
+[00:04:29] Kristin:
+Oh yes, I was imagining the snapping turtle man but I guess we're not bruising past it. Here we are. 
+
+[00:04:37] Drew:
+Um, let's see. That wound up with the final fight ending as Poppy's body grows weaker and weaker. He throws all his strength into one last chomp at Logum. Poppy closes his mouth on empty space and suddenly finds himself much lighter as he sails through the air. Poppy's view bounces on the stone floor of the arena several times, but as his view settles, he finds himself looking at his pudgy, decapitated body lying at the ground at Logum's feet. 
+
+[00:05:04] Kristin:
+Oh dear. Congratulations to Logan! 
+
+[00:05:04] Drew:
+champion of Tournament 8, the Wolverine Man. 
+
+[00:05:15] Kristin:
+Very nice. 
+
+[00:05:16] Drew:
+Congrats also to the big winner in the betting pool, Bralbard, who bet on Dreadhoof two rounds before Dreadhoof died, then swapped to Logem for the remaining four rounds and won each time. So he wound up with a very nice haul of utterly pointless credits. Congratulations. 
+
+[00:05:38] Kristin:
+and bragging rights. 
+
+[00:05:40] Drew:
+Bragging rights of the virtual fight. Yes. 
+
+[00:05:43] Drew:
+So, that is it for housekeeping. 
+
+[00:05:46] Kristin:
+All right. 
+
+[00:05:47] Drew:
+Should we go to news from your city? 
+
+[00:05:48] Kristin:
+We should, and I had a fun experience in Dwarf Fortress over the last few days. So, as you recall, Wet-Ringed had been made a barony, and the Baroness Ral and her husband Adil, Adil? Adil. 
+
+[00:06:06] Drew:
+Adele 
+
+[00:06:07] Kristin:
+Adil. Baroness Raoul and her husband Adil were chosen completely at random by me. I had no idea who should be royalty. They had children and were at the top of the list, and so Raoul became Baroness. 
+
+[00:06:23] Drew:
+It's always good to assure that continuity of rule. 
+
+[00:06:26] Kristin:
+Yes. And, um, as we'll talk about, I got to thinking about how that was kind of, um, how that would feel to just be a random dwarf and suddenly become royalty. And that's what I wrote a little story about. So you will hear about that later. And alas, Adil is dead. We will get there. But in the meantime, I did upgrade their quarters. So they have silver flooring in their bedroom and gold flooring in their dining room. And it's all fully engraved and jet furniture. And it's beautiful. Adil was kind of interesting in that other than having no special skills, much like his wife, there's nothing interesting about them. But he had had his leg crushed in the reptile man attacks and uses a crutch, which is partly the inspiration. I did not injure my leg to honor him. But 
+
+[00:07:17] Drew:
+It was a happy coincidence. It was. An unhappy coincidence. I'm not sure which. 
+
+[00:07:21] Kristin:
+Yeah, we had an artifact made by Coal Ink Gifts, a legendary stone cutter. He made the artifact Oodle Shel Ret, a Kalanite mini forge, which he claimed as a personal treasure. 
+
+[00:07:34] Drew:
+Every time I hear mini-forge, you know what I think of? Easy-bake oven. Yeah. 
+
+[00:07:38] Kristin:
+It is very Easy-Bake Oven-like. Encrusted with Callinite cabochons and decorated with leather, dog bone, and wood. When I checked on it for the description, the son of the Baroness Baron Consort had it and was playing make-believe with it. 
+[interjection] Drew: aww
+[interjection] Kristin: So I guess it might be a personal treasure, but he does not carry it around with him. 
+[interjection] Drew: around.
+[interjection] Kristin: It's not his special toy. The children can play with it. The creator of it, Cole, I looked into him a little bit, and he is married and has children, but they do not live at our fort. 
+
+[00:08:14] Drew:
+Fair enough. 
+
+[00:08:15] Kristin:
+And then the biggest news from Wet-Ringed is the demise of Wet-Ringed, the downfall. So I was digging around looking for magma because I was at this point where like we have 117 dwarves, we're barony, everything's going fine. And at that point the forgotten beast Utast, a great humanoid composed of flame, appeared. It has wings and appears to be emaciated. The sprite for this guy was really cool. It was like this giant black demony thing with these bat wings and it had a full beard. It was pretty cool. 
+[interjection] Drew: ooo
+[interjection] Kristin: But um, fire, fire everywhere. It was so much fire. So... 
+
+[00:08:55] Drew:
+HIT FIRE EVERYWHERE 
+
+[00:08:56] Kristin:
+Fire big fire He started out at the highest cavern level where I'm no longer keeping animals they had been killed by something else and the cavern moss was mostly gone, so I Had moved them down lower. Thank goodness because the animals the livestock survived, but The guy set the cave moss on fire and there was a lot of smoke and that slowed my game down to an absolute crawl Like it was going so slowly that I wasn't sure I was running anymore And I looked it up in a dwarf day takes about 40 seconds in human time. I was sitting there for at least four minutes 
+
+[00:09:33] Drew:
+Yeah, frequently when the smoke starts you start dropping down to like two frames a second. 
+
+[00:09:39] Kristin:
+It was wild. And I thought I was going to have to delete the smoke or just say goodbye. But eventually it came back to life and he got moving and he slowly went up our central staircase, killing pets and some dwarves as he went. But the destruction didn't truly begin until he reached the levels of all the bedrooms, all the temples, all the guild halls, workshops, storage, and tavern. The Eternal Staves, our squad, were assigned to bring down the monster. They attacked valiantly but were incinerated one by one. And I do mean incinerated. 
+
+[00:10:18] Drew:
+Did they attack one by one or did they group up and then go after him? 
+
+[00:10:22] Kristin:
+They were kind of one by one because they weren't ready or whatever, so it just sort of happened as it happened. I just gave a kill order. 
+
+[00:10:30] Drew:
+Yeah, we need to have some sort of setting to be able to tell people group up first. 
+
+[00:10:33] Kristin:
+Mm-hmm. Yeah, I could have like sent them to a point that probably would have been smart and get them all together and then tell them to go. 
+
+[00:10:39] Drew:
+I think I've done that in the past, but it doesn't always work even then, and with someone 
+[interjection] Kristin: Yeah.
+[interjection] Drew: who's incinerating bodies that quickly, I suspect it probably wouldn't help that much. No. They just set each other on fire. 
+
+[00:10:50] Kristin:
+Oh yeah, setting everything else on fire and more dwarves. 
+[interjection] Drew: mhm
+[interjection] Kristin: So I was just watching them die one by one in the squad menu. Even the squad leader was killed. So I began to replace them with dwarves with any kind of relevant skills. And those new recruits became nothing more than literal kindling for the beast's fires. It was actually kind of impressive to watch the storage bins just burn and burn and eventually turn into charcoal and the workshops burned up. 
+
+[00:11:26] Kristin:
+So it burned all of our drinks, most of our cloth, and many masterwork items like gems and cloth and other things like that that we could have used for trade or, you know, to make dwarves nice things. 
+
+[00:11:37] Drew:
+I don't know if regular fire is hot enough to burn gems. I know- I know magma lava is, but- 
+[interjection] Kristin: Malava is
+
+[00:11:45] Kristin:
+They were in the bins and like yeah, so it just got consumed. Yeah 
+[interjection] Drew: Yeah, so...
+[interjection] Kristin: Eventually he went outside or I guess he went outside. I didn't see this happen because Even now like a season later in game. The outside map is still burning. I kept getting these notifications of Something on the surface has collapsed and I was like what is happening and I finally went up to the surface and it was just Just a wall of fire So the trees are burning and it's like burned away all the gatherable plants and it's such devastation 
+
+[00:12:17] Drew:
+In such devastation. 
+
+[00:12:20] Kristin:
+uh midway through all of this when it was still lurking on the central staircase a migrant wave attacked and they're all very happy and they're going to the tavern and they got cooked almost immediately 
+
+[00:12:33] Kristin:
+So I was watching my population go down from 117, and it was in the 90s, and then it started to tick up a little bit, and I was like, what's happening, and it's migrants, and then it just plummeted down. I think something like three mayors were burned up. In succession. Yes. I don't know how the dwarves had time to elect new mayors, but they did, and those guys got burned up too. Now our mayor is a woman. I don't remember her name. 
+
+[00:13:04] Drew:
+Maybe it's like, um, maybe it's like with Battlestar Galactica where they went down, you know, because you had everyone elected in the order of succession, so... 
+
+[00:13:09] Kristin:
+I did notice that the new mayor has a lot of friends and acquaintances and stuff in the fort, so that was kind of interesting. 
+[interjection] Drew: Hmm
+[interjection] Kristin: I guess maybe they would have been better suited to be mayor eventually anyway. Eventually, the beast was struck down, not by one of our ax lords or expert spearmen, but by Stackgood Humorpict, pet cat of English Wealdips. Yes, the beast was killed by a cat. 
+
+[00:13:38] Drew:
+Don't mess with Kat. 
+
+[00:13:39] Kristin:
+Yes, Stag Hood stalked the beast down the stairs and with one paw swipe clawed off its head. Stag Hood and English are both unharmed. 
+
+[00:13:48] Drew:
+Well, don't mess with that cat. 
+
+[00:13:51] Kristin:
+Yeah, it's, I couldn't figure out who had killed the beast and I was, I looked through all the squad, I looked through a bunch of people and I was like, there's a cat hanging out there and I clicked and under its kills is listed the forgotten beast. 
+
+[00:14:05] Drew:
+That's hilarious. 
+
+[00:14:07] Kristin:
+So if I stick with this for it, clearly Staco needs some kind of reward. I'm not sure what kind of reward you give a dwarf's pet cat. I guess you give its dwarf a statue of the cat or something. Something like that. Yeah. 
+
+
+[00:14:19] Drew:
+But that one deserves nomination for godhood. 
+
+[00:14:23] Kristin:
+does. So I'm not sure what's gonna happen with Wet-Ringed. I was letting it run before we sat down to record and another Forgotten Beast showed up. So I suspect this will be the end of Wet-Ringed, which I am now dubbing Fiery-Ringed. 
+
+[00:14:39] Drew:
+S-sick the cat on it. 
+
+[00:14:41] Kristin:
+Oh, I should sic the cat on it. I would be devastated if that cat died, though, so I'll let it run. It's still qualified or counted as a city, even though we didn't get promoted from barony to duchy or whatever. 58 dwarves remain, and the traders arrived, and I was able to buy enough drinks to replace all of the drinks that had been burned up, and some plump helmets and meat and stuff, so we'll see what happens. Yes, the baroness's husband, who is the main character of the story that I wrote and recorded earlier today, is dead, presumably burnt to a crisp. He's listed, I think, as missing, which all of the ones who were just incinerated are, I think, listed as missing. 
+
+[00:15:24] Drew:
+because they're ashes now. Yes. 
+
+[00:15:25] Kristin:
+Nice. Yeah. 
+
+[00:15:33] Drew:
+Not bad, I'm not entirely sure, but that's why losing is fun. 
+
+[00:15:37] Kristin:
+Well, yes, that is definitely why losing is fun, because I will never stop being tickled at a cat killing a forgotten beast by clawing its head off. 
+
+[00:15:45] Drew:
+A forgotten beast that had wiped out the majority of the fort. 
+
+[00:15:48] Kristin:
+but in my head it's just an epic cat and monster showdown. 
+
+[00:15:58] Drew:
+Swipe. 
+
+[00:16:00] Kristin:
+But looking ahead, I probably will start a new fort. The new forgotten beast, although it sounded pretty cool and I was excited to go and look at it. It is the forgotten beast Ushrir, a gigantic three-eyed antlion larva. It has two long spiral horns and it undulates rhythmically. Its pearl exoskeleton is sleek and smooth and it has a poisonous bite. This part looks like it's biter, so that's not very interesting. And it's just hanging out in the second cavern level, not even near where our animals are. So I don't know if it's going to do anything. 
+
+[00:16:42] Drew:
+Fair enough. I think that that's, uh, yeah, fair enough. I think another forgotten beast might be too much for that. 
+[interjection] Kristin: Yeah.
+
+[00:16:49] Kristin:
+If it comes and attacks it will be I thought about like preemptively sending the squad after it But they're all recruits and they will die So yeah, I think I'll maybe start plan on starting a new fort probably back on the mainland instead of on the island continent 
+
+[00:17:05] Drew:
+I feel like we get more migration waves with that. 
+
+[00:17:07] Kristin:
+Yeah, and you get like more people visiting, like more merchants, like humans and elves will come, and then of course you get more invaders, but you know, that's what we're 
+[interjection] Drew: You know.
+[interjection] Kristin: here for, for the crazy stuff, not to just be left in peace, so. Yep, that's that from Wet Ring, why don't you give us the news from Fiery City? 
+
+[00:17:27] Drew:
+Yes, so Fiery Cities is no more. 
+
+[00:17:33] Kristin:
+Oh, it was a bad week for our fourth son. 
+
+[00:17:35] Drew:
+Yes. Yes, it was. But let me tell you, during our last update, we ended with another forgotten beast wave coming into Fire City, which we fought off, but resulted in many, many injuries. 
+[interjection] Kristin: Oh, jeez.
+[interjection] Drew: Those people were then taken to our hospital, where because the, through the, where through the oversight of our mayor, no actual diagnostician was appointed in the hospital. Oh dear. And by an oversight, nothing was really done about the soap situation either, to the point that everyone who was injured in that hospital had rotting infections. Oh no, that's so gross. So the hospital just became kind of a place of miasma and rot. 
+
+[00:18:30] Kristin:
+Ewww. Yuck. 
+
+[00:18:31] Drew:
+um until eventually some soap was procured uh through the slaughtering of some animals and uh yeah that was that was not great no um most of those however did die who were in the hospital 
+[interjection] Kristin: No.
+[interjection] Drew: yeah so it was it was it wound up being more of a hospice than a hospital 
+
+[00:18:51] Kristin:
+Oh yeah, my hospital doesn't really have anyone in it after this because they all burned up. 
+
+[00:18:59] Drew:
+But the Countess Toulon was not going to be dissuaded by such unpleasantries. And so she went out to collect ingredients for a fine meal from within the cavern 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: as a giant shrimp appeared. 
+
+[00:19:12] Drew:
+Um, the newly assigned captain of the guard took out the giant shrimp. 
+
+[00:19:18] Drew:
+But a weaver refilling traps was brutally murdered along with the lover of our transplant from Torchmoysan to our first fort. Ah. Um. Too bad. Yeah. So, that forgotten beast, the giant shrimp. 
+
+[00:19:32] Drew:
+It died, but it was a challenge. Meanwhile, while that fight was going on, we had further invasions on the top of the fort from a variety of giant creatures, including our continued pests of giant ospreys. 
+
+[00:19:49] Kristin:
+An osprey is a bird, right? 
+
+[00:19:51] Drew:
+Yeah, I think it's just kind of a generic seabird. 
+
+[00:19:55] Drew:
+Yes, so we had a flock of eight of them. 
+
+[00:19:58] Drew:
+including one who murdered Torchmoisand, the one who had just lost her lover, so at least we didn't have to deal with that unhappiness, 
+[interjection] Kristin: happiness.
+[interjection] Drew: while Adair worked in the dye shop. So Torchmoisand was murdered by a giant osprey that had flown into the fort, taken a turn, gone over to the dye shop. 
+
+[00:20:23] Drew:
+and killed the Torchmoistened there. Uh-huh. 
+
+[00:20:26] Drew:
+while the dyer continued working on the dye. 
+
+[00:20:28] Kristin:
+Well, it's very important that you make dye, I guess, or dye clothes. 
+
+[00:20:34] Drew:
+The giant osprey then fled down the stairwell into the Underdark and was off fighting with different creatures. 
+
+[00:20:44] Drew:
+Meanwhile, a ghostly waxworker appeared and battered a new peasant from a migrant wave so hard that his arm went flying. 
+
+[00:20:54] Drew:
+And thus began the fall of Fiery City. We were down to 100, we were down from 150 dwarves to 58. 
+
+[00:21:02] Kristin:
+Yep. 
+
+[00:21:03] Drew:
+when we uncovered a 40,000 Dwarf Buck blowgun in the Obsidian Pillar. Unfortunately, also with that blowgun came a Cinder Haunt. 
+
+[00:21:16] Kristin:
+Oh. 
+
+[00:21:17] Drew:
+which is basically an ash demon. 
+
+[00:21:19] Kristin:
+Very nice. 
+
+[00:21:20] Drew:
+Pulpil the Fatal. He's cheerless, has high willpower, unbreakable focus, unbreakable will, no natural musical ability. So at least we lucked out there, I guess. 
+[interjection] Kristin: Yeah.
+
+[00:21:30] Kristin:
+He could have sung you to death. 
+
+[00:21:33] Drew:
+He is never the slightest bit cheerful about anything, and disdains even the best advice of associates and family. He is a shameless sadist. It is a very large capybara composed of ash with three curving horns and a gaunt appearance. 
+
+[00:21:48] Kristin:
+That's pretty cool though, a capybara with curving horns. 
+
+[00:21:51] Drew:
+Made of ash. 
+
+
+[00:21:53] Drew:
+It is indefatigable, and incredibly quick to heal. And when I saw incredibly quick to heal, I knew that this was pretty much gonna be the end. The capybara started off by killing our previous sacred control, who was also a sadist. After which, Zahn Twinklingletter, a high master thresher, great mechanic, with a developed sense of empathy, was appointed as the new sacred control. 
+
+[00:22:20] Drew:
+His great sense of empathy, in addition to his quarrelsome nature that he feels bad about because he loves friendship, led him to advise flight. 
+
+[00:22:30] Drew:
+He was also a skilled consoler and loved wombats for their waddle. 
+
+[00:22:35] Kristin:
+It's very cute. 
+
+[00:22:36] Drew:
+As he was going around using the power of VUSH to advise flight to everyone... 
+
+[00:22:41] Drew:
+Um, the power couple of our fort attacked. Tosid and Tulan, the mayor and the countess. Baroness. Whichever. Yeah, one or the other. Attacked, uh, the Cinderhaunt. And Tosid, the mayor, missed every attack. 
+
+[00:22:58] Kristin:
+Oh, no. 
+
+[00:22:59] Drew:
+Eventually, bored with him, the Cinderhaunt kicked him in the head with its left front paw, and the injured part exploded in gore. Then the Cinderhaunt kicked the Countess of Fiery City in 
+[interjection] Kristin: Hmm.
+[interjection] Drew: the head with its left front paw, but the attack was deflected by the Countess's incredibly worn gold crown. But the force twisted her neck and spine into an unrecognizable mass, and she fell to the ground and was stomped to death. 
+
+[00:23:30] Kristin:
+Ooh. 
+
+[00:23:31] Kristin:
+It's unpleasant. 
+
+[00:23:33] Drew:
+Minkat Oracle Shield, creator of Moistheat, the copper pick that we've mentioned before. 
+
+[00:23:39] Drew:
+advised flight, but a plucky recruit ignored him and kicked the cinderhunt in the head with her left foot, breaking a piece of the tissue, pulling the neck free and sending it off sailing in an arc, and then the cinderhunt crumbled to ash. But as it crumbled to ash, the peasant, Feb Thundem, died. 
+
+[00:24:00] Kristin:
+Hmm, alas. 
+
+[00:24:02] Drew:
+And with that, we were left with seven dwarves. 
+
+[00:24:05] Kristin:
+Oh, no. 
+
+[00:24:06] Drew:
+just as we began with, and the advice of Zahn twinkling letter was finally heeded, and we fled. 
+
+[00:24:14] Kristin:
+It's kind of poetic. It was. Begin and end with seven dwarves. 
+
+[00:24:17] Drew:
+Exactly. I thought that was a good place for Fiery City to end. Yes. And also with the fact that we've killed that Forgotten Beast, you know, eventually we can maybe try to reclaim this fort. Yeah, good point. But I'm going to follow your advice and next round start on the mainland and do that. 
+[interjection] Kristin: Yeah.Good point.
+
+[00:24:31] Kristin:
+Yeah, I think that that'll lead to more chaos, which is always more fun. 
+
+[00:24:37] Drew:
+The final value of Fiery City was 280,000 Dwarf Bucks. 
+
+[00:24:47] Kristin:
+Wow, that's really impressive. 
+
+[00:24:49] Drew:
+Most of that though was from the various gifts of the gods found deep in the cave. 
+
+[00:24:53] Kristin:
+Yeah, I need to see what our value is. I think that I'm going to spend a little bit more time at Wet-Ringed because I kind of want to see how it starts to slide into decay. I think that we're going to have a lot of ghosts. We already have one because of all the non-unburiable dead and a lot of tantrums. I had someone in a fey mood who needed metal bars, which we have, but apparently not the right kind. And they went stark raving mad, I think. And it's going to get ugly. Yeah. Plus that beast, so who knows what's going to happen. 
+
+[00:25:30] Drew:
+It's interesting as we go along, like, deciding, especially at the end of the fourths, you definitely try to look for a story about, like, why is this ending, at least some sort of epic. 
+[interjection] Kristin: Oh
+
+[00:25:41] Kristin:
+Yeah, some kind of conclusion. 
+
+[00:25:43] Drew:
+Yeah, but also even at the beginning, you also try to find a story about, like, what is the purpose of this fort? 
+
+[00:25:50] Kristin:
+Yeah and so sometimes that can be like we've talked about with like a project fort or a particular location that you want to explore but sometimes you just find a dwarf who's interesting like the one you had that zany yeah that's anyone back at the beginning yeah yeah and so you can kind of 
+[interjection] Drew: Yeah, that's anyone back in the day.
+[interjection] Kristin: follow them and and see who they interact with and what they do and if that becomes a story and like I mentioned for the story at the end of the episode that I wrote I just was really like taken with this idea of just a totally normal couple finding themselves just suddenly royalty with solid gold floors and um and like the juxtaposition of that with the fact that they're eating like long biscuits and this mediocre food and none of that stuff changes but here we're royalty so uh it's more like a little vignette than a story but that that is kind of how those things can get started and and thinking about that I um was thinking about like your power couple how did you how did that come to speak to you? 
+
+[00:26:54] Drew:
+I think it was because I looked at the first one and I saw that, um, he was a trader and that was, that was interesting. And then I looked at his wife and his wife was also a trader or something like that. And. 
+
+[00:27:10] Drew:
+I'm like, that sounds like a couple who really know how to get things done. Yeah. And so appointing them, because you have the, you have the choice of who to appoint, um, resulted in some interesting effects I felt like. I felt like, um, with a lot of the trading that did come in, they seemed to do a really good job. Like they did good job with appraisal and all of those other skills and just kept kind of building them. I don't know if they just kept building them because they were spending so much time with each other, maybe. 
+
+[00:27:38] Kristin:
+Yeah, something like that. That could be yeah. Yeah, it's I think that frequently it's Individual dwarves and their relationships that that make things interesting like the guy that had like ten bug bats or whatever And you find out that these and I think that he actually like bug bats were his favorite animal And then it just happened that I assigned him to be an animal trainer, and then he's living his best life 
+
+[00:28:04] Drew:
+Yeah, I feel like a lot of the stories in Dwarf Fortress kind of come about a little bit like a pearl being formed by sand. There's just one weird thing about this person, a bit like in real life, that then sort of becomes their personality slash how they're shaping their environment around themselves. And that results in a story and then having multiple of those together 
+[interjection] Kristin: Yeah.
+[interjection] Drew: then becomes an actual story. 
+
+[00:28:30] Kristin:
+Yeah, exactly. And I think that Dwarf Fortress in particular is really interesting for this type of exercise because you can tell a grand epic story of this settlement, but you can also tell these tiny little stories of dwarven day-to-day life. I had really, really wanted to tell a story of a child dwarf who had lost her parents. Oh, she survived the demon attack that both of her parents died to. And she was despairing and wandering, but she would still go and play make-believe. But then ultimately, she didn't do anything. She would sleep, she would play make-believe, she'd eat, and that was it. And so I ended up not really being able to write a story about that because there's just nothing there. So sometimes there are dead ends in that way too, in the same way that you start a fort with this idea that you're going to do this huge project, but then you don't have the resources you need, or you keep getting attacked by zombies or something like that, and it just defies you. 
+
+[00:29:34] Drew:
+It's kind of like, again, it's a little bit like D&D in that way, where as a DM you want to tell, 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: you kind of have an idea of a story you want to tell. And you create these characters, 
+[interjection] Kristin: Go to Beadaholique.com for all of your beading supply needs!
+[interjection] Drew: but frequently the players then are like, become super obsessed and curious about this one guy that you kind of threw in there as a throwaway character of an idea you had while you were, you know, drinking a soda. And they become obsessed and like, this must be a really 
+[interjection] Kristin: Yeah.
+[interjection] Drew: important person. Or they just fall in love with that. Right. 
+
+[00:30:03] Kristin:
+Right, they just think they're really cool. 
+
+[00:30:05] Drew:
+and it completely derails your sort of plan, but you know, you got to roll with it, and I think that you need to do the same thing with Dwarf Fortress to really have fun with it, is to roll 
+
+[00:30:18] Kristin:
+Yeah, and when a DM gets too in love with their story, like in which, I don't remember which series, graduation of the Adventure Zone podcast, the DM for that one was just really, really wanting to tell this particular story, and it would end up being... 
+
+[00:30:38] Kristin:
+directly in opposition to what the characters, the player characters were doing. And then he would just make stuff happen anyway. And it's really, I'm sure, frustrating as a player and frustrating as a listener. But it can also be frustrating as a creator when you like really, 
+[interjection] Drew: The end.
+[interjection] Kristin: really want to do something and then like me with that, the sad child and just being like, well, I have to let this go because there's nothing here. 
+
+[00:31:02] Drew:
+I wonder, again, because we don't know, with Krugsmash's stories, I wonder how much of those 
+[interjection] Kristin: Huh?
+[interjection] Drew: are exactly rules as written or how much of it is some creative license. Some of the stories that 
+[interjection] Kristin: Yeah.
+[interjection] Drew: I've told from events, there's a bit of creative license. I haven't told occasionally when I've saved scummed. I try not to save scum except for really interesting dwarves. 
+
+[00:31:30] Kristin:
+Yeah, I've only, I think, saved scum the one time. But yes, I hate to break it to you, listeners. Like, not everything that we tell you on this podcast is exactly true. 
+
+[00:31:39] Drew:
+It's not exactly what happened. 
+
+[00:31:40] Kristin:
+right, will elaborate or come up with Dwarf motivations that they don't have. And I think that in one of his behind the scenes, Krug said something about having like multiple branches of the same save, in which he can like pursue how a project is going in one direction, or if there's like an attack happening, happening simultaneously with a project, he can't get footage of both. And so you have to just sort of be like parallel universes. 
+
+[00:32:08] Drew:
+It's interesting. It's just interesting how much it does for you compared to other games. Because even more than The Sims, I feel like it creates at least the start of a story for you. 
+[interjection] Kristin: Mm-hmm.
+
+[00:32:23] Kristin:
+Yeah. 
+
+[00:32:25] Kristin:
+And I mean, it it does more. 
+
+[00:32:28] Kristin:
+on its own than something like the sims does the sims you really you're making every choice for your character and so you're maybe telling a story but you're telling a story in the same way that children are telling stories with their dolls do you know what i mean and so like while you can role play in that way and try to inhabit your character and be like oh well her motivation is this and you can assign it as such and then either meet it or not depending on if you were wanting a happy sim or an unhappy sim it's not quite the same with dwarves because they they have some free will 
+
+[00:33:01] Drew:
+Yeah, they do. And they have their preferences, which you can't really change or do much about. No. 
+
+[00:33:07] Kristin:
+And in that way, like, Dwarf Fortress is not always role playing in quite the same way that The Sims is, you know, because I'm not making them do interesting things. I think that's why it's fun as a story creator is because the ants are doing their own thing. 
+
+[00:33:27] Drew:
+Yeah, and you're not even really a DM because like you could say that in like SimCity maybe you're a DM for the little meeples in SimCity because you're causing Godzilla to come crashing 
+[interjection] Kristin: Yeah.
+[interjection] Drew: through the town or whatever, but here you don't there's no way for you to even really do any of that other than opening and closing doors. 
+
+[00:33:46] Kristin:
+Well, yes, there is that. Or putting them on a squad and sending them somewhere. So you played a lot of XCOM a couple of years ago, and you would tell me stories about individual soldiers and stuff, doing their heroic acts or terrible things missing that they did. How did those come to be? 
+
+[00:34:08] Drew:
+Um, yeah, so the characters in XCOM do have their own kind of settings, like their own stats, and then a little bit of a personality. Personality doesn't affect a whole lot, but you get a little backstory like, you know, they're from Korea. They're a woman who's 55, 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: and they have these stats, and you're like, a 55-year-old Korean woman is in my combat squad. But they don't have, and they have a little bit of a relationship with the other members. Like, I think they can 
+
+[00:34:45] Drew:
+do stuff 
+
+[00:34:47] Drew:
+can they can kind of help each other out in terms of like their um emotional state i'm getting this confused with the long war mod versus the base game which does a lot more of that and gives them 
+[interjection] Kristin: Oh, sure.
+[interjection] Drew: a lot more personality but yeah you know you just you become invested with them because there's permadeath in the game um and so you know when they when they make a terrible miss and then 
+[interjection] Kristin: Yeah.
+[interjection] Drew: another character dies you're like and they get you know kind of a morale minus you're like wow they were really affected by the fact that they fucked up yeah 
+
+[00:35:23] Kristin:
+uh it kind of that makes me kind of think about um fire emblem and how you can romance characters but there's always one who's sort of intended to be your romantic partner and um like the one which one fates i think is the one that i played the most of my i made my main character marry her butler just because i thought he was a fun character and um but they didn't necessarily complement each other in fighting styles in the way that the intended partner would and the story ends up being a little bit different but then it's also on rails at the same time so even though you're allowed to play within the structure of the story and you can get other npcs to fall in love and stuff like that too it's still the same events are going to happen more or less 
+
+[00:36:15] Drew:
+Just to be clear, it's not because you had a butler fetish. 
+
+[00:36:18] Kristin:
+I do not have a butler fetish, no. 
+
+[00:36:20] Drew:
+You just want to be clear about that. 
+
+[00:36:21] Kristin:
+Well, I think he had like the the silver hair and you know, I do like the silver hair That's why I like Final Fantasy 14 so much because all the Scions are silver or white hair of some variation 
+
+[00:36:32] Drew:
+Um, yeah, I feel like 
+
+[00:36:35] Drew:
+In games that set out to do role-playing, I do feel like that can wind up being a problem. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: We'll talk about this more with Baldur's Gate, but when a game is designed to appeal to role-players specifically, I do frequently feel like you wind up with Mary Sues. 
+
+[00:36:52] Kristin:
+Yeah, or just the silent protagonist with no personality, which I feel like my character in Baldur's Gate is. 
+
+[00:36:59] Drew:
+yeah but i mean they like i feel like you're frequently there's like a correct choice yeah you're supposed to romance right and it's clearly shadowheart exactly right like yeah shadowheart is the pet of the writers yeah obviously right and you're just kind of like i don't know man that kind of then kills the whole role-playing aspect for me because instead of me role-playing i'm just reacting to what you want yeah i'm just sort of 
+
+[00:37:24] Kristin:
+you want. Yeah, I'm just sort of fulfilling the choice that you've made for me. 
+
+[00:37:28] Drew:
+Whereas in a game like Dwarf Fortress, nobody programmed who's gonna fall in love with who 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: in that game. 
+[interjection] Kristin: Right.
+[interjection] Drew: It just happens. 
+
+[00:37:39] Kristin:
+Yeah. And I really, I actually like in terms of romance, seeing like what dwarves will pick each other and trying to then assign motivations to what they're doing. Because even though dwarves have goals, like I've seen, like have a family or create a masterwork and stuff like that. It's really like, you can't make them fall in love with someone and you can like assign them a workshop, I guess, but that doesn't necessarily guarantee that they'll create that masterwork. 
+
+[00:38:07] Drew:
+Yeah, and I guess maybe you can use the Burrows, but I don't know if anybody really uses the Burrows system. 
+
+[00:38:12] Kristin:
+I don't know, people use it, but I don't know what for, and I have not experimented with it at all. 
+
+[00:38:18] Drew:
+Yeah, but you know that that way you could assign them to a similar location or try to get them to go to the same tavern a lot or stuff like that. But it's all all that is very it's still very fiddly and there's no guarantee. Whereas it's more interesting just to see what kind of happens. Yeah. 
+
+[00:38:36] Kristin:
+Yeah, it does make me thinking about role playing. I think partly because we've been playing so much Baldur's Gate and then just getting meta about my own story writing. It makes me excited for adventure mode because you can take one of those interesting dwarves, right? And then just become them. Isn't that how it works? So that's that's kind of cool, actually. So I begin, I never really understood why people were so into adventure mode, because I'm like, that's not what this game is like. But now that I've seen it, I'm much more curious. 
+
+[00:39:08] Drew:
+Yeah, I think I think it'll be very interesting for you. 
+
+[00:39:10] Kristin:
+And the idea of inhabiting these worlds is pretty cool and also, like, terrifying. 
+
+[00:39:17] Drew:
+the other interesting thing for me with all of it is just being able to figure out why they're all connected. It's a little bit of going to hope they get the word right. But our listeners can see that I'm not as smart as I think I am. pareidolia. I don't know. The seeing faces in the clouds. Okay, yeah. So you look at the you, you look at all these different 
+[interjection] Kristin: Oh, okay, yeah.
+[interjection] Drew: things and characteristics that two dwarves are you're trying to figure out why are you interested in each other and you look at these things until you find something that works. And you know, again, if you're testing a drug, that's not how you want to do things. But if you're, you know, making a story, then pareidolia is fine. 
+
+[00:40:00] Kristin:
+Yeah. Well, I mean, yeah, that's how it works with storytelling. You come up with two characters 
+[interjection] Drew: storytelling is.
+[interjection] Kristin: and then figure out why would they fall in love. Absolutely. And what they would love 
+[interjection] Drew: Abso-
+[interjection] Kristin: about each other. It's interesting to me to think about like that line between storytelling and roleplaying because they're the same but also not. Would you say that roleplaying is 
+[interjection] Drew: Mm-hmm
+[interjection] Kristin: like a subset of storytelling? 
+
+[00:40:24] Drew:
+I think so. It's a, it's a, first a form of collaborative storytelling. 
+
+[00:40:29] Kristin:
+Yeah, yeah. 
+
+[00:40:30] Drew:
+um which i think is definitely a subset of storytelling writ large um and the the collaborative nature is always the degrees of collaboration and degrees to which the the you know people involved in it can actually control the story i think makes a difference 
+
+[00:40:49] Kristin:
+So with the collaboration in that way, for something like Baldur's Gate, are we collaborators as players with the creators, or is there no interchange in that way? 
+
+[00:41:02] Drew:
+I think we're collaborators with the creators, again, because they've favored Shadow Hearts 
+[interjection] Kristin: your creators.
+[interjection] Drew: so strongly. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: How we react to that is part of the collaboration there, I think. 
+
+[00:41:14] Kristin:
+I think also that could be why none of the characters actually love me is because I joked that like Shadowheart kind of thinks I'm a loose cannon and I think that it might be possible that I'm making kind of unpredictable choices for these individual characters' stories and so they don't love me other than Will. Will loves me. But we'll talk about that next week. 
+
+[00:41:36] Drew:
+Um, with regard to Dwarf Fortress, since we are a Dwarf Fortress podcast, despite you're trying to drag us into a Baldur's Gate podcast. 
+
+[00:41:42] Kristin:
+I'm not, I was going to bring it back to Dwarf Fortress, but go ahead. 
+
+[00:41:46] Drew:
+Let's, at the risk of offending our listeners, what are some criticisms that you have of Dwarf Fortress from the viewpoint of telling stories? Like, where is it difficult? I've got a couple, if you want me to start. The first is that I feel like the time span of Dwarf Fortress 
+[interjection] Kristin: Yeah, go ahead.
+[interjection] Drew: isn't really quite enough to have a really good 
+
+[00:42:11] Drew:
+character evolution of individual dwarves. Eugh. Um. 
+
+[00:42:16] Drew:
+You know, frequently, I know some people maybe, you know, play the same fort for up to 50 years. Yeah. 
+
+[00:42:23] Drew:
+think most people usually max out at like 10 to 15. It's rare for me to get to 15. 
+[interjection] Kristin: It's rare.
+[interjection] Drew: And so, I feel like there's not a whole lot of evolution I can see there. Very rarely have I seen children become adults. It's relatively rare. We've talked about it once or twice, it happens. And so, if the time was a little bit faster, if time passed a little bit faster, I feel like that might be more interesting to me because you can see dwarves get married, but then also, I think it's been pretty rare to actually see dwarves get married and have kids and have the kid grow up into an adult dwarf. Yeah, I'll see. 
+
+[00:43:01] Kristin:
+Yeah, I'll see maybe two of three, or maybe just the married and children pretty frequently. And I think that I'm probably seeing children age up maybe more often than I think I am, but those would be children who came to the fort as children, not children that were born at the fort. I think for me, one of the frustrations is not necessarily being able to create interesting stories for my pet dwarves. So like the sad child, there wasn't really a way for me to make her story interesting again. Like I couldn't directly tell her like, why don't you learn a craft or go pray or something like that, or have some dwarf adopt her or anything like that. I just was waiting for something to happen and nothing was. So it does remove a little bit of agency in terms of storytelling. 
+
+[00:43:57] Drew:
+Yeah, and I feel a little bit like, especially with the kids, there could be a little bit more control over what they do. Like you could assign them to work in a temple or something. And you know, the guild halls does a little bit of that. And I suppose if I really thought about it, there are probably some ways I could hack that. But I guess another thing... 
+
+[00:44:17] Kristin:
+Oh, wait, before we move on to another thing is I want to backtrack to what you said about the time scale. I think that part of why I end up doing more vignettes than stories that have like a beginning, middle and an end is because of that. So I will be capturing like a moment in time, like a slice of life kind of deal rather than someone's development as a person. 
+
+[00:44:41] Drew:
+yeah i can i can see that and the the battles when they happen um i don't know they're they're so 
+
+[00:44:48] Drew:
+maybe realistic is the wrong word, but you never know who's going to survive them. And so it makes it hard to really have a story out of that. 
+
+[00:44:55] Kristin:
+Yeah, and then you have this sort of high level view of it's not necessarily as interesting as a personal story. Yeah, from that. So you're gonna say 
+[interjection] Drew: Yeah.
+
+[00:45:06] Drew:
+My other issue is how much of the interesting detail that Dwarf Fortress generates that then disappears off into the ether, unavailable to the player to access, really. 
+
+[00:45:19] Kristin:
+Yeah, certainly right now. 
+
+[00:45:20] Drew:
+Um, like when, when a dwarf dies, you can no longer pull up and find out information about them and stuff. And that one's always kind of a bummer. 
+
+[00:45:29] Kristin:
+That one is a bummer. 
+
+[00:45:30] Drew:
+And it's like a mechanical issue almost rather than a... 
+
+[00:45:33] Kristin:
+So you can like engrave that slab and frequently that will tell you how they died but not necessarily more information about them. 
+
+[00:45:41] Drew:
+Yeah, if you weren't paying a whole lot of attention to them and then they were the one who... 
+
+[00:45:45] Drew:
+killed a forgotten beast but died and you're like huh you know i kind of wish i could look back 
+[interjection] Kristin: Yeah.
+[interjection] Drew: over more about you at the very least what your personality was that you decided to charge in there at the last minute yeah um and you can't really do that and same thing with the combat logs although again the combat logs may just be a ui thing that'll get improved 
+
+[00:46:03] Kristin:
+Yeah, the combat logs are confusing, but that's a UI thing. And I guess, like, you could then go into Legends mode, right, and see about the dwarf that you're curious about, but there are so many steps between... 
+
+[00:46:16] Drew:
+Yeah, and Legends mode doesn't let you get into that much detail, like you can't- 
+
+[00:46:20] Kristin:
+I don't tell you like their goals, but I don't think it'll tell you like what they look for. Yeah 
+
+
+[00:46:28] Kristin:
+I think it tells you regardless, but I'm not 100% sure on that one. So it's a much more high-level view that you can get in there. And I do wish that, and this is just getting, now we're just creating a wish list for the developers. Yeah, exactly. Like, it would be nice to, when I see someone is happy from doing the Sensual Barry dance, then, like, I want to know what that dance looks like. 
+
+[00:46:50] Drew:
+Well, they certainly, you can get there for the poetry ones, right? Yeah. Oh yeah, you can do it perfectly. 
+
+[00:46:53] Kristin:
+Yeah, oh, yeah, you can do it for maybe I could find it. Yeah, maybe it's in the knowledge or whatever 
+[interjection] Drew: Yeah, maybe that one could be better.
+
+[00:46:59] Drew:
+You have to find someone's knowledge and skill and then look through it. 
+[interjection] Kristin: Yeah, who knows it?
+[interjection] Drew: Because I've done it for the poetry ones before to try to figure it out. 
+
+[00:47:05] Kristin:
+Yeah, that's true. To try to figure out. So that's a user error. 
+
+[00:47:10] Drew:
+Well, it's not really an error, I mean, it's six levels deep, but again, criticizing the UI of Dwarf Fortress is, I don't know, um, like... 
+
+[00:47:18] Kristin:
+It's pouring water into the ocean. There you go. 
+
+
+[00:47:23] Drew:
+Um, it's certainly better than it has been. 
+
+[00:47:25] Kristin:
+Yeah, and it works well for, I mean, it works well. Like, clearly we are able to have fun and tell stories. And, like, for telling that sort of slice of life small-scale story, it's absolutely perfect for me. And then, of course, if you go into Legends mode, you can find someone's, like, the con artist or whatever that you had, you can find a whole story like that. 
+
+[00:47:49] Drew:
+absolutely um and the fact that you know legends mode has always been a little bit hyperlinked it's always just been so great to me that you can just click click click click click 
+[interjection] Kristin: Oh
+
+[00:47:57] Kristin:
+Yeah. Click, click, click, click, click, click. Yeah. And just trace them through their history. Yeah. So yeah, in other words, it's, um, the best. 
+
+[00:48:05] Drew:
+Yeah, so that is, I think, why we really like it. I mean, criticisms, but in the end of any game I've ever played, it's the closest to just generating whole, real, unique stories for me to encounter. 
+
+[00:48:22] Kristin:
+I mean, when I wasn't playing and you were just telling me what happened at your fort, I loved it. Like, I just liked hearing those stories. 
+
+[00:48:29] Drew:
+So did you like that more than actually playing, or is that a different experience? 
+
+[00:48:33] Kristin:
+No, I didn't love that more than actually playing. It's much more fun getting to experience and then share what's happened. 
+
+[00:48:41] Drew:
+And again, the fact that it's, you know, we have our unique worlds that we can talk about. So, like, I have a sacred control, right? Yeah, you might have a holy ash shell. 
+
+[00:48:50] Kristin:
+I have had the sacred shell a couple of times, yeah. 
+
+[00:48:53] Drew:
+Holy ashore. 
+
+[00:48:54] Kristin:
+Yeah, it's like we have a shared language in the game, but then very, very different experiences. 
+
+[00:49:01] Drew:
+Absolutely. Well, I think I've run out of things to say on that a little bit. Right? 
+
+[00:49:06] Kristin:
+bit. Right, we might run a little long because I'm still gonna put the story on at the end of the episode. 
+
+[00:49:11] Drew:
+Yeah, so should we leave a little blank here for you to do that, or should we wrap it up? 
+
+[00:49:16] Kristin:
+Let's go ahead and wrap it up and then the people who don't want to hear me talk for five minutes straight reading a story don't have to. 
+
+[00:49:24] Drew:
+Sounds good. Although you should listen to it. Kristin did a good job. 
+
+
+[00:49:30] Drew:
+Um, yeah, so find us on a strange mood podcast.com. 
+
+[00:49:36] Kristin:
+Mm-hmm or email us at a strange mood podcast at gmail.com 
+
+[00:49:41] Drew:
+or join the discord, it'll be in the link. 
+
+[00:49:44] Kristin:
+And we are on a much neglected YouTube that is a strange mood. 
+
+[00:49:49] Drew:
+Yeah, eventually we'll start doing some streaming again. 
+
+[00:49:52] Kristin:
+yes if i could stop injuring myself and like our house could stop trying to break into and all of those things then we'll start streaming again 
+
+[00:50:01] Drew:
+Yeah, exactly. So yeah, I think that that's everything. I feel like we're kind of dragging out the ending here, because usually we have more to talk about towards the end in terms of mechanical stuff, but not really this time. It's been a pretty quiet week. 
+[interjection] Kristin: Not really this time.Nope.
+
+[00:50:15] Kristin:
+Yeah, so I think that's that. I hope you enjoy the story and until next time, just keep digging! What do you mean, nobility? Adil asked. He leaned his crutch against the engraved wall. The image was of traction benches and an odd choice for a bedroom if you asked him. But then no one had asked him. No one ever seemed to ask Adil. 
+
+[00:50:38] Kristin:
+Ryle's heliotrope eyes gleamed, something rampant shining from the pinkish steppes. The Fountain of Paints has deemed wet-ringed worthy and declared wet-rings a barony. And they've chosen me as Baroness. That makes you Consort, my dear, and Solana is the heir. 
+
+[00:50:52] Kristin:
+But why? Why on earth would they choose us? 
+
+[00:50:56] Kristin:
+Why wouldn't they? Ryle snapped. She took a short, sharp breath. I. 
+
+[00:51:02] Kristin:
+Adil shrugged helplessly, well, we aren't important enough. 
+
+[00:51:07] Kristin:
+Certainly we are. I've been a miner these two years, and you're a member of the largest guild in Wet-Ringed. Our children were born here. The dwarves like us were the anchor of this town. The attacks by the reptile people had honed Ral's temper, even as they had crushed Adil's leg and irrevocably tied him to his crutch. While he thanked Tobol Diamondgold the Turquoise that he lived, that he could walk though it required a crutch, the mysterious appearance and sudden deaths of the lurid green creatures had changed his family. Changed all of Wet-Ringed. Profoundly. 
+
+[00:51:37] Kristin:
+The trauma still lurked deep in young Solon's eyes. The child would recover, but he and his sister would not remember their father as he had once been. "'Don't you see how marvelous this is?' Ral asked, interpreting his maudlin reverie with a sweeping gesture around their new quarters. She had a point. The engraved floor was all made of silver, the goblin-capped bed of the highest quality. Even their storage chests were masterpieces, carved of jet and marble. A jet armor stand stood in one quarter, though neither of them served on a squadron. And as they spoke, Ral angrily hung a spider-silk dress in a golden cabinet. 
+
+[00:52:10] Kristin:
+All this time, you've wanted to acquire things, to adorn yourself in finery. And now is your chance. But all you can say is, why us? I thought you would be glad. I thought we could—' She trailed off and pointed lamely at the bed, her temper fading as fast as it had flared. Adel tugged the dog-bone earring, which was, until recently, his only real prized possession beyond his family. She had a point, and clearly he had misread the situation when he entered their new bedroom. 
+
+[00:52:36] Kristin:
+He spread his arms open for her to step into. I'm sorry, he said. She stepped into his embrace, and Otto kissed her clean, shaven head. 
+
+[00:52:44] Kristin:
+Truly, it is a blessing for our family. I love the dining room especially. The dining room was rather ironic, though. Fully engraved gold floors and a jet table did not improve the quality of giant cave-swallow lung biscuits and the same old dwarven wine, but Adil saw now that Ral did not want to hear that. There had been nothing wrong with their old quarters. They were spacious, fully engraved, good honest mudstone floors and walls. But Adil had been unsatisfied. Ral was right about that. They had their children and both were healthy and very happy. Ral was certainly happy, mining and hauling and socializing in the tavern. 
+
+[00:53:19] Kristin:
+But for Otto, life here was still unfulfilling. He had no real job, no skills, nothing to offer their civilization. 
+
+[00:53:26] Kristin:
+He could not even remember the last time he had carved something of value. 
+
+[00:53:30] Kristin:
+Their ascension to the nobility made as little sense as the sudden disappearance of the reptile men that had ruined his health and killed so many. It seemed, sometimes, that whatever divine forces ruled Wet-Ringed, they were as arbitrary and thoughtless as the fall of the snow outside. He shouldn't question it, he knew, but somehow it deepened his sense of aimlessness. The purposelessness of it all hung over his mind like a stagnant gray miasma. But Ral, glowing with her glorious transformation into royalty, did not notice his malaise. She nuzzled his beard. This will be the start of a new future for us, and for Wet-Ringed. Adil forced a smile and squeezed her tightly. What do you plan to do with your new power? he asked, trying to sound playful. Hmm, Ral said. Well, I think I'll order the construction of gauntlets. 
+
+[00:54:16] Kristin:
+Gauntlets? Why gauntlets? 
+
+[00:54:18] Kristin:
+Auto-sense of detachment from reality intensified. 
+
+[00:54:22] Kristin:
+I'm not sure, Ral said, but I think I ought to do something as Baroness. Might as well start there. So you're choosing at random? Something like that. She slipped her hands inside his vest, and Adol asked no more questions. 

@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:10,300
+The final value of Fiery City was 280,000 Dwarf Bucks.
+
+

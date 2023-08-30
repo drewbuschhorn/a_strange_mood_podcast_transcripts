@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:02,600
+I am injured, but I can still walk and stand.
+
+

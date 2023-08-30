@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,280
+Yeah, frequently when the smoke starts you start dropping down to like two frames a second.
+
+

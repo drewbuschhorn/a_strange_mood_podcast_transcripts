@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:05,280
+right, will elaborate or come up with Dwarf motivations that they don't have. And I think
+
+2
+00:00:05,280 --> 00:00:10,800
+that in one of his behind the scenes, Krug said something about having like multiple branches
+
+3
+00:00:10,800 --> 00:00:17,040
+of the same save, in which he can like pursue how a project is going in one direction,
+
+4
+00:00:17,040 --> 00:00:20,640
+or if there's like an attack happening, happening simultaneously with a project,
+
+5
+00:00:20,640 --> 00:00:26,320
+he can't get footage of both. And so you have to just sort of be like parallel universes.
+
+
