@@ -1,0 +1,880 @@
+
+[00:00:00] Kristin:
+This podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the couple's dwarf fortress podcast. I'm Kristin. 
+
+[00:00:26] Drew:
+and I'm Drew. 
+
+[00:00:27] Kristin:
+And we're not talking about Dwarf Fortress this week. 
+
+[00:00:30] Drew:
+No we're not, Kristin. No we're not. 
+
+[00:00:33] Kristin:
+But I promise this is gonna be the last one for a while where we don't talk about Dwarf Fortress. 
+
+[00:00:37] Drew:
+That's right. Although I think people enjoy the various topics, and in this case we're choosing something where if you wanted to, you could play a dwarf. 
+
+[00:00:45] Kristin:
+You could. You could play a party full of dwarves. I actually got the esteem achievement for being like a dwarf and taking a long rest fueled only by alcohol. Well. Yeah, but people are really loving this game, but I saw on Reddit this post of a girl who said that she was starting to think that her boyfriend likes Shadowheart more than her. And I'm pretty sure it was a shit post, and it was really funny. 
+
+[00:01:14] Kristin:
+Right? It was funny, right? 
+
+[00:01:19] Kristin:
+It was a shit post, right? You're so mean. Do you love Shadowhurt more than you love me? 
+[interjection] Drew: Oh.
+
+[00:01:28] Drew:
+Uh, now that I've finished my first playthrough of the game, no, of course not, dear. I love you the most. 
+
+[00:01:33] Kristin:
+I love you the most okay, that's fine. I love a Syrian. So what you gonna do 
+
+[00:01:38] Drew:
+Yes, well, he's... he's a thing. 
+
+[00:01:40] Kristin:
+Here's the thing. Yeah, we're talking about Baldur's Gate. In case you hadn't worked that out. And I did say that. So, here we are. 
+
+
+[00:01:50] Kristin:
+Um, housekeeping 
+
+[00:01:52] Drew:
+Yeah, so before we get too deep into Baldur's Gate, or the characters of Baldur's Gate, because, oh my god, it's a horny game. 
+
+[00:01:59] Kristin:
+Oh, it's so horny. Except for me. I really did. I got like the purity playthrough. Exactly. 
+
+[00:02:03] Drew:
+Dwarf Fortress Roundtable is back and has a Discord now. A public Discord. Congratulations to Gash in there for a good 
+[interjection] Kristin: Ha ha
+[interjection] Drew: question as well on the new episode. It sent the guys into a real tizzy. So, I would be surprised if you found this podcast without having listened to Dwarf Fortress Roundtable, but if you have... They're back. 
+
+
+[00:02:31] Drew:
+Tarn is back from Germany and is covid positive. Social distancing is in place for him but who can tell when you're a programmer. Meanwhile unfortunately family health issues continue for the whole team there but keep up your prayers to Armach for okay arms. 
+
+[00:02:48] Kristin:
+yeah sorry to hear he's sick so and other family health issues but you know we bought the game we love them we love i bought merch too so you did buy merch yeah 
+
+[00:02:56] Drew:
+And then also we're not going to talk about it too much today But the previews for the game of minds of Moria have come out And that one seems like it might be right up the alley of door fortress players obviously Tolkien themed it's focused around the idea of going back to Moria as Band of dwarves and exploring kind of Minecraft style kind of door fortress style 
+
+[00:03:26] Kristin:
+Yeah, it looks fun. I was not sold just on the concept, but we watched a video and an interview and it looked really pretty good. 
+
+[00:03:34] Drew:
+Yeah, so you should check that out if you, uh, if you find yourself... It's multiplayer. 
+
+[00:03:39] Kristin:
+Yeah, co-op. I love it. 
+
+[00:03:40] Drew:
+So you should check that out if you find yourself on YouTube. 
+
+[00:03:44] Kristin:
+Mm-hmm. Yeah, and we'll look forward to that. Maybe we'll talk about that, but far in the future. Back to Dwarf Fortress in two weeks, I promise. 
+
+[00:03:51] Kristin:
+If I say I promise enough, they might believe me. 
+
+[00:03:53] Drew:
+Exactly. 
+
+[00:03:54] Kristin:
+Um, so the last thing that we want to cover is, um, that in the first part of our discussion of Baldur's Gate, we are going to talk about Act 1, Acts 1 and 2 in, um, pretty deep detail, and we will kind of separate off our discussion of Act 3, and I will put very clear timestamps into the podcast in case you have not finished your play and don't want to know about the ending. 
+
+[00:04:20] Drew:
+Yeah, I think a lot of people who are interested have played pretty far, and those who aren't super interested, but maybe we'll convince you. Act 1 and 2 go pretty quick, so Act 3 is kind of where you spend a lot of time in the game. 
+[interjection] Kristin: So, yeah.
+
+[00:04:36] Kristin:
+You know, I, I finished playing the game last night and I noticed that the steam achievement for finishing, it's only like 8% of the people. Yeah. So I, I'm sure it's that all games are that way, but, um, I thought that was really funny. And I know people who are really enjoying it and playing a lot and they're nowhere near finishing. So. 
+
+[00:04:55] Drew:
+Yeah, like all, uh... 
+
+[00:04:58] Drew:
+What is the name of the, uh, company, Lorian? 
+
+[00:05:01] Kristin:
+Larian. I don't know if that's how you pronounce it, but it has an A. 
+
+[00:05:04] Drew:
+Yeah, Larian games, they require a lot of time and Baldur's Gate 3 is no exception. 
+
+[00:05:12] Kristin:
+No, I think I have 93 steam hours and then my save itself was like 73. Yeah. That's a lot of saves coming. 
+
+[00:05:21] Drew:
+I kind of rushed mine and I think I only have maybe 65 hours for my playthrough. Fingersaved, yeah. 
+
+[00:05:26] Kristin:
+in your save yeah yeah well um let's just dive right in so let's um i guess 
+
+[00:05:34] Drew:
+I guess the first thing is we talked about we've talked about some of the history of Baldur's Gate and stuff in a previous episode So we won't go over it too much But at a high level what is Baldur's Gate Kristin? 
+
+[00:05:45] Kristin:
+Baldur's Gate is a fantasy role-playing game set in the same world as D&D and following the same rules as D&D. 
+
+[00:05:53] Drew:
+Yeah, a particular subset of D&D, I think. 
+
+[00:05:56] Kristin:
+There are variations from, in this case, 5th edition, but I haven't played the other Baldur's Gates very much, Gates Baldur, but this one is very much got the feel of playing tabletop Dungeons and Dragons, down to dice rolling. 
+[interjection] Drew: Gates Boulder.
+
+[00:06:16] Drew:
+Absolutely. Like this game is I think the most authentic D&D experience I've ever had in a video game. It is, if you've ever been interested in D&D but haven't played, this is going to give you an authentic feel for it, but without any annoying fellow players or PowerMed DM, which honestly is maybe not that authentic of a D&D experience. But when it comes to reading the rule books and you're like, I want to play D&D. 
+
+[00:06:45] Drew:
+This will scratch that itch. 
+
+[00:06:46] Kristin:
+yeah so we kind of want to break down our discussion of acts one and two into kind of two categories of gameplay itself and the mechanics of gameplay and then the story and the characters 
+
+[00:07:01] Kristin:
+Sound good to you? I think that sounds good. 
+[interjection] Drew: Good to you?Yeah.
+[interjection] Kristin: Well, let's start with gameplay and mechanics since we're talking about D&D. As I said, this is based on 5th edition D&D, so lots of roleplay, lots of fighting. 
+
+[00:07:12] Drew:
+Yeah also a large amount of creativity required because this is not a game that like forces you into certain actions or says you only have you know a gun and a harpoon and when you're fighting people on land you use the gun and when you're fighting people on water you use the harpoon. This is a game where it says hey you can cast ice magic so if you see water you can freeze it or you can freeze people's toes off. 
+
+[00:07:38] Kristin:
+Or you can use lightning and electrocute them while standing in the water. Or in my case, you can blow some people up by shooting a fireball at an alcohol barrel. 
+
+[00:07:48] Drew:
+Sometimes intentionally, sometimes not. 
+
+[00:07:50] Kristin:
+Sometimes less intentionally. 
+
+[00:07:52] Drew:
+Which is again, back to the whole D&D idea, because one of what I consider to be a characteristic of role-playing games slash D&D in particular is that you go into a particular task with a very clean idea of what is going to happen, how you're going to do it, and how you're not going to get anybody hurt. 
+
+[00:08:11] Drew:
+And then, about five minutes after you start, the village is burning down. Yeah. And you've somehow wound up killing, like, three orphans and a puppy. 
+
+[00:08:21] Kristin:
+Right. It just seems to happen. 
+
+[00:08:23] Drew:
+And you're just standing there like this did not go as planned. 
+
+[00:08:27] Kristin:
+So what class did you play? 
+
+[00:08:29] Drew:
+I played a warlock, which I hadn't actually played in live-action D&D before and it was interesting because this really was a good opportunity for me to understand that class more and realize how I hadn't understood that class. 
+
+[00:08:42] Kristin:
+Yeah, I was a sorcerer. That is my favorite class in most games and I was actually a wild magic sorcerer in which you can sort of tap into the weave of pure magic and you can make things happen but with the consequence that it will be balanced by something else happening. 
+
+[00:09:00] Drew:
+Yeah, you get a lot of very random effects, including... 
+
+[00:09:03] Kristin:
+I was in like the final capstone boss of act two and my entire party got turned into cats and dogs. You got to witness that. That was fun. Yeah. I seem to repeatedly turn into a sheep, 
+[interjection] Drew: Yeah.
+[interjection] Kristin: turn myself into a sheep. 
+
+[00:09:21] Drew:
+As I recall in the random choice table, that one has actually got a couple of entries for it. 
+
+[00:09:26] Kristin:
+I see. Well it's it was funny because I seemed to draw less aggro when I was a sheep and that kind of worked out. 
+
+[00:09:32] Drew:
+Well, no one was very threatened by your sheepiness. Ah, ah, ah, ah. 
+
+[00:09:37] Kristin:
+Well, I already had horns because I was a tiefling, so maybe it's the path of least 
+[interjection] Drew: Oh, that's right.
+[interjection] Kristin: resistance for the wild magic. 
+
+[00:09:45] Drew:
+So, for those of you who haven't played D&D, or Baldur's Gate 3, because again, this is going to be a weird episode where we're kind of talking about people who have played Baldur's Gate, people who are trying to persuade to play Baldur's Gate, you just have an infinite 
+[interjection] Kristin: Yeah.
+[interjection] Drew: variety of character creation options. I believe there are twelve classes? Maybe fewer. Or I can't remember offhand, but yeah. And then, like, ten races. 
+
+[00:10:11] Kristin:
+races and subsets of races subsets within classes so every class has its kind of specialty which is how i was wild magic 
+
+[00:10:17] Drew:
+Yeah, so when we say things like tiefling, sorcerer, warlock, paladin, all of that, they're kind of what they sound like. 
+
+
+[00:10:26] Drew:
+I don't know. One of my only complaints about 5th edition D&D is the fact that it has wizards, sorcerers, and warlocks. 
+
+[00:10:37] Kristin:
+Yeah, that that is that's a lot of casters Yeah, it's and there is some overlap in spells and then other classes like bards and clerics use spells, too 
+
+[00:10:45] Drew:
+yeah and but just those three kind of arcane magic users i'm like 
+
+[00:10:50] Drew:
+I don't think it's very intuitive from the names what the difference between them are. 
+
+[00:10:53] Kristin:
+Yeah, I think that's fair. 
+
+[00:10:55] Drew:
+Wizard, I think, is pretty clear because that's always existed, but then Sorcerer. 
+
+[00:10:58] Kristin:
+Sorcerer and Warlock are really kind of fuzzy and actually I say I always play Sorcerer because that's what I play, that's the class in Diablo as well, but when I started this character I looked long and hard at Warlock too because I hadn't played it and I decided because of my track record of not finishing video games I should just make my path a little 
+[interjection] Drew: video.
+[interjection] Kristin: easier and go with a class that I knew. And I actually found that while big RPGs like say a Dragon Age or a Divinity, which we tried and kind of bounced off of, I'm very easily overwhelmed by the interface and the abilities and it's like just too much to learn and so I'm not committed. But with this I already knew 5e and I knew what Sorcerer could and couldn't do and I felt pretty comfortable. 
+
+[00:11:43] Drew:
+Yeah, you already spoke the language, the idioms. 
+[interjection] Kristin: Yeah. The idioms.
+[interjection] Drew: I think just at a high level, sorcerer is kind of closer to a video game magic user. You've got the points and all that sort of thing. 
+[interjection] Kristin: a point.
+[interjection] Drew: Warlock is sort of a weird class where you've made a pact with a otherworldly power of some sort and so you basically cast very limited number of spells but incredibly powerful ones. So, anyway. 
+
+[00:12:09] Kristin:
+so anyway yeah so that's the sort of five very very 5e basics 
+[interjection] Drew: 5 years.
+
+[00:12:17] Drew:
+The key thing to take away, though, is that in playing Baldur's Gate, you can do just about anything. Like, you can really do almost anything within the game. Like, including just skip entire bosses if you... 
+
+[00:12:32] Drew:
+have a good persuasion score, you can just talk them into letting you do what you need to do. 
+
+[00:12:38] Kristin:
+Right. Charisma is not to be underestimated in this game, and you can actually, there are some bosses that you can talk into killing themselves, basically. Yeah. And in one horrifying instance, in Act 2, I was able to convince a creepy doctor that he should let his zombie nurses murder him. That was fun. Yeah. Yeah. 
+
+[00:13:00] Drew:
+Yeah. I, in fighting the Capstone Boss Rack 2, I was able to skip two entire phases of the fight 
+[interjection] Kristin: Bye.
+[interjection] Drew: because I was able to talk the bad boss into killing himself. 
+
+[00:13:14] Kristin:
+Yeah, I was jealous. That was kind of a tough fight. Yeah, yeah. 
+
+
+[00:13:18] Kristin:
+right but you could only do that because you had read his journal in an earlier stage of act two and so new things that you could use against him 
+
+[00:13:29] Drew:
+Yeah and talk to his daughter and all this sort of thing and so I was able to have those options of the conversation line open up and talk him into doing that. But they still, you know, force you to do one part of the fight. 
+
+[00:13:41] Kristin:
+one part of the fight. You do have to do a lot, a fair bit of fighting still. And it's also possible to go through the game as a murder hobo and just kill everything. Like there is that meme, I don't know if it's really a meme, but that person on Reddit who just like killed everyone and was like, I don't know what to do now and there's no one left alive who can tell me what to do and did I break my game? 
+
+[00:14:02] Drew:
+But the awesome thing about this game is they've thought of that and you can cast speak with dead and dead creatures will talk to you and tell you. Unless you're the one that killed them. But then in that case you cast a disguise on yourself and then they will talk to you. 
+
+[00:14:18] Kristin:
+Yes, it's important to remember who gets the killing blow on who though. Yes. I wasted a couple of talk to deads because my rogue was a killing machine and he also had the speak with dead spell. I feel like this outline isn't going quite as organically as I wanted it to. Yeah. Maybe we should have started with story but I don't want to go all the way back. 
+
+[00:14:42] Drew:
+Yeah, so let's move on to the story. 
+
+[00:14:47] Kristin:
+Yeah, because I think we can level with them in that I wrote us a very nice outline for this episode and we're sitting here talking our way through it and finding it kind of awkward. So the hell with the outline, we're just going to talk about this game now. 
+
+[00:15:01] Drew:
+Yeah, well, you know, it was one of those things where we were trying to come up with a way to do this so that it wasn't just a disjointed collection of, I really like this game, there are some things I don't like about this game, but here we are, we're 15 minutes in, and, um, yeah. I'm feeling a little lost, so. Um. In that way, it's a D&D experience. Yeah. 
+
+[00:15:18] Kristin:
+Yeah, this episode is mimicking D&D play. 
+
+[00:15:23] Drew:
+So Baldur's Gate 3, to try to convince you to buy it, is a good story in D&D because it is reintegrating the Planescape setting from D&D, which hasn't really been in 5e super much. 
+[interjection] Kristin: Hmm
+[interjection] Drew: And Planescape is interesting because it's sort of a steampunk space exploration setting in older versions of Dungeons & Dragons, where there is a universe of crystal spheres that you can travel through on the back of these steampunky wooden spaceships powered by wizards as their engines, going across ethereal space that is also populated by bunches and bunches of high-level evil creatures from D&D, including Mind Flayers, which are sort of hard to really describe, but let's say Cthulhu-looking squid men. 
+
+[00:16:26] Kristin:
+Squid-headed Ben 
+
+[00:16:27] Drew:
+who are very big into psionic powers or psychic powers yes for legal reasons i believe 
+[interjection] Kristin: Yes.
+[interjection] Drew: second edition older editions of dnd called what everyone else calls psychic powers called them 
+
+[00:16:41] Kristin:
+Yes, and that remains the term. 
+
+[00:16:45] Drew:
+yeah and it's a um and psionic powers are interesting because again they're completely kind of separate from the rest of dnd but they fit pretty well into a different type of magic that is usually based around either just working or else charisma and in this case 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: they just kind of are abilities that you can just use yeah 
+
+[00:17:07] Kristin:
+Yes, and the hook of the game is that you have had a mind flare larva inserted into your brain that is giving you special powers and a connection to others with this larva tadpole in their brain. And throughout the game, you make choices about whether or not to consume more of these larva tadpoles and gain additional psionic type powers. Some of them are very good and it's just a straight up useful thing to have, like if someone hits you, you can charm them and then they can't attack you for their next turn. 
+
+[00:17:45] Drew:
+Others later on give you just sort of not quite game-breaking but pretty game-changing abilities including like the ability to fly at will. Because like in D&D you can learn a spell to fly but that costs you mana, you know, it takes a spell slot, that sort of thing. Yeah. And in this you just can use this whenever you want. 
+
+[00:18:06] Kristin:
+Right. I really limited the number of tadpoles that I consumed because I felt for moral purposes and roleplay reasons, I guess, that my character was not going to be consuming them. And then the characters that I rolled with also weren't big into the tadpoles, or you had to persuade them to, and I didn't feel good about that in this particular playthrough. So we didn't use very many of them. I used two or three, and I gave Asterian two or three, and then at the end of the game I had some that I hadn't used. 
+
+[00:18:43] Drew:
+I, on the other hand, decided that I wanted to get those special powers, so my main character, despite being kind of a good playthrough for my first playthrough, kind of gobbled them up like candy. 
+
+[00:18:55] Kristin:
+Well, I did a save scum at one point because, um, I guess this is an act three spoiler. I don't know if, uh, partitioning act three off is going to work either, but, um, you start to, you look yucky when you consume one of the super tadpoles and I didn't want to look yucky. 
+
+[00:19:11] Drew:
+Yeah, I don't think that's a huge. Yeah. But yeah, the super tadpole that you can consume makes you look pretty yucky. 
+
+[00:19:18] Kristin:
+Yeah, you have like rotting teeth and black veins and stuff. It's gross. 
+
+[00:19:22] Drew:
+But you get some really cool abilities from that. You really do. Yeah, I think people can see those abilities from the beginning So they're locked but they're locked. I think they can see the description of them. No, no. Okay. Well, then I won't spoil it for now 
+[interjection] Kristin: It's okay.They're locked, but.
+[interjection] Drew: 
+
+[00:19:35] Kristin:
+yeah some of them are indeed pretty awesome so who of the the origin characters so there's a few that we both used including shadow heart who is your cleric of shaar who is the goddess of death 
+
+[00:19:52] Drew:
+And also kind of, I feel like, the game author's favorite character. 
+
+[00:19:57] Kristin:
+Yeah, she was kind of their precious. And then Asterion, the vampire elf rogue. 
+
+[00:20:03] Drew:
+who is sort of the male candy, I think, right? He's the... 
+
+[00:20:08] Kristin:
+I mean, he's more eye candy to me than the others. 
+
+[00:20:12] Drew:
+Yeah, for all the others because Asterian is, uh, is he a full elf? 
+
+[00:20:16] Kristin:
+He is a full elf, yeah. 
+
+[00:20:18] Drew:
+a full elf and a full elf vampire, no less. Yeah. Yeah, rogue. 
+
+[00:20:23] Kristin:
+I guess Halcyon is a full elf too, but he's just a burly elf. 
+
+[00:20:27] Drew:
+yeah um the yeah but for two two or three of them the male characters in there i felt like they're just sort of generic roguish white guy without really being that attractive 
+
+[00:20:42] Kristin:
+Yeah, I didn't interact with Gale very much. 
+
+[00:20:49] Kristin:
+or halcyon i think that he halcyon was probably a little bit different um but will's whole deal was that he had he he was such a i i joked that i got the purity playthrough and it's because will is very wholesome and he was my romance character and he has made a deal with a devil to get 
+[interjection] Drew: Hmm
+[interjection] Kristin: additional powers to help him save balder's gate and the sword coast from things and part of his arc is dealing with that dealing with the the devil but also like his dad is the duke in balder's gate and he has a lot of daddy issues and it felt very like not as it felt very trite i'll just say it it felt rather trite in comparison to someone like a starian whose story involved his vampire master abusing him and his fellow spawn for years and years and years 
+
+[00:21:43] Drew:
+yeah the torturing and abusing some of the storylines were definitely better developed than others which is sort of one of my few criticisms of the game yeah um you could kind 
+[interjection] Kristin: Yeah.
+[interjection] Drew: of tell who were the uh who of the characters were loved by the writers and who were just kind of put in there to pad things out because shadow heart was clearly loved by the writers 
+[interjection] Kristin: Mm-hmm.
+
+[00:22:04] Kristin:
+Yeah, she got a really rich story arc. How about Gale? I didn't have him in my party at all. 
+
+[00:22:10] Drew:
+Yeah, Gale I felt like fell under the category of probably should have gotten a little bit more than he did. He was kind of interesting because Gale's character is a wizard who was actually a lover of the goddess of magic, and by lover I mean like actually like physically had sex with the goddess of magic, and then kind of sort of betrayed her by trying to impress her. It all 
+
+[00:22:45] Drew:
+then that sort of resolves, but not in any kind of definitive way. He kind of is still, at least for my playthrough, wound up kind of still on the same path of trying to impress her poorly. 
+
+[00:22:57] Kristin:
+Huh, that's, yeah. I guess Will's story was much more interesting when paired with Karlock, who is this devil that he was chasing for reasons, and it turns out it was a big misunderstanding. And then Karlock, she has had this mechanical fiery heart installed, and her quest involves keeping it from burning her alive. And Gortash, who is one of the three big bads that you face, was the reason that she had had that done to her. 
+
+[00:23:34] Kristin:
+And then she got... never mind, that's an Act 3 thing. So let's talk about those villains. Who would you say is the villain in Act 1? 
+
+[00:23:42] Drew:
+I'm not sure there really was a particular villain in act one. 
+[interjection] Kristin: Right.
+[interjection] Drew: The closest would probably be Manthara, the Drow leader, who you can't actually get to be a part of your party, but- You can romance her too. Yeah. At the start of the game, she is leading a band of evil goblins who are attacking the druids that you're supposed to be protecting. And she, I don't know. I kind of feel like act one was very much a tutorial. Yeah, absolutely. This is how you play D&D. 
+
+[00:24:16] Kristin:
+It was like a mini campaign of its own. 
+
+[00:24:19] Drew:
+Exactly. 
+
+[00:24:20] Kristin:
+yeah uh and it ended with this epic type battle and then you choose your route for act two yeah 
+[interjection] Drew: Yeah.
+[interjection] Kristin: um which for both of us was going to the underdark and that's where you start to get your actual villains which um we knew that we were pursuing this unknown deity called the absolute but um then we learned that they're i think this is act two right these three who uh are 
+[interjection] Drew: Mm-hmm.
+[interjection] Kristin: channeling the gods of death yes 
+
+[00:24:52] Drew:
+yeah there's in in dnd in this setting the gods of death are evil and um are kind of a trinity 
+
+[00:25:01] Kristin:
+She's like a murder god and yeah. 
+
+[00:25:04] Drew:
+Yeah, there's a murder god, a betrayal god, and a like decay god or something like that. 
+
+[00:25:08] Kristin:
+Yeah, they're just the bad gods and the three of them have conspired to harness an additional power start to diverge and where playthroughs start to get really different because like there's one area that neither of us even went to that we plan to visit. 
+
+[00:25:33] Drew:
+in our play through together. 
+
+[00:25:34] Kristin:
+Yeah, I guess that's true of Act One too, but it's a smaller corner of the map, I would say. 
+
+[00:25:40] Drew:
+Act 2 is also, I think, where you're really starting to get into the hard moral choices in the game. Yeah. The first couple of times they present you with moral choices in the game, it's pretty clear what you're supposed to do. Like, one of them is to save a child or let it get bitten by a snake and die. Mm-hmm. And you're like, yeah, that one's a pretty easy one. 
+
+[00:25:57] Kristin:
+It's like saving a kitten from a tree. 
+
+[00:25:59] Drew:
+Exactly. 
+
+[00:26:00] Kristin:
+You are making a distinct choice, though, if you let her die. Like, what your path is going to be, I think. 
+
+[00:26:06] Drew:
+But then in Act 2, you start getting more of your backstory for the party members you're choosing to interact with. And those are frequently much more difficult morally, both for Shadowheart and for Astarion, for Will. Yeah. What were some of the hard moral choices you had to make for Will? 
+
+[00:26:24] Kristin:
+Um, yeah, I guess let's just go ahead and dive into Act 3. So if we're going to start talking about the hard moral choices, the meaty stuff, this is the point where we're going to start talking about Act 3 and it's just going to be a total free-for-all. If you get spoiled from this point on, you've been warned. It's your fault. 
+
+[00:26:41] Kristin:
+Go play the game. 
+
+[00:26:41] Drew:
+Kristin will put in like klaxons or something. 
+
+[00:26:43] Kristin:
+something. yeah just make my job more difficult. sure. okay so hard moral choices. um so i mentioned that will has made a deal with the devil selling his soul and later after i have saved this devil like in act two you you have to she she has given you a task to find someone in the mind flayer colony or in moonrise tower which is the the scene of the epic battle for act two. you have to find some devil and it turns out to be her. so you have to rescue her from in there. she's just been like astrally projecting herself or whatever. um and with the deal that you know demons there's a lot of fine print that she will release him if you save her etc etc. but then later she offers will the choice of remaining her servant eternally or uh leaving his dad to die. like she will save his dad and will will be her servant eternally or dad maybe dies. 
+
+[00:27:48] Kristin:
+So I just sat and presented with this question, stared at my computer going. 
+
+[00:27:54] Kristin:
+All right. 
+
+[00:27:55] Drew:
+I I don't I don't want to make this I don't want to make this choice 
+
+[00:27:55] Kristin:
+This is, uh, this is challenging, but I figured, and I didn't know, but I thought that we would be able to rescue Will's dad and thankfully we could. So I, I took the, I told her to fuck off and free Will and we went and saved his dad later. 
+
+[00:28:17] Drew:
+Well, that's a pretty happy ending. 
+
+[00:28:18] Kristin:
+Yeah, I did work to have a fairly happy ending this time. But even so, the endings aren't super happy. Like, think about Shadowheart's ending. And this is where this game really shines is with these character stories. Yeah. Which is funny, because one of my criticisms of the game is that our character is not, the player character is not well developed. It's all on you to imagine the story of your character. And it's not made explicit or even implicit in the game at all. Were you on the mind flayer ship? Why were you selected to have a tadpole? Nothing. 
+
+[00:28:59] Drew:
+Yeah, this is where the game maybe become is too much like D&D as opposed to the previous Baldur's Gate games. Because one, yeah, the tadpole thing, which is just sort of slightly, slightly better than how bad D&D games start, which is you all meet in a tavern. Yeah. And 
+[interjection] Kristin: Needed a tavern, yeah.
+[interjection] Drew: then somebody walks up and says, Hey, you look like a bunch of strong people. I need you to go do X. Right. And it's like, I guess. I mean, when presented with that, I don't like complain to the DM about it because like, I don't know, man, you gotta get the story. You gotta have. 
+
+[00:29:35] Kristin:
+You gotta have a reason to head out the door, yeah. 
+
+[00:29:38] Drew:
+But in the previous Baldur Gate games, your character was a ballspawn, as in a child of the god Baal, one of the gods of death we were talking about before. And as part of that, that meant that if you killed a bunch of other ballspawns, you would get more and more of the god's power and would eventually usurp him. 
+
+
+[00:30:00] Drew:
+That's a pretty clear leg. 
+
+[00:30:03] Drew:
+Through line like the reason why I'm doing this. I'm a ball spawn I either kill them or somebody's gonna come kill me and even if I don't want to become You know the new ball. I at least 
+
+[00:30:13] Drew:
+have to get enough power to not have that happen to me. 
+
+[00:30:16] Kristin:
+It's both a strength and a weakness. For me, starting out, it was a weakness, because you're just a silent protagonist and I have no reason to... 
+
+[00:30:29] Kristin:
+feel any attachment to my character at all. But on the other hand, for people who like to roleplay, this is great, because you're just whoever you decide to be, and you have all of this freedom to write, well, why would my character fall in love with Shadowheart, or whatever, in your head. And it won't impact the game itself, other than how you make choices accordingly. So that can be a plus. For me, it was a little bit of a... 
+
+[00:30:57] Drew:
+It's because when you play a video game, you do want a little bit of story fed to you. 
+
+[00:31:01] Kristin:
+fed to you. I want a little bit of that feeling of a movie. That said, going into another play, which I intend to do, I will because I know what's out there and I will in my head be telling myself a story to suit the plot beats. 
+
+[00:31:16] Drew:
+Yeah, and make a little bit more of a backstory for your character as opposed to just being called Tab. Yeah. Again, weird choice in this game that all of the player characters are default to the same initial name. And it's such a minor thing to hit the- 
+
+[00:31:32] Kristin:
+um fire emblem does that do you like yeah i you don't really i don't remember if you change your 
+[interjection] Drew: Do they?
+[interjection] Kristin: appearance but like no matter what your character's class or even gender if they can have the same name weird yeah 
+
+[00:31:45] Drew:
+weird yeah i don't know i just again that was one of my only real complaints because i felt in the previous baldur's gate games when i played them that i was a little bit more of the fulcrum around which the world turned yeah and this one i could i can do a lot more but the story that's happening is something i'm participating in rather than being the center of yeah 
+
+[00:32:10] Kristin:
+Yeah, and by the same token, when Will started professing his undying love for me, I was just like, why? 
+
+[00:32:19] Drew:
+Well, nothing has changed between us. Right. 
+
+[00:32:22] Kristin:
+Right, like, I understand that you approve of my actions, but I'm a blank slate. I've said so little to you. But then I just steered into it and I was really glad because Will's story, while not developed as a personal story, was an excellent world-building story. So I had this whole sequence where you go into a secret dungeon under the prison in Baldur's Gate and you find the bones of a dragon that is supposed to be the protector. And, like, you go into it all hyped, like, yes, I'm gonna have a dragon, I'm fighting on my side. And you get there and it's dead. And when you go to loot it, because it has the little indicator that there is stuff, it wakes up and confronts you, not because you're you and the hero, but because your mind flayer companion is actually the Balderon who was one of the founders with this dragon of the city. 
+
+[00:33:19] Drew:
+and he's not happy about it. 
+
+[00:33:20] Kristin:
+No, that the mind flayer killed the dragon and all of these things that you didn't get. This is this fantastic side story and it feels really integral to me to the game, but you didn't have any idea. 
+
+[00:33:37] Drew:
+Yeah and you know the game still played along and I still felt like I got a satisfied story even though I didn't and I didn't get any of that because I didn't really pursue Will or probably some other plot threads that were dangled at me. Again a little bit of another example of how this is very D&D like in that this is a big epic thing about Baldur's Gate we're apparently finding out and I'm pretty sure they're gonna chuck it away. 
+
+[00:34:01] Kristin:
+yeah um well and it's like the the demon guy who was showing up throughout i'm going to pursue that line in in another playthrough and i'm sure at the time when i do it i will feel like oh my gosh how did i play the game without this story which does make it very replayable but like that's so much content it's so much gameplay and uh lucky for them i love re-watching rereading replaying things 
+[interjection] Drew: Yeah.
+[interjection] Kristin: so um the the dragon fight for will's quest line actually um is it was one one of the more epic cool fights to me not just because it's a dragon because the boss had actual like mechanics that he was doing and like there was one thing that you had to take cover from and these elemental things that were resistant to certain damages and stuff like that and one of my complaints about a lot of the fights were just that it was so much trash mobs so many trash mobs so that you would be you would you know kill the boss and then the next 45 minutes would just be mopping up all of the like 45 hit point half the hit point of the boss things and i think i would have rather had fewer tougher enemies than just endless semi-easy 
+
+[00:35:17] Drew:
+I tend to agree. I also think that the AI just didn't really hold up to dealing with small mobs. Because what I wound up doing a lot of times was kind of cheesing it and casting area of effect spells, like in front of my characters and then just having my characters stand still. And all of the trash mobs would just come running to me and die. Yeah, they were really dumb. 
+
+[00:35:37] Kristin:
+Some of the brighter, like by the time you get to the battle of the High Hall or whatever in Act 3, some of those were smart enough to move out of it. Like a Mind Flayer would move out of a Cloud Kill on its turn. 
+[interjection] Drew: Yeah.
+
+[00:35:51] Drew:
+The, um... 
+
+[00:35:53] Drew:
+Another great thing to point out about this game is in the aspect of you can do anything you want is, for example, in fighting Gorash. 
+
+[00:36:03] Kristin:
+Mm-hmm. 
+
+[00:36:04] Drew:
+Gortash. He has these sort of cybernetic protectors magical things throughout that a big plot point in the game is going around and doing things to disable all of them so that then you can attack lock a door so that it couldn't possibly be opened by anything and then killed him in like four turns. 
+
+[00:36:31] Kristin:
+And that fight was hard for me, like I had teammates down for part of it. And that was after completely disabling the steel watch. 
+
+[00:36:40] Drew:
+Yeah, and so I had to defeat two of those Steelwatch and then him and one of his buddies and that was it. It was like four or five turns. 
+
+[00:36:50] Kristin:
+Yeah, along the same lines, in the very epic and emotional storyline following Asterion's plot, where you go to kill his vampire boss, in that final fight you get more drama if you take Asterion, but it's harder. I wanted drama. So I took him and it's all this emotional buildup to this final fight, and then I pushed the boss off into the void. 
+
+[00:37:24] Drew:
+That is a problem in this game, is that, like, pushing people into instakills is kind of required. It's kind of easy to do. Yeah, and kind of required. 
+
+[00:37:33] Kristin:
+yeah um and then it did take me forever to mop up the trash and like my character my tab was down for most of that fight like it wasn't easy but i got a starion free pretty quickly shove by shoving the boss off and he was one of my damage dealers so you know 
+
+[00:37:50] Drew:
+And the question is, do you consider that cheating? Not really. 
+
+[00:37:53] Kristin:
+No, not at all. It's kind of a funny story, which I'm not sure is really in tone with 
+[interjection] Drew: Yeah, it's-
+[interjection] Kristin: what the whole Astarian sequence was, but that's D&D, I guess. 
+
+[00:38:04] Drew:
+Exactly. That reminded me of the end of Act 2 section, maybe start of Act 3? End of Act 2, 
+[interjection] Kristin: Yeah.
+[interjection] Drew: where you're fighting all of the dark gnomes, dugars, dark dwarves. 
+
+[00:38:24] Drew:
+and the best way to deal with that fight is to climb up on top of something high up and then just keep pushing people off and they come to try to attack you and it's like the whole use of magic and everything is almost pointless in it as opposed to just shoving people. 
+
+[00:38:38] Kristin:
+Those might have been dwarves. Were they dwarves? Yeah, they were dark dwarves. Oh yeah, we were fighting dark dwarves. Sorry, dwarfy people. 
+
+[00:38:45] Drew:
+yeah dugar yeah um but the fun part about that is it reminded me again that you know one of the fun things in this game is you can talk to animals and so to make that fight easier i persuaded their pet spiders you know the pet giant spiders to fuck off and go to this other culture that really likes spiders the the drow the dark elves yeah um and you know i had to succeed in some charisma checks and all that but i it only was available to me because i cast talk with animals and then talk to them 
+
+[00:39:18] Kristin:
+Yeah, and I had talked to the spiders but didn't end up connecting any dots to make it to that, so that's really cool. That's the thing that I didn't get to do. 
+[interjection] Drew: Yeah.
+
+[00:39:30] Drew:
+and i think you went and did a whole little subplot there with gnomes where you were rescuing them and leading to this whole thing that you got very emotionally invested i would 
+
+[00:39:39] Kristin:
+I was determined to save those gnomes from Moonrise Tower, and I did make it happen. I got the achievement for rescuing all of them. And then they came back in Act 3 and were really useful allies, because in that final section it was kind of a disaster if you tried to just push straight through to the end, and if you snuck around on top of buildings and their whole thing is like throwing grenades and using smoke, and it was very helpful. 
+
+[00:40:11] Drew:
+Yeah, and I thought that was really cool that in that last really... 
+
+[00:40:15] Drew:
+epic section of um of the fighting you could bring back your allies from all these subquests side quests that you had completed yeah and i skipped a fair bit of that so mine was a little bit 
+[interjection] Kristin: Anyway.
+[interjection] Drew: challenging yeah getting getting through there but you got to four groups that 
+
+[00:40:30] Kristin:
+I had four groups that I got to bring in that really helped a lot and mostly they just soaked up damage and died. I don't feel great about that, but you know. 
+[interjection] Drew: Yeah.
+[interjection] Kristin: So let's just talk about Act Three specifically because Act Three was both incredible and also what I saw described as undercooked. 
+
+[00:40:51] Drew:
+I think that's a fair description. 
+
+[00:40:53] Kristin:
+Yeah, because that final fight sequence was challenging and I felt epic and it was creative, like having to climb up and then... 
+
+[00:41:02] Kristin:
+the Nautilus firing down on you, having to get out of those, but at the same time the story, the story felt kind of rushed and that was where in Act 3 I started to see a lot more bugs in the game. 
+
+[00:41:18] Drew:
+I think that's fair, like the interactions between different high level abilities also seem to be more bugged. 
+[interjection] Kristin: mhm
+[interjection] Drew: I saw issues like with multi-attacks, I think you saw that as well. 
+
+[00:41:31] Kristin:
+all right yeah it would take a really like just nothing would happen for 10 15 seconds between some of those multi attacks 
+
+[00:41:39] Drew:
+yeah and that that just looks like a programming error to me like that that there's some sort of calculations looping yeah but yeah even just the the actual story beats uh frequently did feel a little rushed the resolution of some of the characters who weren't the author's pets felt a 
+
+[00:41:55] Kristin:
+Act 3 was odd because you have this sense of momentum coming out of Act 2 and then you just get to the city and there's like a circus and it's really not clear where you should be going and I must have done things out of order because there were bandits and I was very confused about who they were and all of that but then at the end 
+
+[00:42:21] Kristin:
+a lot happens in really quick succession so you have at the beginning of act three this sort of soggy bit. 
+
+[00:42:29] Drew:
+yeah just kind of well it's just sort of a swampy middle right yeah because but it's 
+[interjection] Kristin: Yeah.
+[interjection] Drew: hard to call it a swampy middle because the first act was very linear moving you along because it was kind of a tutorial and then the second act again things were dark so you didn't 
+[interjection] Kristin: Mhm.
+[interjection] Drew: really like spend too much time exploring and instead kind of followed along where you were told yeah but then after that you you just sort of got bogged down in all these random side stories that weren't really leading you anywhere 
+[interjection] Kristin: We're
+
+[00:42:59] Kristin:
+Well, some of them led you to finishing up individual character story, storylines, and then some of them were, I think, cultivating allies because you could cultivate the criminals, you could build a relationship with them, but I didn't see really how to do it. Yeah. 
+
+[00:43:19] Drew:
+yeah in the end i just felt a little unsatisfied by by some of my character storylines like i said i felt unsatisfied by um gale's resolution yeah he and by resolution i mean just into the final act like i kind of feel like if you'd carried them along and done all these things and maybe you should have gotten some sort of reward from it or whatever but also just a better story 
+
+[00:43:42] Kristin:
+yeah i i don't really feel any motivation to get gail for another playthrough um but i well i was really very satisfied with my ending um and there were there were two kind of odd notes for me one was that after all of the emotional stuff with hysterian and how this whole time i'd been like i can't get him to like me and it was just this incredible 
+
+[00:44:10] Kristin:
+slog, not even a slog. It was just this battle of trying to do things he would like to raise his esteem up to medium. And then his really emotional sequence and persuading him to not do this ritual that would make him like a supervillain, but presumably on my side. And for him to finally get the resolution he needed and to call me a friend and it was just really touching. And then his ending is kind of comedic. 
+
+[00:44:36] Drew:
+yeah because he just has sort of a little oh no i have to run away 
+
+[00:44:40] Kristin:
+I have to run away from the sun because my tadpole is dead, no. And then I didn't get a goodbye with Shadowheart at all because I had an ending that led me into Avernus with Will and Carlock, which was a great ending, but Shadowheart had been such a central character that I was like, eh. 
+
+[00:45:01] Kristin:
+Nothing? 
+
+[00:45:02] Drew:
+Yeah, and I did the entire Shadowheart romance, all of it, to the point that she and I had sex and all of that. 
+[interjection] Kristin: Yeah.
+
+[00:45:12] Drew:
+and you know the good choices so she was you know very resolved and the reward at the end was kind of us you know cuddling in bed together after the fight in the end being like yeah we're gonna be a couple now. 
+
+[00:45:31] Kristin:
+what would have been a more satisfying ending to you? 
+
+[00:45:34] Drew:
+I think something along the lines of, um, we're going to, you know, start a new adventure. We're going to do something like. 
+
+[00:45:40] Kristin:
+So something like what I got with Karlok and Will, where we charged off to go fight devils. 
+
+[00:45:45] Drew:
+Exactly. You know, an actual action ending. 
+
+[00:45:48] Kristin:
+None. 
+
+[00:45:49] Kristin:
+Yay, love. 
+
+[00:45:50] Drew:
+Yay love, we're gonna go open an inn. 
+
+[00:45:54] Kristin:
+I mean, it's kind of adorable, but I see what you're saying there. Yeah. And the only, like... 
+
+[00:46:02] Kristin:
+It was just those two things, like the Asterians was kind of comedic and... 
+
+[00:46:08] Kristin:
+No, no farewell with Shadowheart. 
+
+[00:46:10] Drew:
+And it just kind of stood out because a lot of the story and character in the previous acts were much tighter and much more together, you know, they're more cohesive. 
+
+[00:46:20] Kristin:
+they're more cohesive yeah at the same time I mean they have now said that they've made they patched the characters to be less horny because they were just throwing themselves at players with the romance and like more people than I have had that reaction of like why am I your son and stars and you know the center of your world I 
+
+[00:46:41] Drew:
+Sir, this is the Wendy's. I agree with two of your decisions. Please marry me. 
+
+[00:46:47] Kristin:
+Pretty much, yeah. 
+
+[00:46:48] Drew:
+Hop on this. 
+
+[00:46:49] Kristin:
+Yeah, except not, because he was a Boy Scout and... 
+
+[00:46:52] Drew:
+Yeah, Will was a Boy Scout. 
+
+[00:46:53] Kristin:
+There was no nudity in my romance plot. 
+
+[00:46:56] Drew:
+I got full frontal with Shadowheart. Yeah. 
+
+[00:46:57] Kristin:
+say, but I love this game. Like this probably makes my like top three games of all time. 
+
+[00:47:14] Drew:
+Absolutely. I think that just for the wide open possibilities with it, it is really like I'm, 
+[interjection] Kristin: with it.
+[interjection] Drew: it's pretty rare for me to replay games. And I will definitely be replaying this multiple times. 
+
+[00:47:26] Kristin:
+crying like I was in Endwalker, you know, but I've been playing that game for two years when I went through all that stuff. This was, you know, I played over the course of what, six weeks? 
+
+[00:47:42] Drew:
+I think the most accurate to playing a game of Dungeons and Dragons on a computer without other people that I've ever seen. And you can play with other people if you want. That's a fun part of it. 
+
+[00:47:57] Kristin:
+Yeah, that's really fun. And we're going to do a shared play as well, that we will continue to stream a little. Hopefully we'll get back to that this week. I have been extremely unlucky in my dexterity rolls in life, constitution roll, saving throws, and injured my back. So it's been, yeah, I sacrificed, like, health for this game. 
+
+[00:48:19] Drew:
+Yeah, you, you, because you had, um, sprained your leg, tore your leg. 
+
+[00:48:23] Kristin:
+I tore a muscle in my calf, so I was resting from that, and I guess my back did not like me sitting and playing video games this much, so I bent down to get a new toothpaste under the bathroom cover and fell down because my just back froze up. 
+[interjection] Drew: Also, we're four.
+[interjection] Kristin: It's been a month, but I really hope that we came across as loving this game. I think that maybe we were a little, we felt kind of hemmed in by the rules that we gave ourselves and didn't gush in the way that we might have. 
+
+[00:48:55] Drew:
+Yeah, well, I think it's getting, I mean, I think it's a, you know, it's a really hot take right now to say that this is a great game. Well... 
+
+[00:49:01] Kristin:
+Well, but I mean in in another month, people will be talking about how like it's not as good as we think it is. Yeah, I mean, that's one. 
+
+
+[00:49:12] Kristin:
+There's always a bounce back. 
+
+[00:49:13] Drew:
+yeah but this this was a really fun game really enjoyable and i felt like overall the story was really good in it 
+
+[00:49:21] Kristin:
+Oh, yeah, it was really, really moving. Oh, that was one of the funny things that happened during, like the, the a couple of weeks after launch was that Diablo, Blizzard did a big event in Diablo with like double XP and gold, like guys, come back, come back, please. Guys. 
+
+[00:49:39] Drew:
+Guys, guys, and I said to Kristin when she brought that up, I'm like, you know what, this is, I honestly think that that's just the execs, because the programmers know that people are going to come back to Diablo, because you're going to, there's only so much content 
+[interjection] Kristin: Right!
+[interjection] Drew: in this game though, ultimately, whereas Diablo is about the mechanics that are involved. 
+[interjection] Kristin: Yeah.
+
+[00:49:57] Kristin:
+Right, and it's doing the seasons, you know, like the story of Diablo, like, who cares, you know, I don't really put that on my list of games I can beat. 
+
+[00:50:06] Drew:
+Lilith? I don't think Diablo was in Diablo 4? I forget. 
+
+[00:50:10] Kristin:
+Don't forget. So we didn't do the current season of Diablo 4, but we plan to go back because vampires, hello. And spooky season. Vampires 4 spooky season. 
+
+[00:50:20] Drew:
+But yeah, I said to Kristin that like with the Diablo 4 execs were probably saying to the programmers like look You got to get these numbers back up. Our numbers are dropping and their programmers are probably like 
+
+[00:50:31] Drew:
+Man, just chill, like- 
+
+[00:50:33] Kristin:
+They'll be back in a month, two months. 
+
+[00:50:35] Drew:
+Baldur's Gate 3 just came out like after 20 years. Yeah, it's gonna be, no one else has any oxygen right now. Just chill. 
+
+[00:50:43] Kristin:
+So, yeah, I'm going to sit down tonight and start my next character. 
+[interjection] Drew: so.
+
+[00:50:53] Drew:
+And it works kind of well on Steam Deck. Some people have said they've had really good success, I've had decent success sharing it. 
+
+[00:50:57] Kristin:
+I will be honest and say that when it was local on Steam Deck, I thought it looked like shit. Like, it looked so bad for what is a really beautiful, atmospheric game. When you were streaming it from your PC to your Steam Deck, it looked pretty good. It looked better than when you played it locally, because the Steam Deck just isn't powerful enough. 
+
+[00:51:17] Drew:
+Yeah. It's pretty powerful, but I don't think there are many handheld devices that would be powerful enough to play this at high resolution. 
+
+[00:51:24] Kristin:
+Yeah, I mean, I bought my laptop this year, it wasn't... 
+
+[00:51:28] Kristin:
+top of the gaming laptop tier but it was high end of middle and it at times was like I 
+
+[00:51:36] Kristin:
+I, I don't, please stop. So I hope. 
+
+[00:51:40] Drew:
+So I hope that we haven't spoiled the game too much for you if you're in finishing up Act 2, but for the rest of you, I hope if you sat through it this long and hadn't decided to buy it, you decide to buy it. It's quite good, and we should really reward people who are doing something different. One of the controversies apparently with it was someone started a rumor that they were being sued. 
+
+[00:52:05] Kristin:
+For what? 
+
+[00:52:06] Drew:
+for making other game publishers look bad. It was apparently someone on YouTube did it as satire, and some people puked can't. 
+
+[00:52:09] Kristin:
+It was apparently someone on YouTube did it as satire and some people took it seriously, like the shitpost about the girl whose boyfriend is in love with Shadowheart. 
+
+[00:52:20] Drew:
+Oh my god, like some people are just incapable of like telling what is ironic. Yeah. 
+
+[00:52:24] Kristin:
+Yeah, on the other hand people do fall in love with video game I suppose 
+
+[00:52:29] Drew:
+I suppose that's true, but yeah, so they were the someone started a rumor that they were being sued for making other game companies look bad And the the kernel of truth behind the joke is like there are no microtransactions. There's no blah blah blah this yeah It's just a good game that you put your money down on the table for and you now have a good game that you can Play for a hundred hours 
+
+[00:52:49] Kristin:
+And what's so funny is that I am the type of person who will spend money on cosmetic items. And, you know, the fashion in this game is lacking a little. It really is. So. But I should be thankful. Now I can just buy another horse for my Diablo character when we go back to that. Exactly. Well, I think that that covers it for this time. And we're both, I think, actually excited to get back to Dwarf Fortress. I'm going to let Wet-Ringed run down while I edit the podcast episode in the morning and see how it ends. 
+
+[00:53:20] Drew:
+Yep, and I got some megastructure project plans for my Dwarf Fortress that I'm going to get started on, 
+[interjection] Kristin: Yeah.
+[interjection] Drew: although I keep getting distracted by my secret Succession Fort project. I'm excited! 
+
+
+[00:53:35] Drew:
+Hopefully that'll come together at some point here. I just gotta man up and start showing it to people. So, anyway. 
+
+[00:53:39] Kristin:
+Yeah, anyway, well in the meantime, you can find us at our YouTube if you want to see our last Baldur's Gate stream And we are at a strange mood and on twitch We stream typically to my channel, which is that Kristin and you can find us on our website That's how people talk in English. You can find us on our website Which is a strange mood podcast calm and finally join our discord. We're nice and fun We are pretty fun talk about lots of fun things 
+
+[00:54:09] Drew:
+and lots of other games, including a game I really enjoyed this week. If you want to know what that was that I did as a palate cleanser after Baldur's Gate, you'll have to join the Discord. 
+
+[00:54:18] Kristin:
+Yeah, so until next time, just keep digging. 
+
+[00:54:20] Drew:
+Just keep digging! 

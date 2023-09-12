@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:07,160
+And it works kind of well on Steam Deck. Some people have said they've had really good success, I've had decent success sharing it.
+
+

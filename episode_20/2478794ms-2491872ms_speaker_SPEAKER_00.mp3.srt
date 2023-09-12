@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:06,040
+I think that's fair, like the interactions between different high level abilities also
+
+2
+00:00:06,040 --> 00:00:08,960
+seem to be more bugged.
+
+3
+00:00:08,960 --> 00:00:13,080
+I saw issues like with multi-attacks, I think you saw that as well.
+
+

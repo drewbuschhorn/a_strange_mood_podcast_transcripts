@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,120
+Baldur's Gate is a fantasy role-playing game set in the same world as D&D and following
+
+2
+00:00:06,120 --> 00:00:07,800
+the same rules as D&D.
+
+

@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,480
+Sir, this is the Wendy's.
+
+2
+00:00:02,480 --> 00:00:04,600
+I agree with two of your decisions.
+
+3
+00:00:04,600 --> 00:00:05,600
+Please marry me.
+
+
