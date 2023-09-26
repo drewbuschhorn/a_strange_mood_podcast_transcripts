@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,160
+Dwarf Therapist was very useful for getting kind of a feeling of all of your dwarves at a glance.
+
+2
+00:00:06,160 --> 00:00:11,280
+A lot of the things that you kind of get from there are now also in the character sheet.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,960
+that to be our first um artifact because it is magma safe oh and a floodgate that's awesome
+
+2
+00:00:06,960 --> 00:00:12,160
+so that's going to be our very first uh our very first magma flow floodgate
+
+

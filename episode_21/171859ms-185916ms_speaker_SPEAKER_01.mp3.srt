@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:01,800
+Yeah, well, I mean, it kind of ran on Linux
+
+2
+00:00:01,800 --> 00:00:04,640
+before if you use the emulator, blah, blah, blah, blah, blah.
+
+3
+00:00:04,640 --> 00:00:06,120
+I shouldn't blah, blah, blah.
+
+4
+00:00:06,120 --> 00:00:08,200
+Steam has done a great job with that emulator,
+
+5
+00:00:08,200 --> 00:00:10,480
+with supporting the Proton emulator.
+
+6
+00:00:10,480 --> 00:00:12,840
+But still, now supposedly it runs natively.
+
+7
+00:00:12,840 --> 00:00:15,280
+I don't know.
+
+

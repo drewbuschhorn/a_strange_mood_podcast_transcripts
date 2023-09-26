@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,840
+Right, well when you go to assign a tavern keeper you see the people with that skill at all at the top of the list.
+
+

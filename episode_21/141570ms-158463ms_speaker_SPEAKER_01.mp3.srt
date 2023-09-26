@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:01,240
+Leftovers.
+
+2
+00:00:01,240 --> 00:00:04,680
+Supposedly, we will have much fewer instances
+
+3
+00:00:04,680 --> 00:00:07,080
+of food lying around and rotting
+
+4
+00:00:07,080 --> 00:00:10,040
+because food that is dropped will no longer be marked
+
+5
+00:00:10,040 --> 00:00:12,680
+as owned by anyone and so can be cleaned up.
+
+6
+00:00:12,680 --> 00:00:13,520
+Excellent.
+
+7
+00:00:13,520 --> 00:00:15,280
+As opposed to just sitting there and rotting
+
+8
+00:00:15,280 --> 00:00:16,960
+until someone comes back for it.
+
+

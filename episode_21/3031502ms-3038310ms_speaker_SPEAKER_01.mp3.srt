@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,240
+game design master class or whatever he talks about how you need to develop a game language
+
+2
+00:00:04,240 --> 00:00:06,640
+when you're making a game and then teach it to the player.
+
+

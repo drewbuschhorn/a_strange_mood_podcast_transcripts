@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:07,040
+and you also need to designate it as not to be walked upon although this version does mark it as
+
+2
+00:00:07,840 --> 00:00:09,760
+the second from most forbidden
+
+

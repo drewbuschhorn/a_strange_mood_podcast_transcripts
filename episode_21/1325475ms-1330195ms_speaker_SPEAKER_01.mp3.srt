@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,320
+So that was the first thing I messed up when I was doing it in this version was that I put the stops
+
+
