@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,400
+This is a Gabbro statue of Monon's sword color.
+
+

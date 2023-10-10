@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,880
+from my last fort so I don't know if you have to like change that setting every time
+
+2
+00:00:04,880 --> 00:00:07,040
+or if the update made something wonky but
+
+

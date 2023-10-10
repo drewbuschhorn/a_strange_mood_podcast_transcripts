@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,000
+I think that's always a way to keep dwarves happy.
+
+2
+00:00:02,000 --> 00:00:04,800
+It doesn't seem like your dwarves need much help to be happy.
+
+

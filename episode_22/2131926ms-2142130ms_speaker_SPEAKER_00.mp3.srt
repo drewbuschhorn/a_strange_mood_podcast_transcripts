@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:10,000
+Civilizations with access to ocean products have access to this material and can make it into crafts, though dwarves are not capable of making use of this material themselves.
+
+

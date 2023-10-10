@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,840
+The dwarf who is my experiment.
+
+2
+00:00:03,840 --> 00:00:07,640
+This is Lorem Endlens.
+
+3
+00:00:07,640 --> 00:00:10,680
+So I was listening to Roundtable the other day.
+
+

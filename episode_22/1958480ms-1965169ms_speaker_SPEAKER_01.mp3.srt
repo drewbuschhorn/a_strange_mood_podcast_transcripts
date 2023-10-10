@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,680
+A towering quadruped composed of coral.
+
+2
+00:00:02,680 --> 00:00:05,400
+It has wings and it has an austere look about it.
+
+3
+00:00:05,400 --> 00:00:06,640
+Beware its deadly spittle.
+
+

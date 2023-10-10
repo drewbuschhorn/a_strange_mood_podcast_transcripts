@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:04,800
+No, it is one of three unimplemented organic materials in the game.
+
+2
+00:00:04,800 --> 00:00:06,400
+Here I'm just reading from DFWiki.
+
+3
+00:00:06,400 --> 00:00:07,000
+Sure.
+
+4
+00:00:07,000 --> 00:00:09,200
+The others being amber and pearls.
+
+5
+00:00:09,200 --> 00:00:11,200
+Dwarves can have preference for the material.
+
+6
+00:00:11,200 --> 00:00:14,700
+More annoying, nobles can issue demands involving these materials.
+
+7
+00:00:14,700 --> 00:00:18,200
+However, even though they show up within the other materials listing,
+
+8
+00:00:18,200 --> 00:00:21,200
+they cannot be produced and cannot be crafted.
+
+

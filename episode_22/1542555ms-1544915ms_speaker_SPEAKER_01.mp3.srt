@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,480
+How does the furniture thing work?
+
+2
+00:00:01,480 --> 00:00:02,480
+Like what does it do?
+
+

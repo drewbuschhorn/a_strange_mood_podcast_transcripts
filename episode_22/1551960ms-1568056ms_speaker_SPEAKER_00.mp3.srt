@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,280
+Yeah. And you can either choose to leave it undefined, like what materials and all that,
+
+2
+00:00:05,280 --> 00:00:11,200
+or you can specify a particular material. So it does a little ghosted image and does a little,
+
+3
+00:00:11,200 --> 00:00:15,920
+like, I think it puts a clock icon or something on there to say that this is waiting for.
+
+
