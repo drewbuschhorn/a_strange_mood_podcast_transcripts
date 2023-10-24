@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,080
+Ghosts can suffer bruises and even organ rupture if struck by a mind cart.
+
+

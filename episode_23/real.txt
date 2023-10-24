@@ -1,0 +1,1952 @@
+
+[00:00:00] Kristin:
+This podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress podcast. I'm Kristin. 
+
+[00:00:24] Drew:
+and I'm Drew. 
+
+[00:00:24] Kristin:
+And we are a couple, playing Dwarf Fortress. 
+
+[00:00:27] Drew:
+That we are, Kristin. That we are. 
+
+
+[00:00:30] Kristin:
+I think we have a ghost. 
+
+[00:00:31] Drew:
+What makes you think that, Kristin? 
+
+[00:00:32] Kristin:
+Well, I keep finding my electronics cords, like... 
+
+[00:00:36] Kristin:
+bitten through. 
+
+[00:00:38] Kristin:
+And I think it's a threat to me. 
+
+[00:00:41] Drew:
+I think it's the rabbit. 
+
+[00:00:43] Kristin:
+No, I'm pretty sure it's a ghost. 
+
+[00:00:45] Drew:
+So it's one of those ghosts that chew through cords. 
+
+[00:00:48] Kristin:
+Yeah, because they're threatening me that they're going to chew through my flesh. 
+
+[00:00:52] Drew:
+home. 
+
+[00:00:53] Kristin:
+RAAAAWR 
+
+[00:00:54] Drew:
+I would believe it's a threat from the rabbit. 
+
+[00:00:56] Kristin:
+No, the rabbit loves me. 
+
+[00:00:59] Drew:
+She also loves quartz. 
+
+[00:01:01] Kristin:
+No, it's definitely a ghost. 
+
+[00:01:02] Drew:
+Fair enough. 
+
+[00:01:03] Kristin:
+All right, well today we're gonna talk about ghosts. Ghosts. Hooray, have you ever had a ghost at your fort? 
+
+[00:01:09] Drew:
+I have had so many ghosts in my forest. 
+
+[00:01:10] Kristin:
+You have. I knew it when I asked the question. I have too. 
+
+[00:01:13] Drew:
+because I am very bad at playing Dwarf Fortress. 
+
+[00:01:16] Kristin:
+Wow 
+
+[00:01:17] Kristin:
+I don't know, maybe that makes you good at playing Dwarf Fortress because you're steering into the chaos. 
+
+[00:01:22] Drew:
+That's right, losing is fun. 
+
+[00:01:24] Kristin:
+Yeah, there you go. You just lose really, really, really well. 
+
+[00:01:28] Drew:
+Thank you. 
+
+[00:01:28] Kristin:
+You're very good at losing. Hey, I'm better at losing than you are. 
+
+[00:01:31] Drew:
+This has become a very weird negging session. 
+
+[00:01:35] Kristin:
+but it's positive making. 
+
+[00:01:37] Drew:
+I don't think that's a thing. It is now. All right. How about we just go into some Dwarf Fortress news instead of flirting ineffectually. 
+
+[00:01:47] Kristin:
+Not with that attitude would have been a better, better answer. 
+
+
+[00:01:53] Drew:
+First off... 
+
+[00:01:54] Drew:
+Spooky Forts are ongoing at Bay 12 Games. 
+
+[00:01:57] Kristin:
+I love that. 
+
+[interjection] Drew: that they're doing that.
+
+[00:02:02] Drew:
+Fair enough. 
+
+[00:02:03] Kristin:
+I love its existence. 
+
+[00:02:05] Drew:
+That's right. So over at Bay12 Games, there are several succession forts focused around spooky mods that you can join and be a part of. I think a lot of them are around the... 
+[interjection] Kristin: Mmm.
+
+[00:02:17] Drew:
+ASCII version rather than the premium version of Dwarf Fortress. 
+
+[00:02:20] Kristin:
+Hmm. 
+
+[00:02:21] Drew:
+But check it out if you're interested. Cool. 
+
+[00:02:24] Drew:
+Listener Steven has also put out his second episode for Learned Hands. 
+
+[00:02:31] Drew:
+the Scholar Dwarf Fortress Fort. 
+
+[00:02:34] Kristin:
+Yes. 
+
+[00:02:34] Drew:
+to our fortress fort. 
+
+[00:02:36] Kristin:
+pork pork 
+
+[00:02:37] Drew:
+under the YouTube channel name of Story Dwarves. So check that out. It's another one with a banger song. 
+
+[00:02:45] Kristin:
+Of course, we expect nothing less. No pressure. 
+
+[00:02:50] Drew:
+Also, there was another Future of the Fort video from Blind IRL and Bay12 Games talking about Adventure Mode Promises. 
+
+[00:03:00] Drew:
+The promises are being made, but God's work is never done. 
+
+[00:03:04] Kristin:
+I'm looking forward to it, but also not concretely. 
+
+[00:03:10] Drew:
+I think it's always best to hope for it as a Christmas present, or a birthday present, or a... 
+
+[00:03:16] Kristin:
+Maybe my 40th birthday 
+
+[00:03:18] Drew:
+Exactly. 
+
+[00:03:19] Kristin:
+which is... 
+
+[00:03:20] Kristin:
+more than a year away, so. 
+
+[00:03:22] Drew:
+Summer solstice present. 
+
+[00:03:24] Kristin:
+Well, we could have 14 then. 
+
+[00:03:25] Drew:
+Yeah. 
+
+[00:03:26] Kristin:
+Alright. 
+
+[00:03:27] Kristin:
+Well, okay, cool, well, that's the news. 
+
+[00:03:30] Drew:
+That's the news. What's going on with your fort? 
+
+[00:03:32] Kristin:
+There is so, so much going on at my fort. It has been a really eventful week, couple of weeks at Glazed Cradled. 
+
+[00:03:40] Kristin:
+So, as you recall, I've been having some population problems in that we have had a population boom. 
+
+[00:03:48] Drew:
+Fertile. 
+
+[00:03:48] Kristin:
+Yes, they're fertile, but also the migrants love us, and we are a metropolis, and at our highest point we were at 194 dwarves. Jeez. 
+
+
+[00:03:58] Kristin:
+But then we've had some invasions and Forgotten Beasts and I've realized at this moment that I forgot to put the Forgotten Beasts into my notes and they will be coming off of my phone. 
+
+[00:04:09] Kristin:
+which is fine, but now we are down to 180, I think, maybe 182 because those silly dwarves keep having babies. 
+
+[00:04:18] Drew:
+So many babies. 
+
+[00:04:19] Kristin:
+Yeah. 
+
+[00:04:20] Kristin:
+But I finally went and looked just out of curiosity to see what the default population cap is. It is 220. 
+
+[00:04:28] Drew:
+Huh, that's a weird number. 
+
+[00:04:29] Kristin:
+Mm-hmm. It's a lot of dwarves, too 
+
+[00:04:32] Kristin:
+But at this stage we have a very effective, highly trained squadron of babies. 
+
+
+[00:04:38] Kristin:
+No, I don't actually send the babies out, but that would be good training for them because we have a lot of goblin invasions, actually. 
+
+[00:04:47] Kristin:
+and a, uh, militia? 
+
+[00:04:50] Kristin:
+Is that the one that has like the captain of the guard or whatever? 
+
+[00:04:52] Drew:
+Yeah, I think so. Yeah, I don't know. Well, no, so you have Captain of the Guard and Militia Commander. 
+[interjection] Kristin: I don't know.Stop it.I don't think so.
+[interjection] Drew: Yeah. I think those are two positions. 
+
+[00:04:59] Kristin:
+I don't know, but we have two squadrons, and the secondary one, they're still kind of newbies. They're kind of cannon fodder. But the first squad is very good. Every time we have an attack, someone or multiple someones go into a martial trance. 
+
+[00:05:12] Drew:
+Nice. 
+
+[00:05:13] Kristin:
+And many of them have gotten attached to their weapons, which I think they do when they're like really soldierly or something. 
+
+[00:05:21] Drew:
+Super soldierly, super into their martial trancing. 
+
+[00:05:24] Kristin:
+yes uh and they they've done a really good job um every time i 
+
+[00:05:30] Kristin:
+I built that drawbridge to deal with attackers. We have not needed it. Every time our dwarves just murder the elves and goblins before they get anywhere near the fort. So I finally took the drawbridge away because... 
+
+[00:05:44] Kristin:
+wagons were bypassing us because they couldn't fit. 
+
+[00:05:48] Drew:
+Interesting. 
+
+[00:05:49] Kristin:
+Which was, well, I think it's because they couldn't fit, it just said it was inaccessible. 
+
+[00:05:54] Kristin:
+So, as I get to autumn again, I'll have to see. It should have been wide enough for the wagons, so I'm not sure what's going on there. 
+
+[00:06:03] Drew:
+Yeah, I don't know a whole lot about drawbridge mechanics. That's never really been my strategy. 
+
+[00:06:10] Kristin:
+Right, well. 
+
+[00:06:11] Kristin:
+I mostly did it to prove to myself that I could, and now it's gone, so... 
+
+[00:06:17] Drew:
+Yeah, it seems like everybody uses them for the Dwarven Atom Smasher technique. 
+
+[00:06:22] Kristin:
+And I might end up having to do that because we do have a lot of goblin skeletons now and some elf skeletons as well. 
+
+[00:06:30] Drew:
+My kingdom for not having to the rule against carving intelligent creature's bones. 
+
+[00:06:37] Kristin:
+Yeah, I did just do a bunch of bone crafts and they're all like water buffalo bone because that's what we're 
+
+[00:06:44] Kristin:
+Yeah. Brazing. 
+
+[00:06:46] Kristin:
+Goblin bone. 
+
+[00:06:47] Kristin:
+Necklaces would be just so cool for dwarves, right? 
+
+[00:06:51] Drew:
+Right, and they come with those, but I don't think we can make them. I think they get made off. 
+
+[00:06:56] Kristin:
+Camera. 
+[interjection] Drew: camera
+[interjection] Kristin: Alas. 
+
+[00:06:58] Kristin:
+Actually, I'm setting up a second living area for this fort, which is something that we've talked about, and I have kind of half-acidly done, half-saffedly, that's what I started with. Acid-halfily? Uh-huh. Yeah, but I've like built a dormitory and like a little... 
+
+[00:07:20] Kristin:
+Shitty tavern, um... 
+
+[00:07:22] Kristin:
+But this time I started with a dormitory and now I'm trying to make good bedrooms down there. 
+
+[00:07:29] Kristin:
+I have a tavern, it's not really like kitted out very well yet. 
+
+[00:07:32] Kristin:
+It's not engraved yet. 
+
+[00:07:34] Kristin:
+Um... 
+
+[00:07:35] Kristin:
+but dwarves are claiming those bedrooms and hopefully 
+
+[00:07:38] Kristin:
+The dwarves who are working down at the magma level are claiming some of those so that they don't have to journey. 
+
+[00:07:45] Kristin:
+100 plus D levels. Yes, and I need to start making some stockpiles down there and some more workshops. 
+[interjection] Drew: Back and forth, back and forth.
+
+[00:07:52] Kristin:
+I should maybe build them a temple down there too. That's probably a good idea. 
+
+[00:07:56] Kristin:
+Yeah. 
+
+[00:07:57] Drew:
+up the. 
+
+[00:07:57] Kristin:
+The need to pray, right? 
+
+[00:08:00] Kristin:
+um and thinking about what workshops do you think merit another one like i'm thinking a craft dwarf for sure craft forges down there 
+[interjection] Drew: Craft work.
+
+[00:08:10] Drew:
+Yeah, masonry and brewery. I don't necessarily know if you need food. 
+
+
+[00:08:18] Kristin:
+I am still it's it's fairly close to the the purple cavern layer and I could set 
+[interjection] Drew: Still to come on KELOLAND news.
+[interjection] Kristin: up more farms down there and then another brewery so 
+
+[00:08:27] Kristin:
+It's just stuff to think about as I continue to not leave this port behind, because I keep saying I'm going to, and then you... 
+
+[00:08:34] Drew:
+Yeah, you keep being very convinced that you're going to abandon it next- 
+
+[00:08:38] Kristin:
+Next episode. Well, I'm not gonna say that this week and we'll see what happens, but um, I 
+[interjection] Drew: We'll see you.
+
+[00:08:42] Drew:
+Maybe that's the kiss of death. 
+
+[00:08:43] Kristin:
+It might be, but I'm getting used to being able to just make whatever I want. 
+
+[00:08:49] Kristin:
+at this stage because we have so many dwarves and we have a lot of skilled labor and we have magma. 
+
+[00:08:53] Kristin:
+So like, I decided I was gonna fully stalk the hospital. I slaughtered a water buffalo and then watched the kitchen to make sure that the tallow got unchecked for cooking. 
+
+[00:09:04] Kristin:
+But it, well, it's aggravating because you have to do that for every animal that you butcher because, well, we'll get to this. 
+
+[00:09:12] Kristin:
+I apparently butchered a forgotten beast and unfortunately its tallow went into a stew and not. 
+
+[00:09:20] Kristin:
+Forgotten Beast's soap, which for some reason... 
+
+[00:09:22] Drew:
+Seems. 
+
+[00:09:23] Kristin:
+I would really like to have Forgotten Beast, though. That seems so cool, but... 
+
+[00:09:27] Kristin:
+At any rate, so I've marked water buffalo, and I think I maybe slaughtered an alpaca or something, and we've got soaps made of those. 
+
+[00:09:36] Kristin:
+I made a little more paper, but... 
+
+[00:09:38] Kristin:
+I, that seems like it's gonna be a pain to automate. 
+
+[00:09:41] Kristin:
+and I haven't done it again because I've been using the pigtails to make cloth because I've gotten big into my textile industry this time. 
+
+[00:09:49] Kristin:
+because I want to. 
+
+[00:09:51] Kristin:
+cure some of the unhappy about wearing old clothing or like embarrassed and it's funny 
+[interjection] Drew: Mm-hmm.
+[interjection] Kristin: to see their various reactions to having their terrible clothes. So I um that's another one 
+[interjection] Drew: Embarrassed.
+[interjection] Kristin: that's hard to automate because like you have the pigtails and I guess 
+
+[00:10:10] Kristin:
+I don't know like seasonally you could turn them into spin them or whatever and then 
+
+[00:10:16] Kristin:
+The silk, at least, the cave spider silk, is really easy because they just automatically gather it, you know? 
+
+[00:10:21] Kristin:
+and then turn it into cloth. 
+
+[00:10:23] Kristin:
+themselves without my help, but pigtails, they don't seem to do that. 
+
+[00:10:27] Drew:
+Yeah, there's there's a couple of steps in between there. It's got to go through the farmer and then yeah 
+
+[00:10:32] Kristin:
+No, it just needs to be processed, spinning, I think it's just... 
+
+[00:10:38] Drew:
+Yeah, something like that. 
+
+[00:10:38] Kristin:
+I don't know, but, um... 
+
+[00:10:40] Kristin:
+And then the same with the animal fiber. You have to have the farmer shear the animals and then spin it into yarn, and then the weaver makes the yarn into cloth. 
+
+[00:10:53] Drew:
+Yeah. 
+
+[00:10:54] Kristin:
+Um, which I, I think could feasibly be automated if I know how many fiber producing 
+
+[00:11:01] Kristin:
+animals I have and I set the work order to shear them seasonally or whatever, I don't know how often. I'm sure I could look that up. 
+
+[00:11:08] Kristin:
+But I also managed to successfully dye clothing, which was quite exciting. 
+
+[00:11:14] Drew:
+What did you use for that? 
+
+[00:11:15] Kristin:
+Dimple cups. So we have a lot of dwarves running around dressed in midnight blue. 
+
+[00:11:20] Drew:
+And so, as I recall with the dimpled cups, that means you have to process it at a quern or a millstone. 
+
+[00:11:27] Kristin:
+You know, we have a corn, um... 
+
+[00:11:30] Kristin:
+I didn't, I do not recall telling them to do that, so like I just said dye cloth or dye thread and they did it. 
+
+[00:11:37] Drew:
+Okay. 
+
+[00:11:37] Kristin:
+So maybe that's an auto process in there somewhere. 
+
+[00:11:40] Drew:
+Could be. 
+
+[00:11:40] Kristin:
+Also, I was complaining because I have to use so much brain for Dwarf Fortress right now because I have all of these higher level industries that I can't just sort of zone out, you know? I have to think about them. But I did a little bit of looking into what else. 
+
+[00:11:58] Kristin:
+we can use for dyeing because I had the blue dyed stuff and some green dyed stuff, emerald dyed, I think it's called, that I bought. 
+
+[00:12:10] Kristin:
+And the emerald dye comes from bladeweed, which is grown above ground, and I've never even seen. Red is from hide root, which is another above ground crop, and then black is from silver barb, which grows below ground. 
+
+[00:12:25] Drew:
+Interesting. Okay. 
+
+[00:12:25] Kristin:
+And I've never had any of these, but I'm thinking I'm gonna request some of the seeds from traders and start trying to get 
+
+[00:12:32] Kristin:
+different colors of cloth going. 
+
+[00:12:34] Drew:
+Yeah, I think I've seen silver barb before, but I don't know if I've ever tried to harvest it to make dye. 
+
+[00:12:40] Kristin:
+Yeah. 
+
+[00:12:41] Drew:
+The only dye I've ever really made has been from the dimple cup. 
+
+[00:12:44] Drew:
+You can actually make a decent amount of money. 
+
+[00:12:48] Drew:
+turning dimple cup into the dye powder, and filling bags with it, and then selling that back to. 
+
+[00:12:54] Kristin:
+Other dwarves, probably. 
+
+[00:12:56] Kristin:
+I like for my little dwarves to be happy with their clothing. 
+
+[00:13:02] Kristin:
+Fashion is important. 
+
+[00:13:03] Kristin:
+Um, our dungeon master named Kibb Tattoo Armor. 
+
+[00:13:09] Drew:
+Ooh. 
+
+[00:13:09] Kristin:
+She's Dungeon Master in name only. I have not built a dungeon or implemented the justice system in any way, so maybe that'll be a project moving forward. But she is a legendary clothier, and I noticed as I was just scrolling around looking for something else that there was this really, like, well-dressed little dwarf with, like, a blue cloak and hood, and I pulled her up. 
+
+[00:13:31] Kristin:
+And she is. 
+
+[00:13:33] Kristin:
+actually wearing an exceptional emerald-dyed llama wool cloak that she made herself. Nice! And she is very pleased walking around in this thing. 
+
+[00:13:43] Kristin:
+So I thought that was kind of cool. That sounds like a cool little person. Yeah, she, I should. 
+
+[00:13:49] Kristin:
+I believe that she became Dungeon Master because she was at the top of the list for the skills. But I don't know very much about her other than she has a husband and a daughter. 
+
+[00:13:59] Kristin:
+And that's it. So maybe I'll get around to making her an office and everything in the coming weeks. 
+
+[00:14:06] Kristin:
+Well, that was a lot for me. Why don't you talk for a minute? 
+
+[00:14:08] Drew:
+All right, on my side, my Ford is coming along. 
+
+[00:14:12] Kristin:
+Mm-hmm. 
+
+[00:14:13] Drew:
+I've been able to carve out a couple of little sections to start the lava waterfalls. Pretty well. I've been able to dig out a few little sections to start the lava falls. You know, I talked last time that I kind of built my lava reservoir that's going to be the source for all of this pouring down in kind of a controlled fashion. 
+[interjection] Kristin: Kind of a
+[interjection] Drew: Yeah. 
+
+
+[00:14:37] Drew:
+so now I'm digging out little sections of the cliff face that the 
+
+[00:14:43] Drew:
+volcano is kind of at the top of. 
+
+
+[00:14:47] Drew:
+And so the idea is I'm going to set it up so that I can kind of have a pump and a floodgate system with the lava. 
+
+
+[00:14:54] Drew:
+so that I'm able to 
+
+[00:14:56] Drew:
+keep that all under control as I... 
+
+[00:15:00] Drew:
+cause it to be pumped over and start cascading down into different, uh, sub... 
+
+[00:15:05] Drew:
+you know, sub-reservoirs and just kind of build that sort of pooling system. 
+[interjection] Kristin: bill.
+
+[00:15:10] Kristin:
+Are you having to make magma-safe pumps and all that stuff? 
+
+[00:15:14] Drew:
+Exactly. 
+
+[00:15:14] Kristin:
+What are you making them out of? 
+
+[00:15:16] Drew:
+So they're mostly just made out of stone. 
+
+[00:15:18] Kristin:
+Oh, okay. 
+
+[00:15:19] Drew:
+Yeah, and you just have to make sure you have the right kind of stone. 
+
+[00:15:22] Kristin:
+Yeah. 
+
+[00:15:23] Drew:
+and I believe 
+
+[00:15:25] Drew:
+Maybe you can do glass, I'm not 100% sure about that. 
+[interjection] Kristin: Mm.
+[interjection] Drew: But you can use the various MagmaSafe stones as the basis. 
+
+
+[00:15:34] Drew:
+Um, so the main thing I need to do now, um, is, uh, dig myself a... 
+
+[00:15:40] Drew:
+trough to carry the magma away in kind of a hidden fashion so it doesn't light everything on fire. 
+
+
+[00:15:47] Drew:
+and have that go off the map and not be my problem and whatever neighbors in the next square over can deal with it. 
+
+[00:15:55] Kristin:
+Sure. 
+
+[00:15:56] Drew:
+So. 
+
+[00:15:57] Drew:
+That's kind of how that... 
+
+[00:15:59] Drew:
+High-level project is going 
+
+[00:16:00] Kristin:
+Mm-hmm. 
+
+[00:16:01] Drew:
+in support of that to keep our 
+
+[00:16:03] Drew:
+Money is up as we get traders in and all that sort of thing. The minecart system is going very well 
+
+[00:16:10] Kristin:
+Oh, good. 
+
+[00:16:11] Drew:
+Yeah, um, I just have piles and piles of, uh, boxes of, um... 
+
+[00:16:16] Drew:
+gold and copper bars. 
+
+
+[00:16:19] Drew:
+There's a lot of gold in my area, a lot of copper. 
+
+[00:16:21] Kristin:
+Yeah, mine too. Not the copper, the gold. 
+
+[00:16:23] Drew:
+And so with having access to the Magma so early, like we've just built tons and tons of those bars and having people do expert metal crafting. 
+
+[00:16:35] Drew:
+And in fact, my sort of dwarf of the week is a metal crafter. Her name is... Vukar Glaze Courage, professional metal crafter, who we've talked about before, actually, in previous episodes. 
+[interjection] Kristin: Mm-hmm.
+
+[00:16:47] Drew:
+And currently, she is extremely miserable. 
+
+[00:16:50] Kristin:
+Oh no. 
+
+[00:16:52] Drew:
+But I made it my goal in life to make her happy because I realized, thanks to the new logging system... 
+
+[00:16:57] Kristin:
+Yes. 
+
+[00:16:58] Drew:
+that she has actually been responsible for six out of the seven masterwork gold crafts of different sort that have been created. 
+
+[00:17:07] Kristin:
+Oh wow. 
+
+[00:17:08] Drew:
+Um 
+
+[00:17:09] Drew:
+so we've also had some other artifacts and that sort of thing but just for in terms of gold crafts gold and metal 
+
+
+[00:17:16] Drew:
+She's been responsible for the vast majority of those. 
+
+[00:17:18] Kristin:
+That's very cool. 
+
+[00:17:20] Drew:
+So to try to make her happy, I've made her a gold statue of a snail man, since she loves them for their slimy trails. Gross. 
+
+[00:17:28] Drew:
+So... 
+
+[00:17:29] Drew:
+In this statue, Vukar is contemplating the snail man as he strikes a triumphant pose. 
+
+[00:17:36] Kristin:
+Yes. 
+
+[00:17:38] Drew:
+So working on making her happy is going to be. 
+
+[00:17:42] Drew:
+my ongoing goal here in addition to the lava falls. 
+
+[00:17:46] Kristin:
+what things were making her unhappy. 
+
+[00:17:48] Drew:
+The biggest one was not having friends and family. So we're doing some taverning and I moved her room to be very close to the tavern. 
+[interjection] Kristin: should be...
+
+[00:18:00] Kristin:
+Okay, just to encourage her to 
+
+[00:18:02] Drew:
+go over there more. 
+
+[00:18:04] Kristin:
+Smart. 
+
+[00:18:04] Drew:
+Um, she was pretty happy from making crafts, obviously. 
+
+[00:18:07] Kristin:
+Yeah. 
+
+[00:18:08] Drew:
+And then I've also set her to 
+
+[00:18:10] Drew:
+The one 
+
+[00:18:13] Drew:
+one month out of the year group of my dwarves for 
+
+[00:18:19] Drew:
+martial training 
+
+[00:18:19] Kristin:
+Ah, I gotcha. 
+
+[00:18:20] Drew:
+squat training. 
+
+
+[00:18:22] Drew:
+The idea there being basically that that just that's one more need that's relatively easy to check off and she did have the Felt unfettered after not having practiced a martial arts 
+
+
+[00:18:32] Kristin:
+Well, sounds like you're on the right track for her. 
+
+[00:18:35] Drew:
+Yeah, she hasn't she hasn't gone up yet from the super angry, but and she's got the stressed emote 
+[interjection] Kristin: I know.
+[interjection] Drew: But I think I think we'll pull her back from the brink. I certainly hope so because she does a lot of good work 
+[interjection] Kristin: I think.
+
+[00:18:46] Kristin:
+Yeah. 
+
+[00:18:47] Drew:
+Um, let's see. 
+
+[00:18:48] Drew:
+An interesting thing I've noticed, and I'm not sure if other people have seen it as well, is that since the most recent update, my dwarves are kind of throwing equipment everywhere. 
+
+[00:18:57] Drew:
+You remember that we mentioned last time that there was an update so that they'd stop just throwing their food down in bags and rotting in their rooms? 
+[interjection] Kristin: Uh-huh.
+
+[00:19:05] Drew:
+But now I'm seeing, like, they'll throw their picks just about anywhere when they get distracted by a different thing to do, so... 
+
+[00:19:12] Kristin:
+I have not noticed that, but also haven't been doing a lot of mining, necessarily. 
+
+[00:19:19] Drew:
+Yeah, so I've been finding picks just kind of sitting in the tavern or... 
+
+[00:19:24] Drew:
+down again by where they're mining which isn't the end of the world like you can throw down 
+[interjection] Kristin: Right.
+[interjection] Drew: your pick and walk away if you want but yeah 
+
+[00:19:30] Kristin:
+Yeah. 
+
+[00:19:31] Drew:
+you know, before they would tend to carry their pick around with them. 
+
+[00:19:34] Kristin:
+Are you getting the notification then that they can't do the job later because they don't have their tool? 
+
+[00:19:39] Drew:
+No, no, that's good. 
+
+[00:19:40] Kristin:
+That's good at least, they pick it up again. 
+
+[00:19:42] Drew:
+Yeah, but I think they have to then go and find it maybe in the tavern or wherever and continue on, so. 
+
+[00:19:48] Drew:
+So that's something to keep an eye on. Also, I just have told them to make a bunch of picks, so I'm just not gonna have to worry about that too much. 
+[interjection] Kristin: Uh-huh.
+
+[00:19:54] Kristin:
+Yeah, I should probably get on making pics. I assume they wear out at some point. 
+
+
+[00:19:58] Drew:
+The... weapons... 
+
+[00:20:01] Drew:
+Per se such as crossbows and bolts and all that that seems to be working fine at this stage. I haven't seen those lying around 
+[interjection] Kristin: out.
+
+[00:20:08] Kristin:
+Mm-mm. 
+
+[00:20:09] Drew:
+and they really took to practicing with the crossbows and bolts and stuff much easier than I feel like they have in the past. 
+
+[00:20:17] Kristin:
+I still haven't even really tried arrow dwarves. 
+
+[00:20:20] Drew:
+You know what I'm saying? 
+
+[00:20:21] Kristin:
+Oh, speaking of squads and updates, the DF hack 
+
+[00:20:26] Kristin:
+update with the squadrons is great. 
+
+[00:20:29] Drew:
+Yeah, that is really elegant now. 
+
+[00:20:31] Kristin:
+Yeah, you can filter according to who's in your nobility or assigned to another squad and just get those out of there. 
+
+[00:20:38] Drew:
+or level of stress because the stress really, a lot of dwarves, when they get stressed, an easy way to at least check off one or two needs is usually to assign them to a. 
+
+[00:20:48] Kristin:
+Yeah. 
+
+[00:20:48] Drew:
+squad. 
+
+[00:20:49] Kristin:
+I'll have to try that part of it. 
+
+[00:20:51] Kristin:
+I don't have that many very stressed dwarves. 
+
+[00:20:55] Drew:
+Yeah, I think Vukar is the most stressed of my dwarves, but overall, the rest of them are doing pretty okay. I'm pretty normal distribution right now. I prefer to be. 
+[interjection] Kristin: I've heard.
+
+[00:21:07] Drew:
+more towards the happy side, but with the work I've been kind of trying to do and getting everybody to do that mining on that cliff face, trying to smooth it out so that we can really see the changes I make. 
+
+[00:21:17] Drew:
+I'm not surprised that there's some unhappy dwarfs there. 
+[interjection] Kristin: ...
+
+[00:21:20] Kristin:
+yeah i did exile one super unhappy guy because he just kept 
+
+[00:21:25] Kristin:
+Stumbling around obliviously, but never found the sweet release of death. I guess I just sorry guy sent him on his way 
+
+[00:21:33] Drew:
+I've also managed to avoid having too many problems from the underground. 
+
+[00:21:40] Drew:
+Bye. 
+
+[00:21:42] Drew:
+really walling it in pretty fast this time. 
+
+[00:21:44] Kristin:
+Yeah. 
+
+[00:21:45] Drew:
+And again, because I've already got my magma access, I haven't worried too much about that. I just walled it in so that I could have some good, safe pasture for the animals. 
+
+
+[00:21:56] Drew:
+i accidentally unwalled one section and then something like 
+
+[00:22:00] Drew:
+I think. 
+
+[00:22:01] Drew:
+20 Troglodytes attacked at once? 
+
+[00:22:04] Kristin:
+Whoa. 
+
+[00:22:05] Drew:
+But thankfully. 
+
+[00:22:05] Kristin:
+It's an organization I don't expect from Troglodytes. 
+
+[00:22:09] Drew:
+Right? They all just suddenly their pathfinding all triggered, I guess. 
+[interjection] Kristin: y'all
+
+[00:22:12] Kristin:
+Yeah, weird. 
+
+[00:22:13] Drew:
+Um, so I walled that back up and killed them. 
+
+[00:22:16] Kristin:
+Mm-hmm. 
+
+[00:22:16] Drew:
+Again, they weren't super hard to kill, so... 
+
+[00:22:18] Kristin:
+Yeah, chocolate eggs. 
+
+[00:22:19] Drew:
+Yeah, so that was, that was. 
+
+[00:22:20] Drew:
+Um, just weird though that as soon as I had opened up a wall... 
+
+[00:22:24] Kristin:
+Yeah. 
+
+
+[00:22:27] Kristin:
+Funny. 
+
+[00:22:27] Drew:
+Now that I've got it sealed up again, when Forgotten Beast appeared, that just ran around and killed the remaining ones, so it's been fine. 
+[interjection] Kristin: So.
+
+
+[00:22:37] Drew:
+Oh. 
+
+[00:22:39] Drew:
+The other fun thing is we've been getting some interesting foods made. 
+
+[00:22:45] Kristin:
+Me too. 
+
+[00:22:46] Drew:
+I think, from your suggestion, we should turn this into a regular section. 
+
+[00:22:51] Kristin:
+What's on the menu? 
+
+[00:22:52] Drew:
+Exactly. You're for it. 
+
+[00:22:54] Drew:
+So, I'll talk about these two real quick. 
+
+[00:22:58] Drew:
+The first is the subterranean surf and turf delight. 
+
+[00:23:03] Drew:
+This hearty roast, a blend of bracing cave fish meat from the cold, dark underground rivers, minced pond turtle, 
+
+[00:23:11] Drew:
+A prized catch by the daring fishermen of the clan, and minced mule sweetbread, a tribute to the sturdy beasts that tirelessly serve the fortress, is a testament to the dwarves' ability to harness the flavors of their rugged and challenging habitat. 
+
+[00:23:25] Drew:
+Each bite of the subterranean surf and turf delight is a journey through the lands they've conquered and the waters they've navigated, a true taste of the subterranean frontier. I also did that in part because we haven't had that many exciting... 
+
+[00:23:39] Drew:
+Artifacts created 
+
+[00:23:40] Kristin:
+Ah, I see. Yeah. 
+
+[00:23:43] Drew:
+com. 
+
+[00:23:44] Drew:
+The other one... 
+
+[00:23:45] Drew:
+is the Verdant Veils Vineyard Medley. 
+
+[00:23:48] Drew:
+Red spinach leaves, hand-picked from the lush underground gardens, represent the blood and toil of the Dwarven clan. Minced lettuce leaf, a cool reprieve from the fiery forges meld in the dance of textures. Yet the star of this platter is the minced Dwarven wine. 
+
+[00:24:05] Drew:
+A robust concoction fermented from the lush and voluptuous plump-helmet mushrooms. The wine, rich and heady, carries with it the whimsical essence of its origin, igniting roars of laughter through the halls as they revel in the cheeky homage to the mushroom's 
+[interjection] Kristin: Homage
+[interjection] Drew: suggestively stout and meaty nature. 
+
+[00:24:23] Kristin:
+Oh my 
+
+[00:24:24] Drew:
+Did that get you a little too worked up? 
+
+[00:24:26] Kristin:
+Uh-huh. 
+
+[00:24:28] Drew:
+Um... 
+
+[00:24:29] Drew:
+Yeah, so that's been what's going on at my fort. 
+
+[00:24:33] Drew:
+One thing, though, is that we've also had two ghosts be haunting the fort. Ooh. The first is Eden Hoistglaze, a tavern keeper. 
+
+[00:24:43] Drew:
+ghostly tavern keeper 
+
+[00:24:45] Drew:
+That's fun. 
+
+[00:24:46] Drew:
+Domas Smythdon, a ghostly miner. 
+
+[00:24:50] Drew:
+Both of these are Forlorn Ghosts, which is one of the three major categories of ghosts in Dwarf Fortress. 
+
+[00:24:57] Kristin:
+Oh, I didn't realize there were categories of ghosts. 
+
+[00:25:01] Drew:
+There are, in fact, something like 11 categories. 
+
+[00:25:04] Kristin:
+Whoa, that's a lot of ghost types. 
+
+[00:25:07] Drew:
+I don't want to read all of them off to you. You can always check it out in the DF wiki. 
+[interjection] Kristin: Mm-hmm.
+
+[00:25:11] Kristin:
+Yes. 
+
+[00:25:11] Drew:
+But, there are sort of three main categories. The first are the haunts, then we have the poltergeists, and then we have the ghosts. 
+
+[00:25:19] Kristin:
+Okay. 
+
+[00:25:20] Drew:
+So the haunts are kind of the most passive and gentle of the ghost types, where they are frequently forlorn. And so they just sort of look around the fort, appear and disappear. 
+
+[00:25:37] Drew:
+Sometimes horrifying people, but usually not too terribly bad. Yeah. 
+
+[00:25:41] Drew:
+the next level of challenge. 
+
+[00:25:43] Drew:
+are the poltergeists, of which they're energetic, secretive, and troublesome. 
+
+[00:25:49] Drew:
+Each of these... 
+
+[00:25:50] Drew:
+will move things around the fort and cause terror in those who see them. 
+
+[00:25:56] Kristin:
+Hmm. Yes, I've had some of those. 
+
+[00:25:58] Drew:
+They'll topple chairs. 
+
+
+[00:26:00] Drew:
+They'll misplace items. 
+
+[00:26:02] Drew:
+And they will also pull levers on occasion. 
+
+[00:26:06] Drew:
+which can be troublesome. 
+
+[00:26:07] Kristin:
+Yes, that would be a problem. Especially if you have children who play underneath your atom smasher. Exactly. 
+
+[00:26:16] Drew:
+Ah, and then so finally we have the ghosts and spirits. 
+
+[00:26:21] Drew:
+which most of whom are created either as the result of a mood of some sort, some sort of fey mood. 
+
+[00:26:29] Drew:
+Um, for example, the violent ghost happens when the dwarf was berserk. 
+
+[00:26:36] Drew:
+The sadistic ghost happens when a dwarf died while in a macabre mood. 
+
+[00:26:44] Drew:
+and a murderous ghost when in a fell mood. 
+
+[00:26:47] Kristin:
+Wow. I, um. 
+
+[00:26:48] Kristin:
+have not experienced most of those. I think most of my ghosts have come from people who have like... 
+
+[00:26:54] Kristin:
+drowned or 
+
+[00:26:56] Kristin:
+died of dehydration or 
+
+[00:26:58] Kristin:
+I don't know if the, from the burnt to a crisp, but the people whose bodies we have not had access to. 
+
+[00:27:03] Drew:
+Yeah. 
+
+
+[00:27:04] Drew:
+I think that's the case. 
+
+[00:27:07] Drew:
+It's very easy for that to happen because if they don't have a piece of the body, any piece will actually do. 
+
+[00:27:15] Drew:
+put into a tomb then they can come back and then you have to engrave their death upon a memorial stone and place that in order to put them to rest. 
+[interjection] Kristin: Yes.
+
+[00:27:24] Kristin:
+I, uh, I also had a couple of ghosts, um, one of them I mentioned. 
+
+[00:27:31] Kristin:
+previously that I was leaving just to see what he would do. 
+
+[00:27:36] Kristin:
+That's English Coganethil I didn't get his English his English name But he was a ghostly miner and he was pretty peaceful for a long time He just sort of haunted near the forges and I assumed down where he was mining 
+
+[00:27:51] Kristin:
+but then he started following around Zephron Aguirre Rust. 
+
+[00:27:57] Kristin:
+and I looked to see if this was like a family member or a friend. 
+
+[00:28:02] Kristin:
+No. 
+
+[00:28:03] Drew:
+No, just someone who became obsessed with it. 
+
+[00:28:04] Kristin:
+And he became obsessed with her. Someone, I think, and Zephron then had a, frightened after being tormented by the dead. 
+
+[00:28:12] Drew:
+Oh, no. 
+
+[00:28:12] Kristin:
+No, but he has also since died. He I think he got killed by either a goblin or a forgotten beast But it was at that point like before Zephron died I 
+
+[00:28:25] Kristin:
+carved a slab for Engish, which I then... 
+
+[00:28:30] Kristin:
+Uh, it was so like kind of pitiful that I, I captured it and we'll tell you now what it is. I don't know why I'm trying to talk like Perd Happly, but, um, English Coganathil, born 73, died of thirst in the year 143, manager of the Dwarf Virgins, 140 to 143, lover of reindeer hus. 
+
+[00:28:52] Drew:
+Reindeer hoof, that's a very gentle baa. 
+
+[00:28:56] Kristin:
+I'm guessing whoever knew him, or whoever carved the slab, didn't know that much about him, or maybe he wore a reindeer hoof bracelet or necklace or something, and that's all anyone knew, which is kind of a bummer, really. 
+
+[00:29:13] Drew:
+Oh, that's like when there was the funeral for my grandmother and the preacher that did the eulogy didn't really know that much about her and said some sort of homophone and just completely misunderstood like what the notes were about and it was just so sad. 
+
+
+[00:29:33] Kristin:
+uh and then i i've had three ghosts apparently and i read another one of the slabs and this one i kind of liked. 
+
+[00:29:41] Kristin:
+And I think the dwarf would have liked it too. In memory of bomb wreck. 
+
+[00:29:45] Kristin:
+I didn't deg. Born 55. Bled to death in the year 143. 
+
+[00:29:51] Kristin:
+Friend of cavies. Aww. So, I'm assuming that some of the many pet cavy pigs, cavy-zos, guinea pigs running around 
+[interjection] Drew: Hang on, digs.
+[interjection] Kristin: that we have belong to poor bomb wreck. So we might have some sad guinea pigs. 
+
+
+[00:30:05] Kristin:
+I've had some guinea pigs starving to death because these stupid dwarves don't feed their pets. 
+
+[00:30:11] Kristin:
+And so I have to take them away and put them in pastures, but then they still die. So I don't really know how to keep a guinea pig either, apparently. 
+
+[00:30:17] Drew:
+Yeah, there's something weird going on there, I think, with this current update, but yeah, 
+[interjection] Kristin: Yes.
+[interjection] Drew: I've just taken to assigning everyone's pets to a pasture and that seems to be mostly doing the job. 
+[interjection] Kristin: That seems to be the case.
+
+[00:30:28] Kristin:
+Yeah, I now have a pet pasture and there's like some fowl in there and at least one sheep and then there was someone's pet goat and then in a different pasture I noticed that I had a female goat and I was like well time to put those two together. Although along those lines I've been raising water buffalo which has been slow but now we have meat and leather and soap. 
+
+[00:30:51] Kristin:
+Man, they go through pasture. 
+
+[00:30:53] Drew:
+Yeah, they really do. 
+
+[00:30:54] Kristin:
+Wow, I've had to make huge pastures, multiple huge pastures, so. 
+
+[00:30:58] Kristin:
+I feel like you are. I'm aggravating. 
+
+[00:31:00] Drew:
+I feel like the only thing that goes through more are elephants. 
+
+[00:31:03] Kristin:
+Mhm. 
+
+[00:31:04] Kristin:
+So I'm going to have to do a pretty big slaughter pretty soon because I'm just going to run out of grass. 
+
+[00:31:10] Drew:
+I, uh, I mean, I guess if you think about it, uh, Buffalo probably does need a lot of pasture. Well, yeah, of course. 
+
+
+[00:31:20] Drew:
+I had a couple of random ghost facts however in Dwarf Fortress. 
+[interjection] Kristin: Oh!
+
+[00:31:25] Drew:
+All right. 
+
+[00:31:26] Drew:
+So what? 
+
+[00:31:27] Drew:
+If a ghost is put to rest and subsequently re-raised by deconstructing its coffin or slab, it will eventually return as a murderous ghost. 
+
+[00:31:35] Kristin:
+Whoa. Oh, I kind of want to try that. 
+
+[00:31:39] Drew:
+Ghostly fisher dwarf will keep fishing in the afterlife and ghostly animal trainers will continue to train your captured animals for you 
+
+[00:31:46] Kristin:
+Aww. 
+
+[00:31:47] Drew:
+Ghosts can suffer bruises and even organ rupture if struck by a mind cart. 
+
+[00:31:52] Kristin:
+That seems wrong. I assume it doesn't slow them down, though. 
+
+[00:31:57] Drew:
+I would assume not, but again, you know, maybe it's only if it's an iron mine cart. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: Ooh, yeah. Go back to supernatural rules. Right. 
+
+[00:32:05] Drew:
+Ghost children can and will grow up if they came back as a child. So they'll be adult ghosts? Yes, and then die of old age. 
+
+[00:32:15] Kristin:
+Huh. 
+
+[00:32:16] Kristin:
+Okay. 
+
+[00:32:17] Drew:
+The joys of Dwarf Fortress. 
+
+[00:32:18] Kristin:
+Did they then have a ghost of their ghost? 
+
+[00:32:20] Drew:
+I don't think so. 
+
+
+[00:32:24] Drew:
+Because they can't die in any of the states that lead to being a ghost. 
+
+[00:32:27] Kristin:
+Ah, I see. 
+
+[00:32:29] Drew:
+So, at any rate. 
+
+[00:32:31] Kristin:
+Yeah. 
+
+[00:32:32] Drew:
+It's a good game, no bugs. 
+
+[00:32:33] Kristin:
+No bugs. Well, that's not a bug. That's a feature. 
+
+[00:32:37] Drew:
+Um, did you have a... 
+
+[00:32:40] Drew:
+meal from your fort you wanted to tell us about. 
+
+[00:32:42] Kristin:
+Yes, I did. And I have a little essay about this meal. 
+
+[00:32:48] Kristin:
+Chef Eteb Tonegorge, who is a high master chef, working for the Olive of Towns Tavern here at Glade's Cradles. 
+
+[00:32:58] Drew:
+That sounds like a fancy place. 
+
+[00:33:00] Kristin:
+A dazzling fusion. Forgotten beast tortoise delight. 
+
+[00:33:04] Kristin:
+In the heart of culinary innovation, a remarkable creation emerges, the forgotten beast tortoise delight. This opulent dish marries the ancient and avant-garde in a harmonious symphony of flavors. A centerpiece of this gastronomic opus is the tortoise meat, procured from a creature of legends. Its tender succulent strands intertwine with the palate, evoking a sense of ancient 
+[interjection] Drew: Oh!
+[interjection] Kristin: majesty. 
+
+[00:33:32] Kristin:
+Each bite is a revelation, a testament to the culinary prowess behind this masterpiece. 
+
+[00:33:37] Drew:
+FULL STRAND 
+
+[00:33:40] Kristin:
+strands. Enveloping this noble protein is a velvety sauce of forgotten beast tallow. 
+
+[00:33:48] Kristin:
+A rare elixir that imparts a rich luxurious texture to the dish. 
+
+[00:33:54] Kristin:
+Its presence elevates the entire composition, infusing it with a depth of character that is nothing short of enchanting. 
+
+[00:34:01] Drew:
+I'm not sure why the strands of protein bothered me more than the rich, luxurious tallow. 
+
+[00:34:07] Kristin:
+The rich, yes, well, the tallow frustrates me because that could have been soap. 
+
+[00:34:11] Kristin:
+And instead, it's just this very fine meal. The addition of meticulously minced alfalfa adds a touch of earthy vibrancy, offering a counterpoint to the robustness of the tortoise. Each morsel of alfalfa brings a burst of freshness, a whisper of fields kissed by the sun, providing a delightful contrast to the dish's opulent undertones. 
+
+[00:34:35] Kristin:
+This is a creation that defies convention, transcending the boundaries of tradition. 
+
+[00:34:40] Kristin:
+It is a tantalizing journey through the Forgotten Realms. 
+
+[00:34:43] Kristin:
+a testament to the boundless imagination of its creator. 
+
+[00:34:47] Kristin:
+The Forgotten Beast's Tortoise Delight is not merely a dish, it is an experience, an ode to the timeless allure of culinary artistry. 
+
+[00:34:56] Drew:
+Oh my goodness. 
+
+[00:34:58] Kristin:
+So yes, we had a three-eyed tortoise-forgotten beast that has been butchered and consumed. 
+
+[00:35:05] Drew:
+and apparently had stranded meat. 
+
+[00:35:07] Kristin:
+Strands of stringy meat, yes. Yes, we actually had many forgotten beasts, several of them just sort of like wandered in and out of the map. This one actually did cause some problems. A towering three-eyed tortoise. It has a long curly tail and it squirms and fidgets. Its clear scales are jagged and overlapping. Beware its poisonous sting. 
+
+[00:35:30] Drew:
+Eeee! 
+
+[00:35:31] Kristin:
+Yeah, so we didn't get leather off of it, because... 
+
+[00:35:34] Kristin:
+Tortoise 
+
+[00:35:34] Kristin:
+Yeah, no, I don't know what happened to the scales and stuff, but yes, apparently they 
+[interjection] Drew: Yeah.
+[interjection] Kristin: cooked it. And I did not realize that was happening, or I would have. 
+
+[00:35:44] Drew:
+this. There's good eating on those turtles. 
+
+[00:35:47] Kristin:
+Yeah, I mean we have eaten a fair bit of turtle at this fort, and mussels of course. We also had an enormous pterosaur with external ribs. 
+
+[00:35:58] Kristin:
+three long it has three long curving horns and it undulates rhythmically 
+
+[00:36:03] Kristin:
+Its burnt umber scales are jagged and set far apart. Beware its deadly spittle! 
+
+
+[00:36:09] Kristin:
+That one didn't cause a lot of problems. Like I said, most of them just sort of meandered. 
+
+[00:36:14] Kristin:
+in and out without doing anything. 
+
+[00:36:16] Drew:
+Yeah, I had one Forgotten Beast so far. Like I said, I'm trying to keep on top of it to not have to deal with that so much this fort. But the description of that guy is as follows. The Forgotten Beast. 
+
+[00:36:32] Drew:
+Erini Irithae has come, a gigantic hairy eight-legged gila monster! 
+
+[00:36:39] Drew:
+It appears to be emaciated. Its yellow-green hair is short and even. Beware its poisonous bite. Ooh, poisonous. Eight-legged gila monster. 
+
+[00:36:48] Drew:
+And a Gila monster. It's kind of terrifying. 
+
+[00:36:48] Kristin:
+You're a monster. 
+
+[00:36:49] Drew:
+Yeah, Gila monster is a lizard. 
+
+[00:36:53] Kristin:
+Mm-hmm. 
+
+[00:36:53] Drew:
+Yeah. 
+
+
+[00:36:54] Drew:
+Weird. 
+
+[00:36:54] Kristin:
+Did it do a lot of damage for you? 
+
+[00:36:56] Drew:
+No, that was the one that spent most of its time killing troglodytes and then was fairly weak itself, so it died relatively quickly. 
+[interjection] Kristin: Oh!
+
+[00:37:07] Kristin:
+We had another one that we actually had like three or four but the only one more came into the fort and that was let's see that the name is great it's Ovis Sully Lobsters the Shadow of Spurts. Yuck. He was an enormous feathered spider. It has a short trunk and it appears to be emaciated. Its sky-blue feathers are fluffed out. 
+
+[00:37:31] Kristin:
+beware it's poisonous bite. So it is a blue feathery spider. 
+
+[00:37:37] Drew:
+Yeah 
+
+
+[00:37:39] Drew:
+Although maybe it's pretty, I don't know. 
+
+[00:37:40] Kristin:
+It died really easily, like our squadron didn't even get there. 
+
+[00:37:44] Drew:
+spurts. 
+
+[00:37:44] Kristin:
+I think it, um, it was very weak, I think it had in the description, so. 
+
+[00:37:48] Drew:
+I'm always amused by how often spurts comes up in the name of various creatures. 
+[interjection] Kristin: I know.
+[interjection] Drew: 
+
+[00:37:55] Kristin:
+yes so aside from beasts we've had a number of artifacts created um we so like there was a ring and i know that there was an axe and a couple of them were heirlooms but the one that was most remarkable is the 13,000 dwarf buck 
+
+[00:38:11] Kristin:
+cabinet, teawood cabinet called gingimir, gingiminir. It's a lot of I's. 
+
+[00:38:18] Drew:
+Yes. 
+
+[00:38:20] Kristin:
+It is a teawood cabinet. All craft dwarf ship is of the highest quality. It is decorated with date palmwood, sheep wool, and forgotten beast bone. 
+
+[00:38:28] Kristin:
+encircled with bands of teawood. This object menaces with spikes of giant cave spider silk and clay stone. 
+
+[00:38:36] Kristin:
+On the item is an image of Asteche Portal Drills, the dwarf, and the Glimmer of Cooperation, the native gold hatch cover in Water Buffalo Bone, that's the creator of it. 
+
+[00:38:46] Drew:
+Uh-huh. 
+
+[00:38:47] Kristin:
+Astash Portal Drills is Raising the Glimmer of Cooperation. The artwork relates to the creation of the Glimmer of Cooperation in Glazed Cradle by the dwarf Astash Portal Drills in the early spring of 142. 
+
+[00:39:00] Drew:
+I do enjoy these for being mad libs and also tongue twisters. 
+
+[00:39:04] Kristin:
+Yes. 
+
+[00:39:05] Kristin:
+On the item is an image of a three-pointed star in resin opal. On the item is an image of a forgotten beast in resin opal. 
+[interjection] Drew: Nope.
+[interjection] Kristin: So this is a very busy cabinet. It's quite opulent. 
+
+[00:39:15] Drew:
+Yes, when I rendered it I only rendered one side. I figured the dwarf lifting up the... 
+
+[00:39:22] Drew:
+hatch cover. The golden hatch cover is kind of the front and then the other two 
+[interjection] Kristin: the hatch cover.
+[interjection] Drew: things would be on the other side. 
+
+[00:39:28] Kristin:
+Like on the panels, yeah. 
+[interjection] Drew: Yeah.
+
+[00:39:31] Kristin:
+I- 
+
+[00:39:31] Kristin:
+Should put it into their room or something like oh, yeah. Yeah, especially your work. Yeah. Yeah 
+[interjection] Drew: Oh yeah, you should. Celebrate it.
+
+[00:39:40] Kristin:
+It's so funny that this dwarf, the creator of this, must have witnessed the creator of the other, which is great. 
+
+[00:39:48] Drew:
+Yeah, it gets very confusing. Yes. 
+
+
+[00:39:52] Drew:
+Um... 
+
+[00:39:53] Drew:
+I don't know what resin opal is. I need to look if that is that supposed to mean like amber or what is it? I don't know. 
+
+[00:40:01] Kristin:
+Alright. 
+
+[00:40:02] Kristin:
+It's a little frustrating to me that I have all of these artifacts and I took pictures of the descriptions. 
+
+[00:40:07] Kristin:
+And I don't know anything about the dwarves that made them, and that's, again, my population problem, which is why I keep threatening to create a new fort and then not actually doing it, because I'm really enjoying the industry at this one. 
+
+[00:40:21] Kristin:
+So I think that with the next one, I'll be like. 
+
+[00:40:24] Kristin:
+I'm definitely going to be more prepared and go in with an idea of this is going to be the textile fort or something like that. And I might actually do that. I think I could do a custom embark. 
+
+[00:40:35] Kristin:
+that would 
+
+[00:40:36] Kristin:
+um like with to make sure that I have wool. 
+
+[00:40:40] Kristin:
+Growing creatures and stuff like that 
+
+[00:40:43] Drew:
+Yeah, you haven't actually really done a, uh, like a, a themed custom embark in that sort of thing. 
+
+[00:40:47] Kristin:
+a themed... Super custom embark in that sort of thing. No, I haven't. So that might be my next project. 
+
+[00:40:52] Drew:
+Um, let's see. Yeah, it looks like resin opal is, um, just sort of a very hard form of amber. 
+
+[00:41:01] Drew:
+next time. 
+
+[00:41:02] Kristin:
+OK. Well, now we know. 
+
+[00:41:03] Drew:
+Yeah, but I think that's a good plan. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: Everyone should do a customized embark at least once, just so you see how ridiculously detailed it can get. 
+
+[00:41:12] Kristin:
+Yeah, I'll definitely like look up a guide because I'm sure there are plenty. 
+
+
+[00:41:20] Drew:
+Nice thing about it, I've always found, is that if you want to do animal industries, it's really the only way to go because you just, you never get breeding. 
+
+[00:41:25] Kristin:
+is you just, you never get breeding pairs. No, I mean, I think I did this time with the water buffalo, but that was just a lucky roll of the dice. 
+
+
+[00:41:33] Drew:
+Um 
+
+[00:41:34] Drew:
+whereas you can like have a 
+
+[00:41:37] Drew:
+uh you know multiple multiple chickens with one rooster and then um 
+
+[00:41:42] Drew:
+you know, breeding pairs of horses and other animals and it works out nicely. 
+[interjection] Kristin: Yeah.
+
+[00:41:47] Kristin:
+That did remind me, I do have a lot of horses. Oh, you're gonna have to. I know, it always makes me really sad. We don't seem to have the puppy-kitten problem, though. Just a water buffalo problem. 
+
+[00:41:58] Drew:
+Yeah, I feel like I've had less problems with dogs. I know the round table people, I think Roland has said 
+[interjection] Kristin: He's rolling.
+[interjection] Drew: that he's been having puppy explosion, but I'm curious if maybe they're... 
+
+[00:42:07] Kristin:
+Yeah, I just don't have a breeding pair, I think. 
+
+[00:42:10] Drew:
+Yeah. 
+
+
+[00:42:11] Drew:
+Yeah, so the... 
+
+[00:42:13] Drew:
+As we get closer to Halloween, I'm kind of excited to see how the spooky forts wind up. 
+
+[00:42:18] Kristin:
+Yeah, um, would you ever? 
+
+[00:42:22] Kristin:
+like, arrange for deaths in a way to get the various types of ghosts. 
+
+[00:42:26] Drew:
+I might, that would be kind of funny. 
+
+
+[00:42:29] Drew:
+There was that Dwarf Fortress book that someone put together with all the different types of Dwarf Fortress deaths. 
+[interjection] Kristin: together.
+
+
+[00:42:37] Drew:
+Um... 
+
+[00:42:38] Drew:
+and I think it might be funny to arrange some of them, but a lot of them require the various moods. 
+
+[00:42:44] Kristin:
+Yeah, that's going to be really challenging to recreate because I like the idea of getting 
+[interjection] Drew: Yes.
+[interjection] Kristin: like a haunted biome and then trying to get some dwarves. 
+
+[00:42:53] Kristin:
+And just into ghosts. Yeah, just have a ghost spooky, holy spooky fort. 
+[interjection] Drew: Yeah, and just have a holy spirit.
+
+[00:42:59] Drew:
+I think that would be a lot of fun to do. 
+
+[00:43:02] Kristin:
+It would be really fun with them, depending on the moods. 
+
+[00:43:06] Drew:
+You can probably cheat with that with dfhack, but... 
+
+[00:43:09] Kristin:
+I mean, yeah, probably. 
+
+[00:43:10] Drew:
+Yeah, there should be some way to initiate the various moods. I think I've, I don't know. 
+
+[00:43:15] Drew:
+if i've ever seen a fel mood or a macabre mood i know i've seen one or the other but i don't think i've seen both 
+[interjection] Kristin: I guess.
+
+[00:43:20] Kristin:
+I think I've seen Fel, but I've not seen Macabre. 
+
+[00:43:23] Drew:
+Yeah, I always get confused which one is the murder one and which one is the there's a murder for reason one and just a random murder one. 
+
+[00:43:31] Kristin:
+Yeah, I know that I've seen Fel and I've seen a murder, but I don't know that there was a reason behind the murder 
+
+[00:43:37] Drew:
+Yeah, and then you can have the possession ones as well, where I think they become violent, so. 
+
+[00:43:41] Kristin:
+Ah. 
+
+[00:43:41] Drew:
+Yeah. 
+
+[00:43:43] Kristin:
+Well, there's a lot of evilness that we have not encountered. 
+
+[00:43:48] Drew:
+Yeah, and the Spooky Forts on Bay12Games, they use the various mods, so mods are something we are going to have to start thinking about, I think. Maybe when we hit a year, we'll talk about doing some new mods. 
+
+[00:43:58] Kristin:
+Yeah, think about experimenting with mods. I don't think, I think I like being fairly vanilla. 
+
+[00:44:03] Kristin:
+but it might be fun to try out. 
+
+[00:44:05] Drew:
+I'll just add some, you know, add something new and spicy to it a different race or more interactions with the elves 
+
+
+[00:44:13] Drew:
+That sort of thing. 
+
+[00:44:14] Kristin:
+That could be fun. 
+
+[00:44:15] Kristin:
+My interactions with the elves of late have just been murdering them. They die so easily. 
+
+[00:44:21] Kristin:
+They really, they really tend to, yeah. 
+
+[00:44:21] Drew:
+Yeah, if you've got the, if you've got a decently trained group. 
+
+[00:44:27] Kristin:
+Mm-hmm. 
+
+[00:44:27] Kristin:
+Yeah, my dwarves are hardened little killers at this stage. 
+
+[00:44:31] Drew:
+You know what I never see? 
+
+[00:44:33] Drew:
+My world at least is I haven't seen any invasions by necromancers lately. It's been a long time since I've seen 
+
+[00:44:39] Kristin:
+I have not seen it in a while and I feel like it was all necromancers all the time. I don't have any ware stuff. I think my first fort had one and I haven't since. 
+
+[00:44:48] Drew:
+Yeah. 
+
+[00:44:48] Kristin:
+Or vampires. 
+
+[00:44:49] Drew:
+Every force of vile darkness I get are just goblins. 
+
+[00:44:52] Kristin:
+Goblins. Mine are just goblins. 
+
+
+
+[00:44:55] Drew:
+Easy enough to take care of. Just I think the way the random number generator works right now just favors goblins a bit, I think. 
+
+
+[00:45:03] Drew:
+So. 
+
+[00:45:04] Kristin:
+I guess one thing that I need to try to accomplish is getting a linked site in some way with this fort because we're still a barony even at 200 dwarves and as much wealth as we have. 
+
+[00:45:15] Drew:
+Well, if you've got good, good trained squads, you can just send them out to conquer. 
+
+[00:45:19] Kristin:
+Yes, but then who's going to protect us? 
+
+[00:45:21] Drew:
+Well, you have to have multiple well-trained spines. Yeah. 
+
+[00:45:23] Kristin:
+Yeah, I guess I could start another squad. Maybe I'll start the the depressed people squad since we can do that easily now 
+
+
+[00:45:30] Drew:
+Um, do you have a decent amount of, uh, iron or steel weaponry and all of that, or is it... 
+
+[00:45:36] Kristin:
+That is something I definitely need to work on making sure that they're all correctly armed and armored. 
+
+[00:45:43] Drew:
+Yeah, and again, with the changes with the attack for the, uh, 
+
+[00:45:47] Drew:
+squad stuff i think that might become easier yeah i've been mucked about with it but yeah 
+[interjection] Kristin: I like that.
+
+[00:45:53] Kristin:
+Well, and like, outfitting the squad is something that I'd never pay attention to, so maybe it's time to do that. 
+
+[00:45:58] Drew:
+Yep. 
+
+[00:45:59] Drew:
+Always something else to find to do with Dwarf Fortress. 
+
+[00:46:02] Kristin:
+It's fun that this is becoming my like learn everything fort because we actually have powder for casts in our hospital that we made too now 
+
+[00:46:11] Drew:
+So you were able to find, what is it made from, gypsum? 
+
+[00:46:13] Kristin:
+Yes, gypsum. 
+
+[00:46:15] Drew:
+Yeah, I never find gypsum. 
+
+[00:46:17] Kristin:
+I am amazed like this this fort seems to have everything but we don't 
+
+[00:46:22] Kristin:
+We have gold we don't have a lot of other interesting metals I guess that's one thing that we're a little little short on like never saw copper I don't think. 
+
+[00:46:30] Drew:
+Yeah, you frequently kind of run into a situation where if you have gold, you don't have a whole lot of iron and those. 
+
+[00:46:37] Kristin:
+Mm-hmm. 
+
+[00:46:37] Drew:
+Um... 
+
+[00:46:39] Drew:
+I've never had a fort where I had both sand and gypsum together. 
+
+[00:46:44] Kristin:
+I have both. 
+
+[00:46:45] Drew:
+Yeah. 
+
+[00:46:46] Kristin:
+Yeah, we're in a fairly like, it's not quite tropical, but it doesn't really snow type locale, so. 
+
+
+[00:46:53] Drew:
+I don't know. 
+
+[00:46:54] Kristin:
+temperate 
+
+[00:46:55] Drew:
+So. 
+
+[00:46:56] Drew:
+No. 
+
+[00:46:57] Drew:
+I really think, you know, both of us were a little iffy about our current fort locations, but I feel like we've made a pretty good go of it. 
+
+[00:47:03] Kristin:
+Yeah, I'm still really enjoying mine and, um... 
+
+[00:47:07] Kristin:
+like looking forward to trying more stuff with it, especially because I like. 
+
+[00:47:12] Kristin:
+had pretty firmly felt that I was like I like the settlement part of it and then once they're taking care of themselves I'm done. 
+
+[00:47:18] Kristin:
+And I'm not running into that this time. 
+
+[00:47:20] Drew:
+Yeah, well, because you've decided to get all of the systems going, and that's what 
+[interjection] Kristin: And that's what.
+[interjection] Drew: Dwarf Fortress is about. The systems. 
+
+[00:47:27] Kristin:
+Yeah, the automation, though, would be really nice, so I'm going to look into that a little bit. 
+
+[00:47:34] Kristin:
+the layering together of work orders feels a little bit like making 
+
+[00:47:38] Kristin:
+formulas in excel or whatever 
+
+[00:47:41] Drew:
+Yeah. 
+
+[00:47:41] Kristin:
+But, you know, it would be nice to have them all feel good about their clothing. 
+
+[00:47:48] Drew:
+Exactly. Yeah, some of the higher level, um, there are tricks that you can do to make them, uh... 
+
+[00:47:53] Drew:
+a little bit easier. A lot of it again on DFWiki people have their different strategies. It's 
+[interjection] Kristin: Oh.
+[interjection] Drew: always crazy to look and see how many different strategies people have for doing things that probably should just be built in by default, but it's part of the fun. 
+
+[00:48:04] Kristin:
+Well, I mean, it's part of why we're all here. 
+
+[00:48:08] Drew:
+So. 
+
+[00:48:09] Kristin:
+Well, do you have any more news or updates from your fort? 
+
+[00:48:13] Drew:
+No, I think that's it. Everybody should go check out Stephen's new video. That one was pretty good. 
+
+[00:48:17] Kristin:
+and go check out the spooky forts. 
+
+[00:48:19] Drew:
+Spooky forts over on Bay 12 games everybody keep up with Bay 12 games. Yeah 
+[interjection] Kristin: Everybody.
+
+[00:48:23] Kristin:
+Yeah. 
+
+[00:48:24] Kristin:
+Well, until next time, you can find us on YouTube at A Strange Mood. You can email us at astrangemoodpodcast at gmail.com or just visit our website, astrangemoodpodcast.com. 
+
+[00:48:37] Drew:
+And until next time, just keep digging! 
+

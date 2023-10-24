@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,400
+That seems wrong. I assume it doesn't slow them down, though.
+
+

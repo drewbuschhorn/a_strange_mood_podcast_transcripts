@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:03,000
+There's a lot of gold in my area, a lot of copper.
+
+

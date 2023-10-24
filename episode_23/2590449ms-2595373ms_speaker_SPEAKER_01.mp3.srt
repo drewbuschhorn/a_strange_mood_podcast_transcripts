@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,040
+Yeah, there should be some way to initiate the various moods.
+
+2
+00:00:03,420 --> 00:00:04,680
+I think I've, I don't know.
+
+

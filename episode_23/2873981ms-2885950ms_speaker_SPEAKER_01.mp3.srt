@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,400
+a little bit easier. A lot of it again on DFWiki people have their different strategies. It's
+
+2
+00:00:04,400 --> 00:00:08,240
+always crazy to look and see how many different strategies people have for doing things that
+
+3
+00:00:08,240 --> 00:00:11,840
+probably should just be built in by default, but it's part of the fun.
+
+

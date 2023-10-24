@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:07,560
+But I finally went and looked just out of curiosity to see what the default population cap is. It is 220.
+
+
