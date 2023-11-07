@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,280
+One of the dwarves walks slowly towards the doctor, raising his baton.
+
+2
+00:00:03,280 --> 00:00:06,880
+Man decided to protect himself with his scalpel, but before he could even raise it,
+
+3
+00:00:06,880 --> 00:00:10,880
+the police baton hit his skull with a great strength, knocking him out.
+
+

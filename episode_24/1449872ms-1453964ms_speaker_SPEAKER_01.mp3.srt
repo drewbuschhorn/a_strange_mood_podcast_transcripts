@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,680
+Its gray slate exoskeleton is wrinkled.
+
+2
+00:00:02,680 --> 00:00:04,040
+Beware its webs.
+
+

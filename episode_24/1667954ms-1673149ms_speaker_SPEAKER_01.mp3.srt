@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,960
+Images that show up in their little character sheet will start to move more towards looking
+
+

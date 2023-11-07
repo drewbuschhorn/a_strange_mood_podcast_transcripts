@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,600
+change the weighting a little bit that we do seem to be getting a lot of artifacts about
+
+2
+00:00:03,600 --> 00:00:07,840
+the kings and queens and yeah the heads instead of other events
+
+

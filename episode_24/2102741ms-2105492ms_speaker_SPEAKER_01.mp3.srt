@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:02,400
+I've worked with something kind of like this before.
+
+

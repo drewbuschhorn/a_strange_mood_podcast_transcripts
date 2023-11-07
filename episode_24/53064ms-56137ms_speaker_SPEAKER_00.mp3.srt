@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,220
+but I still need some emeralds.
+
+2
+00:00:02,220 --> 00:00:03,420
+Do we have any emeralds?
+
+
