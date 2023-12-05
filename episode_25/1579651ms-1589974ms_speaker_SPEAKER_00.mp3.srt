@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,000
+Id Cloistertines is Raising the Bucket.
+
+2
+00:00:03,000 --> 00:00:08,280
+The artwork relates to the creation of the bucket in Ford Cudgel by the dwarf Id Cloistertines
+
+3
+00:00:08,280 --> 00:00:10,200
+in the mid-spring of 137.
+
+

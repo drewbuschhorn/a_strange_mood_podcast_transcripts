@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:07,640
+New equipment images on the full body tiles for equipment like artifacts and divine weapons are also coming, and I think new item images as well.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:00,600
+President.
+
+2
+00:00:00,600 --> 00:00:05,160
+OK, well anyway, you seem to have firm opinions on this.
+
+

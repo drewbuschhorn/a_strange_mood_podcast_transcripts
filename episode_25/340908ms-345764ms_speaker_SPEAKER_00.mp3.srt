@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,880
+Being able to look up how the different card games work in the same way you can look up the songs and stuff.
+
+

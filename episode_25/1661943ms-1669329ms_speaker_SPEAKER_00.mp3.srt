@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,500
+Because I guess I could always reclaim it and then it would be under a different group.
+
+2
+00:00:03,500 --> 00:00:07,340
+So that's why we have the group name and the region, the town name.
+
+

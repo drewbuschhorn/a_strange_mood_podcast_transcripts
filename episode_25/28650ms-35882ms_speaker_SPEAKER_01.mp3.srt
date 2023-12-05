@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,400
+Yes, we are. I think you got your lines mixed up, but that's okay.
+
+2
+00:00:03,440 --> 00:00:05,520
+All right. No, I liked it.
+
+
