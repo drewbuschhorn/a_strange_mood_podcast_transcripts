@@ -1,0 +1,332 @@
+
+[00:00:00] Drew:
+Hello, this is Drew from A Strange Mood Podcast. I decided I wanted to give you guys an example of what Dwarf Fortress looks like in each of the visualization options we currently have, and also show you which ones are still working now in the newest version of Dwarf Fortress, Dwarf Fortress Premium. So with that in mind, we'll be going through five different ones, although only three of them are actually functional. Those are Stone Sense, Armok Vision, IsoWorld, Vox Oresti, and Fortress Overseer. 
+
+[00:00:37] Drew:
+So let's get started. 
+
+[00:00:39] Drew:
+Here I'm showing you Ford Kudgel, which I've talked about on the podcast before. 
+
+[00:00:44] Drew:
+And I'm going to take you on a little tour of the different places that we have in Fort Kutchel, even though Fort Kutchel itself, as you can see, has fallen on hard times and basically everyone is dead. 
+
+[00:00:57] Drew:
+But we still have one final mayor to keep us entertained here, so let's go over to him now. 
+[interjection] Null: No.
+
+[00:01:11] Drew:
+Zulgar 
+
+[00:01:12] Drew:
+I guess I should say her. 
+
+[00:01:15] Drew:
+Let's take a look at those here. 
+
+[00:01:26] Drew:
+Which, yes, not a good day to be Zul'Kar. 
+
+[00:01:31] Drew:
+And the cause of those ghosts were our friendly bronze colossus over here, again mentioned on the podcast, the Yenna. 
+
+[00:01:41] Drew:
+veneer 
+
+[00:01:42] Drew:
+Vinnia Splatterstrife, the Stormy Axe. It's a lot harder to do this sort of thing when you guys can actually see the text of what's there and make fun of my pronunciation. But at any rate, yes, we've talked about this one before on the podcast, I just want to give you guys a little reminder of what's going on. 
+
+[00:02:05] Drew:
+They of course are at war with everyone. 
+
+[00:02:15] Drew:
+and have had 195 notable kills. 
+
+[00:02:20] Drew:
+Again, basically from everyone, and yeah, 130 other kills, although a lot of those were here in Fort Kutchel. So, yeah. 
+
+[00:02:29] Drew:
+It's a great situation. 
+
+[00:02:32] Drew:
+But let's show you some of the better things happening at Fort Cutchell. 
+
+[00:02:38] Drew:
+First we have our trading post. 
+
+[00:02:48] Drew:
+Then we have our... 
+
+[00:02:51] Drew:
+Initial tavern area, which is now full of dead bodies 
+
+[00:02:56] Drew:
+This was where we had everyone originally arranged and where we locked up that Bronze Colossus with basically the remainder of our team. 
+
+[00:03:03] Drew:
+town. 
+
+[00:03:07] Drew:
+Once upon a time, that was the tavern. 
+
+[00:03:12] Drew:
+And here we have our main level for Ford Cudgell. That was a temple. 
+
+[00:03:18] Drew:
+We also had a couple of different regions in here. We had 
+
+[00:03:31] Drew:
+our mine cart area or training booth. 
+
+[00:03:39] Drew:
+And there we had our magma forges and magma furnaces that got us started. Here's our giant tavern. 
+
+[00:03:51] Drew:
+that did make people happy for a while, the harvest of salves. 
+
+[00:03:57] Drew:
+And then also we had our... 
+
+[00:04:09] Drew:
+various... 
+
+[00:04:12] Drew:
+Also we had our various guild halls. 
+
+[00:04:20] Drew:
+And here we'll move on to what was going to be a nice lava cascade. Never actually turned into that, but you can see we built. 
+
+[00:04:30] Drew:
+A nice set of stairs going up to that area. 
+
+[00:04:32] Drew:
+and then 
+
+[00:04:33] Drew:
+continued on. 
+
+[00:04:35] Drew:
+We also had a hospital area down here. 
+
+[00:04:38] Drew:
+along with a functioning well from all of our different areas from that main level on down. 
+
+[00:04:44] Drew:
+The House of Galleys. Alas it was not spared. 
+
+[00:04:50] Drew:
+And then this was our internal farm plot. 
+
+[00:04:56] Drew:
+All right, so let's get started. 
+
+[00:05:03] Drew:
+We're going to check out Overseer first, as I was never able to get this working. But you can see here, it's a little bit older, using the Ogre. 
+
+[00:05:12] Drew:
+game engine system. 
+
+[00:05:16] Drew:
+In theory, you would open up a file that you get from the export system called dfmap. 
+
+[00:05:22] Drew:
+Doesn't exist. 
+
+[00:05:24] Drew:
+No examples I could find on how to get it from the current version of Dwarf Fortress Premium, so we're just going to close that and move on with life. 
+
+[00:05:41] Drew:
+Next up, we're going to go to Isaworld. 
+
+[00:05:43] Drew:
+ISOWorld 
+
+[00:05:44] Drew:
+Isoworld does not work either to the best of my abilities. 
+
+[00:05:48] Drew:
+Here you know I've exported. 
+
+[00:05:50] Drew:
+I've got the region map. 
+
+[00:05:53] Drew:
+legends mode xml all that sort of stuff and no luck 
+
+[00:05:59] Drew:
+So I think that one's dead for the moment. Now let's go on to stone sets. 
+
+[00:06:05] Drew:
+StoneSense is still working and is perhaps the best because it's auto-included in DFHack, so if you have DFHack installed, StoneSense should just work out of the box. When you go into StoneSense, you'll be dropped into a main view. 
+[interjection] Null: you.
+[interjection] Drew: You can see here we're taking a look at our trade post, and then we scroll back down here to the region where all of our dwarves were killed. 
+
+[00:06:29] Drew:
+than our main level. 
+
+[00:06:31] Drew:
+Here's our main level with our temple. You can see the nice rendering of the green glass. 
+
+[00:06:37] Drew:
+You can take a look at all the different storage that is going on. You can see our various... 
+
+[00:06:46] Drew:
+minecart regions, and then our various magma forges, as well as the tavern back there, and a nice little icon of Zuglar. 
+
+[00:07:08] Drew:
+Now we can drop down to our hospital level. You can see some unfortunate remains still hanging out there. 
+
+[00:07:18] Drew:
+And you can see a little bit of our. 
+
+[00:07:22] Drew:
+well there as well. 
+
+[00:07:26] Drew:
+Now let's go back over to our lava area and you can see that we can take a look at the stairs building upwards. 
+[interjection] Null: area.
+
+[00:07:35] Drew:
+And then our lava zone, with a nice little view of the lava being kind of, you know, one layer below where the majority of that is. 
+
+[00:07:43] Drew:
+All right. 
+
+[00:07:45] Drew:
+Now let's move on to Vox Uristi. 
+
+[00:07:48] Drew:
+This is a program that will generate voxel rendering of your fort. Let's give it a go. 
+
+[00:07:58] Drew:
+It'll take a little while for it to save all of the data over there so we'll skip ahead a little bit here. 
+[interjection] Null: a little.
+
+[00:08:07] Drew:
+First it reads the game. 
+
+[00:08:11] Drew:
+Then it's eventually done. We go over to a viewer, in this case MagickaVoxel is the recommended one, and here you can see a nice voxel view of the fort. 
+
+[00:08:26] Drew:
+Unfortunately, since I took this during the winter time... 
+
+[00:08:31] Drew:
+There's a lot of white here. I think it would look a little better during a different season, but that's where I was at. 
+
+[00:08:37] Drew:
+We can look here at the volcano Magma Falls. 
+
+[00:08:46] Drew:
+And you can also enter into a rendering mode to see it a little bit more, to see it in a prettier fashion. 
+
+[00:08:57] Drew:
+You could see from that view the light rendering and that sort of ray tracing, but of course with it being voxel based unfortunately everything is very cubic. 
+
+[00:09:10] Drew:
+and navigating between levels is a little bit challenging. 
+
+[00:09:14] Drew:
+So, now let's move on to the... 
+
+[00:09:19] Drew:
+Perhaps the most popular of the 3D renderers, which is Armok Vision. 
+
+[00:09:25] Drew:
+Now, Armok Vision, when I first started it up, it does take a while, and in fact, it refused to load for me the first time, so I closed it back down and started it back up again. Second time, it did actually work, and Dwarf Fortress does have to be running while you activate Armok Vision. 
+
+[00:09:43] Drew:
+Despite having a pretty powerful graphics card, it does take a little while to render, especially if you have the max blocks to draw and draw range up, but I feel like you kind of need that to get the full effect. 
+
+[00:09:57] Drew:
+Now the interesting thing about Armoch Vision is that it takes into account season, time of day, and also where you're looking on your map. So as you move around on your Dwarf Fortress map, 
+
+[00:10:09] Drew:
+you can. 
+
+[00:10:12] Drew:
+go back into Armok Vision and hit F to follow and it will move to that region. So that's how it handles taking a look at different levels. So let's check that out. 
+
+[00:10:26] Drew:
+Take a nice overhead shot first. 
+
+[00:10:30] Drew:
+Now let's move over to our lava faults. 
+
+[00:10:35] Drew:
+And there you can see it rendering. 
+
+[00:10:39] Drew:
+Nice and pretty. 
+
+[00:10:43] Drew:
+I don't know about those stairs as a rendering choice, but here we are. 
+
+[00:10:51] Drew:
+You can see back here, going back to our trade depot. 
+
+[00:11:01] Drew:
+Let's go and take a look here at the unfortunate area. 
+
+[00:11:06] Drew:
+There you can see a bunch of bodies that are all stuck on the ground along with everything they dropped. Armoch Vision does take a real stab at including everything in its little icon set and it seems to be keeping up with premium. 
+
+[00:11:22] Drew:
+Now let's go look at our main level. 
+
+[00:11:29] Drew:
+Again, nice, nice 3D view, easy to look at, some mushrooms here and there, the boxes, the bins containing items are labeled there, you can see a little bit of the minecart work. 
+
+[00:11:45] Drew:
+And here we'll go over to our magma forges and magma smelters. 
+
+[00:11:53] Drew:
+You can definitely get an impression of each of the levels. 
+
+[00:11:58] Drew:
+And then over here, we'll go to our... 
+
+[00:12:03] Drew:
+Oh, here we're trying to find our, uh... 
+
+[00:12:06] Drew:
+where our Snailman statue is. 
+
+[00:12:11] Drew:
+So let's go over to the Snailman in Dwarf Fortress view, hit F to follow. 
+
+[00:12:17] Drew:
+There you can see it up there in the right. 
+
+[00:12:19] Drew:
+corner. 
+
+[00:12:20] Drew:
+Obviously with all of the different ways that art can be it doesn't necessarily render it. Over here is our tavern with all of its different renderings, engravings. 
+
+[00:12:31] Drew:
+And also we can see our... 
+
+[00:12:34] Drew:
+poor mayor still stuck here. I'm not sure which one is supposed to be the ghost and which one is not the ghost in that view. 
+
+[00:12:44] Drew:
+since she's surrounded by one ghost on top of her and another ghost to the corner of her. But you can see that rendered there. 
+
+[00:12:55] Drew:
+Now let's go and take a final look back at it. 
+
+[00:13:00] Drew:
+And now let's take one last look at our lava falls area where we can take a look at the tastefully blurred out portions of the bronze golem. With that we have finished the fall of Ford Kudgel. Here you can take a look at the 
+
+[00:13:16] Drew:
+Beautiful. 
+
+[00:13:18] Drew:
+remainder of the fort. I think overall, if you take a look at the different types of visualizers that I've shown in this video, 
+
+[00:13:27] Drew:
+Honestly, Stonesense is really where you want to start with because it's built into DFHack. It provides a very good rendering with a lot of the different icons representing things within Dwarf Fortress, even in premium. 
+
+[00:13:42] Drew:
+After that, when you're ready to be a little more advanced, I think Armach Vision is the way to go, and then from there you can use Vox Uristi if you're really wanting to get the voxel rendering and put it into, you know, some sort of other project like Minecraft or the like. So with that, I hope you guys enjoyed this. Like, subscribe, check out the podcast, A Strange Mood Podcast, and you can find us everywhere good podcasts are found. Thanks! 
