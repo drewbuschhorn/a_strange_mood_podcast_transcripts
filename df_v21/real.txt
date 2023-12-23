@@ -1,0 +1,822 @@
+
+[00:00:00] Drew:
+Hello. 
+
+[00:00:01] Drew:
+drew here from a Strange Mood podcast. For the December project, I thought I would record a video of me playing the oldest version of Dwarf Fortress I could find easily, which is 
+
+[00:00:14] Drew:
+version 21.1. 
+
+[00:00:18] Drew:
+I think that's the last one shared on Bay12Games and stored on the Internet Archive. 
+
+[00:00:24] Drew:
+I'll probably play for about a half hour and turn it into, let's say, a ten to fifteen minute video. So, let's get started. 
+
+[00:00:31] Drew:
+so 
+
+[00:00:33] Drew:
+I haven't played this. I do know that it's keyboard-based, so I've installed a little helper that should show my key commands over on the bottom right-hand side of the screen as I play. 
+
+[00:00:46] Drew:
+No, I don't want to run it in the full screen mode because I do want those key commands to show up. 
+
+[00:00:56] Drew:
+Wow, that was loud. 
+
+
+[00:01:00] Drew:
+not loud enough to be worth the exclamation, do let me know. 
+
+[00:01:12] Drew:
+This always has been a very cool intro. 
+
+[00:01:18] Drew:
+Have a good one. 
+
+
+[00:01:23] Drew:
+classic strumming music for Twin Fortress. Let's create a new world. 
+
+[00:01:27] Drew:
+pre-alpha. 
+
+[00:01:33] Drew:
+So we're creating the world regions here, I assume. In this version, you couldn't go around and choose where you wanted to actually start. 
+
+[00:01:42] Drew:
+The sign is down. 
+
+[00:01:43] Drew:
+which is going to be created in such a way that I think we dig straight into a mountain because sea levels weren't a thing in this version yet. 
+
+[00:01:54] Drew:
+So true. 
+
+[00:01:59] Drew:
+Click on the side. 
+
+[00:02:01] Drew:
+keys should be showing up. 
+
+[00:02:04] Drew:
+Alright, we're just going to skip ahead in the video. 
+
+[00:02:13] Drew:
+Okay, here we've got the age of math initializing. 
+
+[00:02:18] Drew:
+And then we'll hit the age of legends, and then the age of... 
+
+[00:02:22] Drew:
+I think. 
+
+[00:02:23] Drew:
+Let's wait and see. 
+
+[00:02:29] Drew:
+you 
+
+[00:02:32] Drew:
+The Golden Age. 
+
+[00:02:35] Drew:
+All right. 
+
+[00:02:36] Drew:
+So, the eternal dimensions of dawning has been created with the space dimension. 
+
+[00:02:52] Drew:
+All right, let's start playing our new song. 
+
+[00:02:57] Drew:
+or fortress. 
+
+[00:03:03] Drew:
+All right, I'm not going to bother to prepare for my journey carefully. 
+
+[00:03:06] Drew:
+You 
+
+
+
+[00:03:11] Drew:
+strike the earth. 
+
+[00:03:12] Drew:
+Salt of the Earth. 
+
+[00:03:17] Drew:
+Okay, so this is the... 
+
+[00:03:21] Drew:
+in a traditional way. 
+
+
+[00:03:24] Drew:
+pause it for a second here go over stop the reporting and kill the audio share because it's kind of loud 
+
+[00:03:31] Drew:
+And we're back. 
+
+[00:03:32] Drew:
+Okay, you can see now the usual way that this is set up with a 
+
+[00:03:37] Drew:
+good amount of information tossed right at you. The first thing, I remember this from playing the keyboard, the later keyboard versions, is we're going to tab to move that 
+
+[00:03:49] Drew:
+list over. Okay, so it's like arrow keys on the screen. 
+
+[00:03:57] Drew:
+What I'm assuming are dwarves there. Let's see. I don't know what an M is. 
+
+[00:04:03] Drew:
+The C's should be cat, the D's should be dogs, and this is our starting wagon. Now in this, I believe we're supposed to dig straight into the earth because there aren't multiple levels to move between, multiple Z levels to move between. 
+
+[00:04:21] Drew:
+Nice little river out there, don't know what red is, a little water area. So you can certainly see a lot that will become Dwarf Fortress, but this is where you'll get to enjoy me swearing as I try to remember how the fuck to do anything in this. 
+
+[00:04:37] Drew:
+Okay, let's see. So we've got our unit list. Well, first let's try something simple. Let's dig. How are we going to dig? Is it orders? No, that I don't think should be right. 
+
+[00:04:52] Drew:
+Okay, escape didn't do what I wanted. Let's just return to game. Oh, space back. Okay. Right, yes. Escape goes to options, space is back. Oh, the UI fun here. 
+
+[00:05:09] Drew:
+All right. 
+
+[00:05:11] Drew:
+Well, let's see here. What the fuck am I doing? 
+
+[00:05:16] Drew:
+Designations, no. Set orders and options, no. 
+
+[00:05:21] Drew:
+view, units, overall status, um, let's see, okay. 
+
+[00:05:28] Drew:
+site a building. 
+
+[00:05:29] Drew:
+Nope. 
+
+[00:05:31] Drew:
+Um 
+
+[00:05:32] Drew:
+Okay, how do I navigate this? 
+
+[00:05:36] Drew:
+OK, that's right, yes. So you can, in some of the menus, use plus minus to move your individual choices within a page, and then. 
+
+[00:05:47] Drew:
+asterisks and 
+
+[00:05:49] Drew:
+forward slash, backslash. 
+
+[00:05:51] Drew:
+to move up and down by page. 
+
+[00:05:54] Drew:
+I want to go back, skip, nope, right, space. Okay, let's try that again. Well, we can look around for a minute. 
+
+[00:06:04] Drew:
+Okay, looks like I've got a little cursor that I'm controlling. 
+
+[00:06:10] Drew:
+Oh yeah, so what, why do you have a question mark? 
+
+[00:06:18] Drew:
+on it. 
+
+[00:06:19] Drew:
+Chat. 
+
+[00:06:21] Drew:
+Okay. 
+
+[00:06:24] Drew:
+dirt. Okay, so we got a lot of snow, so it started me out in a snowy area. I assume these are trees. 
+
+[00:06:31] Drew:
+stone and then I don't know what. 
+
+[00:06:35] Drew:
+Scott. 
+
+[00:06:37] Drew:
+Let's look around. Military. Options and orders. 
+
+[00:06:44] Drew:
+See here, build a building designations. That's what I want. I want to designate mine. 
+
+
+[00:06:57] Drew:
+Here, does that, okay, so I'm starting there. 
+
+[00:07:02] Drew:
+So that seems like it should tell someone to start mining. Let's see if I can. 
+
+[00:07:08] Drew:
+Okay, so we got this going. 
+
+[00:07:13] Drew:
+Eh? 
+
+[00:07:15] Drew:
+All I can... 
+
+[00:07:17] Drew:
+probably also need to chop down some trees and that was t right so let's go assume it's the same thing 
+
+[00:07:28] Drew:
+and move around and select a bunch of trees, okay. 
+
+[00:07:32] Drew:
+You can clearly see how some of the UI has been inherited into the modern version. 
+
+[00:07:36] Drew:
+you 
+
+[00:07:40] Drew:
+He's got the little colors on the doors to tell what job they do. Gray for minor, as always. 
+
+[00:07:48] Drew:
+I'm not entirely sure why occasionally I get a question mark there, but let's see what's going on. 
+
+[00:07:56] Drew:
+Assuming the colored. 
+
+[00:07:59] Drew:
+OK, so the colored trees are designations, right? 
+
+[00:08:02] Drew:
+That makes sense. And then they become dashes when they're logs. 
+
+[00:08:08] Drew:
+Not sure what the... 
+
+[00:08:09] Drew:
+little dashes are. 
+
+[00:08:11] Drew:
+I guess. 
+
+[00:08:12] Drew:
+Okay, look. 
+
+[00:08:15] Drew:
+So. 
+
+[00:08:16] Drew:
+logs. Okay, so that's just mud dirt. 
+
+
+[00:08:21] Drew:
+All right. 
+
+[00:08:21] Drew:
+Oh. 
+
+[00:08:22] Drew:
+That's all. 
+
+[00:08:24] Drew:
+Uh, skip. Nope. Nope. Fuck me. 
+
+
+[00:08:34] Drew:
+Okay, not there. All right next challenge. I need to build a 
+
+[00:08:40] Drew:
+workshop for the carpenters to make beds for everybody. So let's go here, designations, featherstone, car fortifications, all right that's not going to be any of them. 
+
+[00:08:50] Drew:
+I'll stop doing that eventually. 
+
+[00:08:53] Drew:
+um set orders set building okay so building tasks preferences okay that's a site a building okay 
+
+[00:09:06] Drew:
+in... dot... s... 
+
+[00:09:13] Drew:
+Navigate by hitting this bunch until we can find. 
+
+[00:09:18] Drew:
+Ciao. 
+
+[00:09:23] Drew:
+Uh, yeah. 
+
+[00:09:25] Drew:
+And you can see here that we do actually have already the designated area. 
+
+[00:09:30] Drew:
+the dark x's are blocking so people can't path through them and the bright x's are pathable. 
+
+[00:09:37] Drew:
+A little bit like the modern version. 
+
+[00:09:42] Drew:
+Did I do it? 
+
+[00:09:45] Drew:
+What the hell. 
+
+[00:09:46] Drew:
+Okay, yeah, so it must be the... 
+
+[00:09:49] Drew:
+backslash and the bracket, I guess. 
+
+[00:09:53] Drew:
+Okay, man. 
+
+[00:09:54] Drew:
+No. 
+
+[00:09:55] Drew:
+I think even the later ASCII versions were a little bit more visually intuitive than this. 
+
+[00:10:01] Drew:
+And also, I started off with a lazy new pack, so it did have some graphics pretty quickly. 
+
+[00:10:07] Drew:
+Looks like somebody's building that there. 
+
+[00:10:13] Drew:
+We got an uncertain horse wandering around, I guess. 
+
+[00:10:18] Drew:
+I'm not super sure how to interpret what I'm looking at there. 
+
+[00:10:23] Drew:
+Can I zoom out or in or anything? 
+
+[00:10:29] Drew:
+So my understanding with this version of the game is that you just kind of dig further and further in until you reach the end of the map, but before you do that you'll encounter more things to fight. 
+
+[00:10:41] Drew:
+Um 
+
+[00:10:43] Drew:
+Is the workshop done? 
+
+[00:10:45] Drew:
+Looks like it's gone. 
+
+[00:10:50] Drew:
+Okay, I guess it must be done. 
+
+[00:10:53] Drew:
+All right. 
+
+[00:10:55] Drew:
+for what I'm supposed to be looking at with that dash, but sure. 
+
+[00:11:00] Drew:
+So. 
+
+[00:11:01] Drew:
+Okay, we'll give me a look 
+
+[00:11:05] Drew:
+Space, enter. 
+
+[00:11:13] Drew:
+of list. 
+
+[00:11:14] Drew:
+No, that was where we just were. 
+
+[00:11:18] Drew:
+Ah, fuck. Alright, um... 
+
+[00:11:21] Drew:
+Space to go back, yes. 
+
+[00:11:24] Drew:
+Okay, orders and options, set building tasks. 
+
+[00:11:28] Drew:
+OK, that's got to be it, right? Yes. OK, cool. So maybe it's just going by whatever's closest to me. 
+
+[00:11:36] Drew:
+All right, all right, I can do this. 
+
+[00:11:39] Drew:
+OK. 
+
+[00:11:40] Drew:
+you 
+
+
+[00:11:43] Drew:
+I can't use up and down keys, right, right. I need to plus, minus, or make beds. 
+
+[00:11:54] Drew:
+Toggle repetition of this task. 
+
+[00:11:58] Drew:
+and hit space to be done. 
+
+[00:12:06] Drew:
+Okay. 
+
+[00:12:09] Drew:
+Let's see, so we might be constructing beds. 
+
+[00:12:14] Drew:
+A snowstorm has come. 
+
+[00:12:21] Drew:
+courses. 
+
+[00:12:28] Drew:
+All right, so we're looking at our farmer. 
+
+[00:12:32] Drew:
+It's possible she prefers to consume dwarven cheese and dwarven ale. 
+
+[00:12:38] Drew:
+You can definitely see how, when I first played this, even in the more advanced, uh... 
+
+[00:12:43] Drew:
+ASCII version. I did not realize that I needed to have them. 
+
+[00:12:47] Drew:
+alcohol. 
+
+[00:12:49] Drew:
+So let's see if we can figure out how to do that. Space. 
+
+[00:12:54] Drew:
+So designation. 
+
+[00:13:02] Drew:
+site of building. It's got to be a site of building. 
+
+[00:13:04] Drew:
+farm plot. 
+
+[00:13:05] Drew:
+All right. 
+
+[00:13:12] Drew:
+Thank you. 
+
+[00:13:14] Drew:
+I think this is the same as the old way. 
+
+[00:13:19] Drew:
+I'm not liking that as a red X, but uh... 
+
+[00:13:23] Drew:
+Oh, okay. Yeah. So this is the, this is the old way where you do. 
+
+
+[00:13:30] Drew:
+and increase the size. 
+
+[00:13:32] Drew:
+This is very intuitive. 
+
+[00:13:36] Drew:
+That entered place. 
+
+[00:13:41] Drew:
+Okay. Well, whatever. 
+
+[00:13:47] Drew:
+Page one for the moment. 
+
+[00:13:55] Drew:
+Now we're just going to continue on here. 
+
+[00:14:00] Drew:
+Aww, well that's nice. 
+
+[00:14:02] Drew:
+The stray cat tame has been adopted by a maraudable carnivore farmer. 
+
+[00:14:12] Drew:
+Peace. 
+
+[00:14:16] Drew:
+your items and buildings. 
+
+[00:14:18] Drew:
+We've got three open bets so far. 
+
+[00:14:23] Drew:
+Tried a side building, which means beds. 
+
+[00:14:36] Drew:
+That is a lot easier to use the shortcuts. 
+
+[00:14:46] Drew:
+Those three beds. 
+
+[00:14:48] Drew:
+Look back. 
+
+[00:14:50] Drew:
+I can't do a farm plot. I wonder if this is stone. This is stone, and that's the problem, I guess. 
+
+[00:14:59] Drew:
+hunt around. I need to hunt around and find some... 
+
+[00:15:02] Drew:
+loam or something to dig, I guess. 
+
+[00:15:10] Drew:
+Alright, let's continue trying to make a farm. 
+
+[00:15:14] Drew:
+Hmm, I wonder what this marking is. What do we got here? 
+
+[00:15:18] Drew:
+So it's done. 
+
+[00:15:20] Drew:
+Alex? 
+
+[00:15:22] Drew:
+understood 
+
+[00:15:29] Drew:
+I want to know what the M was. A moose, I suppose? 
+
+[00:15:34] Drew:
+fuel. Oh, that makes more sense. 
+
+[00:15:38] Drew:
+Oh, terrible. 
+
+[00:15:43] Drew:
+probably going around killing the turtles. 
+
+[00:15:49] Drew:
+Let's see, do we need to make a kitchen in this version? 
+
+[00:15:56] Drew:
+I don't know. 
+
+[00:15:59] Drew:
+building. Let's find our kitchen. 
+
+[00:16:04] Drew:
+Nope. 
+
+[00:16:05] Drew:
+And 
+
+[00:16:11] Drew:
+have a kitchen. 
+
+[00:16:21] Drew:
+Some highlights over here. 
+
+[00:16:27] Drew:
+I guess let's go up and... 
+
+[00:16:30] Drew:
+fishery 
+
+[00:16:34] Drew:
+Bye. 
+
+[00:16:35] Drew:
+Alchemist's Laboratory? I don't remember an Alchemist's Laboratory in this room. 
+
+[00:16:41] Drew:
+There. 
+
+[00:16:44] Drew:
+Subs by www.zeoranger.co.uk 
+
+[00:16:45] Drew:
+when you need to make an alphanumeric. 
+
+[00:16:49] Drew:
+Clear files. All right, fair enough. 
+
+[00:16:55] Drew:
+And now we're going to. 
+
+[00:16:58] Drew:
+You 
+
+[00:16:59] Drew:
+Peace. 
+
+[00:17:00] Drew:
+after a shot, I guess. 
+
+[00:17:03] Drew:
+be distilled. 
+
+[00:17:16] Drew:
+Okay. 
+
+[00:17:21] Drew:
+I want to try to play this until I can at least make some alcohol for these dwarves. 
+
+[00:17:27] Drew:
+so that I feel less bad about abandoning them. 
+
+[00:17:32] Drew:
+but I'm not super sure that that's a doable goal. Let's see how long it takes before I can get to some farmable dirt. 
+
+[00:17:47] Drew:
+And... 
+
+[00:17:50] Drew:
+So that's just. 
+
+[00:17:58] Drew:
+Excellent. 
+
+[00:18:00] Drew:
+I dropped to somebody else because none of you guys are doing anything. 
+
+[00:18:07] Drew:
+Here I use up and down arrows, of course. 
+
+[00:18:11] Drew:
+I'm Jeremy Mason. 
+
+[00:18:14] Drew:
+Yeah, pretty sure. 
+
+[00:18:19] Drew:
+Preferences? Labor? 
+
+[00:18:22] Drew:
+Lightning. 
+
+[00:18:24] Drew:
+Don't. 
+
+[00:18:28] Drew:
+So he's going to go help now. 
+
+[00:18:32] Drew:
+Well, let's do that with everybody. 
+
+[00:18:35] Drew:
+for you. 
+
+[00:18:51] Drew:
+Oh, that's carbon. 
+
+[00:18:53] Drew:
+Okay, whatever. 
+
+[00:18:55] Drew:
+You know what? 
+
+[00:18:56] Drew:
+And you can also be a. 
+
+[00:19:04] Drew:
+This designation, I think we have channel, right? 
+
+[00:19:12] Drew:
+All right, I'll try moving some up here. 
+
+[00:19:20] Drew:
+That one's yellow. I wonder if that does it. 
+
+[00:19:23] Drew:
+Oh. 
+
+[00:19:24] Drew:
+Yeah, it's just designating it that something's going to be done, not that it's a different type of... 
+
+[00:19:28] Drew:
+material. 
+
+[00:19:30] Drew:
+All right. 
+
+[00:19:32] Drew:
+Site a building. 
+
+[00:19:34] Drew:
+Okay. 
+
+[00:19:37] Drew:
+Oh yes, because this is... 
+
+[00:19:40] Drew:
+I'm just focused on digging through the wall. You really only have one place to go, which is G Gate. 
+
+[00:19:51] Drew:
+So. 
+
+[00:19:52] Drew:
+building stockpiles and graveyards. 
+
+[00:19:56] Drew:
+Yeah, let's take a look here and see if we got anything. 
+
+[00:19:58] Drew:
+Possibly. 
+
+[00:20:03] Drew:
+I saw channels. 
+
+[00:20:11] Drew:
+Well, let's do. 
+
+[00:20:18] Drew:
+Okay, so it wasn't designation. 
+
+[00:20:21] Drew:
+car fortifications detail stone. 
+
+[00:20:26] Drew:
+All right. 
+
+[00:20:30] Drew:
+announcements. 
+
+[00:20:35] Drew:
+Okay, and it started raining. 
+
+[00:20:37] Drew:
+Ah, there we go. Channel. 
+
+
+[00:20:47] Drew:
+Oh, right, you. 
+
+[00:20:51] Drew:
+Let's see if this gets me anything. 
+
+[00:20:53] Drew:
+in minutes. 
+
+[00:20:58] Drew:
+Super sure what it's gonna do, but let's take a look 
+
+[00:21:02] Drew:
+It's great to have her. 
+
+[00:21:04] Drew:
+Water melts. 
+
+[00:21:05] Drew:
+our ice melt in our little pond over there. 
+
+[00:21:12] Drew:
+Well, let's wait for that channel to finish. 
+
+[00:21:19] Drew:
+Maybe he's doing something. 
+
+[00:21:23] Drew:
+The river ice is thin again. 
+
+[00:21:26] Drew:
+there are no fish in the river. 
+
+[00:21:34] Drew:
+You know, see the weather change here. 
+
+[00:21:39] Drew:
+I think, overall, I may call it here. Ah, obstructing. 
+
+[00:21:45] Drew:
+certainly see the origin of the game that we now all love, Dwarf Fortress. 
+
+[00:21:52] Drew:
+But when it was like this, it was certainly. 
+
+[00:21:57] Drew:
+more difficult to interpret, I'd say. 
+
+[00:22:00] Drew:
+and also just kind of harder to figure out. 
+
+[00:22:03] Drew:
+what you wanted to do and how to do it. 
+
+[00:22:05] Drew:
+So. 
+
+[00:22:06] Drew:
+Anyway. 
+
+[00:22:07] Drew:
+But... 
+
+[00:22:08] Drew:
+Thanks for spending some time with me. Check out the podcast if you're not already subscribed, and we'll talk with you later. 
+
