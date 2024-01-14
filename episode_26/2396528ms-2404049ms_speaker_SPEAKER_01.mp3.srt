@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:07,000
+The UI uses color to mean different things and different locations that look similar.
+
+2
+00:00:07,000 --> 00:00:07,500
+Right.
+
+

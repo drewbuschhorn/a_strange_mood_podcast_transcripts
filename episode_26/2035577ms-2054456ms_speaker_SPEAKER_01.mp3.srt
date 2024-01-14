@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,440
+a medium-sized intelligent hermit crab cherished for its smithing prowess and decorated shell.
+
+2
+00:00:06,000 --> 00:00:10,960
+He's quite quick to heal, susceptible to disease. He's incredibly skinny, his eyes are black,
+
+3
+00:00:10,960 --> 00:00:18,639
+his carapace is golden rod, his shell is beige, his pleon is, maybe pleon, is pale pink.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,400
+Once captured, they can be trained with an animal trainer,
+
+2
+00:00:02,400 --> 00:00:05,600
+which I have started doing, and have a high pet value of 500.
+
+

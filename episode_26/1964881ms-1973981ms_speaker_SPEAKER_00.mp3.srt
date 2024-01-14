@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,640
+on Discord is one of the DF hackers and he's been posting us updates and stuff and hopefully
+
+2
+00:00:06,640 --> 00:00:09,080
+we can get set up on the testing branch for that.
+
+

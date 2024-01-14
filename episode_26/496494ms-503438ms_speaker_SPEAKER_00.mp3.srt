@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,720
+You'll, I'm sure, talk about later about how the rendering, 3D rendering of your world
+
+2
+00:00:04,720 --> 00:00:05,720
+that you've made.
+
+3
+00:00:05,720 --> 00:00:06,720
+I think I'll have you do it for mine.
+
+

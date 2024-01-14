@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:11,000
+And it's got a whole interface where you can just, you know, kind of tab over which ones you want to use and then it'll prompt if you need to, like, reorder which order they're applied in or whatever.
+
+2
+00:00:11,000 --> 00:00:17,000
+Like, I think it could also probably just take care of that automatically, but they probably just didn't want to over, you know, overcomplicate it.
+
+

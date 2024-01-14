@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,800
+Ah, okay. So it's only the one at the top saying what she's currently doing.
+
+

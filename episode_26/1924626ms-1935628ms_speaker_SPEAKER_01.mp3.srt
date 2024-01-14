@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,680
+load some default work orders. They've got a whole library of different work orders that you can
+
+2
+00:00:06,720 --> 00:00:10,800
+use to load that up and that really saved me a lot of time getting started with my fort.
+
+
