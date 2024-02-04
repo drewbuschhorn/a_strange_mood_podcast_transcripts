@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:03,040
+A large mouse twisted into humanoid form.
+
+2
+00:00:03,040 --> 00:00:04,960
+It is crazed for blood and flesh.
+
+3
+00:00:04,960 --> 00:00:06,280
+Its eyes glow blue.
+
+4
+00:00:06,280 --> 00:00:07,680
+Its brown hair is unkempt.
+
+

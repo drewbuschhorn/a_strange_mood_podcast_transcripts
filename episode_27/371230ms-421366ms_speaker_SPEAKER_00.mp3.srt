@@ -1,0 +1,37 @@
+1
+00:00:00,000 --> 00:00:06,000
+We'll also tweak the hero-level encounters with gods to something that strikes a balance again, leaning towards a more epic feel,
+
+2
+00:00:06,000 --> 00:00:13,000
+expand dungeons and temple relic hunting to facilitate more direction for demigod characters, and provide more healing options.
+
+3
+00:00:13,000 --> 00:00:15,000
+This all leads up to Myth and Magic.
+
+4
+00:00:15,000 --> 00:00:21,000
+People who have been following Dwarf Fortress' development these many years will recall both the current cosmology of the game in these changes,
+
+5
+00:00:21,000 --> 00:00:26,000
+and perhaps wonder about the aspirations we have towards proceduralizing the entire setup,
+
+6
+00:00:26,000 --> 00:00:29,000
+including the existence of gods and how and whether magic works.
+
+7
+00:00:29,000 --> 00:00:34,000
+We're going to use this opportunity to set the stage for a new framework to be expanded upon in the future.
+
+8
+00:00:34,000 --> 00:00:43,000
+Siege improvements, investigations of villains, the ability to lead criminal networks, and other features were in the air before we made the transition to the premium version,
+
+9
+00:00:43,000 --> 00:00:50,000
+and these are not forgotten either, and we'll be seeing about working on these after the initial Adventure Mode update, so stay tuned.
+
+

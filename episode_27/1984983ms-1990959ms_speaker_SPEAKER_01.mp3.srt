@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,880
+We found an obsidian pillar or one of the gem pillars in the first cavern level
+
+

@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,760
+Demigods and Tutorial Adventure Mode suffers from the sandbox frustration of feeling lost and aimless.
+
+2
+00:00:06,240 --> 00:00:14,120
+Adventure Mode has had three difficulty levels up to this point, Peasant, Hero, and Demigod. These affected your starting static point pools and character generation.
+
+3
+00:00:14,280 --> 00:00:18,760
+More elite sounding the levels are easier, not harder, reflecting the power of the character.
+
+

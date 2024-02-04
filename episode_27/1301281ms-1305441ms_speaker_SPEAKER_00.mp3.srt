@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,080
+while also handling whips, so I think we understand what's going on with her.
+
+

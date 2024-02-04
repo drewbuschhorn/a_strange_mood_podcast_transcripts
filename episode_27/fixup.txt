@@ -1,0 +1,2192 @@
+[00:00:00] Kristin:
+This podcast is of the highest quality.
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the couples' Dwarf Fortress podcast. I'm Kristin.
+
+[00:00:23] Drew:
+And I'm Drew.
+
+[00:00:24] Kristin:
+And we are a couple.
+
+[00:00:25] Drew:
+Playing Dwarf Fortress, actually.
+
+[00:00:26] Kristin:
+Yeah. It's funny how that works.
+
+[00:00:29] Drew:
+So what have you been up to this week, Kristin?
+
+[00:00:31] Kristin:
+Uh, I love Dwarf Fortress, actually.
+
+[00:00:34] Kristin:
+Although, I've been playing Diablo 2 and, well, you have too.
+
+[00:00:38] Drew:
+You've been playing Diablo 2?
+
+[00:00:40] Kristin:
+No.
+
+[00:00:41] Kristin:
+Diablo 4 too. Thank you for that. So the new season of Diablo, been playing it.
+
+[00:00:49] Kristin:
+And as I have been playing it, I have been kind of looking for communities because, um...
+
+[00:00:56] Kristin:
+That's what I do.
+
+[00:00:58] Kristin:
+I have found that most Diablo players are dudes.
+
+[00:01:02] Drew:
+YOU SHOCK ME
+
+[00:01:03] Kristin:
+I know, I know, but it reminded me of that guy on Facebook who, uh...
+
+[00:01:08] Kristin:
+said, like, let's be honest, do any women actually play Dwarf Fortress?
+
+[00:01:13] Drew:
+And it's like, uh, well, one of them's one of the main YouTubers working with the company about it.
+
+[00:01:19] Kristin:
+Right, yeah, there's one, I'm one.
+
+[00:01:23] Kristin:
+There are bound to be, you know, four or five more, but...
+
+[00:01:27] Drew:
+There was also someone on Reddit a while back who asked a similar question. I wonder if it's the same person.
+[interjection] Kristin: I wonder if it's...
+
+[00:01:33] Kristin:
+Probably.
+
+[00:01:34] Drew:
+and some nice listener.
+
+[00:01:37] Drew:
+Pointed to us and said...
+
+[00:01:37] Kristin:
+Oh, that's nice.
+
+[00:01:39] Drew:
+So this person, you know, that this couple runs a podcast and all of that. And, um,
+
+[00:01:45] Drew:
+He also, I'm assuming he, but they also said later something really nice, which was that our conversation about.
+
+[00:01:54] Drew:
+Against the Storm was a good one because we introduced them to the idea of games respecting players' time
+
+[00:02:00] Drew:
+and that they had never thought about it like that before but that made them really able to evaluate like a game like
+
+[00:02:06] Drew:
+I kind of like the story and the world, but I'm just letting it go because it doesn't respect my time.
+
+[00:02:12] Drew:
+And that's fair.
+
+[00:02:12] Kristin:
+Mm-hmm.
+
+[00:02:14] Kristin:
+So anyway.
+
+[00:02:15] Drew:
+See ya.
+
+[00:02:15] Kristin:
+Diablo and those communities so I joined one
+
+[00:02:19] Kristin:
+based on a Reddit group that I'm in, and I've already seen, like, some "Your Mom" jokes.
+
+[00:02:24] Kristin:
+And "my wife's gonna be so mad at me if I keep playing the game" jokes and some masturbation jokes. So I don't know that that's really the right community for me.
+
+[00:02:36] Drew:
+I don't, I don't think you mind those jokes per se, but they have to be in the right context. You can't just, you can't just be tossing them out.
+
+[00:02:44] Drew:
+public forum, right
+
+[00:02:45] Kristin:
+Well, right, and like, I'm a 39-year-old woman, I don't need to be hanging out with some college dudes, like, that's just weird for everyone.
+[interjection] Drew: Right.
+
+[00:02:53] Drew:
+It is always a little sad for me in the Warhammer 40k community when, um...
+
+[00:02:58] Drew:
+They talk about buying.
+
+[00:03:00] Drew:
+Um...
+
+[00:03:01] Drew:
+Figurines and stuff or going to the Warhammer shop and buying stuff and being like I'm gonna hide this from my wife
+
+[00:03:08] Kristin:
+Yeah, you see that in every hobby community, though, because, like, the horse girls are like that, too.
+
+[00:03:13] Kristin:
+I would have to hide all these saddle pads from my husband.
+[00:03:17] Drew:
+Gee, I didn't know when you were getting involved with horses that it was going to be expensive. I know.
+
+[00:03:22] Kristin:
+It shocks you. It's no Warhammer 40k, but it is expensive.
+
+[00:03:24] Drew:
+It depends on how healthy the horse is.
+[interjection] Kristin: Amen.
+
+[00:03:28] Kristin:
+Yeah!
+
+[00:03:32] Kristin:
+Anyway, so
+
+[00:03:34] Kristin:
+It's been a fun week.
+
+[00:03:35] Drew:
+Yeah, I've been enjoying the new Diablo season. A lot of people hate it, but I think the thing is that they're really making a lot of the Diablo stuff for filthy casuals now, and I'm a filthy casual in everything I do.
+[interjection] Kristin: People here.
+
+[00:03:47] Kristin:
+Yes, we love it.
+
+[00:03:49] Drew:
+Yeah.
+
+[00:03:49] Kristin:
+They made it easier.
+
+[00:03:50] Kristin:
+We were collectively too bad at the new mechanics, so they made them easier.
+
+[00:03:55] Drew:
+Look, if you want to play a hard Diablo, go play Path of Exile.
+
+[00:03:58] Kristin:
+UGH
+
+[00:03:59] Drew:
+Once again, the question of how much does this actually respect the player's time?
+[interjection] Kristin: What?
+
+[00:04:03] Drew:
+I've got other stuff I've got to be doing.
+[interjection] Kristin: I've got.
+
+[00:04:05] Kristin:
+Mm-hmm.
+
+[00:04:05] Drew:
+Like this podcast!
+
+[00:04:06] Kristin:
+Yeah, playing Dwarf Fortress, much more rewarding.
+
+[00:04:10] Drew:
+Well, you choose how much reward you get from Dwarf Fortress.
+
+[00:04:13] Kristin:
+That is true.
+
+[00:04:14] Drew:
+Speaking of...
+
+[00:04:16] Drew:
+Dwarf Fortress News.
+
+[00:04:17] Kristin:
+Yeah, we have a lot.
+
+[00:04:19] Drew:
+So, Tarn Adams has posted a couple of times, and so I've kind of gathered together the news. I'm just going to read it out here.
+
+[00:04:28] Drew:
+Putnam has been improving the fortress mode interface. There's more sorting and filtering now.
+
+[00:04:34] Drew:
+We're also working on some improved statues that should be in 0.50.12.
+
+[00:04:39] Drew:
+And in the adventure mode...
+
+[00:04:42] Drew:
+side of things, Carolyn has drawn some cool armor and clothing portrait variations, while Meph is good.
+
+[00:04:51] Drew:
+Preparing more animal people portraits.
+
+[00:04:54] Drew:
+He has to get away from adventure mode at some point to fix the archery issues that everyone's been complaining about, and that's sort of a bare minimum for 0.50.12.
+
+[00:05:04] Drew:
+But, there's a lot to do everywhere.
+
+[00:05:06] Drew:
+It's also a good time to mention that a whole new soundtrack will be released alongside Adventure Mode by Simon Swerwer. I'm not sure how to say that, but anyway, the one who wrote the super banger.
+[interjection] Kristin: Yeah.
+
+[00:05:18] Kristin:
+Yeah, it's super exciting.
+
+[00:05:19] Drew:
+What is that? "Drinking Industry"? But they did the whole soundtrack.
+
+[00:05:21] Kristin:
+I think "Drinking".
+
+[00:05:23] Drew:
+Yeah, whatever.
+
+[00:05:25] Drew:
+Um.
+
+[00:05:26] Drew:
+And then
+
+[00:05:27] Drew:
+Demigods and Tutorial Adventure Mode suffer from the sandbox frustration of feeling lost and aimless. Adventure Mode has had three difficulty levels up to this point: Peasant, Hero, and Demigod. These affected your starting stat point pools and character generation. More elite-sounding levels are easier, not harder, reflecting the power of the character.
+
+[00:05:46] Drew:
+We're turning demigod difficulty into both a tutorial mode and an avenue for us to improve magical aspects of the fantasy setting generally.
+
+[00:05:55] Drew:
+Peasant will remain pure old Sandbox. Hero balances the approaches. Demigod characters will receive instruction and ongoing help from their patron parent. All difficulty levels will benefit from changes to deity, but Sandbox characters will have to find their own ways to interact with them, at their own risk.
+[00:06:11] Drew:
+We'll also tweak the hero-level encounters with gods to something that strikes a balance again, leaning towards a more epic feel, expand dungeons and temple relic hunting to facilitate more direction for demigod characters, and provide more healing options. This all leads up to Myth and Magic. People who have been following Dwarf Fortress's development these many years will recall both the current cosmology of the game and these changes, and perhaps wonder about the aspirations we have towards proceduralizing the entire setup, including the existence of gods and how and whether magic works. We're going to use this opportunity to set the stage for a new framework to be expanded upon in the future. Siege improvements, investigations of villains, the ability to lead criminal networks, and other features were in the air before we made the transition to the premium version, and these are not forgotten either. We'll be seeing about working on these after the initial Adventure Mode update, so stay tuned.
+[interjection] Kristin: Thank you.
+
+[00:07:01] Kristin:
+Lots of excitement.
+
+[00:07:03] Drew:
+Yeah, I think a lot of people are excited about the idea of myths and magic coming along, although it'll be a bit of a change to Dwarf Fortress.
+
+[00:07:09] Kristin:
+Yeah.
+
+[00:07:10] Drew:
+But we've always had so much in Legends mode of the different gods and stuff that are extremely interesting, like I think you had a Lao god.
+
+[00:07:18] Drew:
+And I have, I think, a skunk god that I'm going to talk about when I talk about Legends mode.
+[interjection] Kristin: Oh
+
+[00:07:23] Drew:
+So at any rate, I'm excited to see that.
+
+[00:07:25] Kristin:
+Yeah, that I think is going to be really fun.
+
+[00:07:28] Drew:
+The other piece of news, more from our own little community, is that Stephen has released "Learned Hands" number 5, "Holes and Nothing More."
+
+[00:07:39] Drew:
+Um...
+
+[00:07:41] Drew:
+The latest adventure in Story Dwarves, so check that out on YouTube; there'll be a link in the description.
+
+[00:07:46] Kristin:
+Yeah.
+
+[00:07:47] Drew:
+So, give us the news from the Ageless Realm, Kristin.
+
+[00:07:53] Kristin:
+A lot went down, um...
+
+[00:07:55] Kristin:
+And some of it...
+
+[00:07:57] Kristin:
+Some of it good, some of it bad.
+
+[00:08:00] Kristin:
+Some of it got erased, and there was an alternate timeline in which entirely different things happened.
+
+[00:08:05] Kristin:
+Because I don't know what I did, but I lost a couple of hours of gameplay.
+
+[00:08:10] Drew:
+Good game, no bugs.
+
+[00:08:11] Kristin:
+Yeah, I mean, it could have been user error.
+
+[00:08:14] Kristin:
+I was kind of sick last week and I was not, like, fully functional, so I might have...
+
+[00:08:18] Drew:
+I noticed.
+
+[00:08:18] Kristin:
+Yeah, you did notice. So it might have been my fault; we don't necessarily need to blame the game, but it ended up not being a huge deal even though at first it was really sad because what happened...
+
+[00:08:30] Kristin:
+The second time I played those couple of months was much more interesting. Alright.
+
+[00:08:33] Drew:
+All right.
+
+[00:08:35] Kristin:
+Um, but, let's see, um, I guess let's talk some, it's not exactly game theory, I don't know what I'm saying here, but like.
+
+[00:08:43] Kristin:
+Kind of metagaming, I guess.
+
+[00:08:45] Drew:
+Okay.
+
+[00:08:45] Kristin:
+So, um...
+
+[00:08:47] Kristin:
+I started using DFHack.
+
+[00:08:49] Kristin:
+And some of that was through necessity in that there was blood and vomit everywhere, and you'll hear more about that later. But the dwarves were not cleaning it up, and it was just, there was so much blood and vomit, it was gross. So I used DFHack to clear that away, that was nice. And then I started to get ideas in my head.
+
+[00:09:12] Kristin:
+After all the blood and vomit, the dwarves were not very happy.
+[00:09:15] Kristin:
+So I eliminated stress, and they were all ecstatic.
+
+[00:09:18] Kristin:
+Despite the blood, vomit, and skeletons.
+
+[00:09:21] Kristin:
+And then I just started kind of prowling around in DFHack, and I automated everything.
+
+[00:09:27] Drew:
+So what is everything?
+
+[00:09:28] Kristin:
+So like Auto Butcher and Auto Tailor and
+
+[00:09:32] Kristin:
+auto logs, I think. Anyway, it's all of it.
+
+[00:09:37] Kristin:
+So a lot of the tedious things
+
+[00:09:39] Kristin:
+are just going to be taken care of for me now.
+
+[00:09:42] Drew:
+By and large, you can really set it up that way.
+
+[00:09:44] Kristin:
+Yeah.
+
+[00:09:45] Kristin:
+I'm kind of excited because I feel like maybe taking some of the minutiae off my plate will
+
+[00:09:50] Kristin:
+allow me to focus on some other things.
+
+[00:09:53] Kristin:
+So, um...
+
+[00:09:54] Kristin:
+If, for example, my dwarves are magically all clothed and I don't have to worry about that, maybe I can spend time
+
+[00:10:01] Kristin:
+making soup.
+
+[00:10:02] Kristin:
+Which, again, we'll talk about later, I wish I had had some.
+
+[00:10:07] Kristin:
+So, um, I'm pretty excited, actually, uh, the...
+
+[00:10:11] Kristin:
+the automation and the ability to
+
+[00:10:15] Kristin:
+make problems go away so that I can just sort of keep the narrative moving forward.
+
+[00:10:21] Drew:
+I think that's really important because Dwarf Fortress...
+
+[00:10:25] Drew:
+is sort of a colony survival sim.
+
+[00:10:27] Kristin:
+Mm-hmm.
+
+[00:10:28] Drew:
+But you know your colony's gonna die.
+
+[00:10:30] Kristin:
+Yeah.
+
+[00:10:30] Drew:
+And so having to spend a whole lot of time on minutiae that happens every single time just isn't super necessarily rewarding.
+
+[00:10:40] Kristin:
+Mhm.
+
+[00:10:41] Drew:
+But also, if you didn't have those options, I think you would feel very disconnected as well. So it's one of those things where you want to be connected at the start
+
+[00:10:50] Kristin:
+Mhm.
+
+[00:10:50] Drew:
+and then be able to automate things away, kind of the same way you would in real life. Like, you know, we're a 45-person fort, I'm in charge,
+
+[00:10:59] Drew:
+whoever you are, you're going to go deal with making sure that the floors get clean. That's your job.
+
+[00:11:03] Kristin:
+Right, like I'm just delegating to the dwarves themselves.
+
+[00:11:07] Drew:
+Absolutely.
+
+[00:11:08] Kristin:
+And at some point, for some of it, I might want to take more control again, like with that clothing. Because it might be fun to give them a sort of look.
+[interjection] Drew: Exactly.
+
+[00:11:16] Kristin:
+But then, related to other
+
+[00:11:19] Kristin:
+specific gaming things, I had two really funny instances of dwarves interrupting other dwarves.
+
+[00:11:29] Kristin:
+To the point that the interrupted dwarves were starting to get dehydrated and starve because, in one instance, a hammer dwarf kept interrupting them.
+
+[00:11:40] Kristin:
+And I had noticed this starting kind of because I noticed that the dwarves were like milling around in a hallway without really doing anything, and there were a bunch of
+
+[00:11:49] Kristin:
+interrupted task notifications because of a certain hammer dwarf.
+
+[00:11:53] Kristin:
+And I would find him, and he'd be nowhere near the milling dwarves.
+
+[00:11:57] Drew:
+He's just going around threatening everyone.
+
+[00:11:59] Kristin:
+I have no idea, but as they started starving and being dehydrated to death, I told my squad to kill him.
+
+[00:12:09] Kristin:
+Problem solved.
+
+[00:12:11] Kristin:
+But then it happened with a dancer, too.
+
+[00:12:13] Kristin:
+And she was like down in the caverns, minding her own business, but they were all being interrupted by her.
+
+[00:12:19] Drew:
+Hmm, weird.
+
+[00:12:20] Kristin:
+Weird. So she also got executed.
+[00:12:22] Drew:
+Modern problems require modern solutions.
+
+[00:12:25] Kristin:
+Yeah, I mean, I feel a little bad about it, but like, they weren't citizens. That was the thing, so I couldn't just exile them.
+
+[00:12:32] Drew:
+Yeah, no, I don't know what would be causing that, but I've run into maybe a little bit of that as well.
+[interjection] Kristin: You
+
+[00:12:39] Drew:
+Might be a pathing issue, but I think you did the only thing that could be done, and I absolve you of guilt.
+[interjection] Kristin: Solve
+
+[00:12:44] Kristin:
+Oh, thank you.
+
+[00:12:45] Kristin:
+I don't know their names, so it's not like I'm going to be terribly weighed down by it.
+
+[00:12:51] Kristin:
+But, and then in further instances of weird little bug things happening, I was noticing the little blue diplomacy box just sort of randomly coming and going.
+
+[00:13:03] Drew:
+I've seen that too.
+
+[00:13:04] Kristin:
+So I'm not sure what's happening with that.
+
+[00:13:06] Drew:
+Good game, no bugs.
+
+[00:13:07] Kristin:
+Yeah.
+
+[00:13:08] Drew:
+I mean, at least we're seeing fewer of the headless negative one children running around.
+
+[00:13:14] Kristin:
+I liked the headless negative one children.
+
+[00:13:18] Kristin:
+And then my final game meta note is that I was not getting any migrants for a really long time with my population cap set to 75.
+
+[00:13:27] Kristin:
+So I went and bumped it back to 200.
+
+[00:13:30] Kristin:
+And I suddenly got like 30 more dwarves.
+
+[00:13:33] Kristin:
+Which was good because after the fun that I had, we were down to like 20.
+
+[00:13:37] Drew:
+I might have to do that as well because my, I think I have a hundred.
+
+[00:13:41] Drew:
+Bye.
+
+[00:13:42] Drew:
+Residents right now, but I can only control 10 of them.
+[interjection] Kristin: Right now.
+
+[00:13:45] Kristin:
+Yeah, I...
+
+[00:13:46] Drew:
+Yeah, so.
+
+[00:13:47] Kristin:
+And there are different.
+
+[00:13:49] Kristin:
+Population caps available in those game settings, I just.
+
+[00:13:53] Drew:
+It's three pages worth of settings. Right.
+
+[00:13:56] Kristin:
+Right, so I mean it's not a big deal. I can live with extra dwarves, but I did need to replenish a little bit after the various mishaps.
+
+[00:14:04] Drew:
+Fair.
+
+[00:14:04] Kristin:
+So.
+
+[00:14:05] Kristin:
+That's all of my kind of about the game stuff. Why don't you tell us a little bit of your news?
+
+[00:14:11] Drew:
+Um, so let's see, the meta information for me is, um, let's see, I've been
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: working with some of the things in DFHack I've not done before.
+
+[00:14:21] Drew:
+One of which is saved work orders.
+[interjection] Kristin: Yeah.
+
+[00:14:26] Drew:
+Which has been very helpful actually. I'm going to use that more in the future both to export my own preferred work orders but you can also import from an existing library.
+[interjection] Kristin: One quarter.
+
+[00:14:37] Drew:
+And it has, they've included a pretty good selection of kind of different work orders you need for different industries so you can mix and match the imports.
+
+[00:14:48] Kristin:
+Oh, that's pretty cool.
+
+[00:14:50] Drew:
+It's worked out quite nicely.
+
+[00:14:52] Drew:
+The other thing I've been using a lot more this run
+
+[00:14:55] Drew:
+Is the trade interface that DFHack provides.
+
+[00:15:00] Drew:
+That you can access by hitting, I think.
+
+[00:15:03] Drew:
+Control T, something like that, Alt T, Shift T in the
+
+[00:15:08] Drew:
+Trade.
+
+[00:15:09] Drew:
+Menu.
+
+[00:15:10] Kristin:
+Mm-hm.
+
+[00:15:10] Drew:
+And that allows you to do a lot of things that
+
+[00:15:13] Drew:
+Feel like they kind of should be in the base game, such as sort your items to bring to the trade depot by value.
+
+[00:15:21] Kristin:
+Mm-hmm.
+Group individual items, so like if you have, you know, a hundred golden goblets that aren't in a bin...
+
+[00:15:30] Drew:
+You don't have to select those individually or anything; you can just say.
+[interjection] Kristin: Oh.
+
+[00:15:33] Drew:
+They'll show up as one entry: 100 gold goblets, total value, and you just mark it.
+[interjection] Kristin: 100.
+[interjection] Drew: And then the dwarves will start carrying it, and since they can usually carry quite a few...
+
+[00:15:44] Kristin:
+And in theory, they'll lift one, because they won't.
+
+[00:15:46] Drew:
+Exactly.
+
+[00:15:47] Kristin:
+Yeah.
+
+[00:15:48] Drew:
+Um...
+
+[00:15:49] Drew:
+And that's worked out pretty well for me for trading, and you can do the same thing, obviously, with the other parties.
+
+[00:15:57] Kristin:
+The merchants.
+
+[00:15:59] Drew:
+Um,
+
+[00:16:00] Drew:
+Which, with my...
+
+[00:16:02] Drew:
+Mod usage has been fairly important because I have three civilizations nearby who all tend to show up at the same time, besides my dwarven civilization.
+
+[00:16:12] Kristin:
+Oh well, that's bad timing.
+
+[00:16:13] Drew:
+Yeah, so I'm having to fight a little bit with the trade depots and all. They've gotten stuck once or twice, I think, in some sort of, you know, lock state race condition between the different ones.
+[interjection] Kristin: Condition.
+
+[00:16:23] Kristin:
+Yeah.
+
+[00:16:23] Drew:
+But yeah, I have the elves, the decapods, and the aves all show up at once.
+
+[00:16:27] Kristin:
+Mm-hmm.
+
+[00:16:28] Drew:
+Um, so I just kind of try to route them to the different trade depots and then trade with them.
+
+[00:16:34] Kristin:
+You have multiple trade depots?
+
+[00:16:36] Kristin:
+Well?
+
+[00:16:36] Kristin:
+Have you ever had multiple trade depots before?
+
+[00:16:39] Drew:
+Not really, I know some people do.
+
+[00:16:41] Drew:
+Um
+
+[00:16:42] Drew:
+And it's worked out, it's worked out decently.
+
+[00:16:43] Drew:
+So we've been able to trade.
+
+[00:16:46] Drew:
+When you have multiple that are at one depot, they will pop up an option so you can choose between them, so they can all go to one.
+
+[00:16:53] Kristin:
+Yeah, interesting.
+
+[00:16:55] Drew:
+Um...
+
+[00:16:57] Drew:
+Yeah, but the dfhack control of the work orders has been extremely useful.
+
+[00:17:05] Kristin:
+Mm-hmm.
+
+[00:17:06] Drew:
+Dealing with all those different civilizations and just again. I said that this civilization seems much more party-ish; I'm getting a lot more visitors and all that, not really doing anything different.
+[interjection] Kristin: I'm kidding.
+
+[00:17:17] Drew:
+I still haven't managed to dig down to a cavern there yet.
+
+[00:17:21] Kristin:
+Oh my gosh, wow, that's unusual.
+
+[00:17:23] Drew:
+Nope, we're just, we're pretty busy up there. We've had a bunch of attacks and that sort of thing. I'll talk a little bit more about those later.
+
+[00:17:30] Drew:
+But let's see, what else do we have here?
+
+[00:17:35] Drew:
+Well, I guess I'll talk about some of those attacks. So the first interesting attack...
+
+[00:17:39] Drew:
+Was by, of all things, a weremouse.
+
+[00:17:43] Kristin:
+A weremouse? It does not sound very threatening.
+
+[00:17:46] Drew:
+Nope, it came through, we killed it, it wasn't too big of a deal, didn't seem to get any...
+[interjection] Kristin: Buzzing
+[interjection] Drew: Infections, nobody's changed again.
+
+[00:17:54] Drew:
+I don't know if it's a bug, or if it's working as intended, that when the weremouse transformed...
+
+[00:18:01] Kristin:
+Uh-huh.
+
+[00:18:01] Drew:
+He transformed from a ferocious mouse into a lobster.
+
+[00:18:07] Drew:
+So I'm not sure if he was a lobster first, who then turned into a mouse, or a mouse who turned into a lobster.
+[interjection] Kristin: I'm not sure if he was alive.
+
+[00:18:13] Kristin:
+Was he like a base game lobster or a decapod lobster? 
+
+[00:18:18] Drew:
+DECAPOD LOBSTER 
+
+[00:18:19] Kristin:
+Okay, okay, okay, so I'm... 
+
+[00:18:21] Kristin:
+betting that he became a mouse from being a lobster person. 
+
+[00:18:26] Drew:
+That's my guess as well because the lobster- because I think the weremouse is the transformed form. Yeah. 
+
+[00:18:34] Drew:
+and then I don't think you can be a werelobster. I'm very confused. 
+
+[00:18:40] Kristin:
+Werelobster. Oh my god, but I'm not a lobster OCD doesn't exist 
+[interjection] Drew: But the-
+
+[00:18:44] Drew:
+Exactly. 
+
+[00:18:45] Drew:
+It's funny because the lobsters in the Decapodian civilization are listed as the nobles. 
+
+[00:18:53] Kristin:
+Oh. 
+
+[00:18:54] Kristin:
+Mmm, so he's come down in the world. 
+
+[00:18:57] Drew:
+Um... 
+
+[00:18:58] Drew:
+So, let me tell you a little bit about... 
+
+[00:19:02] Drew:
+The Werelobster 
+
+[00:19:03] Drew:
+who you think are. 
+
+[00:19:06] Drew:
+the weremouse, I should say. 
+
+[00:19:08] Kristin:
+Yes. 
+
+[00:19:08] Drew:
+who you would think I wrote down the name of. 
+
+[00:19:11] Kristin:
+Mmm. 
+
+[00:19:12] Drew:
+He's listed as a ringleader. 
+
+[00:19:14] Drew:
+And, um, ah, yes. 
+[interjection] Kristin: Bye.
+
+[00:19:16] Drew:
+Uh 
+
+[00:19:18] Drew:
+Chi-ti-ki-ti. Yeah, Chi-ti-ki-ti. So he's got to have been a... Yeah, Chi-ti-ki-ti. He had to have been a Decapodian before. 
+[interjection] Kristin: Yeah.
+
+[00:19:26] Drew:
+Searing handles. He is shameless. Absolutely unfazed by thoughts of others. Cannot tolerate differences in culture, lifestyle, or appearance. He has little time for forgiveness and will generally seek retribution. Quick to anger. Often nervous. When he gets bored, he starts talking to inanimate objects. 
+
+[00:19:44] Kristin:
+Mm-mm. 
+
+[00:19:45] Drew:
+Has meager creativity. 
+
+[00:19:47] Kristin:
+I don't know, if he's talking to inanimate objects, it's kind of creative. 
+
+[00:19:52] Drew:
+A large mouse twisted into humanoid form. It is crazed for blood and flesh. Its eyes glow blue. Its brown hair is unkempt. 
+
+[00:20:00] Drew:
+Now you will know why you fear the night. 
+
+[00:20:03] Kristin:
+It's weird that it goes humanoid when it was a lobster. 
+
+[00:20:07] Drew:
+When it was a, a, what? 
+
+[00:20:08] Kristin:
+When we started as a lobster. 
+
+[00:20:10] Drew:
+Yeah, I'm... I'm... I'm very confused. 
+
+[00:20:14] Drew:
+But I think he was the lobster before. I'm not entirely sure with the Decapodians if they're humanoid or not. 
+
+[00:20:21] Kristin:
+Okay, yeah 
+
+[00:20:22] Drew:
+The graphic is definitely not humanoid. 
+
+[00:20:24] Kristin:
+No, I mean that's what, I mean I've seen your graphics so that's what I'm assuming. 
+
+[00:20:29] Drew:
+But they have mounts, so I'm very, I'm very confused, but. 
+
+[00:20:34] Drew:
+Um 
+
+[00:20:35] Drew:
+Let's see. 
+
+[00:20:36] Drew:
+Yeah, so his description as a lobster is a medium-sized, intelligent lobster that acts as the politically favored caste of the Decapodians. He is almost never sick and agile. His eyes are black. His carapace is blue. His pleopods are white. 
+
+[00:20:53] Kristin:
+Oh. 
+
+[00:20:53] Drew:
+At any rate, that was kind of our first big attack actually, and it went off pretty much without a hitch. 
+
+[00:21:00] Kristin:
+No one got bit. 
+
+[00:21:00] Drew:
+Yep, not that I could tell. 
+
+[00:21:02] Kristin:
+That's good. 
+
+[00:21:03] Drew:
+All right. 
+
+[00:21:03] Drew:
+I wonder if Decapodians can... 
+
+[00:21:05] Kristin:
+transmit 
+
+[00:21:06] Drew:
+Yeah, bite people. 
+
+[00:21:08] Drew:
+I don't know if it's bad. 
+
+[00:21:08] Kristin:
+Well, he was in the war, the war form. Yeah. 
+
+[00:21:10] Drew:
+Flam, flam, yam. 
+
+[00:21:12] Drew:
+So that was our exciting attack there.
+
+[00:21:16] Drew:
+Um...
+
+[00:21:17] Drew:
+Shortly thereafter, one interesting person came by who was a human lasher.
+
+[00:21:23] Kristin:
+Huh.
+
+[00:21:24] Drew:
+Lasta Ceringale
+
+[00:21:27] Drew:
+who is a person with no ambition whatsoever.
+
+[00:21:31] Drew:
+Lives at a slow-going and leisurely pace.
+
+[00:21:34] Drew:
+Has no official position.
+
+[00:21:36] Drew:
+But felt pleasure near a fine restaurant.
+
+[00:21:40] Kristin:
+Yeah.
+
+[00:21:41] Drew:
+While also handling whips, so I think we understand what's going on with her.
+
+[00:21:44] Kristin:
+Yeah, we know what her interests are.
+
+[00:21:46] Drew:
+Exactly.
+
+[00:21:48] Drew:
+So.
+
+[00:21:48] Drew:
+Well, let's go back over to your people for a little bit.
+
+[00:21:51] Kristin:
+Right.
+
+[00:21:52] Kristin:
+Well, as I alluded to, we had some fun.
+
+[00:21:57] Kristin:
+Um, it all started
+
+[00:21:59] Kristin:
+with an artifact pigtail thong.
+
+[00:22:02] Drew:
+Oh, dear.
+
+[00:22:04] Kristin:
+Made by our bookkeeper, Nomal Postbalanced.
+
+[00:22:08] Kristin:
+She spends a lot of her spare time
+
+[00:22:11] Kristin:
+collecting and weaving silk, so she clearly is into clothing and fashion.
+
+[00:22:15] Drew:
+Mm-hmm.
+
+[00:22:16] Kristin:
+And thongs.
+
+[00:22:17] Drew:
+Lingerie.
+
+[00:22:18] Kristin:
+Yes. She made Nittagthob, a pigtail thong.
+
+[00:22:23] Kristin:
+Highest quality, etc.
+
+[00:22:25] Kristin:
+It is encircled with bands of pigtail and round, brilliant cut pyrites. It is made from pigtail cloth. On the item is an image of The Bite of Girders, the pigtail thong in pigtail.
+
+[00:22:35] Kristin:
+So, on the thong
+
+[00:22:37] Kristin:
+is an image of a thong.
+
+[00:22:38] Kristin:
+Yeah.
+
+[00:22:39] Drew:
+Is it the same thong?
+
+[00:22:40] Kristin:
+No, it's a different thong.
+
+[00:22:41] Drew:
+Okay.
+
+[00:22:42] Kristin:
+I really hope it's a different thong.
+
+[00:22:43] Drew:
+Otherwise, it's an infinite recursion. Yeah.
+
+[00:22:47] Kristin:
+It's thongs all the way down. On the item is an image of an orange tree in pigtail.
+
+[00:22:52] Drew:
+So, I have a question for you.
+
+[00:22:55] Drew:
+I looked up, pigtail is an actual name of a plant.
+
+[00:22:57] Kristin:
+I did not know that.
+
+[00:22:58] Drew:
+It's utterly not a plant that could be used to make cloth or anything like that. Really? Yeah, it means its stamen or pistil? I think stamen is like curlicue like a pig's tail. Oh.
+
+[00:23:11] Kristin:
+Oh, okay.
+
+[00:23:12] Drew:
+So given that, and that therefore pigtails can't possibly be that.
+
+[00:23:18] Drew:
+What do you suppose pigtails are like?
+
+[00:23:21] Kristin:
+I always think of it as being like curly flax.
+
+[00:23:24] Drew:
+Okay, I can see that.
+
+[00:23:26] Kristin:
+Yeah.
+
+[00:23:26] Drew:
+I was thinking a little more reedy, but I think we're both in the same zone probably.
+
+[00:23:30] Kristin:
+Probably, yeah.
+
+[00:23:30] Drew:
+I mean, I think all...
+
+[00:23:32] Drew:
+Plants that aren't all
+
+[00:23:34] Drew:
+Weavable plants that aren't cotton are kind of all the same thing.
+
+[00:23:39] Kristin:
+Um.
+
+[00:23:40] Kristin:
+So that was worth 4,300 Dwarf Bucks. Fair enough. Pretty good thong.
+
+[00:23:48] Drew:
+Although, I don't know, the price of thongs always kind of seems extreme for what you get.
+
+[00:23:53] Kristin:
+Yeah, that is true. You're not buying very much.
+
+[00:23:56] Drew:
+You sort of pay more the less there is.
+
+[00:23:59] Kristin:
+See you now.
+
+[00:23:59] Drew:
+Back over to you.
+
+[00:24:00] Kristin:
+Oh, great, thanks. So we stored it away.
+
+[00:24:04] Kristin:
+It was one of our first artifacts. I wasn't particularly thrilled with it other than, you know, the thong.
+And then later in the autumn, the traders arrived.
+
+[00:24:14] Kristin:
+This is still only our first year, so we didn't really have a lot of wealth.
+
+[00:24:18] Kristin:
+But we had some gems and, um...
+
+[00:24:21] Kristin:
+we could buy some instruments, some different alcohol, some cloth. So, you know, I moved the gem bins and one or two finished goods bins to the trading post.
+
+[00:24:33] Kristin:
+Around the same time, I got a notification that the location of the artifact pigtail thong had been disclosed.
+
+[00:24:39] Kristin:
+That's unfortunate. We all know what that means. Yeah.
+
+[00:24:42] Kristin:
+Then I got a notification that the Marksdwarf Thicket Alerter was sneaking around.
+
+[00:24:48] Drew:
+Oh, dear.
+
+[00:24:49] Kristin:
+Yeah, and then suddenly, it was all fighting notifications.
+
+[00:24:53] Kristin:
+Now, I have absolutely no idea—I went through the combat logs and tried to piece this together.
+
+[00:24:59] Kristin:
+But best I can tell, two fights broke out, kind of separately or relatedly, or maybe the thief tried to escape underground. I don't know because it started at the trading post.
+
+[00:25:12] Kristin:
+And he...
+
+[00:25:14] Kristin:
+killed the broker expedition leader.
+
+[00:25:17] Kristin:
+He was attempting to steal the thong and maybe had allies, I don't know, but a massive fight broke out on the main tavern level. And this all happened really, really quickly. It was like the kind of thing where...
+
+[00:25:30] Kristin:
+I was doing my thing and then I clicked to go to the main floor and it's just blood and vomit everywhere.
+
+[00:25:36] Kristin:
+So eight of our dwarves died.
+
+[00:25:39] Kristin:
+As well as five bards.
+
+[00:25:41] Kristin:
+Oh, no. Yeah.
+
+[00:25:42] Kristin:
+Um...
+
+[00:25:43] Kristin:
+The thief was killed.
+
+[00:25:45] Kristin:
+We kept the artifact. Good.
+
+[00:25:48] Kristin:
+I still don't know what happened, like, I really did try, uh, so...
+
+[00:25:53] Kristin:
+In the alternate timeline that I lost, the thong was just stolen. It's like, boo-hoo. So this was more fun.
+
+[00:26:00] Kristin:
+But alas, in addition to our expedition leader dying.
+
+[00:26:04] Kristin:
+The hamster woman was injured and while she survived the initial attack and got treatment at the hospital, we didn't have any soap.
+
+[00:26:12] Kristin:
+And at one point I looked at her while she was in the temple meditating on nature.
+
+[00:26:16] Kristin:
+I noticed that she had an infection.
+
+[00:26:19] Drew:
+Oh no.
+
+[00:26:20] Kristin:
+And then later she was found dead.
+
+[00:26:22] Kristin:
+Oh!
+
+[00:26:22] Drew:
+I know. The hamster woman. Our hamster woman.
+
+[00:26:27] Drew:
+Oh, lass.
+
+[00:26:28] Kristin:
+Yeah, so I'm probably still dealing with the fallout from that, but I did do a shortcut and eliminate stress. So even though a lot of people died.
+
+[00:26:39] Kristin:
+We're all very happy about it.
+
+[00:26:41] Kristin:
+And I did eventually get the vomit cleaned up, and blood, and skeletons.
+
+[00:26:46] Drew:
+Nice.
+
+[00:26:46] Kristin:
+Yeah, so I still, like, I'm trying to figure out how
+
+[00:26:51] Kristin:
+The fighting happened in two locations, unless it was just a coincidence.
+
+[00:26:57] Kristin:
+Bye.
+
+[00:26:57] Drew:
+Yeah.
+
+[00:26:58] Drew:
+I have a similar story if you want to hear it.
+
+[00:26:59] Kristin:
+Yeah, let's hear it.
+
+[00:27:01] Drew:
+So I had an artifact that was created. I talked about it last time, that it was an artifact toy forge.
+
+[00:27:10] Kristin:
+Yes.
+
+[00:27:10] Drew:
+Mini-forge or whatever.
+
+[00:27:12] Drew:
+And I had put it up on a pedestal.
+
+[00:27:14] Kristin:
+Mhm.
+
+[00:27:14] Drew:
+In kind of the middle of the tavern.
+
+[00:27:16] Kristin:
+Yeah.
+
+[00:27:17] Drew:
+Someone had...
+[00:27:22] Drew:
+Then later on...
+
+[00:27:24] Drew:
+Someone else started looking at it.
+
+[00:27:26] Drew:
+But I tried to convict them; it didn't take.
+
+[00:27:31] Drew:
+So I went and did some other stuff, and then I got notifications that fighting was occurring.
+
+[00:27:36] Kristin:
+Uh huh.
+
+[00:27:36] Drew:
+And I go up, and I look, and there's a massive fight going on in the tavern.
+
+[00:27:41] Kristin:
+Mm-hmm.
+
+[00:27:43] Drew:
+Um...
+
+[00:27:45] Drew:
+I hunt through, and I realize that the person who had wanted to steal the item before...
+
+[00:27:51] Drew:
+had actually stolen it because I looked at them.
+
+[00:27:54] Drew:
+and on their person,
+
+[00:27:57] Drew:
+they had the item marked as hidden.
+
+[00:27:59] Kristin:
+Oh.
+
+[00:28:00] Drew:
+And so,
+
+[00:28:03] Drew:
+It seems like they started the fight.
+
+[00:28:06] Kristin:
+Yeah.
+
+[00:28:07] Drew:
+Then, under the cover of the fight, they stole the artifact and started running to the edge of the map.
+
+[00:28:11] Kristin:
+MMMM
+
+[00:28:12] Drew:
+And, um, I sent someone, I sent the hammer, my justice system.
+[interjection] Kristin: Yes.
+[interjection] Drew: I sent the hammer to go capture them.
+
+[00:28:20] Drew:
+But by the time he got there, they had already reached the edge of the map. They stayed there,
+
+[00:28:24] Kristin:
+Mm-hmm.
+
+[00:28:25] Drew:
+and then were dragged back and put in chains.
+[interjection] Kristin: Nice.
+
+[00:28:27] Kristin:
+You...
+
+[00:28:28] Drew:
+Um, well.
+
+[00:28:30] Drew:
+They were dragged back, then beaten, put in chains, and died.
+
+[00:28:32] Kristin:
+You know.
+
+[00:28:33] Drew:
+Ah...
+
+[00:28:35] Drew:
+but the artifact was already gone off of them.
+
+[00:28:37] Kristin:
+Oh, no.
+
+[00:28:38] Kristin:
+Hmm...
+
+[00:28:39] Kristin:
+It's a bummer.
+
+[00:28:40] Drew:
+I'm thinking that it might be one of those evil plots
+
+[00:28:43] Kristin:
+Yeah.
+
+[00:28:43] Drew:
+that have been added.
+
+[00:28:45] Kristin:
+Right.
+
+[00:28:45] Drew:
+And so someone had been wanting that artifact, and like...
+
+[00:28:49] Drew:
+enlisting people over time.
+
+[00:28:51] Kristin:
+Well, and like you get the notification that the location has been disclosed or whatever, so I think that there were
+
+[00:28:59] Kristin:
+Probably multiple people working on this thievery plot.
+
+[00:29:03] Drew:
+Exactly.
+
+[00:29:04] Drew:
+So.
+
+[00:29:05] Drew:
+it's really interesting if that's how complicated the plots actually work at this point because like that someone could start a
+
+[00:29:12] Kristin:
+Yeah.
+
+[00:29:12] Drew:
+Distraction, essentially.
+
+[00:29:14] Kristin:
+Yeah, I should, um...
+
+[00:29:16] Kristin:
+I have the Dwarf's name, the Marksdwarf's name who was sneaking around.
+
+[00:29:21] Kristin:
+I should go to legends mode and look him up and see if I can track the history of him
+[interjection] Drew: and see.
+[interjection] Kristin: wanting to steal this thing.
+
+[00:29:27] Drew:
+Absolutely.
+
+[00:29:28] Kristin:
+So related, how do you prevent the theft of artifacts? You like to display them,
+
+[00:29:34] Kristin:
+which is a good thing to do.
+
+[00:29:36] Drew:
+Um, yeah, because then when someone, um, tries to steal it, there are frequently
+[interjection] Kristin: Fair enough.
+[interjection] Drew: lots of witnesses to convict.
+
+[00:29:42] Kristin:
+so you don't get a conviction.
+
+[00:29:44] Drew:
+So you have to have your justice system.
+
+[00:29:46] Kristin:
+I still, like, I have a sheriff or whatever in place. She has an office. I have not gotten around to setting up a jail,
+
+[00:29:55] Kristin:
+but I've done that before, and nothing has ever happened.
+
+[00:29:58] Drew:
+Yeah.
+It seems to be working more now than it has in the past, at least in my experience.
+
+[00:30:03] Kristin:
+Okay.
+
+[00:30:04] Drew:
+But you have to have that jail. You want to have a mix of both cages and restraints.
+
+[00:30:09] Kristin:
+And chains, yeah, okay.
+
+[00:30:12] Drew:
+Um...
+
+[00:30:12] Drew:
+And you have to mark it as the prison area and all that stuff.
+
+[00:30:18] Kristin:
+I mean, because I was thinking about, in the alternate timeline, I'll just keep calling it that, we had something else. Oh, one of the instruments I bought was also stolen from the trade depot, which is just on the main level. And I was like, should I put guard dogs out there maybe?
+
+[00:30:32] Drew:
+Yeah.
+
+[00:30:33] Kristin:
+I don't know.
+
+[00:30:33] Drew:
+That's not a bad idea.
+
+[00:30:35] Kristin:
+I always feel bad just chaining up the dogs, but it's a video game, and I did.
+
+[00:30:40] Kristin:
+Order the execution of...
+
+[00:30:42] Kristin:
+Two people who were just interrupting the dwarves, so.
+
+[00:30:46] Drew:
+Exactly. Not the dogs. That's right, because you've got breeding pairs. How's the breeding going?
+
+[00:30:50] Kristin:
+Um, well, everything's...
+
+[00:30:52] Kristin:
+Proliferating. That's part of why I was glad to turn on auto butcher so that hopefully I don't have to...
+
+[00:30:57] Drew:
+Make those decisions.
+
+[00:31:01] Drew:
+Yeah.
+
+[00:31:02] Kristin:
+So hopefully that will continue to go well. We've got yaks breeding and, oh, auto shear and auto milk.
+
+[00:31:08] Kristin:
+I turned those on too, so we'll see what happens.
+
+[00:31:11] Kristin:
+Um...
+
+[00:31:12] Kristin:
+But anyway, yeah, that was kind of the biggest excitement from my fort that wasn't directly caused by me.
+
+[00:31:19] Drew:
+Yeah, I...
+
+[00:31:20] Drew:
+I'm really curious to know about the fight that I had and it sounds like the fight you had as well since it was very close in time to the stealing.
+
+[00:31:27] Drew:
+I don't know if it's like they see them stealing and then start fighting or if this is...
+
+[00:31:31] Kristin:
+That's kind of what I assumed, but...
+
+[00:31:34] Kristin:
+It could have been a distraction, like you said.
+
+[00:31:36] Drew:
+Right, because I looked over the fight and this guy wasn't really involved in any of the fighting and he had already snuck out.
+
+[00:31:42] Kristin:
+Yeah. Well, yeah, I mean, I had kind of the two fights and he was fighting with the expedition leader and got killed up on the surface level while everybody else was fighting and dying down at the tavern.
+
+[00:31:55] Kristin:
+We have a new expedition leader now.
+
+[00:31:56] Drew:
+Yeah, I had so much fighting in my tavern because apparently I think the elves just cannot handle their liquor.
+
+[00:32:04] Kristin:
+Well, and you have, like, whatever mushrooms or ecstasy or whatever they have. Mandrake roots. Yes.
+
+[00:32:14] Kristin:
+Yeah, so maybe that's causing problems.
+
+[00:32:17] Drew:
+The...
+
+[00:32:18] Drew:
+Uh...
+
+[00:32:19] Drew:
+Yeah, the justice system. Also, maybe I need to choose a weaker hammer because we've gotten one dwarf successfully tied up...
+
+[00:32:26] Kristin:
+Yeah.
+
+[00:32:27] Drew:
+As punishment.
+
+[00:32:27] Kristin:
+Uh-huh.
+
+[00:32:28] Drew:
+And then the other...
+
+[00:32:30] Drew:
+Two people who caused a brawl and then the thief, they all died in the course of the hammer beating them and bringing them to the thing.
+
+[00:32:39] Kristin:
+It's a little too, uh...
+
+[00:32:40] Drew:
+Aggressive.
+
+[00:32:41] Kristin:
+Yeah, too committed to his work.
+
+[00:32:44] Drew:
+So it's been a fun time there.
+
+[00:32:47] Drew:
+It's been a thing.
+
+[00:32:49] Kristin:
+Well, I'll put the pigtail cloth on display and see what comes of that.
+
+[00:32:56] Drew:
+Well.
+
+[00:32:57] Drew:
+So, what else has been going on in your fort?
+[00:32:59] Kristin:
+Well, the other thing I made happen, and you got to witness this...
+
+[00:33:04] Kristin:
+We found an obsidian pillar or one of the gem pillars in the first cavern level
+
+[00:33:11] Kristin:
+And it was kind of warm.
+
+[00:33:13] Kristin:
+But I ignored that and dug into it because that's what I do, and usually, it's not a big deal.
+
+[00:33:20] Kristin:
+But in this case, it was a very big deal.
+
+[00:33:26] Kristin:
+I set fire to an entire Z-Level.
+
+[00:33:30] Drew:
+An entire cavern level. Yeah. Yeah. That was, that was an oopsie.
+
+[00:33:35] Kristin:
+It was so much fire.
+
+[00:33:37] Kristin:
+And in doing that, I accidentally incinerated our bone doctor and her baby. Oh no! Yeah, I felt really bad about that.
+
+[00:33:46] Drew:
+Did she have a husband there?
+
+[00:33:47] Kristin:
+Um, I think she does. I'll have to check on him.
+
+[00:33:51] Drew:
+Oh...
+
+[00:33:52] Kristin:
+I'll try to memorialize them with some slabs and put them in the cavern levels that are now covered in ash.
+
+[00:33:59] Kristin:
+I'm just really glad that it didn't spread to where I have some workshops and stuff. And where my baby drolphas are kept in the same caverns, just in a different location.
+
+[00:34:09] Drew:
+Hashtag priorities
+
+[00:34:10] Kristin:
+Yeah, save the baby drolphas
+
+[00:34:13] Kristin:
+And then my final note is we have a new character to follow after the demise of our hamster woman.
+
+[00:34:20] Kristin:
+So I want to welcome Roughness Stoned, Casper Ashame Colored, the Cougar Man Bard.
+
+[00:34:27] Drew:
+Awe. Yes.
+
+[00:34:27] Kristin:
+Yes, and you can see his sprite here. At first, I thought he was a red panda
+
+[00:34:33] Kristin:
+Because he's got kind of a red panda-ish face.
+
+[00:34:36] Drew:
+Oh, they gave him the kind of cat-like crouch.
+
+[00:34:38] Kristin:
+Yeah, so he's a bard and a cougar. He has great analytical abilities, a great affinity for language, and a feel for music.
+
+[00:34:48] Kristin:
+But he has meager kinesthetic sense and little willpower. He is grounded in reality. He prefers to present himself modestly. He often feels discouraged. He is quick to form negative views about things. He has a tendency toward forming deep emotional bonds with others.
+
+[00:35:02] Kristin:
+He doesn't really care about anything anymore.
+
+[00:35:04] Kristin:
+And he's hanging out at the fort.
+
+[00:35:07] Drew:
+Nice!
+
+[00:35:08] Kristin:
+Yeah.
+
+[00:35:08] Drew:
+He seems like a fun guy.
+
+[00:35:10] Kristin:
+Oh yes, and in values, he personally hates freedom and would crush the independent spirit wherever it is found.
+
+[00:35:18] Kristin:
+And yet values romance and values artwork.
+
+[00:35:22] Drew:
+Maybe he doesn't sound like such a fun guy.
+
+[00:35:23] Kristin:
+No, he kind of doesn't, does he?
+
+[00:35:27] Kristin:
+Is he, I don't, he sounds like a libertarian, maybe, I don't know, maybe it.
+
+[00:35:33] Drew:
+Ashame Colored
+
+[00:35:35] Kristin:
+I don't know. Oh wait, Ashame Colored.
+
+[00:35:35] Drew:
+Oh wait, Ashame Colored.
+
+[00:35:36] Kristin:
+Ashame Colored, that's his last name.
+
+[00:35:38] Drew:
+Ashame Colored.
+
+[00:35:40] Kristin:
+So we'll keep an eye on him and see if...
+
+[00:35:43] Kristin:
+He does anything fun. He was happy recently because I apparently granted him citizenship. This was before I just started telling all the bards no because of the fight mostly.
+
+[00:35:54] Kristin:
+Once you have...
+
+[00:35:54] Drew:
+Once you have 60 bards in a tavern, a fight is almost inevitable.
+
+[00:35:58] Kristin:
+Yeah, he, um...
+
+[00:36:00] Kristin:
+I don't think he actually witnessed the fights looking through his memories. I think he just saw some of the dead bodies afterward, so he's got those on his mind, but he'll be alright.
+We'll see what happens, and you generated some very fun images of him.
+
+[00:36:14] Drew:
+Yeah, those will be in the show notes. Yes.
+
+[00:36:16] Kristin:
+So what else has been happening at your fort?
+
+[00:36:19] Drew:
+Honestly, that's kind of about it. We've been doing a decent amount of work just building our...
+
+[00:36:26] Drew:
+stockpiles of gold and silver. We've got a lot of tetrahedrite, so we're getting a lot of silver and copper and stuff.
+[interjection] Kristin: Yeah.
+
+[00:36:33] Drew:
+and making trade goods there.
+
+[00:36:37] Drew:
+So overall, we're pretty happy there. I've dug out a lot of rooms using DFHack's Quick Fort option.
+
+[00:36:44] Kristin:
+Oh, yeah
+
+[00:36:45] Drew:
+Which, if you've never played around with it, Quick Fort allows you to kind of...
+
+[00:36:51] Drew:
+load up
+
+[00:36:52] Drew:
+pre-made designs, of which there's a good library of.
+
+[00:36:56] Drew:
+So then you can kind of drop them down as templates on the map
+
+[00:37:01] Drew:
+So if you have a sort of, you know, freshly started level.
+
+[00:37:06] Drew:
+You can just load up like, um, I think there's something called, uh, apartments or condos or something like that option.
+
+[00:37:13] Drew:
+and it'll just plop down a set of, I think.
+
+[00:37:17] Drew:
+1-2-3
+
+[00:37:19] Drew:
+Cells.
+
+[00:37:20] Kristin:
+Yeah.
+
+[00:37:20] Drew:
+you know, 20 rooms.
+
+[00:37:22] Drew:
+And then you can just keep stacking that.
+
+[00:37:25] Drew:
+anywhere you want.
+
+[00:37:26] Kristin:
+Oh, cool. That's very handy.
+
+[00:37:28] Drew:
+And then I believe there's a secondary thing that then you can activate to actually have it put down, you know, the predefined, um...
+
+[00:37:35] Drew:
+beds and tables and all that, but I haven't gotten to that because that seemed more complicated.
+
+[00:37:39] Drew:
+I'm fine with just clicking around a bunch. It's just doing the digging designation that's kind of a pain. So I really appreciated using that.
+
+[00:37:49] Drew:
+Um...
+
+[00:37:49] Drew:
+And I think that was, yeah, I think.
+
+[00:37:52] Drew:
+Mike, right? Mike from our discord is planning on continuing to improve that he's
+[interjection] Kristin: Looking for more.
+
+[00:37:58] Drew:
+The main DFHack guy, one of the main DFHack- I'm not sure, but he's the main-
+
+[00:37:59] Kristin:
+I'm not sure, but he's active in our discord and he's very nice and...
+
+[00:38:03] Kristin:
+Tells us a lot about it. It's really cool.
+[interjection] Drew: Yeah.
+
+[00:38:05] Drew:
+Yeah, he's always looking for people to try the beta versions of it and stuff. So if you're interested, hop on the Discord, information at the end if you've not heard this before.
+
+[00:38:14] Drew:
+And yeah, you can talk to Mike and he'll be happy to get you using the beta version of DFHack. You can be on the cutting edge.
+
+[00:38:23] Drew:
+Oh.
+
+[00:38:24] Kristin:
+Oh, I remembered. One of our new migrants is a necromancer.
+
+[00:38:28] Drew:
+Well, that's frequently good because then their creatures will be on your side, right?
+
+[00:38:33] Kristin:
+Yeah, so I'm curious to see what she has to do. I think she was a mechanic or something like that
+
+[00:38:40] Kristin:
+as her other job should.
+
+[00:38:42] Kristin:
+She makes mechanisms and also raises the dead.
+
+[00:38:47] Drew:
+It's a living.
+
+[00:38:48] Kristin:
+Yeah.
+
+[00:38:50] Drew:
+I do someday want a vampire so I can, uh...
+
+[00:38:53] Drew:
+So I can...
+
+[00:38:54] Drew:
+wall them off and have them be our vampire bookkeeper.
+
+[00:38:57] Kristin:
+I love it. I would love to see some weres or some vampires at this fort and with the new...
+
+[00:39:03] Kristin:
+animal people, I am hopeful.
+
+[00:39:06] Drew:
+I, um...
+I have seen a decent number of necromancers and vile forces of darkness come by because I have those two avian necromancer cowards around.
+[interjection] Kristin: OK.
+
+[00:39:17] Drew:
+Let's see.
+
+[00:39:19] Drew:
+Yeah, that's about it from that fort. I do have a story from Legends Mode that I'd like to tell you.
+
+[00:39:24] Kristin:
+Let's hear it, yeah.
+
+[00:39:26] Drew:
+So.
+
+[00:39:28] Drew:
+This involves the history of the Nurturers of Prophecy, our civilization.
+
+[00:39:32] Kristin:
+Uh-huh.
+
+[00:39:33] Drew:
+And it's
+
+[00:39:35] Drew:
+about the first and second queen and king.
+
+[00:39:38] Drew:
+The queen's name is Zuglar Diamondbows.
+
+[00:39:42] Drew:
+And she was queen since the start of recorded history
+
+[00:39:48] Kristin:
+Yeah.
+
+[00:39:48] Drew:
+in year one.
+
+[00:39:50] Drew:
+Um, in the seventh year,
+
+[00:39:53] Drew:
+she took the dwarf necromancer Mebus Mythglaze as a lover,
+
+[00:39:59] Drew:
+as a young mage,
+
+[00:40:01] Drew:
+and then, with his assistance, remained queen until the year 97.
+
+[00:40:06] Kristin:
+Wow.
+
+[00:40:08] Drew:
+In
+
+[00:40:09] Drew:
+Um, let's see.
+
+[00:40:11] Drew:
+in the year 15,
+
+[00:40:14] Drew:
+she had.
+
+[00:40:16] Drew:
+Yeah
+
+[00:40:19] Drew:
+bold tomes, so a different lore than is at my fort currently.
+
+[00:40:23] Drew:
+But.
+
+[00:40:24] Drew:
+So, Lord...
+
+[00:40:26] Drew:
+Lore
+
+[00:40:27] Drew:
+bold tomes.
+
+[00:40:29] Drew:
+Go.
+
+[00:40:30] Drew:
+In the year 51,
+
+[00:40:33] Drew:
+Lore and his two brothers each offered their mother a crafted item.
+
+[00:40:39] Kristin:
+Mhm.
+
+[00:40:40] Drew:
+So one brother...
+
+[00:40:41] Drew:
+who we won't talk too much about, offered her a wooden mace.
+
+[00:40:45] Kristin:
+Mm-hmm.
+
+[00:40:46] Drew:
+One offered her
+
+[00:40:48] Drew:
+an iron mace and
+
+[00:40:56] Kristin:
+You
+
+[00:40:57] Drew:
+which wound up...
+
+[00:40:58] Drew:
+in the course of history being claimed by over 15 different characters from afar. Wow.
+
+[00:41:04] Drew:
+As a result of that great offering, Lore was marked to be the future king.
+
+[00:41:11] Kristin:
+Was he the eldest, youngest, middle?
+
+[00:41:13] Drew:
+Uh, I believe he was in the...
+
+[00:41:14] Kristin:
+But he had the best artifact.
+
+[00:41:16] Drew:
+Exactly.
+
+[00:41:18] Drew:
+Yeah, so in the year 51, Lore became Alderperson of the Hall of Quests, which was the main metalworking guild for the, um...
+[interjection] Kristin: or be
+
+[00:41:27] Drew:
+city which is called Razor Arm. Yeah
+
+[00:41:30] Drew:
+That is the capital of our civilization.
+[interjection] Kristin: schools.
+
+[00:41:33] Drew:
+In 53, he married the dwarf
+
+[00:41:35] Drew:
+Albin Chainpaint and then in the year 70 the avian onyx leopard priest Maroon
+
+[00:41:44] Drew:
+pretended to be the peddler Tawn... Jawhandles.
+
+[00:41:48] Drew:
+and formed a false friendship with Lore where each used each other for information in
+
+[00:41:53] Drew:
+Razor Arm.
+
+[00:41:55] Drew:
+In 72...
+
+[00:41:57] Drew:
+The Dwarf Albin Chainpaint divorced Lore.
+
+[00:42:01] Drew:
+In 73,
+
+[00:42:02] Drew:
+Albin Chainpaint and Lore became lovers again.
+
+[00:42:05] Kristin:
+Mm-mm.
+
+[00:42:06] Drew:
+In 77,
+
+[00:42:07] Drew:
+they became married again.
+
+[00:42:10] Drew:
+Um,
+
+[00:42:11] Kristin:
+It's a very complicated relationship.
+
+[00:42:13] Drew:
+Yes, it's one of those cases where you divorce someone and then remarry them and you're like,
+[interjection] Kristin: Yeah.
+[interjection] Drew: what's going on here? But especially in the course of a year. That's quick.
+
+[00:42:21] Drew:
+In the early winter of '84, Lore made a fortune gambling in the Helmed Mouth in Razor Arm.
+
+[00:42:28] Drew:
+And then in '97, Lore became king of the Naturals of Prophecy.
+
+[00:42:33] Kristin:
+Mm-hmm.
+
+[00:42:34] Drew:
+And took the Sullen Venoms, the Quickness of Cobalt, as a symbol of authority. It was the iron mace that his brother had made and offered to their mother.
+
+[00:42:47] Kristin:
+Huh.
+
+[00:42:48] Drew:
+Um...
+
+[00:42:49] Drew:
+Meanwhile,
+
+[00:42:50] Drew:
+He reclaimed the Cerulean Columns, the copper crossbow that he had offered to his mother, which has since been claimed by over 15 different characters from afar.
+
+[00:43:00] Kristin:
+Wow.
+
+[00:43:01] Kristin:
+So does that mean they want to steal it?
+[interjection] Drew: Yes.
+
+[00:43:03] Drew:
+Yeah.
+
+[00:43:03] Kristin:
+Hmm.
+
+[00:43:04] Drew:
+And
+
+[00:43:06] Drew:
+No real mention I was able to find of what happened with the wooden mace that the third brother
+
+[00:43:15] Kristin:
+Where is the crossbow now?
+
+[00:43:17] Drew:
+The crossbow is currently held by Lore.
+
+[00:43:21] Drew:
+It's pretty cool.
+
+[00:43:24] Drew:
+Two other interesting things from Legends Mode is that I have a skunk deity called Lenshim, the Wooden Boats of Dawning.
+
+[00:43:36] Kristin:
+That's nice.
+
+[00:43:37] Drew:
+Um, he is the second largest; he has the second most number of denominations of any of the deities in my world: 14.
+
+[00:43:47] Kristin:
+You
+
+[00:43:48] Drew:
+Um, the most, however, is Scrooge,
+
+[00:43:53] Drew:
+Scrooge!
+
+[00:43:54] Kristin:
+Oh
+
+[00:43:55] Drew:
+A Decapod deity of crafts, metal, and fire with 17 denominations.
+
+[00:44:02] Drew:
+So.
+
+[00:44:03] Drew:
+I am really enjoying the mods, just for getting a wider variety of different activities.
+
+[00:44:09] Kristin:
+Yeah, that's really cool. I think next world, I'll do some modding too.
+
+[00:44:13] Drew:
+We'll be a little less monogamous about our worlds this year, I think.
+
+[00:44:18] Kristin:
+Yeah, having seen, like how fun it is to see new...
+
+[00:44:22] Kristin:
+Creature animal people already. I'm ready to say goodbye when I feel ready, or, you know, whatever.
+[interjection] Drew: Creature. Animal.
+
+[00:44:30] Drew:
+Well, I think that's all we really had today.
+
+[00:44:32] Drew:
+Mm-hmm.
+
+[00:44:33] Drew:
+Um, you want to give us our outro?
+
+[00:44:36] Kristin:
+Yeah, so if you want to follow us, we're on all podcast places.
+
+[00:44:41] Kristin:
+You can see our website and show notes at estrangedmoodpodcast.com.
+
+[00:44:46] Kristin:
+You can email us at estrangemoodpodcast@gmail.com, I think.
+
+[00:44:53] Kristin:
+Uh, or you can join our Discord, which will be linked in the show notes.
+
+[00:44:57] Drew:
+To other fun Dwarf Fortress Discords, and we're just building a community network.
+
+[00:45:08] Kristin:
+Yeah.
+
+[00:45:09] Kristin:
+It's just fun to hang out and chat about dwarves.
+[interjection] Drew: So.
+
+[00:45:11] Drew:
+So I guess really we need to get back to it and just keep digging!

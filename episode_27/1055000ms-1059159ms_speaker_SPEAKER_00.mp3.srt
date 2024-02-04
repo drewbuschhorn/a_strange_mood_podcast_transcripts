@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,880
+Well, I guess I'll talk about some of those attacks.
+
+2
+00:00:01,880 --> 00:00:04,160
+So the first interesting attack.
+
+

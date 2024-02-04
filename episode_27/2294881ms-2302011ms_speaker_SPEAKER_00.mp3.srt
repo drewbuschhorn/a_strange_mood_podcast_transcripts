@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,840
+And yeah, you can talk to Mike and he'll be happy to get you using the beta version of DFHack.
+
+2
+00:00:05,840 --> 00:00:06,960
+You can be on the cutting edge.
+
+

@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:03,200
+You don't have to select those individually or anything, you can just say.
+
+

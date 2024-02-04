@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,800
+So overall, we're pretty happy there.
+
+2
+00:00:02,800 --> 00:00:07,800
+I've dug out a lot of rooms using DFHack's Quick Fort option.
+
+

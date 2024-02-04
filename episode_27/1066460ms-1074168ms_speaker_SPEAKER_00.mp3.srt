@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,160
+Nope, it came through, we killed it, it wasn't too big of a deal, didn't seem to get any
+
+2
+00:00:05,160 --> 00:00:07,680
+infections, nobody's changed again.
+
+

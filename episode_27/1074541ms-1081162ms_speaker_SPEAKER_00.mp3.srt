@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,560
+I don't know if it's a bug, or if it's working as intended, that when the weremouse transformed...
+
+
