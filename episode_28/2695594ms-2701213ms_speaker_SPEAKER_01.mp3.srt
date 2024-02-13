@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,440
+rolls the dice or does a little slider in this case to see if you get a good event or a bad event.
+
+

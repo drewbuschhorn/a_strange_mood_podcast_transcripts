@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:08,000
+Oh no, that's not how it works. So another thing that I'm noticing as I'm playing is that it's
+
+2
+00:00:08,000 --> 00:00:11,920
+cool to see the automation from DFHack happening.
+
+

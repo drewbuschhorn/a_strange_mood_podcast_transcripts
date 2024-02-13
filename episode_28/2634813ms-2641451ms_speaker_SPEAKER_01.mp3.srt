@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,800
+Some of them you start over with every new run,
+
+2
+00:00:03,800 --> 00:00:06,800
+every new civilization, or not civilization, settlement.
+
+

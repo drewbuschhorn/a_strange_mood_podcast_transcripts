@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:02,680
+And the turn-based at first was kind of off-putting,
+
+2
+00:00:02,680 --> 00:00:05,520
+but it works pretty well as a gameplay loop
+
+3
+00:00:05,520 --> 00:00:08,080
+because you will know how many days you have
+
+4
+00:00:08,080 --> 00:00:10,400
+until the good or bad event happens.
+
+5
+00:00:10,400 --> 00:00:12,100
+So it can be very easy to be like,
+
+6
+00:00:12,100 --> 00:00:14,600
+okay, I'll do another day and then I'll go to bed.
+
+

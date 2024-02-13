@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,700
+I mean, if there are no gods, there are no demigods, in a technical sense.
+
+2
+00:00:03,700 --> 00:00:08,800
+And yeah, we'll have to deal with it, but the default worlds have them, so it won't be a problem unless the player opts for it,
+
+3
+00:00:08,800 --> 00:00:11,500
+at which point, not having a full tutorial is not so bad.
+
+

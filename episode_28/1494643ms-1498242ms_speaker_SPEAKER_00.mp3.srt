@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:00,960
+curling trunk.
+
+2
+00:00:00,960 --> 00:00:02,020
+I don't know what a curl, oh,
+
+3
+00:00:02,020 --> 00:00:03,920
+I think that must mean an actual trunk.
+
+

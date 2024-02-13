@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,840
+Dot Age is the merciless survival roguelite turn-based city builder.
+
+2
+00:00:04,840 --> 00:00:06,560
+Will you fulfill the prophecy?
+
+

@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,320
+You're basically collecting all of the resources in a solar system.
+
+

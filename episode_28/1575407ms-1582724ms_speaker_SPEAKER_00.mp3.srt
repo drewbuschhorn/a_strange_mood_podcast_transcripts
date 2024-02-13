@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:07,200
+The written portion consists of a 56-page guide entitled Discourse on the Tower, authored by Abel blahblahblah
+
+

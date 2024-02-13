@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,480
+Village Elder, help us! The apocalypse is approaching and we need your guidance to survive.
+
+2
+00:00:04,480 --> 00:00:07,680
+Assign your workers and build a thriving village against the pending doom.
+
+
