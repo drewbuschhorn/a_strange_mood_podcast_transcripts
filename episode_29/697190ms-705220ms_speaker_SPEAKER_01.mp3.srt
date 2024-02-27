@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,000
+called The Ballad of Erst and Bembel.
+
+2
+00:00:03,000 --> 00:00:08,000
+It's a fun, western, rawhide kind of themed ballad.
+
+

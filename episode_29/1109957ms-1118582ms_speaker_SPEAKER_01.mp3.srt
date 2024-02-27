@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,300
+Backups, the cross-platform movement stuff was not working quite right.
+
+2
+00:00:06,300 --> 00:00:08,600
+I think maybe it's better now because I've seen...
+
+

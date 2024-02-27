@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,640
+Each line has four feet with an accented pattern of stressed-unstressed.
+
+

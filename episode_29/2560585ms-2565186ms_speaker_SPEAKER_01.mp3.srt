@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,600
+The third line of the tercet reverses the grammatical structure of the first line.
+
+

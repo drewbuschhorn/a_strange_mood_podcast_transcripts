@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,240
+goblins are all kind of off in their own little region.
+
+2
+00:00:03,240 --> 00:00:05,840
+The elves are kind of distributed through the middle.
+
+

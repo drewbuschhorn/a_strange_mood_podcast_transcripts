@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,680
+Hopefully for the combat, there'll be some sensible defaults, so you don't have to necessarily
+
+2
+00:00:03,680 --> 00:00:05,840
+choose that every time.
+
+

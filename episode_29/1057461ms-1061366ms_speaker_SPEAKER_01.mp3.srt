@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:03,880
+Did you unlock the door for her at least before you have been in the fort?
+
+

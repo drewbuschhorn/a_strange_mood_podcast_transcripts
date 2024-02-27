@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,880
+So I can just turn off the growing of it.
+
+2
+00:00:02,880 --> 00:00:07,880
+I may just make a little plot that they grow it on.
+
+

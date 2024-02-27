@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:08,000
+A little boring. We're still working on trying to get to the bottom of our first cavern lair.
+
+

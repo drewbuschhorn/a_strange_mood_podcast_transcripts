@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:00,840
+It's very exciting.
+
+2
+00:00:00,840 --> 00:00:03,040
+Yeah, what are my questions for you before I?
+
+
