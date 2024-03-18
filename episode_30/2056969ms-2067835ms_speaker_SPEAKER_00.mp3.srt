@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:08,000
+Looking at the dozens of similarly styled systems in Dwarf Fortress, this is the work of a large development team with very good simulation design skills.
+
+2
+00:00:09,000 --> 00:00:11,000
+None of that is true.
+
+

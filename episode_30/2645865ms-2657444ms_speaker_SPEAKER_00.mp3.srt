@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:11,500
+that's less of an issue right now. I'm getting too bogged down in the technical details, but because, you know, they vastly improved the pathfinding in the premium versions of Dwarf Fortress.
+
+

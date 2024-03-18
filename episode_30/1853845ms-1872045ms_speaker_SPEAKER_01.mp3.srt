@@ -1,0 +1,29 @@
+1
+00:00:00,000 --> 00:00:03,440
+The ending of each line of the poem shares the same rhyme.
+
+2
+00:00:03,440 --> 00:00:05,080
+The first line concerns the past.
+
+3
+00:00:05,080 --> 00:00:08,200
+The second line concerns the future.
+
+4
+00:00:08,200 --> 00:00:11,740
+So do you think this is a poem expressing pleasure
+
+5
+00:00:11,740 --> 00:00:14,920
+with a snake or a song expressing pleasure with a snake
+
+6
+00:00:14,920 --> 00:00:17,100
+that is also somehow used during marches
+
+7
+00:00:17,100 --> 00:00:18,400
+and military engagements?
+
+

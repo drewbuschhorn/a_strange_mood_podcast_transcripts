@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,000
+So basically a single type of click does everything,
+
+2
+00:00:05,040 --> 00:00:07,840
+just depending on what you're pointing at when you do it.
+
+

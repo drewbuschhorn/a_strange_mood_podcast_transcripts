@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,200
+have it generate little buildings and have it merge those organically into the other ones
+
+2
+00:00:05,200 --> 00:00:08,000
+so that you just have this nice little peaceful creation.
+
+

@@ -1,0 +1,41 @@
+1
+00:00:00,000 --> 00:00:04,360
+In my personal work, I've created some deep simulation structures like flower generators
+
+2
+00:00:04,360 --> 00:00:08,480
+that took several hundred inputs and outputted a biome-specific thematic fantasy realistic
+
+3
+00:00:08,480 --> 00:00:11,920
+plant with lists of properties and effects.
+
+4
+00:00:11,920 --> 00:00:14,600
+That took me weeks to refine and perfect.
+
+5
+00:00:14,600 --> 00:00:18,760
+Looking at the dozens of similarly styled systems in DF, this is the work of a large
+
+6
+00:00:18,760 --> 00:00:22,080
+development team with very good simulation design skills.
+
+7
+00:00:22,080 --> 00:00:25,760
+It's an expensive proposition and the number of simulation designers out there are very,
+
+8
+00:00:25,760 --> 00:00:26,760
+very few.
+
+9
+00:00:26,760 --> 00:00:29,200
+I really just loved the line.
+
+10
+00:00:29,200 --> 00:00:29,760
+I guess.
+
+

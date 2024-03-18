@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:04,920
+Spawn item, create item. Anyway, if you look at the DFHack stuff, you can find it pretty easy.
+
+2
+00:00:05,680 --> 00:00:07,680
+And from there then,
+
+3
+00:00:08,000 --> 00:00:15,600
+going and choosing, you know, make bolts of cloth and then make that from sheep wool.
+
+4
+00:00:15,680 --> 00:00:17,680
+Yeah.
+
+

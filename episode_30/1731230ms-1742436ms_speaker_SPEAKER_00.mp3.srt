@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,920
+I have found that to be very challenging as well.
+
+2
+00:00:02,920 --> 00:00:05,880
+I am able to find it in the Legends Mode browser.
+
+3
+00:00:05,880 --> 00:00:08,360
+And as best I can tell, it's not in the XML
+
+4
+00:00:08,360 --> 00:00:12,280
+that's exported as part of the various export systems.
+
+

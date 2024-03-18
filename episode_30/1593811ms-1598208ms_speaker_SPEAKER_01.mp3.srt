@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,000
+Do we have animals that would be worth training?
+
+2
+00:00:02,000 --> 00:00:03,000
+We have some reindeer.
+
+3
+00:00:03,000 --> 00:00:04,400
+Could we make war reindeer?
+
+

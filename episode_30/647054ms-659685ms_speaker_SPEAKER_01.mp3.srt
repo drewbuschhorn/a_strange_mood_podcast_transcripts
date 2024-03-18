@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,400
+It is adorned with hanging rings of dog leather and red-winged blackbird leather,
+
+2
+00:00:06,400 --> 00:00:12,560
+which you had to help me because we ran out of leather, so you showed me how to spawn an item using DFHack.
+
+

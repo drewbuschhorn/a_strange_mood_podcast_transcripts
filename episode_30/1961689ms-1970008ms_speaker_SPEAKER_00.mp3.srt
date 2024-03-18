@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:08,300
+It's amazing the systems work as well as they do together and, you know, the whole thing just doesn't crash after 20 years of layering things on top of each other.
+
+

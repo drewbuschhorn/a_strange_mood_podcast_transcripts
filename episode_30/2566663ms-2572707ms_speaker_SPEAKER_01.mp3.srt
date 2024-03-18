@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,000
+Right, I don't want my Spotify to shuffle up the same song twice in a row, or even like twice in the same drive.
+
+

@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,640
+but thread only becomes yarn if it is made from certain animals.
+
+

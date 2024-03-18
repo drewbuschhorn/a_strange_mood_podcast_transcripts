@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,600
+The rules of this form are applied by poets to produce individual poems, which can be recited.
+
+2
+00:00:04,600 --> 00:00:09,000
+The poem is a single line. Use of internal rhyme is characteristic of the form.
+
+3
+00:00:09,000 --> 00:00:13,400
+The poem has five feet with a tone pattern of uneven, even, uneven.
+
+
