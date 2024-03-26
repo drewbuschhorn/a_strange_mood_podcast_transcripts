@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,000
+This shrimp scholar is a expert in economic cartography,
+
+2
+00:00:05,700 --> 00:00:06,540
+as well as.
+
+

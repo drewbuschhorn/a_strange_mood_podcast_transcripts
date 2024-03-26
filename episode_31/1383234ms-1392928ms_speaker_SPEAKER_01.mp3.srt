@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,000
+I'm good. I'm cool. You can just leave that in. It's fine.
+
+2
+00:00:02,000 --> 00:00:03,000
+Yeah.
+
+3
+00:00:03,000 --> 00:00:06,000
+It's a gold mace with spikes of pineapple opal.
+
+4
+00:00:06,000 --> 00:00:09,000
+On the item is an image of the item in gold.
+
+

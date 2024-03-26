@@ -1,0 +1,21 @@
+1
+00:00:00,000 --> 00:00:01,680
+Yeah. Leather, leather flask.
+
+2
+00:00:03,000 --> 00:00:04,000
+So gross.
+
+3
+00:00:04,120 --> 00:00:06,920
+Yeah. When it's made from leather, it's a water skin.
+
+4
+00:00:07,680 --> 00:00:09,240
+When it's made from metal, it's a flask.
+
+5
+00:00:09,240 --> 00:00:11,160
+And when it's made from glass, it's a vial.
+
+

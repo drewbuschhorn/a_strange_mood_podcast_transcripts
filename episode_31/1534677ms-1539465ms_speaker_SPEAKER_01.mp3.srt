@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,600
+which is the barricaded construct.
+
+2
+00:00:02,600 --> 00:00:05,100
+The barricaded construct is a rusted metal thong.
+
+
