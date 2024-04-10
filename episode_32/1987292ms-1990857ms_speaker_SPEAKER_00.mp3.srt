@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,000
+He successfully killed the ogre and then left, despite being a little wounded.
+
+

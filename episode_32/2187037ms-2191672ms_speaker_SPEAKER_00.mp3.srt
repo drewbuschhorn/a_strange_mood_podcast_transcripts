@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,600
+We're just going to keep swinging at that ball until we hit it.
+
+

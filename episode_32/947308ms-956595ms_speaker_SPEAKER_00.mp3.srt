@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,600
+The instruments rest flat as the musician plays the three main strings with a bone bow.
+
+2
+00:00:05,600 --> 00:00:09,040
+Another string vibrates in sympathy and is rarely played itself.
+
+

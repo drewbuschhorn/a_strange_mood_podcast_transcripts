@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,320
+A cave dragon is a gigantic monster, once a dragon, now adapted to, and polluted by, the underground.
+
+

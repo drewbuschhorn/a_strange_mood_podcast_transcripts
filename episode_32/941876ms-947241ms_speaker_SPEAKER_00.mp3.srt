@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,000
+The tikka is a large, hand-held, cloth-stringed instrument with a metal body.
+
+

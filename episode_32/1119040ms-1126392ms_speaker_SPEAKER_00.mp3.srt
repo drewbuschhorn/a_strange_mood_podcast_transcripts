@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,900
+I wasn't able to find a good definition of that,
+
+2
+00:00:02,900 --> 00:00:04,240
+but I'm assuming it's something
+
+3
+00:00:04,240 --> 00:00:05,660
+where you intentionally pluck it
+
+4
+00:00:05,660 --> 00:00:07,800
+and then it keeps playing in the background.
+
+

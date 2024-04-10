@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,200
+Huh, yeah, I need to try to catch one of them
+
+2
+00:00:03,200 --> 00:00:07,300
+as it's happening so I can see where the problem occurs.
+
+3
+00:00:08,640 --> 00:00:11,960
+We finally found our third cavern layer.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,160
+So we'll see how we'll see how those go, but I'm sort of learning how to use Godot
+
+2
+00:00:05,420 --> 00:00:08,060
+Which everybody's obsessed with right now after
+
+

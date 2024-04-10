@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,480
+And this happens a lot and I'm not sure exactly what's going on.
+
+2
+00:00:03,480 --> 00:00:04,360
+Do you know that one?
+
+

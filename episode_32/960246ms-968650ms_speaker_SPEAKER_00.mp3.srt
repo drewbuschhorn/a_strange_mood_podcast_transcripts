@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:08,000
+The instrument has a three octave range, going from very low to mid-high pitch, steady timbre, three registers, lowest register has a heavy, watery timbre.
+
+

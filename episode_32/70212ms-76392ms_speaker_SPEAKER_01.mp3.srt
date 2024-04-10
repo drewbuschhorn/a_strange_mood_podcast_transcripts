@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,520
+I don't know, but I give it my stamp of approval.
+
+2
+00:00:03,520 --> 00:00:04,880
+Eclipse watching.
+
+3
+00:00:04,880 --> 00:00:05,720
+Good times.
+
+

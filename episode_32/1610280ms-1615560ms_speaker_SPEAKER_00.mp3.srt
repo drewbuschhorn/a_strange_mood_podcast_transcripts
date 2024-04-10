@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,200
+Yeah, that could be it.
+
+2
+00:00:01,200 --> 00:00:06,200
+It could be also that they're blocked off for some reason.
+
+
