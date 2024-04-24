@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,600
+I'm not sure if it's brown because it's deserty,
+
+2
+00:00:02,600 --> 00:00:05,300
+or if it's brown because I haven't explored there yet.
+
+

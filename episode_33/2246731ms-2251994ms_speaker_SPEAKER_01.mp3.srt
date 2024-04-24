@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,120
+So does this have any like weight limits or is it just the points kind of account for the weight?
+
+

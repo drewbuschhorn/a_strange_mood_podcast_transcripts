@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,760
+Well, bugs should get fixed so you can play the game,
+
+2
+00:00:02,760 --> 00:00:04,080
+and it doesn't crash your computer
+
+3
+00:00:04,080 --> 00:00:07,560
+and overwrite your hard drive or whatever.
+
+

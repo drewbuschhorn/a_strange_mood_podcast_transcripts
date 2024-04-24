@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,000
+Alright, so here we've got our compass on the upper left.
+
+

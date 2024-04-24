@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,960
+Alright, so let's ask for the whereabouts of the Necromancer.
+
+2
+00:00:02,960 --> 00:00:04,840
+It's in the Satiny Hills.
+
+

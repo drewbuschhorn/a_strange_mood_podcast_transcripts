@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,000
+Strikes at the goblin axmen that we're fighting, but blocked with an iron shield.
+
+2
+00:00:06,000 --> 00:00:07,000
+Okay.
+
+

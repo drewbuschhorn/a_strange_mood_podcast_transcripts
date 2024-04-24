@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,920
+Yeah also it's in the beta channel so you'd have to swap over to the beta and you don't
+
+2
+00:00:03,920 --> 00:00:04,920
+like doing that.
+
+3
+00:00:04,920 --> 00:00:07,800
+And a lot of people have been saying it's crashing.
+
+

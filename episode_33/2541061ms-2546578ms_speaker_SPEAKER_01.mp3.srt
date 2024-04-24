@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,000
+Yes.
+
+2
+00:00:01,000 --> 00:00:03,200
+Are you in a cave?
+
+3
+00:00:03,200 --> 00:00:05,480
+So it really does seem to have started doing a hole in the ground?
+
+

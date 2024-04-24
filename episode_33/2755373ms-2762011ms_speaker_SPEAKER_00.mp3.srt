@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,600
+Yeah, it's funny to think that all of this stuff in here is kind of the random options that are being chosen behind the scenes.
+
+

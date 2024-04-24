@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,000
+Strap the Warhammer to your upper body, draw the Warhammer.
+
+2
+00:00:03,000 --> 00:00:06,000
+Alright, let's start walking away.
+
+3
+00:00:06,000 --> 00:00:07,000
+Can I not move?
+
+

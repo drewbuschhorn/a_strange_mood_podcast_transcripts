@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:00,840
+Steel built.
+
+2
+00:00:00,840 --> 00:00:02,780
+All right, occupation.
+
+3
+00:00:02,780 --> 00:00:06,040
+These are your basic dwarvish occupations, it looks like.
+
+

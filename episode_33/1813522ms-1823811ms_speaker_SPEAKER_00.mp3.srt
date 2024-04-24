@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,500
+Currently, I am a weaponsmith in steel welts, a dwarven hillock, and you have never strayed far from home.
+
+2
+00:00:05,500 --> 00:00:10,300
+You are an ardent worshipper of Dorden the Turquoise, the god of creation and metal goods.
+
+

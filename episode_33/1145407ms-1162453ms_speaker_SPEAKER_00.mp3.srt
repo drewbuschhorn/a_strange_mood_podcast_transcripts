@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:02,420
+But also, they've been trying to add in multi-threading,
+
+2
+00:00:02,420 --> 00:00:04,260
+and that's just going to cause crashes.
+
+3
+00:00:04,260 --> 00:00:05,680
+From a programmer point of view, it's
+
+4
+00:00:05,680 --> 00:00:07,380
+hard to get that right, especially when you didn't
+
+5
+00:00:07,380 --> 00:00:08,760
+build from the ground up with it.
+
+6
+00:00:08,760 --> 00:00:11,460
+So that's just life.
+
+7
+00:00:11,460 --> 00:00:14,180
+Since the update two days ago, I think,
+
+8
+00:00:14,180 --> 00:00:17,379
+as of when we're recording this.
+
+

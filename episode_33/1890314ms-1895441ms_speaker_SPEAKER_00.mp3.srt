@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,460
+because you first have to assign attributes
+
+2
+00:00:02,460 --> 00:00:04,960
+of which there are 105 points to distribute.
+
+

@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,000
+What is this?
+
+2
+00:00:02,000 --> 00:00:06,000
+As you use it, you'll see that the map zooms in and out
+
+3
+00:00:06,000 --> 00:00:08,000
+depending on how interesting the area is.
+
+

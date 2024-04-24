@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,860
+Oh my god, so much log.
+
+2
+00:00:01,860 --> 00:00:03,500
+All right, so that is the end.
+
+

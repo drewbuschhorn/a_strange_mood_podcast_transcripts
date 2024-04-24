@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,760
+Looks like a road. Whoa, a bridge, a paved bridge.
+
+2
+00:00:02,760 --> 00:00:03,600
+All right.
+
+

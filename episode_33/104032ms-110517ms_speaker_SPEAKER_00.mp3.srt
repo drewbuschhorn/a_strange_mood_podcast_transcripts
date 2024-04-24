@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,440
+Um, for me, I've mostly been working on my little project in Godot, but, uh, I'm coming to like Godot a fair bit.
+
+

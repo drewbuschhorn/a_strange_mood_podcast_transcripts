@@ -1,0 +1,3470 @@
+[00:00:00] Kristin:
+This podcast is of the highest quality.
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples' Dwarf Fortress podcast. I'm Kristin.
+
+[00:00:23] Drew:
+And I'm Drew.
+
+[00:00:25] Kristin:
+We're a couple.
+
+[00:00:26] Drew:
+Playing Adventure Mode, in fact.
+
+[00:00:28] Kristin:
+Yes, playing Adventure Mode, which is still Dwarf Fortress.
+
+[00:00:31] Drew:
+Yes, so.
+
+[00:00:33] Drew:
+As you all know, Adventure Mode has come out!
+
+[00:00:35] Kristin:
+Yes, in beta.
+
+[00:00:37] Drew:
+And so during this episode, Kristin will intersperse periodically some recordings of me playing Adventure Mode and her heckling.
+[interjection] Kristin: Mm-hmm.
+
+[00:00:45] Kristin:
+I don't think I'm gonna intersperse it. I think it's just gonna be one long segment.
+
+[00:00:49] Drew:
+All right, well, whichever.
+
+[00:00:50] Kristin:
+Whichever. That's less work for me.
+
+[00:00:51] Drew:
+I was going to say, do you enjoy me just assigning work to you?
+[interjection] Kristin: Good.
+
+[00:00:54] Kristin:
+Uh-huh.
+
+[00:00:55] Kristin:
+Yeah, no, I'm not doing that.
+
+[00:00:57] Drew:
+Okay, fair enough.
+
+[00:00:58] Kristin:
+It will just be one long, it's just a little live play segment and we didn't bother doing video capture for it, but...
+
+[00:01:05] Kristin:
+I think it's kind of amusing as we walk through making an adventure and then having an adventure. We actually did have a little adventure during that time. So hopefully, you enjoy that.
+
+[00:01:15] Drew:
+Yeah, a little 15-minute adventure.
+
+[00:01:17] Kristin:
+Nyeh.
+
+[00:01:18] Drew:
+Quick, in and out.
+
+[00:01:19] Kristin:
+Yeah, no. It's way longer than that.
+
+[00:01:21] Drew:
+Well, I hope you trim it down a little bit.
+
+[00:01:23] Kristin:
+Well, I'll trim it some. There are some silences.
+
+[00:01:25] Drew:
+Alright, anyway, so what have you been playing?
+
+[00:01:28] Kristin:
+Ah, Stardew.
+
+[00:01:29] Drew:
+So you're just completely a Stardew person now.
+
+[00:01:32] Kristin:
+Not completely. I mean, I'm leveling Black Mage in Final Fantasy XIV. I've been doing my roulettes, but that's not very thrilling to talk about either. Unless you're into XIV, and then I have some tales, but, uh...
+
+[00:01:43] Kristin:
+How about you?
+
+[00:01:44] Drew:
+Um, for me, I've mostly been working on my little project in Godot, but, uh, I'm coming to like Godot a fair bit.
+
+[00:01:51] Drew:
+And then, of course, been playing Adventure Mode.
+
+[00:01:53] Kristin:
+Uh-huh.
+
+[00:01:54] Drew:
+Um...
+
+[00:01:54] Kristin:
+Yeah, I guess I can just drop in and...
+
+[00:01:57] Kristin:
+Say that I ended up opting not to.
+
+[00:02:00] Kristin:
+Get it yet and to get, not to get onto that beta branch just because it's extremely beta right now and I think there are going to be a lot of changes forthcoming and I didn't think, it seemed like a lot of effort for maybe not a great reward right now.
+
+[00:02:15] Drew:
+Yeah, I can see that feeling.
+
+[00:02:17] Kristin:
+Yeah.
+
+[00:02:17] Drew:
+So.
+
+[00:02:18] Kristin:
+I'll wait a little longer and also I can just look over your shoulder while you're playing.
+
+[00:02:23] Drew:
+Which has always been your favorite way to play Dwarf Fortress.
+
+[00:02:26] Drew:
+Historically.
+
+[00:02:27] Kristin:
+Eh, I've done a lot of that.
+
+[00:02:30] Drew:
+And then we've been watching Fallout.
+
+[00:02:32] Kristin:
+Mm-hmm.
+
+[00:02:33] Drew:
+Which I'm...
+
+[00:02:34] Drew:
+I'm kind of enjoying.
+
+[00:02:36] Kristin:
+Yeah, um, it's getting like glowing reviews and I think I can see why. It's not exactly my thing,
+
+[00:02:43] Kristin:
+But I'm still watching it and enjoying it.
+
+[00:02:46] Drew:
+Yeah, uh... you know, I've played one or two of the Fallout games. I wouldn't really call myself a Fallout person when it comes to
+[00:02:53] Drew:
+Bethesda, slash Todd's work, Todd as they call him on Monster Factory, the McElroys. 
+[interjection] Kristin: Aw, that's what they call him, huh?
+
+[00:03:01] Drew:
+Um...
+
+[00:03:02] Drew:
+I'm definitely more of an Elder Scrolls player.
+
+[00:03:05] Kristin:
+Yeah...
+
+[00:03:06] Kristin:
+Uh, I haven't really.
+
+[00:03:09] Kristin:
+Played Fallout at all.
+
+[00:03:10] Kristin:
+So maybe that's why, but I'm hearing reviews from people who don't really play video games and they're enjoying Fallout, so.
+
+[00:03:18] Kristin:
+It's hyper-violent, which I gather the games are as well.
+
+[00:03:21] Drew:
+That's...
+
+[00:03:23] Drew:
+Kind of my feeling. And again, it's hard to tell when
+
+[00:03:27] Drew:
+Whenever you translate video game violence into...
+
+[00:03:29] Kristin:
+Yeah, that's true and like
+
+[00:03:31] Kristin:
+I don't know if listeners know anything about the show, The Boys.
+
+[00:03:36] Kristin:
+And we won't really describe the details here because we do try to stay mostly safe for work, but just the description of the things that happen in that show are horrifying to me. And it's not on that level.
+
+[00:03:47] Drew:
+Yeah.
+
+[00:03:47] Kristin:
+Thankfully.
+
+[00:03:48] Drew:
+Yeah, because you had a friend who said the violence was kind of on par with The Boys, and...
+
+[00:03:53] Drew:
+In terms of literal violence, so the literal act of like
+[interjection] Kristin: Literally
+
+[00:03:58] Drew:
+Blood squirting out during a stabbing, it is.
+
+[00:04:02] Drew:
+But the violence
+
+[00:04:04] Kristin:
+The quality of the violence.
+
+[00:04:05] Drew:
+Yeah, the violence in The Boys is usually much more, um...
+
+[00:04:10] Drew:
+Shall we say, targeted.
+
+[00:04:12] Kristin:
+Yeah, grotesque, perhaps. Yeah.
+
+[00:04:15] Kristin:
+So it's not like that and it's not so violent that I don't want to watch it.
+
+[00:04:19] Drew:
+You
+
+[00:04:20] Drew:
+Given that we're, I think we're three episodes in.
+
+[00:04:22] Kristin:
+I think so.
+
+[00:04:22] Drew:
+Yeah, a good friend of mine who
+
+[00:04:25] Drew:
+I share tastes with, but is a kind of Fallout person, got frustrated with it after apparently three episodes and bounced. Why?
+
+[00:04:34] Drew:
+Um, he said it just felt like it didn't have the right tone compared to the games.
+
+[00:04:41] Kristin:
+Fair enough.
+
+[00:04:42] Drew:
+You know, again as someone who hasn't played, like I definitely haven't played the modern ones, so I haven't played 76 or four.
+[interjection] Kristin: Yeah.
+
+[00:04:49] Drew:
+So, I'm not really qualified to talk there, but...
+
+[00:04:51] Kristin:
+Meh.
+
+[00:04:52] Kristin:
+Well, yeah, if you have an opinion, let us know.
+
+[00:04:55] Drew:
+So.
+
+[00:04:57] Drew:
+I think that's, uh...
+
+[00:04:58] Drew:
+Yeah, that's kind of been...
+
+[00:04:59] Drew:
+Most of the media that we've been up to lately.
+
+[00:05:02] Kristin:
+Mm-hmm, yep.
+
+[00:05:04] Drew:
+It seems like this one you're going to also probably hear, far in the background, our dog barking because people are working out on the roof.
+
+[00:05:12] Kristin:
+Yes, so there's a lot of barking happening.
+
+[00:05:14] Drew:
+I don't think we can wait for it to pass.
+
+[00:05:16] Kristin:
+No, I don't think so. No.
+
+[00:05:17] Drew:
+We normally try to when he gets a bee in his bonnet.
+
+[00:05:20] Kristin:
+This isn't a delivery person, unfortunately, they're out there for a little while.
+
+[00:05:24] Drew:
+So, Dwarf Fortress News.
+
+[00:05:27] Kristin:
+Yes, other than Adventure Mode.
+
+[00:05:28] Drew:
+I was going to say Adventure Mode.
+
+[00:05:30] Kristin:
+Is there news? There's a soundtrack that goes with Adventure Mode.
+
+[00:05:33] Drew:
+Yeah, that seemed pretty cool.
+
+[00:05:34] Kristin:
+Yeah, maybe I should listen to it. I was like, I'm not going to listen to it because I want to experience it in the game, and um...
+
+[00:05:39] Kristin:
+I'm not going to jump right into the game, so.
+
+[00:05:42] Drew:
+Let's see, but also Dwarf Fortress Roundtable had their episode 101.
+
+[00:05:50] Drew:
+What happened to 100?
+
+[00:05:51] Drew:
+It's some sort of super-secret squirrel project, so it hasn't come out yet, but Jonathan claims he'll have it out soon.
+
+[00:05:57] Kristin:
+OK.
+
+[00:05:58] Drew:
+It'll be exciting to see what that is.
+
+[00:06:00] Kristin:
+Yeah.
+
+[00:06:01] Drew:
+Um...
+
+[00:06:02] Drew:
+Rurik has done some more videos on how best to set up your minecarts.
+
+[00:06:07] Kristin:
+Hmm?
+
+[00:06:07] Drew:
+That's over on our Discord.
+
+[00:06:09] Kristin:
+Yep.
+
+[00:06:10] Drew:
+DFHack's Michael has started putting out videos. He's got a little YouTube channel going. He's got one about pump stacks.
+
+[00:06:17] Kristin:
+No!
+
+[00:06:20] Kristin:
+Are you just having fun with it now?
+
+[00:06:22] Drew:
+Well, I felt like I kind of said, like, "pup stacks" or something the first time.
+
+[00:06:26] Drew:
+So, pump stacks.
+
+[00:06:27] Kristin:
+Uh-huh.
+
+[00:06:27] Drew:
+And that, I think, is linked in the DF Roundtable Discord, but I'll toss a Discord link or something.
+
+[00:06:34] Kristin:
+We're hooked to their feed now, so their updates will publish.
+
+[00:06:39] Drew:
+Yeah.
+
+[00:06:40] Kristin:
+But if it's not specifically DFHack related, he would need to share. Okay, never mind, you guys don't need to hear the housekeeping of our Discord.
+
+[00:06:46] Drew:
+Yes, at any rate.
+
+[00:06:48] Drew:
+Mike, if you're listening, feel free to toss things into the creator channel. You already have permission.
+
+[00:06:54] Drew:
+Um, and then.
+
+[00:06:56] Drew:
+Uh, Steven?
+
+[00:06:58] Drew:
+Of Story Dwarf fame, got a shout-out in Roundtable and also
+
+[00:07:03] Drew:
+is working on a, I'm going to call it, um, Dwarven Eurovision.
+
+[00:07:08] Drew:
+Where he's posted a request for people to find and publish the descriptions of their dwarven music.
+
+[00:07:18] Kristin:
+Yes, so he's going to make them if you send them to him.
+[interjection] Drew: Yes.
+
+[00:07:22] Drew:
+Yep. So I'll just read the post. This is Stephen.
+
+[00:07:27] Drew:
+I've got an album of Dwarf Fortress-generated music in the works. If anyone in the community runs into any interesting-looking songs you'd like to hear come to life, I'm soliciting ideas. Feel free to DM me on Discord or send a screenshot of the description to storydwarves@gmail.com. I honestly have no idea yet what I'm going to do about emulating the instruments described. Some are just too insane, as much as I would love to hear what it sounds like to have 200 glass bells played by a keyboard.
+
+[00:07:52] Drew:
+But like everything in Dwarf Fortress, I'm just diving in. It'll never be perfect, but losing is fun, right?
+
+[00:07:57] Kristin:
+Yes.
+
+[00:07:58] Drew:
+So that's a pretty exciting project.
+[interjection] Kristin: So that's a...
+
+[00:08:00] Kristin:
+Yeah, that's ambitious and exciting.
+
+[00:08:02] Kristin:
+I mean, we might as well just call him out. I think we're going to try to get him here on the podcast soon.
+
+[00:08:06] Drew:
+Hopefully.
+
+[00:08:07] Drew:
+So we can do our first interview.
+
+[00:08:10] Kristin:
+Yes, very exciting.
+
+[00:08:11] Drew:
+Yeah, we have to figure out how to do that.
+
+[00:08:13] Kristin:
+Yeah, that's why they haven't happened.
+
+[00:08:17] Drew:
+Alright, and then what other news did I mark down here? Ah, that's actually kind of it.
+
+[00:08:23] Kristin:
+Okay, well I wanted to talk before we move on completely. We had a fun little discussion in our Discord.
+About tie-in media, which is kind of relevant with talking about Fallout getting a TV series, and I was thinking about it because of all the cookbooks that have come out for games. We have several of them and have cooked out of some of them, but I was wondering what kind of tie-in media would Dwarf Fortress players like to see because a cookbook is maybe a little risky venture.
+[interjection] Drew: Ri-
+
+[00:08:53] Drew:
+You mean you don't want squid sea biscuits?
+
+[00:08:58] Kristin:
+Squid ink biscuits. Squid ink biscuits. Soaked in squid ink stew. That's hard to say.
+[interjection] Drew: Squid ink biscuits.
+
+[00:09:03] Drew:
+With chopped rhubarb.
+
+[00:09:04] Kristin:
+Oh, delicious. No. So what was your answer? Because I thought it was fun.
+
+[00:09:09] Drew:
+Um, let's see, so I wanted to kind of see an anthology series, kind of like American Horror Story.
+
+[00:09:17] Drew:
+Where each season is a different fort.
+
+[00:09:19] Kristin:
+Yeah.
+
+[00:09:20] Drew:
+And you can have the same actors again.
+
+[00:09:22] Kristin:
+Mhm.
+
+[00:09:23] Drew:
+And uh just kind of telling the story of a particular fort's rise and fall. It actually naturally lends itself to a good season arc, I feel like.
+[interjection] Kristin: I feel.
+
+[00:09:31] Kristin:
+That would be pretty cool.
+
+[00:09:32] Drew:
+And you could have it all be in the same world or something like that.
+
+[00:09:36] Drew:
+Some other good suggestions were claymation animation. Yes.
+
+[00:09:40] Kristin:
+Yes, that could be fun.
+
+[00:09:42] Kristin:
+Or animation in the style of that old Hobbit.
+
+[00:09:45] Drew:
+Oh yeah.
+
+[00:09:45] Kristin:
+Yeah.
+
+[00:09:47] Drew:
+And so yeah, people had a bunch of good ideas, and if you have one, hop over on the Discord and tell us about it.
+
+[00:09:53] Kristin:
+I don't know what I'd want to see. I do like those tie-in cookbooks, but not that. I mean, Steven's album, that's a great tie-in.
+
+[00:10:01] Kristin:
+So good job on that one, that's one I'd want to see. A board game could be fun. I went through a very big board game phase.
+
+[00:10:07] Drew:
+Mm-hmm.
+
+[00:10:08] Kristin:
+And I'm afraid it would end up just being like The Cones of Dunshire.
+
+[00:10:13] Kristin:
+But that's okay. That's fun every now and then.
+
+[00:10:15] Drew:
+Wasn't somebody else asking you about The Cones of Dunshire?
+
+[00:10:17] Kristin:
+Yeah, that might have been that they wanted a Cones of Dunshire.
+
+[00:10:21] Drew:
+So, yeah.
+
+[00:10:21] Kristin:
+Style game, but we always called Scythe The Cones of Dunshire because it's so crazy.
+
+[00:10:26] Drew:
+Yeah.
+
+[00:10:27] Drew:
+Yeah, Scythe was really a complicated game that was really popular there for a while.
+
+[00:10:32] Drew:
+I think some people still like it.
+
+[00:10:33] Kristin:
+Probably.
+
+[00:10:35] Drew:
+Um
+
+[00:10:37] Drew:
+So, let's see, so Adventure Mode.
+
+[00:10:40] Kristin:
+Yeah, so the day that Adventure Mode came out
+
+[00:10:44] Kristin:
+Uh, Rurik said something in our Discord that a lot of people were very excited and a lot of people were going to be very disappointed, and
+
+[00:10:51] Kristin:
+It kind of made me stop and think, like, wow, this is, like, a true...
+
+[00:10:55] Kristin:
+True beta, not the beta that we are kind of used to at this stage with early access games.
+
+[00:11:01] Kristin:
+In that they are testing things and finding bugs and fixing them, and it is unfinished.
+
+[00:11:06] Drew:
+Right, and you volunteer for that by going on to the Beta Branch.
+
+[00:11:11] Kristin:
+Yeah, you opt into this. Yeah. And
+
+[00:11:14] Kristin:
+It does seem like there has been some salt and some disappointment.
+
+[00:11:19] Drew:
+Yeah, it's been kind of, well, I don't know. I mean, as always with the community, it depends on what you expect to get out of Dwarf Fortress. You know, we had that one post on the Dwarf Fortress 
+
+[00:11:33] Kristin:
+It's a subreddit.
+
+[00:11:34] Drew:
+Yeah, the Dwarf Fortress subreddit by a user, we'll link to the undeleted comment because the moderators removed it.
+
+[00:11:43] Kristin:
+Yeah. Some of what we have seen probably has vanished from the internet without extra effort.
+[interjection] Drew: Which is fair.
+
+[00:11:55] Kristin:
+It might just be gone forever now.
+
+[00:11:57] Drew:
+At any rate, but yeah, there were some interesting comments in there because that person was saying that, you know...
+
+[00:12:06] Drew:
+There are so many bugs and so much unfinished in Dwarf Fortress, like, how could anyone sell it for money, and it's a, you know...
+
+[00:12:13] Drew:
+And it just seems like a cash grab, they said.
+
+[00:12:16] Drew:
+Which I found to be...
+
+[00:12:18] Drew:
+Really kind of funny, and for the reason someone else said later on, which was like, "You've never met or seen an interview with the creators, have you?"
+
+[00:12:26] Kristin:
+Like you clearly know nothing about the background of this game.
+
+[00:12:30] Drew:
+First off, they give it away for free.
+
+[00:12:32] Kristin:
+Yeah.
+
+[00:12:32] Drew:
+You're basically paying for the graphics.
+
+[00:12:35] Kristin:
+Right.
+
+[00:12:36] Drew:
+Um, which...
+
+[00:12:37] Drew:
+To be honest, I don't think they ever cared one way or the other about it, yeah, and you know, they just put the graphics in to make it really Steam-releasable and make some money off that because they're getting old and want to pay medical bills.
+
+[00:12:50] Kristin:
+That was shocking.
+
+[00:12:50] Drew:
+How dare—
+
+[00:12:51] Kristin:
+How dare they?
+
+[00:12:52] Drew:
+Um...
+
+[00:12:54] Drew:
+But I also get the distinct feeling that if they didn't have to pay medical bills, slash live in a capitalist society where if you don't have money...
+
+[00:13:01] Kristin:
+You can go die.
+
+[00:13:01] Drew:
+You can go die in a gutter.
+
+[00:13:03] Drew:
+They probably would just keep putting it out for free and being like,
+
+[00:13:06] Drew:
+"Throw your money in the hole, whatever you feel like. I don't care."
+
+[00:13:11] Drew:
+Which I love them for.
+
+[00:13:12] Kristin:
+Yeah, it's great. I wish that we could function in a society like that.
+
+[00:13:16] Drew:
+Right, where somebody's just, this is their 20-year-long passion project.
+
+[00:13:20] Kristin:
+This is your pet project and yeah.
+
+[00:13:22] Drew:
+Um...
+
+[00:13:23] Drew:
+Where all their creative energy goes and they've done an amazing job with it.
+
+[00:13:28] Kristin:
+Right.
+
+[00:13:30] Drew:
+And that got me kind of back onto my thinking.
+
+[00:13:34] Drew:
+You know, this is one of our favorite topics on the podcast.
+[interjection] Kristin: Us.
+[interjection] Drew: What is Dwarf Fortress?
+
+[00:13:39] Kristin:
+Yeah. Well, not to veer off from that quite yet, but there were people who were like, "I could fix this in, you know, a year or a couple of months. Why don't they fix it?" And it just is, these people know so, so little when they jump in and criticize. And one of them...
+
+[00:13:58] Kristin:
+A lot of the things they wanted fixed, people were like, "Uh, have you heard of DFHack?"
+
+[00:14:04] Kristin:
+And that just completely changed their outlook.
+
+[00:14:07] Drew:
+It was also really funny to me because they said, you know...
+
+[00:14:14] Drew:
+"I could fix this in a year." First off...
+
+[00:14:16] Drew:
+No, you couldn't.
+
+[00:14:17] Kristin:
+Mhm.
+
+[00:14:17] Drew:
+Second off, like, you know, I'm a developer.
+
+[00:14:21] Drew:
+Adding, adding extra...
+Throwing more bodies into a process does not make it go faster.
+
+[00:14:27] Kristin:
+Yeah, that is true.
+
+[00:14:28] Drew:
+And especially not something like this, like...
+
+[00:14:31] Drew:
+You know, they've brought on new people. They've brought on Putnam and others to do work.
+[interjection] Kristin: Mm-hmm.
+
+[00:14:37] Drew:
+And so they're trying, but it also just comes down to the fact that this is a passion project.
+
+[00:14:43] Kristin:
+And it's very old as well, and making changes to something that has existed and still uses old code is complicated.
+
+[00:14:53] Drew:
+And it's also kind of funny that you see those sorts of criticisms, and they want to go and donate, quote-unquote, their time.
+
+[00:14:59] Kristin:
+Oh yes, "I will generously donate my time."
+
+[00:15:02] Drew:
+Um, when...
+
+[00:15:04] Drew:
+You know, if you actually want to improve that or whatever, you...
+
+[00:15:08] Drew:
+Go and you make a project like DFHack...
+
+[00:15:11] Drew:
+Which Michael and the team have made.
+
+[00:15:12] Kristin:
+Yes.
+
+[00:15:13] Drew:
+Where...
+
+[00:15:14] Drew:
+It's a lot of work to be able to, you know, kind of come post-facto and figure out how to get all the, you know...
+
+[00:15:20] Drew:
+Memory alignments right and everything to be able to make changes as the game is running.
+
+[00:15:25] Drew:
+But...
+
+[00:15:26] Drew:
+It's not impossible.
+
+[00:15:27] Kristin:
+Mhm.
+
+[00:15:27] Drew:
+They did it; they made DFHack.
+[interjection] Kristin: They made...
+
+[00:15:31] Drew:
+It's good. It does fix a lot of things.
+[interjection] Kristin: It does.
+
+[00:15:40] Drew:
+A benign neglect attitude towards the hack, which is, I think they like it.
+[interjection] Kristin: Which is.
+[interjection] Drew: I think they've said they like it.
+
+[00:15:46] Kristin:
+Yeah?
+
+[00:15:46] Drew:
+And, but they're also like, but we don't officially reach out and bless it because we don't want to have to, you know, worry about if we change something if it breaks...
+
+[00:15:55] Kristin:
+Yeah.
+
+[00:15:56] Drew:
+DFHack.
+
+[00:15:58] Kristin:
+Yeah, I mean, and I'm at a stage where if a friend of ours has it, he has it, and he periodically looks into it and then is like, nope, this is too complicated. Or I'm like, you should try it with DFHack and see if it helps.
+
+[00:16:11] Drew:
+Absolutely, yeah.
+
+[00:16:11] Kristin:
+Yeah, because I think it would.
+
+[00:16:13] Drew:
+It really does streamline a lot of things and just saves a lot of effort.
+
+[00:16:17] Kristin:
+But back to adventure mode, I...
+
+[00:16:19] Kristin:
+Hearing there, there seem to be like two ends of the spectrum for what people who aren't having crashes are just on Reddit complaining about it.
+
+[00:16:27] Kristin:
+They're either, "I walked around for...
+
+[00:16:30] Kristin:
+Three hours and didn't find anything to do," and "I somehow accidentally took over a town and now I'm the king, and I don't know how this happened."
+[interjection] Drew: And I don't know what to do.
+
+[00:16:40] Kristin:
+Yeah.
+
+[00:16:40] Drew:
+Yeah, that's adventure mode for you.
+
+[00:16:43] Drew:
+I remember back in the ASCII days when I would play Adventure Mode because...
+[interjection] Kristin: I will.
+
+[00:16:48] Drew:
+Especially when I first started, I didn't really understand how to get to the different levels of the map.
+
+[00:16:52] Kristin:
+Mmm.
+
+[00:16:53] Drew:
+So I didn't really know how to fast travel, and I would just wind up in these areas with nothing going on.
+
+[00:16:59] Kristin:
+I'm thinking these people probably don't know how to fast travel.
+
+[00:17:02] Drew:
+Right, I think that's the trick. You have to go out one level of the map, and then you can move around in a fast travel mode, which I think makes more sense...
+
+[00:17:10] Drew:
+When you understand the graphics.
+When the graphics are more understandable, I should say.
+
+[00:17:15] Drew:
+And so then you can go until you find something. But I also feel like with this adventure mode version,
+
+[00:17:23] Drew:
+I really do think the brothers have upped the amount of adventures/problems going.
+[interjection] Kristin: I could be wrong.
+[interjection] Drew: It may just be that now it's easier to find them.
+
+[00:17:33] Kristin:
+Yeah.
+
+[00:17:34] Drew:
+But when
+
+[00:17:35] Drew:
+every time we've started up an adventure mode,
+
+[00:17:37] Kristin:
+Mm-hmm.
+
+[00:17:38] Drew:
+playthrough,
+
+[00:17:39] Drew:
+we've found somebody to talk to within a couple, you know, one or two minutes.
+
+[00:17:43] Kristin:
+Yeah, like outside the starting city, yeah.
+
+[00:17:46] Drew:
+And they've all had at least one problem that they would like us to go solve.
+
+[00:17:50] Kristin:
+Or one rumor that you can go and follow up on.
+
+[00:17:53] Kristin:
+Um, in your first run that lasted seven minutes that we mentioned earlier, how did you—oh, it was the elves hanging from trees that gave you something to go and look for, right?
+
+[00:18:06] Drew:
+Yeah, that's right. The elves hanging from trees told my crab man, because I made a crab man for the first run.
+[interjection] Kristin: I made her
+
+[00:18:12] Kristin:
+Yeah.
+
+[00:18:13] Drew:
+To go find an ettin that had been killing the elves.
+
+[00:18:19] Drew:
+And so I did. I went and...
+[00:18:21] Drew:
+you know, talked to them, got directions, talked to some other people, did some fast travel, wound up finding a little cave area.
+
+[00:18:28] Drew:
+Mm-hmm.
+
+[00:18:28] Drew:
+Which initially I couldn't figure out how to get into, but when you go down enough levels, eventually you find the right place.
+
+[00:18:34] Drew:
+Went in, found the ettin.
+
+[00:18:36] Drew:
+Tried to attack him and got stomped.
+
+[00:18:39] Kristin:
+Yeah, you got super killed. I mean, I have to imagine maybe a crab man is a little
+[interjection] Drew: I mean.
+[interjection] Kristin: bit more breakable than a dwarf, but I don't know that for sure.
+
+[00:18:47] Kristin:
+You
+
+[00:18:49] Drew:
+So.
+
+[00:18:50] Drew:
+I'm actually really happy with it. Yeah.
+
+[00:18:52] Kristin:
+Yeah, I did have a lot of fun with our mini-adventure the other day.
+
+[00:18:57] Drew:
+Yeah, I don't think, um, I don't think...
+
+[00:18:59] Drew:
+Any...
+
+[00:19:01] Drew:
+Okay, crashing the computer, that's not great.
+
+[00:19:04] Kristin:
+No, that's not ideal.
+
+[00:19:05] Drew:
+But also, they've been trying to add in multi-threading, and that's just going to cause crashes. From a programmer's point of view, it's
+[interjection] Kristin: I'm a pro.
+[interjection] Drew: hard to get that right, especially when you didn't build from the ground up with it. So that's just life. Since the update two days ago, I think,
+[interjection] Kristin: I think.
+[interjection] Drew: as of when we're recording this.
+
+[00:19:23] Drew:
+I feel like those have stopped. I've seen fewer reports and I haven't had one myself since then.
+[interjection] Kristin: Heaven.
+[interjection] Kristin: That's that. Yeah.
+
+[00:19:29] Drew:
+Um, yeah, it might be, it might be worth, uh.
+
+[00:19:33] Drew:
+Checking out if you like being on beta branches.
+
+[00:19:37] Drew:
+Oh.
+
+[00:19:37] Kristin:
+I'm going to let it cook a little longer before I jump in, and maybe this fall I'll start doing some adventuring. Do you think that having a solid understanding of fortress mode helps?
+
+[00:19:49] Drew:
+A little bit, but they are pretty different. Yeah, it's a different skill set, I really think, because you have to
+
+[00:19:55] Drew:
+Think of things.
+
+[00:19:57] Drew:
+You have to think about the wider map a lot more than you do with the... Oh yeah, I could see that.
+
+[00:20:01] Drew:
+with Fortress mode. 
+
+[00:20:02] Kristin:
+Yeah.
+
+[00:20:03] Drew:
+Fortress mode, with the addition of the linked settlements, has
+
+[00:20:07] Drew:
+kind of made you have to think about that a little bit more, but definitely with adventure mode, you're spending a lot more time just trying to understand the world that you're in.
+
+[00:20:16] Kristin:
+Very cool.
+
+[00:20:17] Drew:
+Um...
+
+[00:20:18] Drew:
+So, should we go back to what is Dwarf Fortress? Sure.
+
+[00:20:21] Drew:
+That's my...
+
+[00:20:22] Drew:
+um
+
+[00:20:23] Drew:
+So yeah, so what is Dwarf Fortress?
+
+[00:20:26] Drew:
+You know, we've talked before about whether or not it's a game or...
+
+[00:20:30] Drew:
+A toy.
+
+[00:20:30] Kristin:
+a toy.
+
+[00:20:30] Drew:
+a toy, an ant farm.
+
+[00:20:32] Kristin:
+Mm-hmm.
+
+[00:20:32] Drew:
+And I was thinking about this more
+
+[00:20:37] Drew:
+Because I felt like a lot of the Reddit posts that were complaining about things were a little bit entitled.
+
+[00:20:42] Kristin:
+Yeah, there was a lot of entitlement. Some of it was kind of ugly. Yeah.
+
+[00:20:46] Drew:
+Yeah, and I don't think that's in any way, shape, or form the majority, or even a large portion.
+
+[00:20:51] Kristin:
+No, no, no, it's just a very loud minority.
+
+[00:20:53] Drew:
+Yeah.
+
+[00:20:56] Drew:
+And I think what I've come to the conclusion is that.
+
+[00:21:00] Drew:
+It's not just that Dwarf Fortress is an art project, right, you know, a toy, an art project,
+[interjection] Kristin: Right.
+[interjection] Drew: but it's actually the entire process of the creation of Dwarf Fortress, like, is the project.
+[interjection] Kristin: is the
+
+[00:21:13] Drew:
+So the fact that it's been 20 years, the fact that they, you know, have been giving it away for free, the fact that they, you know, are developing
+
+[00:21:22] Drew:
+Parts of it without even worrying about things that a commercial, like a real commercial studio game, would care about
+[interjection] Kristin: a real
+
+[00:21:30] Drew:
+And being successful, I feel like that is all.
+
+[00:21:33] Drew:
+Kind of like a 20-year-long happening.
+
+[00:21:36] Kristin:
+It is, kind of, yeah.
+
+[00:21:38] Drew:
+Um...
+
+[00:21:38] Kristin:
+I'm so sorry.
+
+[00:21:39] Drew:
+I guess I should define a happening, but it was a thing, it was a thing kind of in the 70s, which is sort of like an experiential art piece, yeah, like a flash mob, yeah, exactly, a flash mob, yeah.
+
+[00:21:46] Kristin:
+Yeah, like a flash mob. Yeah, exactly, a flash mob. Yeah, it's a small-scale happening, I would say.
+
+[00:21:52] Drew:
+Yeah.
+
+[00:21:53] Drew:
+Where, you know, you might walk into an art exhibit and they dump spaghetti on your head.
+[interjection] Kristin: Bleh.
+
+[00:21:58] Drew:
+So,
+
+[00:21:59] Kristin:
+Very apt.
+
+[00:22:00] Drew:
+On the other hand, you know, it shocks you out of your thinking.
+
+[00:22:03] Kristin:
+It's true.
+
+[00:22:04] Drew:
+The first time, after which you're just getting spaghetti dumped on your head for no reason.
+
+[00:22:08] Drew:
+But...
+
+[00:22:09] Drew:
+And a little bit, that's what Dwarf Fortress is. Dumping spaghetti on your head.
+[interjection] Kristin: Yes.
+
+[00:22:14] Drew:
+You know, it's an artifact from a future I kind of wish we'd had, or an alternate history I wish we'd had.
+[interjection] Kristin: we've had or an alternate.
+
+[00:22:22] Kristin:
+Yeah, that's fair.
+
+[00:22:24] Drew:
+Yeah, so that's just my little thought there. I don't know if you had any.
+
+[00:22:29] Kristin:
+I don't know if I have anything to add there, but I do agree that the process of Dwarf Fortress
+[interjection] Drew: Yeah.
+[interjection] Kristin: It's kind of the product.
+
+[interjection] Kristin: Uh-huh.
+
+[00:22:43] Drew:
+When we were talking about that, and you know, people were saying things like, "It's buggy, it's got this whole list of bugs that need to get fixed," and all that, I'm like...
+
+[00:22:52] Drew:
+Well, bugs should get fixed so you can play the game, and it doesn't crash your computer or overwrite your hard drive or whatever.
+
+[00:22:59] Drew:
+Um.
+
+[00:23:00] Drew:
+It doesn't.
+
+[00:23:00] Kristin:
+No.
+
+[00:23:01] Drew:
+Bye.
+
+[00:23:04] Drew:
+What? What would be?
+
+[00:23:06] Drew:
+Done with Dwarf Fortress.
+
+[00:23:08] Kristin:
+Yeah.
+
+[00:23:08] Drew:
+What is the goal at which
+
+[00:23:10] Drew:
+You know, Tarn and Zach
+
+[00:23:12] Drew:
+Wrap it up with a bow and say, "Alright,
+
+[00:23:14] Drew:
+Let's start working on Dwarf Fortress 2."
+
+[00:23:16] Kristin:
+I mean, in a way, I would be really sad.
+
+[00:23:19] Kristin:
+Um, and yeah, I don't want Dwarf Fortress 2. I'm willing to just grow with Dwarf Fortress, but at the same time, all of these different versions are...
+
+[00:23:30] Kristin:
+Kind of like Dwarf Fortress 1, 2.
+
+[00:23:32] Drew:
+I mean, that's definitely fair because, again, when you look back at the...
+
+[00:23:36] Drew:
+First version of Dwarf Fortress that I went back and played for the Christmas break,
+
+[00:23:40] Kristin:
+Yeah.
+
+[00:23:41] Drew:
+Um, it's, uh...
+
+[00:23:43] Drew:
+Here.
+
+[00:23:44] Drew:
+One level, and you're digging into the side of a mountain, and that's it.
+[interjection] Kristin: Right.
+
+[00:23:49] Drew:
+Um...
+
+[00:23:50] Drew:
+And now we're multi-level and exploring the world. It's a part of it. It's great.
+
+[00:23:56] Kristin:
+It's grown a lot.
+
+[00:23:57] Drew:
+I think, and I think that growth is the game.
+
+[00:24:00] Kristin:
+Yeah.
+
+[00:24:01] Kristin:
+Oh yeah.
+
+[00:24:02] Drew:
+And I don't think, I don't really think that there is a "done" for Dwarf Fortress, I think.
+
+[00:24:07] Drew:
+I think Tarn will be working on it
+
+[00:24:10] Drew:
+Till he keels over.
+
+[00:24:13] Drew:
+And that's really great in my view, right? Like, it's something that they're passionate about.
+
+[00:24:18] Drew:
+They enjoy making it, and they're just going to keep building.
+
+[00:24:22] Drew:
+So.
+
+[00:24:23] Kristin:
+It's...
+
+[00:24:24] Kristin:
+It's almost like a little myth of this passion project that they're able to now make a living off of and pursue and be successful with, through sheer commitment to it, I think.
+
+[00:24:35] Drew:
+Yeah, commitment to the bit.
+
+[00:24:37] Kristin:
+Yeah.
+
+[00:24:38] Drew:
+Um...
+
+[00:24:39] Drew:
+And I think, you know, when you hear interviews with them, it seems like there were a lot of points where it would have been easier to just go do a normal
+
+[00:24:47] Drew:
+Path, but...
+
+[00:24:48] Drew:
+They've stuck with it, and...
+
+[00:24:50] Drew:
+They've built
+
+[00:24:52] Drew:
+Whatever this is, and
+
+[00:24:54] Drew:
+It's got a huge community, and it's been around for 20 years, and it's going to be around for a long time still, so.
+
+[00:25:01] Kristin:
+Would you say the true adventure was the friends we made along the way?
+
+[00:25:06] Drew:
+Yes.
+
+[00:25:07] Drew:
+Yes, I would.
+
+[00:25:09] Drew:
+So.
+
+[00:25:10] Kristin:
+Well, this is maybe going to be a little bit of a long episode because I'm going to trim the live play
+
+[00:25:15] Kristin:
+Here and there, but I
+
+[00:25:17] Kristin:
+I think that our listeners will be amused hearing us react to stuff.
+
+[00:25:20] Drew:
+Yeah.
+
+[00:25:21] Drew:
+So yeah.
+
+[00:25:22] Drew:
+All right, well, we can wrap it up there. Should we do our outro, or are you just going to copy and paste from our previous one?
+[00:25:27] Kristin:
+No, we can do our outro. I'll allow it.
+
+[00:25:29] Drew:
+Alright, let's do our outro.
+
+[00:25:32] Kristin:
+I don't know how. You can find us on our website at estrangemoodpodcast.com. You can email us at estrangemoodpodcast@gmail.com. And we are on YouTube sometimes as Estrange Mood. I think that's it. And join our Discord.
+[interjection] Drew: And join us.
+
+[00:25:51] Drew:
+Join our Discord; a link will be in the show notes.
+
+[00:25:53] Kristin:
+Yes, non-brokenly.
+
+[00:25:55] Drew:
+All right, and with that, enjoy this little rendition of an adventure.
+
+[00:26:00] Kristin:
+Yes! Just...
+
+[00:26:02] Drew:
+Keep digging!
+
+[00:26:03] Kristin:
+Digging! It wasn't awkward at all.
+
+[00:26:07] Kristin:
+Alright, well.
+
+[00:26:09] Drew:
+Yes, so, why did you decide to volunteer me to work through the...
+
+[00:26:15] Kristin:
+Adventure mode, creation, setup, all of it.
+
+[00:26:19] Drew:
+Meh.
+
+[00:26:19] Kristin:
+Well, partly because there were a lot of people who booted this up and were like, "Wow, I am extremely overwhelmed."
+
+[00:26:26] Kristin:
+And also partly because I haven't done it.
+
+[00:26:29] Drew:
+Yeah, also it's in the beta channel, so you'd have to swap over to the beta, and you don't
+[interjection] Kristin: Just swap over to the beta.
+[interjection] Drew: Like doing that. And a lot of people have been saying it's crashing.
+
+[00:26:36] Kristin:
+Yeah, the crashes kind of turned me off, and then also, like many, I did not realize just how beta it is, in that there are large swaths of missing features.
+
+[00:26:47] Kristin:
+So I just am not going to get into that.
+
+[00:26:49] Drew:
+Yep.
+
+[00:26:49] Kristin:
+Right now.
+
+[00:26:50] Drew:
+But we will talk through because I figure some of our listeners are probably not familiar with flipping over to the beta version.
+
+[00:26:58] Kristin:
+No. Yeah.
+
+[00:26:59] Drew:
+So we can describe what we're seeing.
+
+[00:27:01] Kristin:
+Yeah, so we are about to start character creation, but Drew is about to choose, I think, his difficulty level.
+
+[00:27:11] Drew:
+That's right, so we've got easy, normal, and hard difficulty.
+
+[00:27:14] Kristin:
+Mm-hmm.
+
+[00:27:15] Drew:
+And then also we have ordinary mode, hero mode, and chosen mode. Now chosen mode is not actually selectable currently.
+
+[00:27:26] Drew:
+That is, I believe, going to come out with a part of the myth and magic stuff that they keep talking about.
+[00:27:31] Kristin:
+They keep talking about.
+
+[00:27:32] Drew:
+Where you can be like chosen by the gods.
+
+[00:27:35] Kristin:
+I have to admit that I feel like myth and magic might actually be a myth.
+
+[00:27:39] Kristin:
+But we'll see. Maybe that'll happen someday.
+
+[00:27:42] Drew:
+It's coming along.
+
+[00:27:42] Kristin:
+Yeah.
+
+[00:27:43] Drew:
+So we're going to go with hero mode. For an adventure, there will be some initial and ongoing direction. Sounds good.
+
+[00:27:49] Drew:
+And we'll do easy difficulty because it's very easy to die.
+
+[00:27:54] Kristin:
+We will admit that Drew has made one, and I think he died in seven minutes.
+
+[00:27:59] Drew:
+Yes.
+
+[00:27:59] Kristin:
+Seven minutes. So, alright, create your character. We are going to choose your race.
+
+[00:28:04] Kristin:
+Grasshopper man.
+
+[00:28:08] Kristin:
+I thought he was kind of flimsy though, right?
+
+[00:28:11] Drew:
+One would think.
+
+[00:28:12] Kristin:
+It's cute though.
+
+[00:28:13] Drew:
+Let's see, so let's see what other intelligent wilderness creatures we can have.
+
+[00:28:17] Kristin:
+Oh, it's fun to see all of the, uh...
+
+[00:28:20] Kristin:
+Various men, men's.
+
+[00:28:22] Drew:
+Yeah, so when you're-
+
+[00:28:22] Kristin:
+Bush tit man. Sorry.
+When you're creating your character, you can choose among different races: cassowary man, chameleon man, armadillo man. 
+[interjection] Kristin: Armadillo, man.
+
+[00:28:33] Drew:
+Can I just be Bear Man? 
+
+[00:28:34] Kristin:
+You could be a generic seabird man. 
+
+[00:28:37] Kristin:
+Water bird, I mean. 
+
+[00:28:39] Drew:
+Well, which one would that be? 
+
+[00:28:40] Kristin:
+I don't know. I was just, I saw the kiwi man and I was laughing about it. I don't know. Should you be a dwarf for these purposes? 
+
+[00:28:47] Drew:
+Probably so. It's probably the- Is that a swan man? The swan man's cute too. Yes, yes it is. 
+
+[00:28:48] Kristin:
+Is it a swan man? We're men. 
+
+[00:28:53] Drew:
+They have really great little icons. Yeah, they really do. They each have a whole lot of character. Puffin man. Rattlesnake man. All right, can I back up? 
+[interjection] Kristin: Puffin man.
+
+[00:29:03] Kristin:
+Try right-clicking. Isn't that backing up into our fortress? Oh, nothing's happening. 
+[interjection] Drew: Oh.
+
+[00:29:08] Drew:
+Well, I don't have a mouse. Do you want to lend me yours? 
+
+[00:29:12] Drew:
+I guess. OK. Maybe, well, let's try escape. Sometimes escape does it. Oh, escape. 
+
+[00:29:17] Kristin:
+Oh, it's good. Okay, it worked. 
+
+[00:29:18] Drew:
+OK, so now I'm back. 
+
+[00:29:21] Drew:
+They're really pushing the Cougar man, but I'm gonna go with Dwarf. 
+
+[00:29:25] Kristin:
+Cougar man is cute, but I think it's good to be a dwarf. 
+
+[00:29:28] Drew:
+Alright, so which nation should I be a part of in this new world I've created? 
+
+[00:29:34] Drew:
+We've got the nations of plague, the Teal Realms, the Branded Abbey, the Sweltering Boot, which is pretty funny. Yeah. 
+
+[00:29:41] Drew:
+The Vault of Mystery, that's maybe a little too on the nose, Influential Cloisters, and Fortification of... 
+[interjection] Kristin: That's what I'm talking about.
+
+[00:29:48] Kristin:
+Of Z... Dot, dot, dot. 
+
+[00:29:50] Drew:
+Something else. 
+
+[00:29:52] Kristin:
+Can you see anything about these civilizations? Do you know, like, are they elf, dwarf? 
+
+[00:29:56] Drew:
+I assume they're dwarf. 
+
+[00:29:59] Drew:
+But, uh... 
+
+[00:30:00] Drew:
+I think maybe if I select them we'll see. Let's go with... 
+
+[00:30:03] Drew:
+I'm gonna try the Sweltering Boot. 
+
+[00:30:05] Kristin:
+We like the Sweltering Boot, yes. 
+
+[00:30:09] Drew:
+OK, so. 
+
+[00:30:11] Drew:
+Let's see. 
+
+[00:30:13] Drew:
+Currently, I am a weaponsmith in Steelwitz, a dwarven hillock, and you have never strayed far from home. You are an ardent worshipper of Dorden the Turquoise, the god of creation and metal goods. 
+
+[00:30:23] Kristin:
+Hmm, that seems very dwarf-y. 
+
+[00:30:25] Kristin:
+All right. 
+
+[00:30:26] Drew:
+We've got a couple of other towns that we could be a part of, but I think we'll just go with the default, Steelwitz. 
+
+[00:30:32] Kristin:
+Steelwitz. All right, occupation. These are your basic dwarvish occupations, it looks like. 
+
+[00:30:38] Drew:
+Yep, all right, so we could stick with weaponsmith. 
+
+[00:30:43] Kristin:
+Smith, um, yeah, what's best for being an adventurer? 
+
+[00:30:47] Drew:
+Eh, Weaponsmith's probably not terrible. 
+
+[00:30:50] Drew:
+We got Ranger, maybe I should go with Ranger. 
+
+[00:30:52] Kristin:
+Maybe, yeah. 
+
+[00:30:54] Drew:
+All right, and then beliefs. 
+
+[00:30:55] Drew:
+Dorden the Turquoise 
+
+[00:30:57] Drew:
+God of creation and metals. Now I'm pretty happy with that. Yeah. 
+
+[00:31:02] Drew:
+Goddess of war and fortresses, God of death, the Debt Communion. 
+
+[00:31:06] Kristin:
+Ooh, I don't know about a goddess of death. 
+
+[00:31:09] Drew:
+You're an ardent worshipper of Gnar, the goddess of death, and you belong to the Dead Commune. 
+
+[00:31:13] Kristin:
+Hmm. 
+
+[00:31:14] Kristin:
+Goddess of volcanoes and mountains. Well, let's stick with Dora and the Turquoise.
+
+[00:31:18] Drew:
+Alright, Dora and the Turquoise.
+
+[00:31:20] Kristin:
+Creation in metals.
+
+[00:31:21] Drew:
+Alright, accept my...
+
+[00:31:24] Drew:
+Background. Okay.
+
+[00:31:26] Drew:
+Now we're on to skills. This is where it gets...
+
+[00:31:28] Kristin:
+Gets...
+
+[00:31:29] Drew:
+Wild.
+
+[00:31:30] Drew:
+Because you first have to assign attributes, of which there are 105 points to distribute.
+
+[00:31:35] Kristin:
+I don't know.
+
+[00:31:36] Drew:
+It follows, I believe, the...
+
+[00:31:39] Drew:
+Morrowind slash, um...
+
+[00:31:41] Drew:
+Elder Scrolls mechanism of...
+
+[00:31:46] Drew:
+Every time you upgrade a skill, it takes more points to upgrade it again.
+
+[00:31:49] Kristin:
+Okay.
+
+[00:31:51] Drew:
+So like, this takes five points.
+
+[00:31:54] Drew:
+So...
+
+[00:31:54] Kristin:
+He's adding strength.
+
+[00:31:56] Drew:
+Yes, I'm adding strength, so in going to three levels of high strength, that goes from 5 to 10 to 20, so I've spent a total of...
+
+[00:32:03] Kristin:
+20 of your...
+[interjection] Drew: 20.
+
+[00:32:05] Drew:
+No, I spent thirty-five.
+
+[00:32:07] Kristin:
+Oh, wow, okay.
+
+[00:32:08] Kristin:
+Oh, because you're paying each time.
+
+[00:32:10] Drew:
+Yeah.
+
+[00:32:11] Drew:
+And so then, let's see here. So we're just gonna try to make him a little bit survivable. So some agility so that we can dodge.
+
+[00:32:19] Drew:
+High toughness, high endurance.
+
+[00:32:22] Drew:
+Average recuperation is probably fine.
+
+[00:32:25] Kristin:
+He's not going to last long enough to be able to recuperate anyway.
+
+[00:32:28] Drew:
+Nope.
+
+[00:32:29] Drew:
+What you're trying to say.
+
+[00:32:31] Kristin:
+It's hard.
+
+[00:32:33] Drew:
+Okay, I mean, people...
+
+[00:32:34] Kristin:
+I mean, people's runs do seem to be either I died in five minutes or I wandered around for what felt like years and never found anything to do.
+
+[00:32:43] Drew:
+Alright, and then let's do focus because focus helps you in fights. Ah.
+
+[00:32:49] Drew:
+Alright, anything else I should put some points into?
+
+[00:32:52] Kristin:
+Hmm.
+
+[00:32:55] Drew:
+Alright, well we'll do that as a dump stat. I tossed High Analytic Ability as my dump stat.
+
+[00:33:01] Drew:
+Alright, and now we have to assign skills.
+
+[00:33:05] Drew:
+And we are going to be a...
+
+[00:33:09] Drew:
+Adept Marks Dwarf. Okay.
+
+[00:33:11] Drew:
+Remember you have a hundred and how many is it?
+
+[00:33:14] Drew:
+How many did we say? 161 skill points.
+
+[00:33:19] Kristin:
+Mm-hmm.
+
+[00:33:20] Drew:
+But, uh...
+
+[00:33:21] Drew:
+You know...
+
+[00:33:21] Drew:
+That's actually only enough to get you to legendary in one skill if you want it.
+
+[00:33:27] Kristin:
+Wow. So, and this includes things like ambusher, rider, shield user, swimmer.
+
+[00:33:33] Drew:
+Yeah, just all of your kind of combat skills.
+
+[00:33:35] Kristin:
+Scroll all the way down to the bottom. I want to see what all is in here, because there's so many. Not a thrower, not a singer, not a pacifier, not a blacksmith, not... Okay, so that includes some profession type things. You're not a suturer.
+
+[00:33:50] Drew:
+Suturer.
+
+[00:33:51] Kristin:
+Suturer.
+
+[00:33:52] Drew:
+Not a liar.
+
+[00:33:54] Drew:
+Alright, so we're going to go with, should we do Proficient Mace Dwarf or Proficient Hammer Dwarf?
+
+[00:34:00] Drew:
+In Hammer Dwarf.
+
+[00:34:02] Drew:
+That's more adorable.
+
+[00:34:02] Kristin:
+Sounds good.
+
+[00:34:04] Kristin:
+You are already a competent ambusher. Is that because you were a ranger?
+
+[00:34:08] Drew:
+I believe so. I believe I got that for...
+
+[00:34:11] Drew:
+I should probably find Wrestler, but I'm going to move on with life.
+[00:34:13] Drew:
+Here's our appearance. Fully randomize appearance without respecting population information. Respecting local population.
+
+[00:34:20] Kristin:
+Let's respect local populations.
+
+[00:34:22] Drew:
+All right.
+
+[00:34:22] Kristin:
+That's where you get violet eyes and things.
+
+[00:34:25] Drew:
+Yeah, I think that, I mean, this really shows that that is the case.
+
+[00:34:28] Kristin:
+Yeah.
+
+[00:34:29] Drew:
+There are some attributes for a given civilization that...
+
+[00:34:32] Kristin:
+You are right.
+
+[00:34:33] Kristin:
+But blushes
+
+[00:34:35] Drew:
+What? What's?
+
+[00:34:37] Drew:
+Plus blushes.
+
+[00:34:39] Drew:
+Um, broad-shouldered, muscular, long beard is braided, sideburns are clean-shaven, his very long mustache is neatly combed, his long hair is neatly combed.
+
+[00:34:47] Drew:
+His teeth are tangled.
+
+[00:34:49] Kristin:
+Huh.
+
+[00:34:49] Drew:
+I don't know what tangled teeth means.
+
+[00:34:51] Kristin:
+Yeah.
+
+[00:34:51] Drew:
+Snaggletooth, maybe. Low, clear voice. His nose is hooked. I'm pretty happy with it.
+
+[00:34:57] Kristin:
+Bronze eyes.
+
+[00:34:58] Drew:
+Auburn.
+
+[00:34:58] Kristin:
+Auburn hair and dark peach skin.
+
+[00:35:02] Kristin:
+All right.
+
+[00:35:03] Drew:
+We'll go with that.
+
+[00:35:04] Drew:
+Oh!
+
+[00:35:05] Drew:
+That is a whole lot of personality. Curious.
+
+[00:35:07] Kristin:
+You are somewhat scatterbrained. He's friendly.
+
+[00:35:09] Drew:
+All right, so I'm randomizing the personality. That's our next option here.
+[interjection] Kristin: Good luck.
+
+[00:35:13] Drew:
+And just kind of looking for something that looks fun. So, strong need to craft an object. He's probably going to have to survive without for a while.
+
+[00:35:22] Drew:
+Um, okay, so craft an object is just going to stay as a
+
+[00:35:25] Drew:
+Strong need.
+
+[00:35:26] Kristin:
+Well, you are a dwarf, I guess.
+
+[00:35:28] Drew:
+Alright, mastering a skill. So you can change your dream, and then full customization is not available.
+
+[00:35:35] Kristin:
+It's coming soon.
+
+[00:35:36] Kristin:
+Someday, I think is what that means.
+
+[00:35:38] Drew:
+All right, next up is our equipment.
+
+[00:35:41] Kristin:
+And in equipment and pet points, we have 1,255 points.
+
+[00:35:48] Drew:
+Which sounds like a lot, but an elephant is, I believe, 500 points, so...
+
+[00:35:53] Kristin:
+Well, that's if you want an elephant.
+
+[00:35:55] Drew:
+All right, so.
+
+[00:35:55] Kristin:
+So a small wolverine leather dress, however, is 10.
+
+[00:35:59] Drew:
+Alright, I'm going to upgrade my Copper Warhammer from, I think, good to super good.
+
+[00:36:06] Kristin:
+Ah, I see how that's happening.
+
+[00:36:09] Drew:
+And then you can also add multiple of the items, so we might as well have a backup.
+
+[00:36:13] Kristin:
+Two Warhammers, sure.
+
+[00:36:15] Drew:
+Hey, you've got to dual-wield if you're going to dual-wield.
+
+[00:36:18] Drew:
+Uh, let's grab some armor real quick, so... Probably wise.
+
+[00:36:23] Drew:
+Where's our armor? Let's see... Leather?
+
+[00:36:28] Drew:
+Come on, you. Bodywear?
+
+[00:36:30] Kristin:
+Footwear, bodywear.
+
+[00:36:31] Kristin:
+Yep, there you go. It's under bodywear.
+
+[00:36:33] Drew:
+All right, well, we'll do a nice piece anyway.
+
+[00:36:34] Kristin:
+You are nice.
+
+[00:36:36] Drew:
+Bronze mail shirt. I think you can use that without too much training.
+
+[00:36:41] Drew:
+And we'll upgrade that to super cool.
+
+[00:36:45] Drew:
+Oh!
+
+[00:36:47] Drew:
+Take a couple of punches and I guess we can grab.
+
+[00:36:49] Drew:
+Oh, apparently I'm carrying prepared large rat intestines. Tasty.
+
+[00:36:56] Kristin:
+You're going to carry so many of them, gross.
+Once again, the UI here is a little bit challenging, but I think if you guys play with it, you'll probably have fun.
+
+[00:37:05] Kristin:
+Mm-hmm, you can figure it out.
+
+[00:37:07] Drew:
+Alright, headwear. I guess we'll do an Iron Helm.
+
+[00:37:11] Drew:
+Iron cap.
+
+[00:37:12] Drew:
+Um, and.
+
+[00:37:14] Drew:
+Handwear, steel gauntlets.
+
+[00:37:17] Kristin:
+Whoa, steel gauntlets are pricey, 150 points.
+
+[00:37:19] Drew:
+Yeah.
+
+[00:37:20] Drew:
+Legwear, shield, all right, let's grab a...
+
+[00:37:24] Drew:
+bronze buckler
+
+[00:37:26] Kristin:
+So does this have any like weight limits or is it just the points that kind of account for the weight?
+
+[00:37:32] Drew:
+I think the points account for the weight. I'm honestly not very sure.
+
+[00:37:36] Kristin:
+Just occurred to me
+[interjection] Drew: That's a good question.
+
+[00:37:38] Drew:
+Mounts and
+
+[00:37:40] Drew:
+Okay, so we'll accept the equipment.
+
+[00:37:42] Kristin:
+Okay.
+
+[00:37:43] Drew:
+And then, what do I want as a pet to come along with me?
+
+[00:37:47] Kristin:
+Hmm, do you want a cute pet or a murder pet?
+
+[00:37:51] Drew:
+I think we'll do a murder pet.
+
+[00:37:53] Kristin:
+So that's a good choice.
+
+[00:37:54] Drew:
+Yeah, so we'll do a war dog.
+
+[00:37:55] Kristin:
+Good plan.
+
+[00:37:57] Kristin:
+31.
+
+[00:37:58] Drew:
+All right, so we'll have two war dogs with us. I'm not entirely sure how to select a mount.
+
+[00:38:04] Drew:
+I think we should do a mule.
+
+[00:38:05] Kristin:
+Maybe.
+
+[00:38:06] Drew:
+Mules are frequently mounts.
+
+[00:38:09] Kristin:
+That does sound right. You still have quite a few points left.
+
+[00:38:12] Drew:
+All right, so now we can add a party member.
+
+[00:38:14] Kristin:
+Oh, all right, let's see what that looks like.
+
+[00:38:16] Kristin:
+Do they get their own points?
+
+[00:38:18] Drew:
+That's what I'm curious about, so we can do another dwarf.
+
+[00:38:22] Kristin:
+Armadillo, man.
+
+[00:38:23] Drew:
+All right, and it's going to come from the Sweltering Boot as well.
+
+[00:38:26] Kristin:
+Hmm?
+
+[00:38:26] Drew:
+Alright, we're just going to accept the background because it's just a new rando.
+
+[00:38:30] Kristin:
+Yep.
+
+[00:38:30] Drew:
+Okay, so we do have to go through and assign skills.
+
+[00:38:33] Kristin:
+Oh, okay, well, we won't narrate through some of this and if...
+
+[00:38:38] Kristin:
+time changes, it's because I edited some of this out.
+
+[00:38:41] Drew:
+Yeah. Alright.
+
+[00:38:43] Kristin:
+I like that in his little portrait now, he's got a braided beard and...
+
+[00:38:47] Kristin:
+Whereas your new little follower is naked.
+
+[00:38:49] Drew:
+Uh-huh, alright, we're gonna accept the personality. I guess they all start with a strong need to craft an object.
+
+[00:38:56] Kristin:
+Huh. Well, I guess if they felt like they were,
+
+[00:38:59] Kristin:
+having their needs met and crafting things that were being valued, they wouldn't want to go adventuring.
+
+[00:39:04] Kristin:
+So this is an explanation for yourself
+[interjection] Drew: So, this is...
+
+[00:39:06] Drew:
+So this is a good note that in fact when you add additional party members they do indeed
+[interjection] Kristin: do.
+[interjection] Drew: have their own equipment and pet points and attribute points and all those sorts of things.
+
+[00:39:16] Kristin:
+So you don't have to.
+
+[00:39:17] Kristin:
+Share those among your characters. Good to know.
+
+[00:39:19] Drew:
+But apparently with this new person I've added, we have prepared.
+
+[00:39:24] Drew:
+Goat intestines for him, so there may be some.
+
+[00:39:28] Kristin:
+Perhaps a class difference between you and your follower.
+
+[00:39:31] Drew:
+Yes, goat versus rat.
+
+[00:39:34] Drew:
+Alright, um, well, let's give him a super cool battle axe.
+[00:39:38] Kristin:
+What on earth? He's got small or small floating guts leather gloves. What are floating guts?
+
+[00:39:44] Drew:
+I have absolutely no idea. You should take a picture of that, and we'll look it up.
+
+[00:39:47] Kristin:
+Yeah, I can start looking it up as well while we're doing this.
+
+[00:39:50] Drew:
+All right, so this guy's kind of a berserker, I think. So we'll just do that, and then...
+
+[00:39:56] Drew:
+You're going to bring along...
+
+[00:39:58] Drew:
+an elephant.
+
+[00:39:59] Kristin:
+Wow.
+
+[00:40:00] Kristin:
+Big spender.
+
+[00:40:01] Drew:
+Yeah, well, I'm a little tired of building them out.
+
+[00:40:04] Kristin:
+Yeah, I think that this is like its own game. So Floating Guts, it's a transparent and amorphous monster that lives underground. It is small in size and found crawling across the cavern floor.
+
+[00:40:14] Kristin:
+Its organs appear to be floating inside of its body.
+
+[00:40:17] Drew:
+Weird, all right.
+
+[00:40:19] Kristin:
+They have no attacks except for the default push. It can be trained as exotic pets with an animal trainer having a value of 10.
+
+[00:40:26] Drew:
+Huh?
+
+[00:40:27] Kristin:
+There you go.
+
+[00:40:28] Drew:
+All right, well, it looks like this...
+
+[00:40:32] Drew:
+culture does not have
+
+[00:40:35] Drew:
+particularly
+
+[00:40:36] Drew:
+elephants or other things, so we're just gonna go with some war dogs again.
+
+[00:40:42] Drew:
+Alright, and apparently, I didn't realize we didn't have drinks, so we'll...
+
+[00:40:45] Kristin:
+Oh, whoops. Can you still edit?
+
+[00:40:47] Drew:
+Yeah, we'll go back to the other guy, and we'll go to Equipment, and then Drinks, Drinks, Drinks.
+
+[00:40:54] Kristin:
+Yeah, I've also seen people on Reddit saying they died of dehydration.
+
+[00:40:57] Drew:
+Yes, you definitely want to have some drinks.
+
+[00:41:00] Kristin:
+You gotta have your beer.
+
+[00:41:02] Kristin:
+Or your plump helmet, your dwarven wine, dwarven ale.
+
+[00:41:04] Drew:
+Alright, not that we'll survive that long, but...
+
+[00:41:06] Kristin:
+We won't survive 16 drinks' worth of adventure.
+
+[00:41:09] Drew:
+All right.
+
+[00:41:10] Drew:
+Let's get going. So we're going to start from Stilwitz. Yes.
+
+[00:41:16] Kristin:
+The last time that you did this...
+
+[00:41:20] Kristin:
+When you left, you met some elves, and what were they doing?
+
+[00:41:23] Drew:
+They were hanging from the trees.
+
+[00:41:26] Kristin:
+Yeah, like monkeys, right?
+
+[00:41:27] Drew:
+Exactly.
+
+[00:41:29] Drew:
+Because they were just out in the middle of space, and then I went up another level, and there were trees, so they were talking to each other and
+
+[00:41:37] Drew:
+floating, so I'm assuming they were hanging from the above branches.
+
+[00:41:39] Kristin:
+Yeah, I mean, I guess it's possible they could have been sitting on them, but it did seem like they were hanging. They could have been hanging by their knees upside down. That would have been funny.
+
+[00:41:47] Drew:
+That's entirely possible.
+
+[00:41:49] Kristin:
+It seems elvish to hang like that from trees.
+
+[00:41:52] Drew:
+Alright, so here we've got our compass on the upper left.
+
+[00:41:57] Kristin:
+Mhm.
+
+[00:41:58] Drew:
+Which shows you in what directions there are mountain homes.
+
+[00:42:03] Drew:
+That's what that symbol means.
+
+[00:42:04] Kristin:
+Oh, okay.
+
+[00:42:04] Drew:
+That's from the ASCII version.
+
+[00:42:06] Kristin:
+I was like, I don't understand any of what that means looking at it.
+
+[00:42:09] Drew:
+And we've also got the start of our story. Your most trusted companion has made the journey to meet you here today. Let the party venture forth.
+
+[00:42:17] Drew:
+And we have a large number of dogs.
+
+[00:42:21] Kristin:
+Yes. Are you in a cave? So it really does seem to have started with a hole in the ground?
+
+[00:42:27] Kristin:
+Do you have to dig your way out? Oh, there's a door. Okay, okay.
+
+[00:42:30] Drew:
+Yeah, so I think we're inside a hillock.
+
+[00:42:33] Kristin:
+Yeah.
+
+[00:42:33] Drew:
+A hamlet? I forget what we call them.
+
+[00:42:35] Kristin:
+I don't know.
+
+[00:42:36] Drew:
+Alright, so we're going to leave.
+
+[00:42:37] Kristin:
+And you were moving around via the number pad?
+
+[00:42:40] Drew:
+Uh, actually just the up and down arrow keys.
+
+[00:42:42] Kristin:
+Oh, okay.
+
+[00:42:43] Drew:
+Let's see, it looks like they fell, but we're going to...
+
+[00:42:47] Drew:
+Start looking around, see if there's anyone to talk to. Right now we're just kind of in a nice little grassy land area.
+
+[00:42:53] Kristin:
+Hmm?
+
+[00:42:54] Drew:
+This is the joy of adventure mode, which is that, in one degree or another, it is very empty.
+
+[00:43:01] Kristin:
+Yeah.
+
+[00:43:01] Drew:
+It's better than it used to be, honestly.
+
+[00:43:04] Kristin:
+You've discovered a river. Okay. And a road.
+
+[00:43:07] Kristin:
+Looks like a road. Whoa, a bridge, a paved bridge. Alright.
+
+[00:43:10] Drew:
+Alright, we're apparently
+
+[00:43:12] Drew:
+going up in the world.
+
+[00:43:14] Kristin:
+So it's a person, a dwarf, looks like a dwarf.
+
+[00:43:17] Drew:
+Alright.
+
+[00:43:18] Drew:
+Let's see, now to talk with them, do we click on...
+
+[00:43:21] Kristin:
+Chase her.
+
+[00:43:22] Drew:
+So I right-click
+[interjection] Kristin: So I.
+
+[00:43:24] Kristin:
+Uh-huh.
+
+[00:43:24] Drew:
+and then view the farmer Ostash Oblakubuk. Let's see.
+
+[00:43:29] Kristin:
+It's not a very handsome man.
+
+[00:43:31] Drew:
+Sorry.
+
+[00:43:32] Kristin:
+See the eyebrows, the dwarf on those eyebrows?
+
+[00:43:34] Drew:
+I know, you really have to look under it.
+
+[00:43:36] Kristin:
+Yeah.
+
+[00:43:37] Drew:
+Um, the state's cooperation, so we're probably not going to have a great conversation here, but uh... Oh, she's a woman.
+
+[00:43:44] Drew:
+Wow.
+
+[00:43:45] Kristin:
+Her teeth are tangled too, so maybe that's... Oh, and the hooked nose.
+
+[00:43:48] Drew:
+Yep, so tangled teeth.
+
+[00:43:49] Kristin:
+Tangled teeth are your civilization's hallmark.
+
+[00:43:52] Drew:
+Alright, so we are going to start a conversation with her. Neutral attitude. Unassuming.
+
+[00:43:59] Drew:
+All right, so what will you say?
+
+[00:44:01] Drew:
+I am a... okay, so I'm going to greet the listener. Hello, Shoresh. This servant of creation greets you.
+
+[00:44:08] Drew:
+It's nice with this UI that when you mouse over someone else's
+[interjection] Kristin: So.
+[interjection] Drew: speaking line.
+
+[00:44:14] Kristin:
+Oh, it shows you the portrait.
+
+[00:44:15] Drew:
+Yeah, so that makes it clear.
+
+[00:44:17] Kristin:
+Yeah.
+
+[00:44:18] Drew:
+Uh...
+
+[00:44:19] Drew:
+Greetings, it is good to see you as well, okay?
+
+[00:44:22] Kristin:
+Okay.
+
+[00:44:23] Drew:
+Continue the conversation. Alright, what will you say? What should we say, dear?
+
+[00:44:28] Kristin:
+Let's inquire about any troubles, maybe that'll give us a goal.
+
+[00:44:32] Drew:
+Alright, inquire. Let's see, we've got the missing treasure.
+
+[00:44:35] Kristin:
+There we go.
+
+[00:44:38] Drew:
+Where did they go?
+
+[00:44:39] Kristin:
+Uh, well that seemed promising, but now they're gone.
+
+[00:44:42] Drew:
+Alright, talk to somebody.
+
+[00:44:43] Drew:
+Okay.
+
+[00:44:44] Drew:
+Even though I can't really see them on the screen, you can still click down on the little conversation icon.
+
+[00:44:50] Kristin:
+Aha!
+
+[00:44:51] Drew:
+And continue the conversation.
+
+[00:44:53] Drew:
+Alright, ask about the missing treasure. That was weird.
+Last I heard, it was held by the dwarf necromancer Vavok Paintweb.
+
+[00:45:04] Drew:
+OK.
+
+[00:45:05] Drew:
+Can I continue? Okay, let's ask for the whereabouts of the dwarf necromancer, Vavok Paintweb.
+
+[00:45:11] Drew:
+Oh, wait, what else did they say?
+
+[00:45:12] Drew:
+The, um, Urist McHammer wants the artifact 'The Zenith of Cremating' - the silver mace - returned to Dwarven hands. Last I heard, it was held by the dwarf necromancer Urist Paintweb.
+[interjection] Kristin: Last
+
+[00:45:23] Drew:
+Well, now at least we know what we're looking for as well.
+
+[00:45:25] Kristin:
+Yeah, we're looking for a silver mace.
+
+[00:45:28] Kristin:
+Held by a dwarf necromancer.
+
+[00:45:30] Drew:
+Alright, so let's ask for the whereabouts of the Necromancer. It's in the Satiny Hills.
+
+[00:45:35] Kristin:
+Hanod Smith is in the Satiny Hills, okay.
+
+[00:45:38] Drew:
+I don't know what Channelshold is, but I'm assuming that's what...
+
+[00:45:41] Kristin:
+I'm assuming that's like their tower or whatever.
+
+[00:45:43] Drew:
+Yeah.
+
+[00:45:44] Kristin:
+Town.
+
+[00:45:45] Drew:
+Alright, let's continue and then ask about a specific incident or rumor, or spread a rumor.
+[interjection] Kristin: Okay.
+
+[00:45:55] Drew:
+Yeah, it's funny to think that all of this stuff in here is kind of the random options that are being chosen behind the scenes.
+
+[00:46:02] Kristin:
+Yeah, so like when you hear...
+
+[00:46:04] Kristin:
+We have news to tell of the world, and then you can get information on your world screen, this is
+
+[00:46:10] Kristin:
+What's happening.
+
+[00:46:12] Kristin:
+That's so funny.
+
+[00:46:13] Drew:
+Uh... spread rumor about the possession of 'The Zenith of Cremation'. Wow, alright, anyway.
+
+[00:46:20] Drew:
+Change subject. So, ask for directions. Direction to Channelshold.
+
+[00:46:23] Kristin:
+Okay.
+
+[00:46:24] Drew:
+Directions to Channelshold. Channelshold is far to the southeast. You receive a detailed description. In the early spring of '47, the Ochre Fame constructed Channelshold.
+
+[00:46:34] Kristin:
+OK, well, we're going to go to the southeast, I guess.
+
+[00:46:37] Drew:
+Alright, so we're going to go to the map mode.
+
+[00:46:39] Kristin:
+OK.
+
+[00:46:39] Drew:
+And in the map mode, you can move super quick.
+
+[00:46:42] Kristin:
+Alright.
+
+[00:46:43] Drew:
+Um, now, do we have a further map mode?
+
+[00:46:47] Drew:
+Yes.
+
+[00:46:48] Kristin:
+Whoa.
+
+[00:46:49] Drew:
+Okay, so that's the super map mode.
+
+[00:46:52] Kristin:
+Can you hover over these places? Yeah.
+
+[00:46:54] Drew:
+Yes, so they said southeast. Yes. Alright, so we're looking at a fairly
+
+[00:47:01] Drew:
+Fairly, I don't know, do you want to try to describe this map?
+
+[00:47:05] Kristin:
+Um, it's quite simplistic.
+
+[00:47:08] Kristin:
+Is it like desert-y? Is that why it's brown?
+
+[00:47:11] Drew:
+I'm not sure if it's brown because it's desert-y, or if it's brown because I haven't explored there yet.
+
+[00:47:16] Kristin:
+Yeah, yeah. But we could see like textures of mountains and some of it was green. Super useful. So, is this you moving your party along?
+
+[00:47:26] Drew:
+Yes.
+
+[00:47:27] Kristin:
+And it's assuming you have no adventures as you're doing this.
+
+[00:47:30] Drew:
+Uh, kind of.
+
+[00:47:32] Kristin:
+Like you're not getting attacked by a bear or something.
+
+[00:47:35] Drew:
+I think that occasionally you might be able to, but I'm not sure if that's implemented in this version.
+[interjection] Kristin: I mentioned.
+
+[00:47:40] Kristin:
+OK.
+
+[00:47:41] Drew:
+So, we're going to keep working to the southeast.
+
+[00:47:44] Drew:
+What is this? As you use it, you'll see that the map zooms in and out depending on how interesting the area is.
+
+[00:47:52] Kristin:
+Oh, yeah.
+
+[00:47:53] Kristin:
+Okay.
+
+[00:47:53] Drew:
+So now that we're coming up to something.
+
+[00:47:58] Kristin:
+Hover over.
+
+[00:47:58] Kristin:
+Mmm, it's not killing.
+
+[00:48:00] Drew:
+All right, I keep getting some sort of prompt, and I'm not entirely sure what it is.
+
+[00:48:04] Kristin:
+Yeah.
+
+[00:48:04] Drew:
+Let's see if we can hover over it.
+
+[00:48:06] Kristin:
+Definitely a good game-no-bugs situation.
+
+[00:48:08] Drew:
+Yeah, all right, so we can end our fast travel.
+
+[00:48:12] Kristin:
+All right.
+
+[00:48:12] Drew:
+And start investigating what it is.
+
+[00:48:16] Drew:
+What do we got here? So we're seeing what looks like a goblin, a frail goblin.
+
+[00:48:20] Kristin:
+Frail Goblin Axeman.
+
+[00:48:22] Drew:
+All right, start a conversation. Neutral attitude.
+
+[00:48:25] Drew:
+Great listener. Hello, dwarf. Continue conversation.
+
+[00:48:29] Drew:
+Um, let's see here.
+
+[00:48:32] Drew:
+Feeling.
+
+[00:48:33] Drew:
+Ask for directions.
+
+[00:48:34] Kristin:
+Channels.
+
+[00:48:34] Drew:
+Channel Smith.
+
+[00:48:35] Kristin:
+Identify yourself.
+
+[00:48:37] Drew:
+Okay.
+
+[00:48:38] Drew:
+Uh, impatient.
+
+[00:48:40] Kristin:
+All right.
+
+[00:48:41] Drew:
+Refused to comply with the demand.
+
+[00:48:44] Kristin:
+Over my dead body. All right, time to kill a frail goblin. No, he still wants you to identify yourself.
+[interjection] Drew: Time.
+
+[00:48:51] Drew:
+All right, let's try to kill him, okay, and see if that ends this. Yeah, he has some sort of mask on.
+
+[00:48:57] Kristin:
+He does, he's kind of spooky looking for a goblin.
+
+[00:49:00] Drew:
+All right, let's view him again. Yeah. All right, what items does he have?
+
+[00:49:02] Kristin:
+See items. Oh, she's a she. She's just wearing an iron mask. Can you click on the eye? The... yeah, that thing. "Size for goblins," that's all it says.
+
+[00:49:12] Drew:
+All right, fair enough.
+
+[00:49:13] Drew:
+Well, let's see if we find out more when we take it from her corpse.
+
+[00:49:17] Kristin:
+Oh, dark. Okay, let's do it.
+
+[00:49:19] Kristin:
+Murder!
+
+[00:49:20] Drew:
+Murder.
+
+[00:49:21] Drew:
+Oh.
+
+[00:49:21] Kristin:
+Oh, don't attack your dog.
+
+[00:49:24] Drew:
+Alright, apparently. Is that a weapon? What's going on?
+
+[00:49:28] Drew:
+Alright, let's see, can we shoot?
+
+[00:49:31] Kristin:
+Did you pack a bow?
+
+[00:49:33] Drew:
+I don't think so.
+
+[00:49:34] Kristin:
+Yeah.
+
+[00:49:34] Drew:
+Bash the fat goblin.
+
+[00:49:36] Drew:
+Wait, the slim goblin snatcher bashes the fat goblin bowman with his copper maul, and the injured part is crushed.
+
+[00:49:42] Kristin:
+So there's some other goblins we're not seeing.
+
+[00:49:44] Drew:
+Guess so.
+
+[00:49:45] Drew:
+Oh.
+
+[00:49:49] Drew:
+Yeah, it looks like there's a whole other goblin combat going on.
+
+[00:49:53] Kristin:
+Okay.
+
+[00:49:53] Drew:
+Alright, can I charge? Is there... I was going to say to shove.
+
+[00:49:55] Kristin:
+I was going to say to shove her down the hill, but yeah, I don't know how.
+
+[00:50:00] Drew:
+Alright, let's see, so...
+
+[00:50:03] Drew:
+What these buttons do.
+
+[00:50:04] Kristin:
+Mm-hmm.
+
+[00:50:05] Drew:
+Nothing to hold, where will you jump?
+
+[00:50:07] Drew:
+Ah, okay, we can try jumping on them.
+
+[00:50:09] Kristin:
+There you go.
+
+[00:50:10] Drew:
+Okay, a battle. I feel uneasy.
+
+[00:50:12] Kristin:
+A battle. I feel very uneasy. I have a part in this.
+
+[00:50:15] Drew:
+All right, so we're going to start a conflict with the Goblin Axeman.
+
+[00:50:20] Drew:
+X-men.
+
+[00:50:21] Kristin:
+Okay.
+
+[00:50:21] Drew:
+Who's frail, so...
+
+[00:50:23] Kristin:
+Yeah.
+
+[00:50:23] Drew:
+Alright, so I'm going to strike.
+
+[00:50:25] Kristin:
+Yes.
+
+[00:50:25] Drew:
+Can you try to describe what you're seeing?
+
+[00:50:27] Kristin:
+So there is a list of body parts.
+
+[00:50:30] Kristin:
+And then each of the body parts is given additional text that says, "difficult strike, can't quite connect." There's an easier strike on the left upper arm, can't quite connect. So I mean, her head, she is wearing a mask, so that's a difficult strike.
+
+[00:50:49] Drew:
+Yeah, so you can aim for the eyes, individual fingers.
+
+[00:50:54] Drew:
+Right cheek, lower front teeth. I'm not sure if these icons that we're seeing are the ones that should be shown there. Maybe this is sort of a... because we're seeing like the icons for a kangaroo man, I think.
+
+[00:51:06] Kristin:
+Yeah, those do look very kangaroo man-like, but that's a goblin hand.
+[interjection] Drew: Crewman-like.
+
+[00:51:10] Drew:
+That is true. So maybe they just haven't implemented Goblin Head, although I think they would do that first.
+
+[00:51:15] Kristin:
+Yeah.
+
+[00:51:16] Drew:
+Well...
+
+[00:51:16] Kristin:
+Well, not a big deal.
+
+[00:51:18] Drew:
+Where should we...
+
+[00:51:19] Drew:
+I'm assuming that as things become more red, that seems like more difficult.
+
+[00:51:25] Kristin:
+Difficult is more difficult than tricky.
+
+[00:51:28] Drew:
+Yes.
+
+[00:51:28] Kristin:
+Difficult is orange, and tricky is yellow.
+
+[00:51:31] Drew:
+Yeah, right. Because it doesn't seem like you go from green to white to yellow to orange.
+
+[00:51:37] Kristin:
+Yeah, yeah, because that would be easy, normal.
+
+[00:51:40] Drew:
+And then purple.
+
+[00:51:42] Kristin:
+Yeah.
+
+[00:51:43] Drew:
+I think.
+
+[00:51:43] Kristin:
+Well, we don't know for sure, so don't take our word on that.
+
+[00:51:46] Drew:
+All right. All right. We're going to try for a head, which is a difficult strike.
+
+[00:51:51] Drew:
+Or should we go for the lower body? That's a tricky one.
+
+[00:51:53] Kristin:
+Go for the lower body. Let's see if you can land it. Maybe we'll believe that tricky is indeed less difficult than difficult.
+
+[00:52:00] Drew:
+All right, and then in the UI, there's a plus option over on the right here.
+[interjection] Kristin: Mhm.
+
+[00:52:06] Drew:
+Which? What?
+
+[00:52:08] Drew:
+Yep, now we can do a detail of what to use. All right, so we're going to bash with the copper...
+[interjection] Kristin: Wow.
+[interjection] Drew: Cool copper war hammer.
+
+[00:52:17] Kristin:
+All right.
+
+[00:52:19] Drew:
+You bash the goblin in the lower body with your copper warhammer, bruising the muscle, bruising the guts through the alpaca wool tunic. "I have a part in this. I will have my revenge," says the bowman.
+
+[00:52:30] Kristin:
+This is a different goblin. This one isn't wearing a mask.
+[interjection] Drew: No.
+
+[00:52:33] Drew:
+Yeah, that must be down there in the fight. Yeah.
+
+[00:52:35] Drew:
+No one's over by us. They're all over here. Yeah, that's got to be this guy. Yeah, three layers down.
+
+[00:52:41] Drew:
+So.
+
+[00:52:42] Drew:
+All right, we're going to keep attacking.
+
+[00:52:45] Kristin:
+Bash, bash.
+
+[00:52:47] Drew:
+Oh, so apparently that hit has caused the, uh...
+
+[00:52:50] Drew:
+Goblin Axeman to yield. Are we going to attack anyway? Oh yeah.
+
+[00:52:56] Kristin:
+Murderhobo.
+
+[00:52:57] Drew:
+All right, strike.
+[interjection] Kristin: All right.
+
+[00:52:58] Kristin:
+This one, this one has a mask. So there might be some goofers in there, and we're not entirely sure who we're talking to and who we're fighting.
+
+[00:53:05] Drew:
+Yes, well I think the conversation that we saw was not related to us.
+[interjection] Kristin: Uh-huh.
+
+[00:53:09] Kristin:
+Oh, okay.
+
+[00:53:11] Drew:
+So I think the various conversations going on around you are just thrown out there willy-nilly.
+
+[00:53:16] Kristin:
+With no...
+
+[00:53:17] Kristin:
+Calendar, you gotta see all of that, including that space that you can see through the...
+[00:53:17] Drew:
+Indication.
+
+[00:53:19] Kristin:
+All right.
+
+[00:53:21] Drew:
+Well, let's try for a head strike here.
+
+[00:53:24] Drew:
+Because I think they're on their knees or something. Yeah.
+
+[00:53:27] Kristin:
+Yeah.
+
+[00:53:28] Drew:
+Head. OK.
+
+[00:53:30] Drew:
+And we're going to do a heavy attack.
+
+[00:53:35] Drew:
+Bash with the uh...
+
+[00:53:38] Kristin:
+Warhammer again?
+
+[00:53:40] Drew:
+Bash with the Dwarven beer. Strike with the Dwarven beer. She jumps away. I must withdraw.
+
+[00:53:45] Drew:
+Um, frail goblin snatchers slim bashes the fat goblin. Yeah, the other ones are still fighting.
+
+[00:53:51] Kristin:
+Okay, so we seem to have come across goblin snatchers. Maybe we're going to help a baby dwarf.
+
+[00:53:55] Drew:
+Yeah.
+
+[00:53:56] Drew:
+Cadol, which I think is our companion.
+
+[00:53:59] Kristin:
+Mm-hmm.
+
+[00:54:00] Drew:
+Strikes at the goblin axeman that we're fighting, but is blocked with an iron shield. Okay.
+
+[00:54:07] Drew:
+All right, let's try attacking again.
+
+[00:54:09] Drew:
+Oh, well, your dog is...
+
+[00:54:10] Kristin:
+Oh, well your dog is biting it too, so it looks like you have hit the goblin in the upper body, doing more bruising, and now your dog is biting, tearing the fat and bruising the muscle in the pants.
+
+[00:54:23] Kristin:
+Dog latches on firmly.
+
+[00:54:25] Drew:
+So I think once we've set our combat, when I just click on the opponent again, I
+[interjection] Kristin: I don't know.
+[interjection] Drew: think it just does the same type of attack again.
+
+[00:54:33] Kristin:
+So you don't have to set it every time.
+
+[00:54:35] Drew:
+Yeah.
+
+[00:54:35] Kristin:
+Yeah, that would be more pleasant than setting it every time.
+
+[00:54:39] Drew:
+Okay, how are we doing?
+
+[00:54:40] Drew:
+Dalir kicks the goblin axeman in the right lower leg, his rear hoof bruising the muscle through the leather trousers.
+
+[00:54:47] Kristin:
+Is that your mule?
+
+[00:54:48] Drew:
+Yep, that's my mule.
+
+[00:54:48] Kristin:
+That's my mule. Good job, mule.
+
+[00:54:51] Drew:
+Force bends the right knee, tearing apart the muscle and bruising the bone. The goblin falls over.
+
+[00:54:56] Drew:
+I must withdraw.
+
+[00:54:58] Drew:
+Alright, it looks like the fight down there is ending as well, so we may have to run very quickly in a moment here.
+[interjection] Kristin: Yeah.
+[interjection] Drew: Yeah, unless they killed each other. Alright, let's view this Goblin Axeman. Okay.
+
+[00:55:09] Kristin:
+Bleeding.
+
+[00:55:09] Drew:
+Health. Slight pain. Trouble with the ability to stand. Lost. Wound. Heavily bruised.
+
+[00:55:15] Kristin:
+Cut apart, lower leg, skin, bleeding, cut open, bleeding, torn apart.
+
+[00:55:20] Drew:
+Her left lung is bruised.
+
+[00:55:22] Kristin:
+Now.
+
+[00:55:23] Drew:
+How can you tell when your lung is bruised?
+[interjection] Kristin: Don't want that.
+
+[00:55:24] Kristin:
+I bet you can feel it.
+
+[00:55:26] Drew:
+All right, well, shall we finish the job?
+
+[00:55:28] Kristin:
+I guess. Let's finish her off and then we can call this our little adventure mode preview.
+
+[00:55:36] Drew:
+Alright, so much fighting. I will have my revenge.
+
+[00:55:41] Drew:
+Hey.
+
+[00:55:41] Drew:
+I think we knocked something off her jaw.
+
+[00:55:44] Kristin:
+Ew.
+
+[00:55:44] Drew:
+An artery is pulled, tearing apart the leg and bone. The tendon is torn. She gives into the pain.
+
+[00:55:51] Drew:
+Bruising the muscle.
+
+[00:55:52] Kristin:
+Fracturing the skull, loses hold of the iron shield.
+
+[00:55:56] Drew:
+Let's see here.
+
+[00:55:57] Drew:
+The copper.
+
+[00:55:58] Drew:
+Battleaxe has lodged firmly in the wound, so that must be our friend.
+
+[00:56:03] Kristin:
+Yeah.
+
+[00:56:04] Drew:
+Um...
+I must not succumb to fear.
+
+[00:56:07] Kristin:
+Is that the goblin?
+
+[00:56:08] Kristin:
+Get it into paint, okay.
+
+[00:56:10] Drew:
+All right. Die! There we go. You killed a guy.
+
+[00:56:11] Kristin:
+Alright, you killed a goblin.
+
+[00:56:13] Drew:
+Okay, so we've got the fat goblin fighting down there, he pulls out and drops the iron arrow. That's not our goblin. Nope.
+
+[00:56:20] Drew:
+You bash the goblin, Axeman, and douse Sig Grumson in the head with the side of your copper warhammer and the injured part explodes into gore.
+
+[00:56:29] Kristin:
+So you have bashed his head open.
+
+[00:56:31] Drew:
+He has been struck down.
+
+[00:56:35] Drew:
+Um...
+
+[00:56:37] Drew:
+Okay.
+
+[00:56:38] Kristin:
+And it does seem like the other goblins are fighting each other.
+
+[00:56:41] Drew:
+Yes.
+
+[00:56:41] Drew:
+So let's see what items we can grab from here. Alright.
+
+[00:56:45] Drew:
+Where's the pic-
+
+[00:56:46] Kristin:
+Oh! You have been struck with an arrow. You're Deller, right?
+
+[00:56:49] Drew:
+Yes, chipping the bone, a tendon has been torn.
+[interjection] Kristin: Oh.
+
+[00:56:54] Drew:
+Oh, apparently.
+
+[00:56:55] Kristin:
+Uh-oh. Well, this might actually be the end of the adventure.
+
+[00:56:58] Drew:
+All right, let's see.
+
+[00:57:01] Kristin:
+Maybe you united these goblins.
+
+[00:57:04] Drew:
+Okay, who will you attack?
+
+[00:57:06] Drew:
+None of them. Those are my friends. Yeah. Shoot. You don't have anything to fire. You assume a submissive posture.
+
+[00:57:13] Drew:
+Strap the Warhammer to your upper body, draw the Warhammer. Alright, let's start walking away. Can I not move?
+
+[00:57:20] Kristin:
+Well, you did get shot in the leg with an arrow.
+
+[00:57:22] Drew:
+Yeah, alright, I seem to have stood back up.
+
+[00:57:26] Kristin:
+Be gone, fear. Okay, a goblin is maybe approaching.
+
+[00:57:31] Drew:
+Alright, how do I see my status here?
+
+[00:57:35] Kristin:
+Obese goblin axeman, I must withdraw. Thin goblin poet, gruesome wounds, be gone fear.
+
+[00:57:40] Drew:
+Hmm.
+
+[00:57:41] Drew:
+Ah, stabs the dill in the right front paw from behind.
+
+[00:57:44] Drew:
+And the severed part flies off in an arc.
+[interjection] Kristin: Oh.
+[interjection] Drew: I don't know which one Adil is.
+
+[00:57:48] Kristin:
+That's one of your dogs.
+
+[00:57:49] Drew:
+All right, we have a lot of combat going on. Yeah, there's so much.
+
+[00:57:53] Drew:
+All right.
+
+[00:57:53] Kristin:
+What part is that that just went flying?
+
+[00:58:00] Drew:
+Let's go take a look.
+
+[00:58:01] Kristin:
+It looks like an ear.
+
+[00:58:03] Drew:
+Whoa.
+
+[00:58:04] Kristin:
+Whoa, okay. But we did just indeed see a body part go flying across the screen.
+
+[00:58:09] Drew:
+Oh my god, so much log. Alright, so that is the end.
+
+[00:58:12] Kristin:
+Oh, it's a mangled right ear, okay.
+
+[00:58:14] Drew:
+And there are some front teeth.
+
+[00:58:17] Drew:
+Gross.
+
+[00:58:18] Drew:
+Alright
+
+[00:58:19] Drew:
+So, how do I see my own health? How, indeed.
+
+[00:58:22] Drew:
+Alright, let's see. What do we got here? That must be covert action. I don't seem to have much control over what's going on.
+
+[00:58:29] Kristin:
+No, there just seems to be some bashing happening.
+
+[00:58:32] Drew:
+Yeah, I think everybody gets a turn before you can do anything again. Yeah. Okay, let's see. So, view your status. Okay, so how's our health doing? Wounds.
+
+[00:58:43] Kristin:
+Oh. Oh. Oh, you're Riff, not whoever that was. We're good. I don't know about your dogs or mule.
+
+[00:58:54] Drew:
+Alright. We're friends. How's he doing? Ex-Lord Kuth. Huh. So we're, we're okay. Yeah. Alright. I thought we were getting beat up.
+Yeah, you just got to remember your name. Apparently, that's our pro tip: remember who is who.
+
+[00:59:06] Drew:
+Yeah, we need a bright indicator.
+
+[00:59:10] Drew:
+All right, so now we're going to attack.
+
+[00:59:13] Drew:
+The Obese Goblin Axeman.
+
+[00:59:16] Drew:
+I hope this is at least vaguely fun for people listening.
+
+[00:59:18] Kristin:
+I hope so. It's amazing. We opted not to do screen capture because we
+
+[00:59:23] Drew:
+wanted to do this quickly.
+
+[00:59:24] Kristin:
+Well, I was going to say we weren't really sure what was going to happen, as is clear.
+
+[00:59:30] Drew:
+All right, wild attack.
+
+[00:59:32] Drew:
+Heavy attack.
+
+[00:59:33] Drew:
+Okay, so who am I?
+
+[00:59:35] Kristin:
+Uh, it started with an R.
+
+[00:59:37] Drew:
+Okay, so Kedol is my friend, it must be.
+
+[00:59:40] Kristin:
+Okay, but he wasn't injured either.
+
+[00:59:43] Drew:
+Yeah, I thought I was the one who got shot.
+
+[00:59:43] Kristin:
+I thought Kedol was the one who got shot.
+
+[00:59:45] Drew:
+Oh, yeah, you're right. All right. Well, it's biting.
+
+[00:59:49] Drew:
+I deal bites so maybe Kedol is the
+
+[00:59:52] Kristin:
+Kedol bites, too.
+
+[00:59:53] Drew:
+Yeah.
+
+[00:59:54] Drew:
+All right, Adil latches on firmly. You bash the obese goblin axeman. So it says you.
+
+[01:00:01] Kristin:
+Uh-huh.
+
+[01:00:02] Drew:
+Okay, right upper arm, right lower arm with your copper warhammer, fracturing the bone through the copper right gauntlet. The force bends the right elbow, tearing apart the muscle and bruising the bone. Oh my goodness. Okay, a ligament has been torn. All right, so I guess when there are other options on there, clicking doesn't automatically work. Okay.
+
+[01:00:25] Kristin:
+Options on there. Okay. Kedol is, I think, one of the dogs. So that.
+
+[01:00:27] Drew:
+Okay, so we got Indog, Nick, Kedol, Adil.
+
+[01:00:30] Kristin:
+Yep.
+
+[01:00:31] Drew:
+All right, no quarter.
+
+[01:00:33] Drew:
+Let's see if we can finish this off.
+
+[01:00:34] Kristin:
+Finish him.
+
+[01:00:36] Drew:
+All right, neck.
+
+[01:00:37] Kristin:
+Yeah.
+
+[01:00:38] Drew:
+Difficult strike, see if I miss. All right, you attack the obese goblin, but she scrambles away.
+
+[01:00:46] Drew:
+Delirium.
+
+[01:00:47] Drew:
+All right, let's try again here. Ooh, that looks like it's getting solid.
+[interjection] Kristin: Mm-hmm. Solid. Yes.
+
+[01:00:53] Drew:
+Alright, so what did I do this time? I'm just going to scroll through until I find you.
+
+[01:00:58] Drew:
+Do you see me?
+
+[01:00:59] Kristin:
+Mm-mm.
+
+[01:00:59] Drew:
+Hmm.
+
+[01:01:00] Kristin:
+How fragile we are.
+
+[01:01:02] Drew:
+The force twists his head.
+
+[01:01:03] Drew:
+Yeah, we really need to have your actions highlighted in some way.
+
+[01:01:08] Kristin:
+Mm-hmm.
+
+[01:01:09] Drew:
+But this goblin has to be falling apart. You bite the obesity in your right eye from the side.
+[interjection] Kristin: Just looking in the right eye from the side.
+[interjection] Drew: That's not quite what I intended to do.
+
+[01:01:17] Kristin:
+Whatever gets the job done.
+
+[01:01:19] Drew:
+All right, let's try this again. Recovering from attacking you with.
+
+[01:01:22] Kristin:
+Bye.
+
+[01:01:23] Drew:
+All right, strike, and we're going to go for a no.
+
+[01:01:26] Kristin:
+Impossible strike at the neck.
+
+[01:01:28] Drew:
+I feel very uneasy.
+
+[01:01:30] Drew:
+Tendon in
+
+[01:01:33] Drew:
+You shake the obese goblin axeman around by the left eye, and the left eye collapses?
+
+[01:01:40] Drew:
+The skull has been torn. All right, let's just finish this. Yes. All right, just clicking, clicking, clicking.
+[interjection] Kristin: Ewww.
+[01:01:46] Kristin:
+Die, die, die.
+
+[01:01:48] Drew:
+How are you not dead?
+
+[01:01:49] Kristin:
+Yeah.
+
+[01:01:51] Drew:
+Well, we do always say that the combat logs are ridiculously long.
+
+[01:01:54] Kristin:
+Uh-huh.
+
+[01:01:55] Drew:
+All right.
+
+[01:01:56] Kristin:
+You get his goblin blood, heavy bleeding, can't breathe, all right, motor nerve damage.
+[interjection] Drew: I cannot breathe.
+[interjection] Kristin: Sensory nerve damage. I think we can consider him dead.
+
+[01:02:07] Drew:
+So bear in mind when you're doing this that, uh...
+
+[01:02:10] Drew:
+you know, you take your action and then all the other computer-generated things get their actions.
+
+[01:02:15] Drew:
+So you do spend a little bit of time waiting, and they have to be dead now, right?
+
+[01:02:20] Kristin:
+You would think. Oh, oh, all right, we did it. Okay.
+
+[01:02:24] Kristin:
+So.
+
+[01:02:24] Drew:
+You bash the obese goblin axeman in the head from the side with your copper warhammer and the injured part is crushed.
+
+[01:02:30] Drew:
+The obese goblin axeman has been struck down.
+
+[01:02:33] Kristin:
+All right, well for your second
+
+[01:02:36] Kristin:
+Adventure mode adventure.
+
+[01:02:38] Drew:
+A little more, a little more effective.
+
+[01:02:40] Drew:
+Exciting, a little more effective. Having six war dogs with you helped.
+
+[01:02:43] Kristin:
+That helps. Also a good note.
+[interjection] Drew: Yeah.
+[interjection] Kristin: Last time you had cheetahs and they didn't do anything.
+
+[01:02:47] Drew:
+I had two cheetahs and yeah, they just didn't seem to get in there.
+
+[01:02:52] Drew:
+I think they were war cheetahs.
+
+[01:02:54] Drew:
+All right, well, I'm going to save here.
+
+[01:02:55] Kristin:
+Well, yes, I was going to say, we will at some point return to the adventure of Rith.
+
+[01:03:01] Drew:
+Frith.
+
+[01:03:02] Kristin:
+I don't know if you'll have time before we record again for the rest of the episode, but, um...
+
+[01:03:06] Kristin:
+We will, uh...
+
+[01:03:08] Kristin:
+Talk to you guys soon.
+
+[01:03:09] Drew:
+When we record the actual episode.
+
+[01:03:11] Kristin:
+We're going to record the rest of the episode.
+[interjection] Drew: They're ready.
+
+[01:03:13] Kristin:
+All right.

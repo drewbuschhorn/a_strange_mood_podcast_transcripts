@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,760
+continue the conversation.
+
+2
+00:00:01,760 --> 00:00:04,000
+All right, what will you say?
+
+3
+00:00:04,000 --> 00:00:05,300
+What should we say, dear?
+
+

@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,000
+That helps.
+
+2
+00:00:01,000 --> 00:00:02,000
+Also a good note.
+
+3
+00:00:02,000 --> 00:00:03,720
+Last time you had cheetahs and they didn't do anything.
+
+

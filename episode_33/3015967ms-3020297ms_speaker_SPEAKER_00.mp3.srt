@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,240
+All right, so we're going to start a conflict with the Goblin X.
+
+

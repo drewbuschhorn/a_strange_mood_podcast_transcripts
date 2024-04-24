@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,400
+I am a...okay, so I'm going to greet the listener.
+
+2
+00:00:02,400 --> 00:00:06,000
+Hello, Shoresh. This servant of creation greets you.
+
+

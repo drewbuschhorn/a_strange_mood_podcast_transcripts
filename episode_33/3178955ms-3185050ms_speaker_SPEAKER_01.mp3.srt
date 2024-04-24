@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:01,600
+This one, this one has a mask.
+
+2
+00:00:01,600 --> 00:00:03,560
+So there might be some goofers in there
+
+3
+00:00:03,560 --> 00:00:05,480
+and we're not entirely sure who we're talking to
+
+4
+00:00:05,480 --> 00:00:06,680
+and who we're fighting.
+
+
