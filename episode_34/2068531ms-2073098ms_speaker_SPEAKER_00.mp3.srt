@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,500
+If it's open to the air, it's lava, and if it's down below, it's mine.
+
+

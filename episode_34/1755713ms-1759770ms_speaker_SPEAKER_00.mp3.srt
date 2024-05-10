@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,000
+Uh, so I started moving over towards there, found something weird.
+
+

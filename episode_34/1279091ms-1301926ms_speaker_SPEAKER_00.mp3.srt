@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:08,600
+When rain hits a tile labeled as a murky pool, it will begin to fill up with 1 7th water,
+
+2
+00:00:08,600 --> 00:00:12,940
+and if that does not evaporate, the water will grow deeper until the pool is full.
+
+3
+00:00:12,940 --> 00:00:16,840
+Murky pools do not overflow from rain, and this extra water can be drained off and stored
+
+4
+00:00:16,840 --> 00:00:17,840
+or used.
+
+5
+00:00:17,840 --> 00:00:22,080
+While not much help, it can really help maps without unlimited water supplies such as river
+
+6
+00:00:22,080 --> 00:00:22,760
+or brook.
+
+

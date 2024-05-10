@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,000
+Yeah, I can't remember.
+
+2
+00:00:01,000 --> 00:00:02,600
+Wait, yeah, we've had this conversation.
+
+3
+00:00:02,600 --> 00:00:04,960
+Yeah, I think it does go BCD.
+
+
