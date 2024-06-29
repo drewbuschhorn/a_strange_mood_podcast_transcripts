@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,240
+Yeah, the procedural story generation that is part of Dwarf Fortress.
+
+2
+00:00:04,240 --> 00:00:10,400
+Fun. It's why there are three exclamation points after the capital F-U-N in Dwarf Fortress.
+
+

@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:01,640
+That's pretty important.
+
+2
+00:00:01,640 --> 00:00:04,040
+As we've talked about before, it was a little bit annoying
+
+3
+00:00:04,040 --> 00:00:05,640
+previously that you had to...
+
+

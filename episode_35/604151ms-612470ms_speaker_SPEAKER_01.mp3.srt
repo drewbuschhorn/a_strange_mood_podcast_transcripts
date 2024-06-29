@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:04,080
+We are at 17 dwarves, but have now passed a few seasons
+
+2
+00:00:04,080 --> 00:00:05,760
+with no additional migrants,
+
+3
+00:00:05,760 --> 00:00:08,460
+even though I've been buying from all the traders, so.
+
+

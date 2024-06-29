@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:07,360
+uh has added a bunch of new features including designating uh digging and construction in shapes
+
+2
+00:00:07,360 --> 00:00:13,040
+so you can basically make a curve or a bezier how do you say that bezier anyway
+
+3
+00:00:13,040 --> 00:00:14,240
+people know what i'm talking about
+
+

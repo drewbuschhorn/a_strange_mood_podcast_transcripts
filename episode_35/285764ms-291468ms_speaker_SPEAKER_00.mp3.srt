@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,640
+One of those lines where you mark the points on it and then it does a smooth curve in between the points.
+
+

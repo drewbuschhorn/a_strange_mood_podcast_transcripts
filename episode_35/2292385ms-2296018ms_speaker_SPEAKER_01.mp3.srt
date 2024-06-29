@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:03,520
+Some people still don't like the current graphics, but I think they're really cute.
+
+

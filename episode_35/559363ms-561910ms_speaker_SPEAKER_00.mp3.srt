@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,000
+You can't learn more than you realize.
+
+2
+00:00:02,000 --> 00:00:04,000
+Sure you can!
+
+

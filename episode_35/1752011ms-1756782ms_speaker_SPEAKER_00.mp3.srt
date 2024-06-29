@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,000
+Um, sometimes stuff just happens.
+
+2
+00:00:04,000 --> 00:00:04,720
+What the hell.
+
+

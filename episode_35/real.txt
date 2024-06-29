@@ -1,0 +1,2312 @@
+
+[00:00:00] Kristin:
+This podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress Podcast. I'm Kristin. 
+
+[00:00:23] Drew:
+and I'm Drew. 
+
+[00:00:24] Kristin:
+And we're back. 
+
+[00:00:25] Drew:
+We are! 
+
+[00:00:26] Kristin:
+We're a couple. 
+
+[00:00:27] Kristin:
+Playing Dwarf Fortress. 
+
+[00:00:28] Drew:
+That we are, Kristin. 
+
+[00:00:31] Drew:
+So, what have you been playing? 
+
+[00:00:33] Kristin:
+I've been playing so many games, oh my gosh, I just sort of went on a little tour of my games library. 
+
+[00:00:39] Kristin:
+We'll talk about some of them later, but I will say that I finally got into RimWorld. 
+
+[00:00:44] Drew:
+Oh, okay. 
+
+[00:00:45] Kristin:
+in kind of a big way, so that's pretty cool. 
+
+[00:00:48] Kristin:
+Nice! 
+
+[00:00:48] Drew:
+Well, we'll talk about that a little bit later. 
+
+[00:00:50] Kristin:
+How about you? What have you been playing? 
+
+[00:00:52] Drew:
+I've been mostly working on some of my personal programming projects and electronics projects 
+
+[00:00:57] Kristin:
+Mm-hmm. 
+
+[00:00:58] Drew:
+I did, however, play some Bolero, and we'll talk about that later. 
+
+[00:01:02] Kristin:
+Yeah. 
+
+[00:01:02] Drew:
+In a maybe a different episode 
+
+[00:01:04] Kristin:
+Yeah, because I intended to talk about Rabbit and Steel too, but we have so much to talk about this time that I don't know if we'll get to those. 
+
+[00:01:12] Drew:
+Yep, we can spread it out. 
+
+[00:01:14] Kristin:
+Yes. 
+
+[00:01:15] Drew:
+But yeah, Rabid and Steel and Diablo 4 and all those sorts of things. 
+
+
+[00:01:20] Drew:
+And of course, Dawn Trail for 14 is coming up. 
+
+[00:01:22] Kristin:
+Just a few more days. It's very exciting. Yep 
+
+[00:01:26] Drew:
+Yep. 
+
+[00:01:26] Kristin:
+It's a good time to be a gamer. 
+
+[00:01:29] Drew:
+Well, sometimes the summer is. 
+
+[00:01:32] Kristin:
+Oh, really? 
+
+[00:01:33] Kristin:
+Yeah, I guess last summer we had Diablo release and Baldur's Gate was summerish. 
+
+[00:01:39] Drew:
+I think so. 
+
+[00:01:39] Drew:
+Yeah. 
+
+[00:01:41] Kristin:
+Anywho... 
+
+[00:01:42] Kristin:
+What Dwarf Fortress-y news do you have? 
+
+[00:01:44] Drew:
+Well, also, I just, um... 
+
+[00:01:46] Drew:
+A side note is that for the Baldur's Gate news, I just read a news article that apparently, 
+[interjection] Kristin: then.
+[interjection] Drew: for you D&D players out there, which I figure there's a pretty big overlap... 
+
+[00:01:55] Kristin:
+Oh, huh. 
+
+[00:01:56] Drew:
+Drinking a healing potion will now become a bonus action in official D&D play. 
+
+[00:02:02] Kristin:
+Nice, finally. Thanks, Baldur's Gate. 
+
+[00:02:05] Drew:
+Yeah, because it has been in Baldur's Gate 3. 
+
+[00:02:07] Kristin:
+Mm-hmm. 
+
+[00:02:08] Drew:
+which we all agreed was the way it should be and is a house rule most places. 
+[interjection] Kristin: Yeah.
+
+[00:02:12] Kristin:
+I would imagine it's a house rule a lot of places. 
+
+[00:02:14] Drew:
+So, but yeah, I don't know if it's only healing potions or if it's gonna be all potions can be drunk as a bonus action 
+
+[00:02:20] Kristin:
+I bet it's all potions. 
+
+
+[00:02:21] Kristin:
+It would make sense. 
+
+[00:02:22] Drew:
+Anyway, not super related to Dwarf Fortress, but I figure there's a decent overlap, and you guys can check that out for... 
+
+[00:02:29] Drew:
+What are they calling it? I think D&D Next was the previous one and this is D&D One or D&D Alpha Gamma. 
+
+[00:02:36] Kristin:
+I'm gonna admit, I'm not really following it that closely anymore. 
+
+[00:02:39] Drew:
+Yeah, so. 
+
+[00:02:41] Drew:
+Anyway. 
+
+[00:02:42] Drew:
+Dwarf Fortress news! 
+
+[00:02:44] Kristin:
+Yay! 
+
+[00:02:45] Drew:
+I shouldn't. 
+
+[00:02:46] Drew:
+make you record me doing that and 
+
+[00:02:48] Drew:
+you know, spike it up. 
+
+[00:02:50] Kristin:
+Ooh, I think you just did it yourself. 
+
+[00:02:52] Drew:
+Yeah. 
+
+[00:02:53] Kristin:
+You're welcome. Bye bye. 
+
+[00:02:53] Drew:
+Um, let's see. So first off, because we were talking about RimWorld, RimWorld and Dwarf Fortress are having a bundle on Steam. 
+
+[00:03:02] Drew:
+Um, that started about a week ago and they said it would last a week. So it may be gone by the time, yeah. 
+
+[00:03:06] Kristin:
+Yeah, but it's worth checking. 
+
+[00:03:08] Drew:
+Yep, and they also, Kit Fox also said that that may be coming back and forth a couple of times over the course of a year. 
+
+[00:03:14] Kristin:
+That's actually how I ended up buying RimWorld. 
+
+[00:03:18] Kristin:
+mhm 
+
+
+[00:03:18] Kristin:
+and then of course the DLC and it's gonna be that's gonna be a rabbit hole so onward 
+
+[00:03:23] Drew:
+Ah, Tarn has said that in the next beta release, you'll be able to spit again in Adventure Mode. And breathe fire, raise the dead, and roll into an armadillo person ball. 
+
+[00:03:32] Kristin:
+Oh, boy, I didn't know I couldn't do those things. But I guess I also didn't think that I should be able to. I still haven't tried adventure mode, so. 
+
+[00:03:41] Drew:
+They're working on finishing the beta menus. 
+
+[00:03:44] Kristin:
+Mm-hmm. 
+
+[00:03:44] Drew:
+And, uh... 
+
+[00:03:46] Drew:
+After that will come getting the new systems, deities, and magic items, etc. 
+
+[00:03:52] Drew:
+and then hope to get everything back into the main release branch. He said that he expects there will be some additional beta releases first 
+[interjection] Kristin: You said that.
+[interjection] Drew: before that gets merged into main. 
+
+[00:04:02] Kristin:
+So I guess I shouldn't get excited then, is what you're saying? 
+[interjection] Drew: That's what you're saying.
+
+[00:04:06] Drew:
+Meanwhile, dfhack 50.13-r3rc1 
+
+[00:04:14] Drew:
+beta. 
+
+[00:04:15] Drew:
+um 
+
+[00:04:17] Kristin:
+Yeah. 
+
+[00:04:17] Drew:
+Mike is fun. 
+
+[00:04:18] Kristin:
+Oh well. 
+
+[00:04:19] Drew:
+Um... 
+
+[00:04:20] Drew:
+It has been released Mike put in along with other people because he always gets on my case when I 
+
+[00:04:25] Kristin:
+It's on my case when I go sleep. Yes. 
+
+
+[00:04:27] Kristin:
+But we love you, DFHack. 
+
+
+[00:04:30] Drew:
+uh has added a bunch of new features including designating uh digging and construction in shapes so you can basically make a curve or a bezier how do you say that bezier anyway people know what i'm talking about 
+
+[00:04:44] Kristin:
+I don't, but I believe you. 
+
+[00:04:45] Drew:
+One of those lines where you mark the points on it and then it does a smooth curve in between the points. 
+[interjection] Kristin: done it.
+
+[00:04:51] Kristin:
+Oh, okay. 
+
+[00:04:52] Drew:
+Yeah. 
+
+[00:04:52] Drew:
+Anyway. 
+
+[00:04:53] Drew:
+along with curves and circles and arcs and all those different things easily within 
+
+[00:05:00] Drew:
+D.F. Hack. 
+
+[00:05:01] Kristin:
+Court. 
+
+[00:05:02] Drew:
+Quick find and zoom to people and locations and artifacts. That's kind of fun because 
+
+[00:05:10] Drew:
+uh... 
+
+[00:05:11] Drew:
+Jonathan from DF Roundtable was actually asking about that earlier today. 
+
+[00:05:16] Kristin:
+Hell yeah. 
+
+[00:05:17] Drew:
+Mike was able to hop on and tell him, oh, you can do that if you, you know, navigate two layers down in DFHack, but. 
+
+[00:05:23] Drew:
+plant and tree manipulation along with just a general changing of everything live in a given map. 
+
+[00:05:31] Kristin:
+Okay. 
+
+[00:05:32] Drew:
+That's pretty helpful. 
+
+[00:05:32] Kristin:
+Wow. Yeah. 
+
+[00:05:34] Drew:
+And. 
+
+[00:05:35] Drew:
+Also an option to control the rate of immigration. 
+
+[00:05:39] Kristin:
+Oh, nice. Nice. 
+
+[00:05:41] Drew:
+So if you've been wanting to customize things, do go check that out. 
+
+[00:05:45] Drew:
+And then one other thing. 
+
+[00:05:46] Drew:
+Mike has been trying to round up people for locale-sensitive number formatting. 
+
+[00:05:51] Kristin:
+Mmm. 
+
+[00:05:52] Drew:
+uh... he's tried to get roland involved in that obviously with the uh... german european system 
+
+[00:05:57] Drew:
+But anybody who is listening and uses a non-US number formatting and DFHack, 
+
+[00:06:04] Drew:
+look around for that option, hop on the beta, and Mike would, I think, love to hear if you run into any problems. Yeah. 
+
+[00:06:10] Drew:
+I mean, you don't love to hear that there are problems, but there are problems you want to hear about. 
+
+[00:06:15] Kristin:
+I don't know, we're Dwarf Fortress players, we like problems. 
+
+[00:06:18] Drew:
+Fair. 
+
+[00:06:18] Kristin:
+Mm-hmm 
+
+
+[00:06:21] Drew:
+than Kit Fox. A couple of days back they put up an Adventure Mode patch. 
+
+[00:06:28] Drew:
+uh, which re-enables the abilities menu. 
+
+[00:06:30] Drew:
+gives you the ability to do a couple other options and left-click to move to distant tiles. 
+
+[00:06:37] Drew:
+That's pretty important. As we've talked about before, it was a little bit annoying previously that you had to... 
+
+[00:06:44] Drew:
+continually fight with different menu options. 
+
+[00:06:48] Drew:
+Um... 
+
+[00:06:49] Drew:
+Let's see, and then. 
+
+[00:06:51] Drew:
+That was kind of it for the news we want to cover right now, a couple of people in the 
+
+[00:06:56] Drew:
+in our discord have been working on projects that we want to talk about at a 
+[interjection] Kristin: Mm-hmm.
+
+[00:07:00] Drew:
+maybe in the next episode. 
+
+[00:07:01] Kristin:
+Yeah. 
+
+[00:07:02] Drew:
+But a 
+
+[00:07:05] Drew:
+Book has come out. Again, some overlap, not Dwarf Fortress related. 
+
+[00:07:10] Drew:
+called Building Sim City. 
+
+[00:07:12] Drew:
+How to put the world in a machine by 
+
+[00:07:15] Drew:
+Chem gingled. 
+
+[00:07:17] Drew:
+It's green. 
+[interjection] Kristin: Get it in
+[interjection] Drew: It's getting gold. 
+
+[00:07:19] Kristin:
+Aye. 
+
+[00:07:20] Drew:
+Jingle bell 
+
+[00:07:20] Kristin:
+Oh, that's me. 
+
+[00:07:21] Drew:
+Yep, which is a book about the creation of SimCity. It's maybe a little bit academic. I haven't read it yet, but the reviews on. 
+[interjection] Kristin: yet?
+
+[00:07:31] Drew:
+Amazon go from this is very interesting to this is a little bit dry, but again 
+[interjection] Kristin: Yeah.
+[interjection] Drew: I figure there's a lot of overlap with people who are interested in city builders, so You might check that out on Amazon 
+
+[00:07:44] Kristin:
+Were they expecting that to be a thrill a minute? 
+
+[00:07:46] Drew:
+Yeah, I'm a little confused about what they super wanted from it. 
+[interjection] Kristin: I'm more like him.
+
+
+[00:07:51] Drew:
+But, uh, the other thing I wanted to say as well about it is the... 
+
+[00:07:55] Drew:
+quote on the cover blurb from Will Wright, the maker of SimCity. 
+[interjection] Kristin: Mm-hmm.
+
+[00:08:00] Drew:
+I don't know how to interpret the comment, so I'm going to read it out here, and then you as an English and writer person are going to explain to me what I should get out of this. 
+
+[00:08:12] Kristin:
+Oh boy. 
+
+[00:08:13] Drew:
+So the quote. 
+
+[00:08:13] Kristin:
+Tom asked me to get into his head. 
+
+[00:08:16] Drew:
+Is. 
+
+[00:08:17] Drew:
+I learned more about the history and practice of simulation from this book than I ever knew. 
+
+[00:08:24] Kristin:
+Okay. 
+
+[00:08:25] Drew:
+Um... 
+
+[00:08:26] Drew:
+Bye. 
+
+[00:08:27] Kristin:
+So he's saying that this book taught. 
+
+[00:08:30] Kristin:
+him, the guy who made the game the book is about. 
+
+[00:08:33] Kristin:
+more about making the game. 
+
+[00:08:35] Drew:
+Yeah, I- I guess? 
+
+[00:08:38] Drew:
+Or like, I don't know, I'm a little confused about this because wouldn't technically learning anything always be more than you ever knew before? Oh, I suppose, yeah. 
+
+[00:08:45] Kristin:
+You'll be poor. 
+
+[00:08:47] Drew:
+It's like a tautology. 
+
+[00:08:49] Kristin:
+I suppose it is. 
+
+[00:08:49] Drew:
+Just by existing, you knew more than you knew before. 
+
+[00:08:52] Kristin:
+It's also a pretty vague simulation. 
+[interjection] Drew: Yeah.
+
+[00:08:56] Drew:
+Um, yeah, so one assumes he means simulation games and from this book than I ever expect. 
+
+[00:09:03] Kristin:
+That's not a very nice blurb though. 
+
+[00:09:06] Drew:
+than I could have possibly expected from a... No, I can't turn it into either something that makes sense and is positive. 
+
+[00:09:14] Kristin:
+maybe he's saying he learned more than he realized from it no that one's not you can't learn 
+
+[00:09:19] Drew:
+You can't learn more than you realize. Sure you can! 
+
+
+[00:09:21] Drew:
+I guess you can. Anyway, so that's the end of my non-Dwarf Fortress side comments. Excellent. 
+
+[00:09:32] Drew:
+So what's been going on in your Dwarf Fortress game? 
+
+[00:09:35] Kristin:
+Well, I thought about starting a new fort after our little break, but instead I continued with my lava fort, Arch Will. 
+
+[00:09:45] Drew:
+You can never pull the band-aid off. 
+[interjection] Kristin: You can do it.
+
+[00:09:47] Kristin:
+Well, I, uh, it wasn't, it wasn't that they were having any problems. It was just that I'd had time off and I was like, who are these people again? But it was fine. Um. 
+
+[00:09:57] Kristin:
+It is kind of a cool location and it's really, really nice to have that magma right off the bat. 
+
+[00:10:03] Drew:
+Oh, definitely. 
+
+[00:10:04] Kristin:
+We are at 17 dwarves, but have now passed a few seasons with no additional migrants, even though I've been buying from all the traders, so. 
+
+[00:10:12] Drew:
+I'm a little curious if maybe in a recent release, the... 
+
+[00:10:16] Drew:
+rate of migration has been turned down a little bit because I feel like I've been getting fewer as well. 
+
+[00:10:21] Kristin:
+Okay. Well, yeah, because I was, it felt like I got a whole bunch all at once. But I guess I got 10. And then that was it. But I'm really enjoying having the lava. Because we like I'm already able to turn their, you know, make them gold goblets instead of rock mugs and stuff like that. So the dwarves that are happy are very, very happy. 
+
+[00:10:46] Kristin:
+We also have a lot of gems and just general metals and ores and all that kind of stuff for making and trading. 
+
+[00:10:53] Kristin:
+Only three of the dwarves are at all unhappy. One of them's a child and I'd forgotten to turn off chores. Fair enough. So I turned off chores, made some toys, she's probably going to cheer up. The bookkeeper and a carpenter. And a lot of folks have the need to train because I haven't started a squad yet. 
+
+[00:11:13] Kristin:
+and to acquire something. 
+
+[00:11:17] Kristin:
+I want to work on that acquire something because there's there's got to be a way. 
+
+[00:11:20] Drew:
+Yeah, have you made that stockpile? 
+
+[00:11:23] Kristin:
+I haven't yet so I think that's going to be the first tactic to take there and maybe I don't know if we have really like a lot of trinkets or anything. And the squad I just don't want to start yet because we have so few dwarves that like when they're training it's going to be 
+[interjection] Drew: having their
+[interjection] Kristin: impossible to get anything else done. 
+
+[00:11:43] Drew:
+Yeah, I always say I'm going to create a custom, um... 
+
+[00:11:47] Drew:
+create a custom training schedule every game I play and then I never actually do it. 
+
+[00:11:52] Kristin:
+I mean, that could be what I do and just have them train. 
+
+[00:11:55] Kristin:
+a tiny bit and see if that would help. 
+
+[00:11:57] Drew:
+Mm-hmm. 
+
+[00:11:57] Kristin:
+So we have some interesting characters this time though. Our expedition leader is Fookar Dobglazes. 
+
+[00:12:05] Kristin:
+She is a skilled consoler. She doesn't really have any military skills, but really wants to be fighting, like doing some kind of martial arts. So it's like something that she's always wanted to learn and has never taken the time to do, maybe. She's surprisingly unskilled. Like she's competent in like all of the social skills and an adequate comedian, but not like skilled at leather working or something. 
+
+[00:12:33] Drew:
+Who is an adequate comedian to you? 
+
+[00:12:35] Kristin:
+I don't know, that's what I was wondering. 
+
+[00:12:38] Drew:
+Yeah, that's kind of, um... 
+
+[00:12:41] Drew:
+Who played CJ on the West Wing? 
+
+[00:12:44] Kristin:
+Allison Janney 
+
+[00:12:45] Drew:
+um because she's a very funny actress but i think when she does straight comedy she 
+[interjection] Kristin: But I think we're...
+[interjection] Drew: falls into the adequate category 
+
+[00:12:52] Kristin:
+I've never watched her do any kind of just comedy. 
+
+[00:12:54] Drew:
+she's got a tv show going right now called moms that tiktok keeps showing me sections of and i'm 
+[interjection] Kristin: I'm cold.
+[interjection] Drew: just always like 
+[interjection] Kristin: I just saw a
+
+[00:13:02] Drew:
+Huh. 
+
+[00:13:03] Kristin:
+Well, you might just not be the target audience for that, too. 
+
+[00:13:06] Drew:
+I mean, that's entirely possible. 
+
+[00:13:07] Kristin:
+Yeah. 
+
+[00:13:08] Kristin:
+you have to imagine that like the regional type comedians who are more than just like open mic night 
+
+[00:13:14] Drew:
+mhm 
+
+[00:13:15] Kristin:
+but not quite national to her, you know? 
+[interjection] Drew: No!
+
+[00:13:18] Drew:
+Adequate. 
+
+
+[00:13:20] Kristin:
+They're funny, especially if you've had a couple of drinks, and with warbs, that's no problem. 
+
+[00:13:25] Drew:
+or the guy on the podcast we listen to. 
+
+[00:13:30] Kristin:
+Gotta be more specific than that. 
+
+[00:13:31] Drew:
+uh cult podcast. 
+
+[00:13:33] Kristin:
+Oh, that guy. 
+
+[00:13:35] Drew:
+Armando 
+
+[00:13:35] Kristin:
+A Hermando, yes. 
+
+[00:13:36] Drew:
+Yes, I think maybe adequate 
+
+[00:13:38] Kristin:
+Yeah, his comedy seems to be mostly just being a really ill-adjusted person. 
+
+[00:13:45] Drew:
+I just, I don't know, because at one point, you know, he had a podcast, he had an episode where he talked about the fact that in order to make people laugh, he started eating playing cards. 
+
+[00:13:56] Kristin:
+Yeah, he's eating UNO cards on some kind of Twitch stream. 
+
+[00:13:59] Drew:
+Yeah, and I'm like... 
+
+[00:14:01] Drew:
+That's a long way to go for that. 
+
+[00:14:03] Kristin:
+yeah um i bet he well i mean he said he regretted that so i'm guessing that that's 
+[interjection] Drew: I hate that.
+[interjection] Kristin: don't eat uno cards never worth it 
+
+[00:14:11] Drew:
+Yeah. 
+
+[00:14:12] Kristin:
+no matter how hard people laugh. 
+
+[00:14:14] Drew:
+Anyway, back to Dwarf Work. 
+
+[00:14:15] Kristin:
+Yeah, actually, that reminds me of that fun thing that's going around with the three types of fun. Oh, yeah. And it's the first one is fun to do, fun to remember. The second one is hurts some to do, but fun to remember. And the third one is what like, not fun to do, but makes a great story. 
+
+[00:14:34] Drew:
+Yeah, the procedural story generation that is part of Dwarf Fortress. Fun. It's why there are three exclamation points after the capital F-U-N in Dwarf Fortress. 
+
+[00:14:44] Kristin:
+Yes. Anyway, so I think eating Uno cards is one of those things. 
+
+[00:14:50] Drew:
+It's enjoyable for everyone else to tell the story and miserable for you as the person who did it. 
+[interjection] Kristin: Uh-huh.
+
+[00:14:55] Kristin:
+Yeah. 
+
+[00:14:56] Kristin:
+Uh, and then our other... 
+
+[00:15:00] Kristin:
+noteworthy character that I will be. 
+
+[00:15:02] Kristin:
+I'm crafting a story about these two in my head. 
+
+[00:15:06] Kristin:
+is our broker, Aneth Senskerders. He was a migrant. He's kind of a jerk. 
+
+[00:15:13] Kristin:
+He has no friends in the fort and migrated in alone, has one lover but they didn't come to the fort with him. He is a grand master negotiator and conversationalist. 
+
+[00:15:24] Drew:
+Apparently not a great negotiator. 
+
+[00:15:26] Kristin:
+as well as a legendary bone carver, but one of his unmet needs is to cause trouble. Let's see if I can find it real quick. All right. Okay, so his personality is he is very slow to anger. He is a perfectionist. He is somewhat scatterbrained. He finds a chaotic mess preferable to the boredom of harmonious living. 
+
+[00:15:49] Kristin:
+He is somewhat quarrelsome and is bothered by this since he values friendship. And I guess sad probably because he has no friends. He is stubborn. He is pleased by his own appearance and talents. 
+
+[00:16:00] Kristin:
+he can sometimes act without deliberation. He doesn't often feel envious of others. He likes to brawl. He doesn't seek out excitement. He is very humble. 
+
+[00:16:09] Drew:
+I too like to brawl in a boring way. 
+
+[00:16:14] Kristin:
+He has an active imagination, generally quite confident of his abilities. And yes, would like to cause trouble right now. But his, the reason I noticed him is because there was a dwarf sleeping in a bedroom and another dwarf standing there. The dwarf that was sleeping was Vukar, our expedition leader, and he was the one standing over her. 
+
+[00:16:40] Kristin:
+waiting to yell at her and cause trouble. 
+
+[00:16:43] Kristin:
+So he was just watching her sleep and waiting for her to wake up so he could yell. 
+
+[00:16:49] Drew:
+Do you think you would get progressively more angry as you sat and as you stood and watched your. 
+
+[00:16:55] Kristin:
+Yeah. Gotcha. 
+
+[00:16:55] Drew:
+Expedition leader sleep or calm down. I'm not sure which 
+
+[00:16:59] Kristin:
+I'm gonna assume he would probably get angrier. I intervened because I needed to him to go be a broker 
+
+
+[00:17:07] Kristin:
+So in my head, they're rivals of some sort. But I did have to make him our broker because he's a good negotiator. 
+
+[00:17:18] Kristin:
+But we'll see how that turns out. Maybe they can become friends or something. I don't know. The need to cause trouble though is a little concerning, maybe. I don't want to have to get rid of a legendary and a grand master. 
+
+[00:17:31] Kristin:
+Mm-hmm 
+
+[00:17:32] Kristin:
+And then finally, these two aren't very interesting but I'll keep an eye on them because I was watching The Child. 
+
+[00:17:38] Kristin:
+We have single dad miner Dutton Heather Boulders, who moved to this fort without his wife, but with his daughter. 
+
+[00:17:47] Drew:
+There's a story there. 
+
+[00:17:47] Kristin:
+Yeah, he doesn't really have any he's a skilled miner, but nothing really special about him and his daughter mebble trade blizzards is unhappy But now she seems to play a lot and want to meet with Vukar presumably to yell at her 
+
+[00:18:02] Kristin:
+The weird thing about her is that she is on a squad. 
+
+[00:18:06] Drew:
+Huh. 
+
+[00:18:06] Kristin:
+which is puzzling because she is six years old. 
+
+[00:18:09] Kristin:
+And we don't have a squad. 
+
+[00:18:11] Drew:
+Maybe she was a member of a squad at her previous location. 
+
+[00:18:14] Kristin:
+That's what I'm assuming. 
+
+[00:18:16] Drew:
+Which also probably shouldn't happen, but it's maybe a funny bug. 
+
+[00:18:19] Kristin:
+Mm-hmm. 
+
+[00:18:20] Drew:
+Maybe she's like the squad's mascot. 
+
+[00:18:22] Kristin:
+That, that would be fun. 
+
+[00:18:23] Drew:
+Yeah. 
+
+[00:18:24] Kristin:
+Yeah, that could be cute. 
+
+[00:18:24] Drew:
+I've been reading Pratchett and they do occasionally have characters that seem like squad mascots in the watch. 
+
+
+[00:18:33] Kristin:
+So those are my three, four dwarves that I'll be watching. I have a lot more to say about my fort. 
+
+[00:18:42] Kristin:
+because I've been using dfhack a lot, but. 
+
+[00:18:44] Kristin:
+I could use a break from talking, so why don't you talk for a minute? 
+
+[00:18:47] Drew:
+All right, now that is nailing a transition. 
+
+[00:18:49] Kristin:
+Mm-hmm. 
+
+[00:18:51] Drew:
+It's really smooth 
+
+
+[00:18:52] Drew:
+Yeah, I decided to start a new fort because I'm happy to throw people away. 
+
+[00:18:58] Kristin:
+Fine. Great, I love hearing that as your wife. 
+
+[00:19:03] Drew:
+Um, so, in the realm of portents, which was, is still the same world... 
+
+
+[00:19:08] Drew:
+I started channeled bursts in the beak of alchemies. 
+
+[00:19:12] Kristin:
+Ew. 
+
+[00:19:13] Drew:
+of the joyous rock civilization. 
+
+[00:19:16] Kristin:
+Oh, we're the scarlet turquoise, which I think is funny, scarlet turquoise. 
+[interjection] Drew: You're the Scarlet Turquoise.
+
+[00:19:22] Drew:
+Is that, is that like, um, Gru? 
+
+[00:19:25] Drew:
+The color blue and green. 
+
+[00:19:27] Kristin:
+Yeah, I think so. 
+
+[00:19:28] Drew:
+from philosophy, where they say, you know... 
+
+[00:19:31] Drew:
+You can have a color blue-green, and you can have the color blue, and you can have the color green, but you can't have the color grue, which is a combination of the two colors. 
+
+[00:19:39] Kristin:
+No, that is true. 
+
+[00:19:40] Drew:
+Oh. What was I saying? 
+
+[00:19:42] Kristin:
+You're telling us about your fort yes 
+
+[00:19:44] Drew:
+Yes, the Joyous Rock Civilization. 
+
+[00:19:48] Drew:
+and then the site government is called the Organized Channels. 
+
+
+[00:19:53] Drew:
+Um... 
+
+[00:19:53] Drew:
+Our expedition leader is Zazit Saberclasp, a... 
+
+[00:19:58] Drew:
+Female Expedition Leader and Head Miner. 
+
+[00:20:01] Drew:
+who currently 
+
+[00:20:03] Drew:
+is frustrated given the scarcity of cages and chains. 
+
+[00:20:08] Kristin:
+Huh. 
+
+[00:20:09] Drew:
+Yeah. 
+
+[00:20:10] Kristin:
+Oh my, okay. 
+
+[00:20:12] Drew:
+um she is a kindred spirit with etour angel oil oh 
+
+[00:20:17] Drew:
+Itur Angeloyal is our chief mason, also a competent poet. 
+
+[00:20:22] Kristin:
+Huh, that's nice. 
+
+[00:20:23] Drew:
+and is Zossett's close friend. 
+
+[00:20:25] Kristin:
+So they don't necessarily view each other the same way. 
+
+[00:20:28] Drew:
+That's right. Zazit regards Angel Oil as her kindred spirit, and Angel Oil regards her as a close friend. 
+[interjection] Kristin: Bye.
+
+
+[00:20:38] Drew:
+Um, they both worship the god Zuden. 
+
+[00:20:42] Drew:
+who is a dwarven god of laws, discipline, and order. 
+
+[00:20:46] Kristin:
+Well, I mean, they are the organized channels. 
+
+[00:20:48] Drew:
+Exactly. 
+
+[00:20:50] Drew:
+and we have one unhappy dwarf currently for reasons I'll talk about in a minute. 
+[interjection] Kristin: All right.
+
+[00:20:54] Drew:
+Um, the dwarf... 
+
+[00:20:56] Drew:
+Move 
+
+[00:20:57] Drew:
+Mozo. Mo-mo-mo-mozo. 
+
+[00:21:00] Drew:
+Open Standards. 
+
+[00:21:02] Drew:
+Um... 
+
+[00:21:03] Drew:
+He has two work animals, a war opossum and hunting warg. 
+
+[00:21:10] Kristin:
+hunting work. 
+
+[00:21:11] Drew:
+Yes, that's one of his work animals, even though he is a legendary carpenter. 
+[interjection] Kristin: Wow.
+
+[00:21:16] Drew:
+I tend to find I think carpenters wind up being unhappy in Dwarf Fortress. 
+
+[00:21:20] Kristin:
+Huh. Well, I mean, they're a very rock-centric civilization, and they've chosen to work with wood. 
+
+[00:21:25] Drew:
+Yeah. 
+
+[00:21:26] Kristin:
+All they get to make is beds. Pretty much. 
+
+
+[00:21:28] Kristin:
+and chests. 
+
+[00:21:29] Drew:
+Yeah, his characteristics are that he is less private, more shameless, more confident, more rude. 
+
+[00:21:37] Drew:
+Bored by reality and would like to utterly disappear forever into a world of made-up fantasy. 
+
+[00:21:43] Drew:
+He dreams of making a masterwork and has accomplished it, and prefers to consume a possum. 
+
+[00:21:50] Drew:
+Loves them for their ability to play dead. 
+
+[00:21:52] Drew:
+And hates bark scorpions 
+
+[00:21:55] Kristin:
+Well, I would probably hate those too. 
+
+[00:21:57] Drew:
+So he has a opossum. 
+
+[00:22:00] Kristin:
+mhm 
+
+[00:22:00] Drew:
+Or a possum work animal. 
+
+[00:22:01] Kristin:
+Yeah. 
+
+[00:22:02] Drew:
+Likes to eat a possum. 
+
+[00:22:03] Kristin:
+Uh-huh. 
+
+[00:22:04] Drew:
+and also loves them for their ability to play dead. 
+
+[00:22:07] Kristin:
+Yeah, so it would be like if I also enjoyed eating horse. 
+
+[00:22:11] Drew:
+Exactly. 
+
+[00:22:11] Kristin:
+I don't like that. 
+
+[00:22:12] Drew:
+Or rabbit. 
+
+[00:22:13] Kristin:
+Or wrap it. It's even sadder. 
+
+[00:22:17] Drew:
+Um, do the French still eat horse or is that I don't actually know 
+
+
+
+[00:22:23] Drew:
+So, I've been able to make most everyone in my fort pretty well happy by using Dreamfort extensively. 
+
+[00:22:30] Drew:
+So... 
+
+[00:22:31] Kristin:
+It's dream port what you had me set up. Yeah 
+
+[00:22:33] Drew:
+Yeah. 
+
+[00:22:33] Kristin:
+Yeah, that's why I'm clapping because the extensive list of work orders contains many things that I never do and I have to assume that's part of why my dwarves happiness has just been shooting up. 
+
+[00:22:45] Drew:
+Yeah, so Dreamfort, Quickfort, all of that part of DFHack. 
+
+[00:22:49] Drew:
+That is for... 
+
+[00:22:51] Drew:
+designating areas to carve out, so to make bedrooms, and then... 
+
+[00:22:56] Kristin:
+Yes, I used that and that was great. 
+
+[00:22:58] Drew:
+And, uh, you do it in two stages. 
+
+[00:23:00] Kristin:
+Mm-hmm. 
+
+[00:23:01] Drew:
+You do the first one to designate the area to carve out, and then once they've carved it out, you activate the second step, which will put down the furniture. 
+[interjection] Kristin: which will...
+
+[00:23:08] Kristin:
+It's like a stamp. 
+
+[00:23:09] Drew:
+Exactly. 
+
+[00:23:11] Drew:
+And, um, it's worked out really well for me this time. 
+
+[00:23:12] Kristin:
+I have been really pleased with it, yeah. 
+
+[00:23:17] Drew:
+And it's also nice because it generates the areas as well. So it designates all the bedrooms and stuff. 
+
+[00:23:23] Kristin:
+Yeah. Is there one for setting up a barracks? 
+
+[00:23:27] Drew:
+don't think so. I looked and didn't see one, but I... 
+
+[00:23:29] Kristin:
+I looked and didn't see one, but I always figure that doesn't mean it doesn't exist. 
+
+[00:23:33] Drew:
+Yeah, I think I looked for that as well at one point, but yeah. 
+
+
+[00:23:39] Drew:
+But, I mean, we could certainly make one ourselves and save it and use it, so. 
+
+[00:23:43] Kristin:
+Oh, right. That's a good point. 
+
+
+[00:23:45] Drew:
+And then in my fort in order to keep happiness up initially 
+
+
+[00:23:51] Drew:
+I did allow them to grow some mandrake. You'll remember mandrake from my previous fort. 
+[interjection] Kristin: Remember, Mandrake.
+
+[00:23:56] Kristin:
+Mhm. 
+
+[00:23:57] Drew:
+I maybe grew too much and didn't pay attention and they brewed too much mandrake venom. 
+
+[00:24:02] Kristin:
+Yeah. 
+
+[00:24:03] Drew:
+Um, and all got poisoned high and fighting on it. 
+
+[00:24:07] Kristin:
+Not the best. 
+
+[00:24:08] Drew:
+Even this time, I only made a 4x4 square of mandrake that they could grow and still had to just kind of plow over that after a bit. 
+
+[00:24:17] Drew:
+Um... 
+
+[00:24:18] Kristin:
+They have no ability to moderate. 
+
+
+[00:24:21] Drew:
+But on the other hand, it does make people extremely happy. 
+
+[00:24:24] Kristin:
+Yeah, that's good. 
+
+[00:24:25] Drew:
+And it's also kind of funny to just be looking around to all the different dwarves and their statuses and have them all be both like. 
+
+[00:24:32] Drew:
+needs a diagnosis because they're poisoned, but also aroused. 
+
+[00:24:39] Drew:
+We've had no artifacts yet, but we are at 100,000 dwarf bucks generated of value. 
+
+[00:24:47] Kristin:
+Wow. Yeah, no artifacts for me either. 
+
+[00:24:50] Drew:
+um let's see was there anything else i want to talk about that part because i'll talk about my uh adventure mode after i kick it back to you for a minute 
+
+[00:24:59] Drew:
+But, uh, the. 
+
+[00:25:02] Drew:
+In addition to the Dreamfort designation stuff, 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: I did also import my work orders. And I may have messed that up a little bit because I went back and looked when we were talking about a possible bug. 
+
+[00:25:14] Kristin:
+Yeah. 
+
+[00:25:15] Drew:
+I went back and looked over the DFHack notes about that import, and the text, which I think is from Mike, recommends not using it until you have enough dwarves to really be able to service the work orders. 
+
+[00:25:28] Kristin:
+Yeah, I've been struggling a little bit on the labor front. 
+
+[00:25:32] Kristin:
+But I've been able to work around it pretty quickly and just reprioritize stuff when I need it to happen. 
+
+[00:25:37] Drew:
+Yeah, I think that's kind of what I do as well. Also, because when you do those imports in the work order menu, you know, 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: because they've got the... 
+
+[00:25:47] Drew:
+i think they have seven maybe in the default or something like that you know that list 
+
+[00:25:51] Kristin:
+That list of work orders? 
+
+[00:25:52] Drew:
+Yeah. 
+
+[00:25:52] Kristin:
+Oh, it's way more than seven. 
+
+[00:25:53] Drew:
+no no the when the import list oh the list of text files to import um 
+
+[00:25:59] Drew:
+i normally have been just putting the first two in there which winds up being about 34 but if i just done the first one i think it's only about five or ten okay yeah 
+
+[00:26:08] Drew:
+So... 
+
+[00:26:09] Drew:
+Anyway, so, but if you get a little bored with having to set your work orders up each time, definitely look into that. 
+[interjection] Kristin: Anyway.
+
+[00:26:16] Kristin:
+or if you're like me and apparently don't make a lot of things that dwarves want and or need, you just grab that and then suddenly they have things like paste. 
+
+
+[00:26:29] Kristin:
+I don't know what paste is, but it includes stuff like the basics for paper and scrolls and all that stuff. 
+
+[00:26:39] Drew:
+Yeah, and there is in the Dreamfort a designation and then location creation for stockpiles and workshops. 
+
+[00:26:51] Kristin:
+Yeah, I haven't really experimented with that one. Have you? 
+[interjection] Drew: Which, uh...
+
+[00:26:55] Drew:
+Yeah, it's worked out pretty well for me. 
+[interjection] Kristin: No, they wouldn't.
+
+[00:26:57] Kristin:
+Yeah. 
+
+[00:26:58] Drew:
+Um... 
+
+[00:26:59] Drew:
+I was going to say the interesting thing about paste is I learned when I was looking through some other stuff that I believe quarry bushes 
+[interjection] Kristin: I was.
+
+[00:27:07] Drew:
+They're nuts, which are called rock nuts. 
+[interjection] Kristin: Mhm.
+
+[00:27:10] Drew:
+can be. 
+
+[00:27:12] Drew:
+milled into a paste. 
+
+[00:27:14] Drew:
+and that paste. 
+
+[00:27:16] Drew:
+I'm not sure if the paste is used or if there's an oil that comes off the paste, but at any rate. 
+
+[00:27:20] Kristin:
+Mm-hmm. 
+
+[00:27:20] Drew:
+um can be used as for your soap making as opposed to requiring tallow or fat from animals 
+[interjection] Kristin: Oh, wow.
+
+[00:27:28] Kristin:
+I probably don't have the equipment or workshop or whatever to be making paste, huh, because I don't have a grinder, you know, whatever. But you can make those. Oh yeah, I know, but I don't have it currently. 
+[interjection] Drew: Right, but you can make those.Oh, yeah, I know.
+
+[00:27:40] Drew:
+Yeah. 
+
+[00:27:40] Kristin:
+And wouldn't, I mean, we really just don't have enough dwarves. 
+
+[00:27:43] Drew:
+Yeah, that's kind of what it comes down to. 
+
+
+[00:27:46] Drew:
+And with the corn I think isn't yeah corn 
+
+[00:27:50] Kristin:
+Mm-hmm. 
+
+[00:27:53] Drew:
+It is hard to set that up in a way that they just don't start grinding everything to dust, so you have to... 
+
+[00:28:01] Drew:
+I think the way I've done it in the past is creating a stockpile for only one type of seed and then telling it to only take from that stockpile. 
+[interjection] Kristin: than telling it.
+
+
+[00:28:12] Drew:
+It's a bunch of steps. 
+
+
+[00:28:13] Drew:
+But that's the joy of Dwarf Fortress. 
+
+[00:28:15] Kristin:
+fortress. I did find one funny thing and I have no idea how it happened because 
+
+[00:28:20] Kristin:
+you're 
+
+[00:28:21] Kristin:
+work order list did not have this problem, but I was ending up with just an infinite loop of making 
+[interjection] Drew: but I would.
+[interjection] Kristin: minecarts and wheelbarrows because it was set to, like, if the number available is, I think it was greater than. 
+
+[00:28:35] Drew:
+Yeah. 
+
+[00:28:36] Kristin:
+And so they just kept making more and more. 
+
+[00:28:38] Drew:
+Yeah, I think it was set to at least instead of at most. 
+[interjection] Kristin: son of a-
+[interjection] Drew: Oh, yeah. 
+
+[00:28:41] Kristin:
+Oh, yeah, yeah So I just fixed that because I was like, why do we have six minecarts and I never even use minecarts 
+
+[00:28:50] Drew:
+So I don't think you've ever actually put a manual work order in for a minecart. 
+
+[00:28:54] Kristin:
+A minecart? No. Sorry, Rurik. I've never used a minecart. 
+
+
+[00:28:58] Drew:
+Oh, but, uh, I went and double checked that and it worked fine on mine, so just... 
+
+[00:29:03] Kristin:
+Yeah, I probably misclicked or who knows. 
+
+[00:29:06] Drew:
+I don't know. Dwarf fortress. Get kicked in the head. Eyes crossed. Fall down a well. Eyes uncrossed. 
+
+[00:29:11] Kristin:
+Exactly. 
+
+[00:29:12] Drew:
+Um, sometimes stuff just happens. What the hell. 
+
+
+[00:29:18] Drew:
+Uh-huh. 
+
+[00:29:18] Drew:
+Let's see here. So. 
+
+[00:29:21] Drew:
+That's kind of it for me for the moment. I'll come back to my, uh, adventure mode. 
+
+[00:29:26] Kristin:
+Mm-hmm. 
+
+[00:29:27] Drew:
+Um... 
+
+[00:29:27] Drew:
+Did you want to tell us about your experiments in RimWorld? 
+
+[00:29:30] Kristin:
+Sure, yeah, we'll kind of break up our Dwarf Fortress content with some RimWorld content. 
+[interjection] Drew: Yeah.
+
+[00:29:35] Drew:
+We'll force them to listen. 
+
+[00:29:38] Kristin:
+I, there's, there's definitely overlap, um, because. 
+
+[00:29:41] Drew:
+Very, very small overlap. 
+
+[00:29:43] Kristin:
+Oh, yeah. 
+
+[00:29:44] Kristin:
+well that's the funny thing is that like as i am playing um rimworld and like looking into the subreddit and stuff like that and talking to 
+
+[00:29:53] Kristin:
+other 14 players that are in my discord that I, you know, anyway. 
+
+[00:29:57] Kristin:
+I have ended up occasionally feeling oddly defensive of Dwarf Fortress because there's so much in RimWorld that 
+
+[00:30:04] Kristin:
+is dwarf fortress yeah like these are your zones and your stockpiles and it's just like oh i see what happened here 
+
+[00:30:11] Kristin:
+and then someone called it said that they had heard it. 
+
+[00:30:14] Kristin:
+referred to as Dwarf Fortress, but playable and I was like, excuse me. 
+
+[00:30:20] Drew:
+Do not. That's pretty mean. Yeah. 
+
+[00:30:22] Kristin:
+Yeah, but I think that that person that I was talking to actually 
+
+[00:30:26] Kristin:
+played Dwarf Fortress in an older ASCII version when they were in college. 
+
+[00:30:32] Drew:
+That's fair. 
+
+[00:30:33] Kristin:
+yeah so they they put in the time but um i i really did not expect to like rimworld because i know you played it and didn't 
+
+[00:30:41] Kristin:
+Really enjoy it. 
+
+[00:30:42] Drew:
+Mm-hmm 
+
+[00:30:42] Kristin:
+um 
+
+[00:30:44] Kristin:
+But I was like, eh, what the hell? I would like to be. 
+
+[00:30:46] Kristin:
+uh, versed in this similar game. So I tried it out and at first I was like... 
+
+[00:30:51] Kristin:
+I- I don't know, like... 
+
+
+[00:30:59] Kristin:
+the tutorial settlement one of the first three colonists died after being attacked by a mad rat. 
+
+[00:31:06] Kristin:
+Uh, yeah, but I think that one ended because one of my people was... 
+
+[00:31:12] Kristin:
+a former model, I guess, and she didn't, she wouldn't do anything, like, she couldn't do 
+
+[00:31:23] Drew:
+She... didn't she want to raise animals or whatever? 
+
+[00:31:26] Kristin:
+She had some handling skill, but not a lot. So I think I had her like taming guinea pigs 
+
+[00:31:34] Kristin:
+Which was, I guess it could have become meat or whatever, but then... 
+
+[00:31:37] Kristin:
+they started sleeping on the little designated animal spot and I was like, well, crap. 
+
+[00:31:43] Kristin:
+That's not, that's a pet now, that's not food. Um, and then I had her tame like an alpaca or something, but... 
+
+[00:31:49] Kristin:
+I ended that one because I sent the competent person off on a mission because 
+
+[00:31:55] Kristin:
+I had never. 
+
+[00:31:56] Kristin:
+I didn't know what those quests were like and I was like, sure, let's go see if we can rescue this person because I could. 
+
+[00:32:01] Kristin:
+After losing someone to the mad rat, I could use another person. 
+
+[00:32:04] Kristin:
+well she got killed immediately and then it was just the useless model so I was like all right we're done with this. I started a new settlement and I think that I see what people enjoy in that you have three little meeples and you get to know them pretty well. So we have 
+[interjection] Drew: Mm-hmm.
+[interjection] Kristin: Felicia Galloway, the murder housewife as I have dubbed her. She is a vat grown soldier who later became a housewife. 
+
+[00:32:30] Kristin:
+We have Lilith Luxemburg, who was a high baroness in her youth. 
+
+[00:32:35] Kristin:
+But her research into robotics got her exiled or excommunicated or something. 
+
+[00:32:40] Kristin:
+which was fun. And then her daughter Penelope Ploppy. Ploppy? No. 
+
+[00:32:45] Drew:
+floppy 
+
+[00:32:46] Kristin:
+Penelope Poppy Bluthgeld who she I noticed in the list that like 
+[interjection] Drew: Poppy!
+
+[00:32:54] Kristin:
+among their relations, there was this mother and daughter. So I was like, all right, I got to take this kid. She is. 
+
+[00:32:59] Kristin:
+an herb world urchin. 
+
+[00:33:01] Kristin:
+Only a teenager and she doesn't have that many skills yet, but she's learning. Yeah um And there was a centipede burner 
+
+[00:33:18] Kristin:
+With an Inferno Cannon? 
+
+[00:33:21] Kristin:
+which is about what it sounds like. 
+
+[00:33:23] Drew:
+Yeah, it was a giant robotic centipede that came out and just started lighting everything on fire. 
+
+[00:33:29] Kristin:
+everything, including the people. 
+
+[00:33:31] Kristin:
+type notification and that was another one where i was like excuse me 
+[interjection] Drew: another one bro
+
+[00:33:43] Drew:
+and uh you were breaking into that building because there were antique cryopods oh there 
+
+[00:33:48] Kristin:
+oh there were antique cryopods i didn't know that until i got in there but i was like 
+
+[00:33:53] Kristin:
+Okay, so these are buildings. They probably have stuff inside them that I could use, and I saw a tip in their wiki that was like, if you can build in or against old structures, that will be a nice little bonus. So I was like, all right, let's try that. Well, it didn't go well the first time. 
+
+[00:34:13] Kristin:
+So I saved save scum because I was like well crap I'm I'm attached to these these three ladies and I have not tried to do a quest because like one of them was um to go rescue the murderhouse wife's boyfriend and what was it you told me like she she can grow a new one or she 
+
+[00:34:35] Kristin:
+Shiloh, there will be more boyfriends might be what you said and then another one where um a 
+[interjection] Drew: Yeah.
+[interjection] Kristin: There there was some other prisoner. Oh, it might have been the other one's husband And I felt a little bad about it I did feel a little bit bad in both cases But there were I knew that there were going to be turrets and stuff like that and we're just not equipped to go rescue people um, we also have a had a wild man wandering around 
+
+[00:35:05] Kristin:
+with the option to tame him. 
+
+[00:35:07] Kristin:
+which we didn't have a high enough taming skill to do. 
+
+[00:35:10] Drew:
+Alas but he got murdered 
+
+
+[00:35:14] Drew:
+Fair enough. 
+
+[00:35:15] Kristin:
+Uh, we did take the stuff that the raiders didn't take with them. We stripped his body and kept his stuff, which I don't feel that bad because he was stealing from us the whole time. 
+
+[00:35:25] Drew:
+And you didn't eat him. 
+
+[00:35:26] Kristin:
+No. 
+
+[00:35:28] Drew:
+The, uh... 
+
+[00:35:29] Drew:
+I was just looking up on Wikipedia here and, uh, the. 
+[interjection] Kristin: Mm-hmm.
+
+[00:35:32] Drew:
+RimWorldCreators did say that they were inspired by Dwarf Fortress as well as Firefly. 
+
+[00:35:39] Kristin:
+I can see that for sure. 
+[interjection] Drew: I can see-
+
+[00:35:40] Drew:
+Yeah, everyone really liked Firefly for a while then. 
+
+[00:35:42] Kristin:
+Yeah, they had a moment. 
+
+[00:35:44] Drew:
+Um 
+
+[00:35:45] Drew:
+But yeah, when I played it back in the day, I was trying to think about like, why didn't it super click with me? 
+
+[00:35:50] Kristin:
+I thought you played it on a stream once. We'll have to go into our own archives and see. 
+
+[00:35:55] Drew:
+I think I... 
+
+[00:35:56] Drew:
+I did. I played, uh, Oxygen Not Included on a stream, but I don't think Rimworld. Oh, well, we'll check it out. 
+
+[00:36:01] Drew:
+But at any rate back in back in the day when I started playing Dwarf Fortress I played Rimworld and kind of bounced off it 
+[interjection] Kristin: Mm-hmm.
+
+[00:36:08] Drew:
+And I think. 
+
+[00:36:10] Drew:
+Partly and maybe I would change my opinion now. Yeah 
+
+[00:36:13] Kristin:
+Yeah, I think I'm going to make you play it because I've been having so much fun. 
+
+[00:36:15] Drew:
+Maybe I'll play some of that tonight. 
+
+[00:36:19] Drew:
+The 
+
+[00:36:20] Drew:
+My main issue there versus Dwarf Fortress is that with Dwarf Fortress I enjoy... 
+
+[00:36:26] Drew:
+being 
+
+[00:36:27] Drew:
+in a world and not really having that world. 
+
+[00:36:31] Drew:
+bend itself around me. 
+
+
+[00:36:33] Drew:
+whereas I feel like RimWorld with its whole adventure, not adventure, its whole. 
+
+
+[00:36:40] Drew:
+Storyteller system does. 
+[interjection] Kristin: Yeah.
+
+[00:36:43] Drew:
+bend around you and you become sort of the hero. 
+
+[00:36:46] Kristin:
+I don't feel that way because men... 
+
+[00:36:48] Kristin:
+Nothing but shit has happened to these four little people, but I do see that people, like, there's like. 
+
+[00:36:54] Kristin:
+Star flight 
+
+[00:36:55] Kristin:
+you can go off you can research flying off into space yeah um so 
+
+[00:36:58] Drew:
+Yeah, so there is a win condition. 
+
+[00:37:01] Kristin:
+Yeah, and even though it feels completely unattainable to me right now as a beginner, I know that that's out there. 
+
+
+[00:37:08] Kristin:
+One note that I do have about RimWorld 
+
+[00:37:12] Kristin:
+versus Dwarf Fortress, and we all know that Dwarf Fortress is superior in every way, but the the expansions are kind of expensive. And a lot of them. There are like six of them, five or six, maybe not six, but so there are a couple that I'm interested in, but they're like 
+[interjection] Drew: Yeah.
+[interjection] Kristin: 30 bucks a piece, and I know that we're all really spoiled and that I drop that much on Diablo Cosmetics all the time, but it just it seems like a lot to me. 
+
+[00:37:39] Drew:
+Yeah, it's just hard because I think that the work they put into it is worth that. 
+
+[00:37:45] Kristin:
+Yeah, but... 
+
+[00:37:46] Drew:
+It comes down to the visuals again, and it's just funny to say that as Dwarf Fortress players, but 
+
+
+[00:37:53] Drew:
+You know, they decided, OK, we're going to actually like. 
+
+[00:37:56] Drew:
+sell this semi-seriously into War Fortress and so they sat down and they made the visuals 
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: really pretty because they're like 
+
+[00:38:03] Drew:
+You can't ask, even when you've got an absolutely awesome system, you have to have a little bit of bling to make people want it. 
+
+[00:38:10] Kristin:
+Yeah, like, so with the soundtrack and the... 
+
+[00:38:12] Kristin:
+Some people still don't like the current graphics, but I think they're really cute. 
+
+[00:38:15] Drew:
+Yeah. 
+
+[00:38:16] Kristin:
+So. 
+
+[00:38:16] Kristin:
+Guess it's not for everyone. I 
+
+[00:38:19] Kristin:
+I guess I could probably put a visual mod on RimWorld to make it more colorful. 
+
+[00:38:24] Drew:
+It is very drab. 
+
+[00:38:25] Kristin:
+It's very drab. That's my big complaint about the graphics. It's verified on Steam Deck, and the learning curve is kind of steep, but I played some on Steam Deck and it's been fine. Good. So, yeah, that's a nice plus. I might end up getting one of the expansions, but I don't know which one. Maybe Ideology, because that sounds like fun. Well, you want to talk about Dwarf's Fortress some more? 
+
+[00:38:50] Drew:
+Yeah, I can go back and talk about my adventure mode a little bit. 
+
+[00:38:54] Kristin:
+Yeah. 
+
+[00:38:55] Drew:
+Um, so. 
+
+[00:38:57] Drew:
+I'm continuing on with one of my adventure mode trials, which is my Decapodian hero. 
+[interjection] Kristin: Oh.
+
+[00:39:05] Drew:
+Kukichi Lashurge, who I'll just stick with calling Lashurge, you'll remember him as a 
+
+[00:39:12] Drew:
+expert um expert uh marks pod i think is his name pot mark i think marks pod um with his uh friend 
+[interjection] Kristin: Well, it's fun.
+[interjection] Drew: the um expert swordsman squirrel man 
+
+[00:39:27] Kristin:
+Yes. 
+
+[00:39:28] Drew:
+along with their giant bear and giant war turtle and hunting worms, hunting bobbit worms. 
+
+[00:39:35] Kristin:
+great. 
+
+[00:39:35] Drew:
+I did, since then, look up bobbit worms, and I was wrong that they are not actually the ones that eat the whale carcasses on the bottom of the ocean. Instead, they do dig through the ground, and if you've ever... 
+
+[00:39:49] Drew:
+um seen in like a sci-fi movie one of those sort of faceless worms that pop up out not the dune ones but the ones that pop out with pincers that like shoot out of their mouth and click 
+
+[00:40:01] Kristin:
+Oh, yeah, yeah. 
+
+[00:40:02] Drew:
+That's basically them. 
+
+[00:40:03] Kristin:
+Yipee! 
+
+[00:40:04] Kristin:
+Oh. 
+
+[00:40:04] Drew:
+Oh, apparently the largest of them grow to be 10 feet long but remain around 1 inch wide. 
+
+[00:40:10] Kristin:
+Ew. 
+
+[00:40:11] Drew:
+Yes. 
+
+[00:40:12] Drew:
+At any rate... 
+
+[00:40:14] Drew:
+The Squirrelman Swordmaster with his wooden sword, Salvor Coastroot. 
+
+[00:40:21] Drew:
+together with Kuchi. 
+
+[00:40:24] Drew:
+Kuchi Lash Urge, they did actually accomplish one adventure. 
+
+[00:40:28] Kristin:
+Oh wow, great. 
+
+[00:40:29] Drew:
+which was when we gave up trying to convince the queen of the area that we walked to to give back an artifact. 
+
+[00:40:38] Kristin:
+Mhm. 
+
+[00:40:39] Drew:
+We talked to some other people in the tavern and one of them mentioned a minotaur that had been terrorizing the population. 
+
+[00:40:45] Kristin:
+Yeah. 
+
+[00:40:46] Drew:
+So we went to the Swamp of Cover. 
+
+[00:40:50] Drew:
+looked around a bit and found the sports of shoving. 
+
+[00:40:53] Kristin:
+Buh-bye! 
+
+[00:40:55] Drew:
+A labyrinth? 
+
+[00:40:56] Drew:
+Wow, which I completely misspelled in my notes. 
+
+[00:40:59] Kristin:
+That's okay. It's a hard word to spell. 
+
+[00:41:01] Drew:
+Um... 
+
+[00:41:02] Drew:
+which we descended down in, and three layers down we found Tikabir, the Minotaur. 
+
+[00:41:09] Drew:
+and fought him. 
+
+[00:41:10] Drew:
+And it took a while to fight him, but between the war bear and the giant war turtle and... 
+
+[00:41:18] Drew:
+expert swordsman and shooting at him and all that, we finally did manage to take him down and have his head to present to people. 
+
+[00:41:26] Kristin:
+Excellent. Did you get duly compensated? 
+
+[00:41:29] Drew:
+No, I haven't gone back to the same city because I have gone in a different direction now for some other interesting stuff 
+[interjection] Kristin: Yeah.
+
+[00:41:36] Drew:
+But, eventually we'll show back up there and show people that. 
+
+[00:41:39] Kristin:
+Maybe then the queen will give back the thing. 
+
+[00:41:42] Drew:
+I mean, you have to think that they would tend to take you a little more seriously. 
+
+[00:41:45] Kristin:
+Yeah, I maybe should at least listen to you. 
+
+[00:41:47] Drew:
+So the place that we'll be going to next is the step the steps steps of whipping 
+[interjection] Kristin: Mm-hmm.
+
+[00:41:56] Kristin:
+Hm. 
+
+[00:41:56] Drew:
+in the blockaded island that isn't actually an island. 
+
+[00:42:00] Drew:
+in order to investigate. 
+
+[00:42:03] Drew:
+Heal Sewers, the Pit of Holds, a cave where the Cyclops Tyramte is rumored to be. 
+
+[00:42:10] Drew:
+This is common knowledge where you are from. 
+
+[00:42:12] Drew:
+and then also the troglodyte. 
+
+[00:42:15] Drew:
+Assata Sheenwet is rumored to be in Singedcracks, a lair to the south of... 
+
+[00:42:22] Drew:
+healed sewers 
+
+[00:42:23] Kristin:
+Huh. 
+[interjection] Drew: Oh.
+
+[00:42:24] Drew:
+You 
+
+[00:42:24] Drew:
+so we're going to go see if we can't take care of those. Cyclops might be a little bit outside our realm. They're pretty big. 
+
+[00:42:32] Kristin:
+Oh, okay. I wasn't thinking of size. I was like Minotaur seems pretty. 
+
+[00:42:36] Drew:
+Yeah, well, I think the Cyclops are, aren't they? Maybe there's giant Cyclopses and regular Cyclopses. 
+[interjection] Kristin: than regular psychopsis.
+
+[00:42:43] Drew:
+Anyway, so I've been pretty amused by Adventure Mode. 
+[interjection] Kristin: Yeah.
+[interjection] Drew: My biggest complaint, of course, is, I think... 
+
+[00:42:50] Drew:
+the just the fact that it's a beta and some of the features don't work so again like 
+
+[00:42:55] Drew:
+I just don't have any real way of applying conversational pressure to the queen to get the item back to take back to my home village. But I can go around and kill crap. 
+
+[00:43:05] Kristin:
+Yeah, for sure. 
+
+[00:43:07] Drew:
+Um, but yeah, that's my little adventure mode update. 
+
+[00:43:11] Kristin:
+I'm looking forward to trying it. 
+
+[00:43:13] Drew:
+Yep, you'll eventually have to try the beta, but yeah, we still need some of the some of the features to get 
+
+[00:43:20] Kristin:
+Yeah, I can wait a little bit longer. 
+
+[00:43:23] Kristin:
+Um... 
+
+[00:43:24] Kristin:
+i mean related to that one of the games that i tried when i was going through my steam library and trying things that i hadn't tried was clanfolk 
+
+[00:43:32] Kristin:
+which I think is going to be really, really good. 
+
+[00:43:34] Drew:
+Mm-hmm. 
+
+[00:43:34] Kristin:
+But it is in early access, and I gather that it's changed a lot, just probably even since I bought it. But the settlement hook there is that you are a family of clans people, Scottish clans people. 
+
+[00:43:51] Kristin:
+and you're settling in the wilderness and it has all the basics of, you know. 
+
+[00:43:56] Drew:
+And its art style is similar to RimWorld, but more colorful, right? 
+
+[00:43:59] Kristin:
+Yes, much more colorful. 
+
+[00:44:02] Kristin:
+and I don't know that I have a ton to say about it. It does feel like stuff is missing though, like furniture. I think that is coming, but like they have sleeping spots and maybe I have to research more in order to actually make furniture. And I know you can build houses and stuff, but... 
+
+[00:44:22] Kristin:
+when we, um... 
+
+[00:44:23] Kristin:
+We do. 
+
+[00:44:23] Drew:
+We did the Scots invent furniture 
+
+[00:44:25] Kristin:
+Yeah, I don't know. 
+
+[00:44:27] Kristin:
+Um, but what's interesting is that as they do things, they will have ideas, um, to make new things. Uh, so just playing it, I had that feeling of like, oh, this is going to eat a lot of my time. 
+
+[00:44:39] Drew:
+So, one thing I did want to ask you, kind of from a conceptual point of view. 
+
+[00:44:43] Kristin:
+Mm-hmm. 
+
+[00:44:44] Drew:
+uh both for RimWorld and I believe ClanFolk as well but I could be wrong about this they both have research trees. 
+
+[00:44:52] Kristin:
+I can't remember about clan folk exactly, but we can 
+
+[00:44:55] Drew:
+But we can stick with RimWorld, because RimWorld and OxygenNotIncluded both have... 
+[interjection] Kristin: Yes.
+
+[00:45:00] Kristin:
+Yeah. 
+
+[00:45:00] Drew:
+research trees. Dwarf Fortress, of course, doesn't. 
+
+[00:45:03] Kristin:
+Mhm. 
+
+[00:45:03] Drew:
+When you're doing the settlement simulation type builder, what do you think about? 
+
+[00:45:08] Drew:
+Um... 
+
+[00:45:09] Drew:
+research trees specifically as opposed to just having to get the things together. 
+
+[00:45:13] Kristin:
+Um, sometimes I like it because... 
+
+
+[00:45:19] Kristin:
+you can, it will lead to specialization, because I'm thinking about, I think it's Settlement Survival that I played quite a bit. It has a really extensive tech tree, and you don't have that many points, so it kind of forces you, instead of opening up everything, to... 
+[interjection] Drew: Mm-hmm.
+
+[00:45:37] Kristin:
+uh, go down one route and do like fabric and stuff like that. 
+
+
+[00:45:43] Kristin:
+Which game was it that I played recently? I think Dot Age. 
+
+[00:45:46] Kristin:
+wants you to unlock everything in the tree which ends up feeling like a lot of work. 
+
+[00:45:52] Drew:
+Yeah. 
+
+[00:45:53] Kristin:
+One thing in RimWorld is that so far, and granted I'm not very far into the game, the tech tree is kind of small. 
+
+[00:46:03] Kristin:
+And, um... 
+
+[00:46:04] Kristin:
+It feels like the act of the research. 
+
+[00:46:08] Kristin:
+is just something. 
+
+[00:46:10] Kristin:
+that it's occupying the settler's time and that is the goal. It is the sacrifice that you make to get the thing. It's the meeple's time when they could be hunting or whatever. 
+
+[00:46:21] Drew:
+yeah i i don't think it's a small tech tree but there's it's hard to see all of it or access all 
+
+[00:46:30] Kristin:
+might be and maybe like more will appear but i can just scroll right and see like starship research it's like right there 
+
+[00:46:37] Drew:
+Yeah, right. And I guess, again, that gets back to the goal that you're trying to, like, you have a goal, so. 
+
+[00:46:46] Kristin:
+Yeah. 
+
+[00:46:46] Drew:
+You're supposed to work your way through that and so you have to, yeah, I don't know. 
+
+
+[00:46:52] Drew:
+Again, I don't know when I realized there was kind of a goal it's weird that a goal would put me off and I'm like 
+
+
+[00:46:59] Drew:
+So. 
+
+[00:47:00] Kristin:
+um one thing that i think i'm i didn't i only played like 45 minutes of clanfolk before i was like i might let this one cook a little bit more because i think it's going to be really good 
+
+[00:47:10] Kristin:
+But I do like the idea of the ideas and as they're doing something. 
+
+[00:47:16] Kristin:
+something related to that will occur to them. 
+
+
+[00:47:19] Kristin:
+so that it's more organic than like, I'm gonna just, I'm gonna sit down and research flak jackets today. Like, yeah. 
+
+[00:47:26] Drew:
+Yeah, and I mean, that's maybe a one, kind of. 
+
+[00:47:30] Drew:
+annoying thing in Dwarf Fortress is that, you know, they can have their ideas and people can come by and say new ideas and that, but doesn't result in something new to do. 
+
+[00:47:40] Kristin:
+Yeah. 
+
+[00:47:40] Drew:
+Except with animal training, I think. I think that's the only one that you can... 
+
+[00:47:44] Drew:
+If someone in your civilization develops an improved version, like a more advanced version 
+[interjection] Kristin: Perfect.
+[interjection] Drew: of training a particular animal, then they can come and relay it or something. 
+
+[00:47:54] Kristin:
+A lot of when that stuff happens in Dwarf Fortress, it's just color, I think, rather than ending up being a game mechanic, like inventing philosophy or something like that. 
+
+[00:48:05] Drew:
+But the color is part of why I like Dwarf Fortress. 
+
+[00:48:08] Kristin:
+Yes, I like that about Dwarf Fortress. 
+
+[00:48:10] Drew:
+Being able to click on a book and have it talk about the mating habits of squid. 
+
+[00:48:14] Kristin:
+Exactly. 
+
+[00:48:16] Drew:
+So. 
+
+[00:48:17] Drew:
+Um... 
+
+[00:48:17] Kristin:
+And then the other game that I played was Fabledom, which I don't think there would be a ton of interest 
+[interjection] Drew: I don't know.
+[interjection] Kristin: from our listeners in that game, but it's the fairy tale themed. 
+
+[00:48:27] Kristin:
+settlement game and you are a prince princess monarch and there are other monarchs who will be romantically interested in you I didn't get that far along but the fairy tale element is fun because at one point like just in exploring and claiming land I found like the missing shoe and planted a beanstalk and there's a voiceover narrative that is actually very much in the style of Love Island which you now know about but I'm sure no one else listening to this does in that it is a slightly ironic Scottish man 
+
+[00:49:04] Kristin:
+or British man in this case, but it's fun. I think as a little palette cleanser, I'll keep playing it here and there, cause it's cute. 
+
+[00:49:11] Kristin:
+Yeah. 
+
+[00:49:12] Drew:
+Um, let's see, the only other thing I really wanted to cover today was, uh, 
+
+[00:49:19] Drew:
+For some more content, I'm going to start trying to read some of the Dwarf Fortress scholarly articles. 
+
+[00:49:25] Kristin:
+Oh, fascinating. 
+
+[00:49:26] Drew:
+Um... 
+
+[00:49:26] Kristin:
+Oh my god, I'm a nerd. 
+
+[00:49:27] Drew:
+Yeah, that was a genuine exclamation. 
+
+[00:49:31] Drew:
+A genuine ejaculation of excitement. Yes. 
+
+
+[00:49:35] Drew:
+So the one I'm going to try to read for next time is called Dwarf Fortress. 
+
+[00:49:41] Drew:
+colon. 
+
+[00:49:41] Drew:
+Laboratory and Homestead 
+
+[00:49:43] Kristin:
+Have fun. 
+
+[00:49:44] Drew:
+by Robert Fordyce in Games and Culture. So I'll post a link to the DOI in the show notes. 
+[interjection] Kristin: classes.
+[interjection] Drew: Great. So anybody who wants to read that can read along as well. 
+
+[00:49:55] Kristin:
+That's a very good idea that you, I mean, didn't tell me about beforehand. I guess I could have read it in the show notes. 
+
+[00:50:01] Drew:
+Yeah, I mean, I did put it in the show notes before we came up here to record. 
+[interjection] Kristin: I know, I could have read it.
+
+[00:50:05] Kristin:
+I could have read the show notes instead of just adding my bits to them. 
+
+[00:50:08] Drew:
+since, uh, I read the show notes in order to make the images. 
+
+[00:50:12] Kristin:
+I know, I know. 
+
+[00:50:13] Drew:
+At any rate... 
+
+[00:50:14] Kristin:
+I'm a monster 
+
+[00:50:17] Drew:
+So, at any rate, we'll see if I actually find that interesting enough to be an inclusion next time. 
+
+[00:50:23] Kristin:
+Yeah. 
+
+[00:50:23] Drew:
+And I do know that, um... 
+
+[00:50:26] Drew:
+Tarn has written a couple of small articles and parts and books and stuff on like procedural generation so it might be fun to look at that and just talk about it for a few minutes just 
+[interjection] Kristin: and so it might be...
+[interjection] Drew: some different content than just talking about the game proper. 
+
+[00:50:40] Kristin:
+Yeah, and I think that as long as I'm on my RimWorld kick, we'll continue to have a little. 
+
+[00:50:46] Kristin:
+rim world corner in our episodes and um 
+
+[00:50:50] Drew:
+because you talked to somebody in the 14 discord right who was crazy and had 500 mods or something 
+[interjection] Kristin: if you will.
+
+[00:50:56] Kristin:
+Yes, that's another thing we didn't even talk about. I went and looked. 
+
+[00:51:00] Kristin:
+at the community workshop for RimWorld and there are something like 30,000. 
+
+[00:51:06] Drew:
+There's a lot more than Dwarf Fortress. I don't know, partly it's Dwarf Fortress hasn't been around as long, but also Dwarf Fortress... 
+[interjection] Kristin: So I don't know.
+
+[00:51:10] Kristin:
+It hasn't been on Steam in a long time. 
+
+[00:51:12] Drew:
+Yeah. 
+
+[00:51:12] Kristin:
+Um 
+
+[00:51:13] Drew:
+Yeah, not around as long, that was a stupid thing to say, but you guys know what I mean. 
+
+[00:51:16] Kristin:
+Yeah, I was kind of staggered. I'm gonna stay vanilla for now. But yeah, the person in my 
+[interjection] Drew: For now.
+[interjection] Kristin: 14 discord said that the game is like two gigabytes and his folder of mods is 20. 
+
+[00:51:31] Drew:
+I can believe it. Some people are really crazy about it and go through and add like a bunch of new, with the ideologies especially is my understanding because that's how you can set up things like, you know, cyborg settlers and all this different stuff. 
+
+[00:51:46] Kristin:
+I don't, I don't know if people want, I'm... 
+
+[00:51:50] Kristin:
+people want to listen to this, but, um, 
+
+[00:51:52] Drew:
+Yeah, we can save for the next one. 
+
+[00:51:53] Kristin:
+Okay, I I just he sent me his list of mods and let's say that for the next one No, I just I'm looking at what would you say? That's 300 words describing all of the types of mods. Yeah, maybe 500 words 
+[interjection] Drew: the types of mods, yeah, maybe five.
+
+[00:52:07] Kristin:
+in that it has a message.txt. So he is big into the modding, and I'll be interested in learning more about that. 
+
+[00:52:16] Drew:
+Yeah, so I think that is a pretty good coming back from break show. 
+
+[00:52:22] Kristin:
+Yes, and I'm not 100% willing to say that we'll be on a completely regularly regular schedule because Dawn Trail is coming out Friday. 
+
+[00:52:30] Drew:
+And then it's 4th of July as well. 
+
+[00:52:32] Kristin:
+Yes, so it might be 
+
+[00:52:35] Kristin:
+three weeks instead of two weeks before the next one, but we will be back soon. 
+
+[00:52:39] Drew:
+Yeah, I mean, it's just summer. Everybody's out doing stuff. I mean, it's the same reason why Discord's a little dead and all that. It's just summer. 
+
+[00:52:46] Kristin:
+Yep. 
+
+[00:52:47] Kristin:
+Not a big deal. 
+
+[00:52:48] Drew:
+All right, well. 
+
+[00:52:49] Drew:
+I think. 
+
+[00:52:51] Drew:
+That's a good start for us, so just like the rest of you, we will start digging and you should just keep digging! 
+[interjection] Kristin: Yes.

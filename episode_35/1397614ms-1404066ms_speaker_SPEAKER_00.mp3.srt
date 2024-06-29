@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,460
+And it's also nice because it generates the areas as well.
+
+2
+00:00:04,460 --> 00:00:06,460
+So it designates all the bedrooms and stuff.
+
+

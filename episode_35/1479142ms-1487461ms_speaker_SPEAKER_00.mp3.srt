@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:08,240
+We've had no artifacts yet, but we are at 100,000 dwarf bucks generated of value.
+
+

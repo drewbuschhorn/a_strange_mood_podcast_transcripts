@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:03,280
+Which also probably shouldn't happen, but it's maybe a funny bug.
+
+

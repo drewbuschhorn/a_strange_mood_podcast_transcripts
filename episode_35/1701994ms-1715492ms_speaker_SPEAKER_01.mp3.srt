@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:05,680
+work order list did not have this problem, but I was ending up with just an infinite loop of making
+
+2
+00:00:05,680 --> 00:00:12,000
+minecarts and wheelbarrows because it was set to, like, if the number available is,
+
+3
+00:00:12,000 --> 00:00:13,280
+I think it was greater than.
+
+

@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,360
+and then hope to get everything back into the main release branch.
+
+2
+00:00:04,160 --> 00:00:07,440
+He said that he expects there will be some additional beta releases first
+
+3
+00:00:07,440 --> 00:00:09,360
+before that gets merged into main.
+
+

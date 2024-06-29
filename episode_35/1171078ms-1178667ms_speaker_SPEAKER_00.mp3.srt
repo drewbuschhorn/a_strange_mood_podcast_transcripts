@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,840
+You can have a color blue-green, and you can have the color blue, and you can have the color green,
+
+2
+00:00:03,840 --> 00:00:07,520
+but you can't have the color grue, which is a combination of the two colors.
+
+

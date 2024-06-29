@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,420
+I've been mostly working on some of my personal programming projects and electronics projects
+
+
