@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:09,000
+So in my tutorial, I created a colony led by a criminal surgeon with a 17 value in melee and 6 in medical.
+
+

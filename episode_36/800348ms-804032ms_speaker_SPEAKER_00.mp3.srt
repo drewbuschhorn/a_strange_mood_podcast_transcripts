@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,440
+Wardening disabled.
+
+2
+00:00:01,440 --> 00:00:04,640
+Doctoring visits sick people disabled.
+
+

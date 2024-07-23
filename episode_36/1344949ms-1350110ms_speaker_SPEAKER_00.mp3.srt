@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,280
+A warrior named Alan Cruz used an orbital bombardment to destroy an ice shelter.
+
+

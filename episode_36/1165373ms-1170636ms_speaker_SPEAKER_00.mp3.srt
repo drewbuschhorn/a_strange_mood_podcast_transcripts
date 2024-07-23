@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,120
+We, over the course of several adventures, hunted down the holy cube of our main religion.
+
+

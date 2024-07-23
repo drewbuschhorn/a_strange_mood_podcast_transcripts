@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,120
+You have to go pretty far along the tech tree before you can get the ability to make your
+
+2
+00:00:04,120 --> 00:00:04,880
+own components.
+
+

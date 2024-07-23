@@ -1,0 +1,1950 @@
+
+[00:00:00] Kristin:
+This podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello, and welcome to A Strange Mood, the Couples Dwarf Fortress podcast. I'm Kristin. 
+
+[00:00:23] Drew:
+and I'm Drew. 
+
+[00:00:24] Kristin:
+And I think I've forgotten what we're doing here. 
+
+[00:00:27] Drew:
+Yes, well, even I didn't spend that much time playing Dwarf Fortress over the course of the last three weeks? Four weeks? 
+
+[00:00:33] Kristin:
+Oh, something like that. I mean, this is a Dwarf Fortress podcast. 
+
+[00:00:37] Drew:
+Yeah, we won't have a whole lot to talk about with Dwarf Fortress right now, because all of our other games and media have kind of come out, plus we started playing RimWorld. 
+
+[00:00:48] Kristin:
+Yeah, so I haven't even had a chance to play rim world 
+[interjection] Drew: Yeah.
+
+[interjection] Kristin: Yeah?
+
+[00:00:53] Kristin:
+Yes, we do have many exciting stories to tell. 
+
+[00:00:57] Drew:
+Yes, so I guess let's start with what have you been spending your time playing? 
+
+[00:01:01] Kristin:
+Um, well, I've been playing a lot of Final Fantasy XIV Dawn Trail, which is the expansion to our MMO that we play. 
+
+[00:01:10] Drew:
+and what's exciting about it. 
+
+[00:01:11] Kristin:
+Uh, well, in addition to new story, we have new raids and new mechanics and, you know, that MMO grind of getting all my crafters and gatherers to a hundred. 
+
+[00:01:21] Kristin:
+all my various combat jobs because I main a damage and a healer. 
+
+[00:01:26] Drew:
+Yes, and uh... 
+
+[00:01:28] Drew:
+This is exciting, because we're hitting level 100! 
+
+[00:01:31] Kristin:
+100. 
+
+[00:01:33] Kristin:
+and it's been like what two, two and a half years since the last expansion came out and it's our first time being current. 
+
+[00:01:39] Drew:
+Yeah, so. 
+
+[00:01:40] Drew:
+That has been a lot of fun. It's certainly been a good social experience together and with some of your friends from the forums. 
+[interjection] Kristin: Yeah.
+
+[00:01:47] Kristin:
+Yes, I run a community there as well and that keeps me pretty busy. 
+
+[00:01:52] Drew:
+And then we've also been playing a lot of Diablo. 
+
+[00:01:55] Kristin:
+Yeah, I guess I can go ahead and let the cat out of the bag on that. I took a job writing Diablo guides for Wowhead. 
+
+[00:02:03] Kristin:
+which is one of the blizzard covering guides and guide planner, guide builder, or build planner. Yes. Yes, build planner. See, I have also had a recurring ear infection, so I'm a little loopy. 
+
+[00:02:16] Drew:
+Yeah, you're on all the steroids. 
+
+[00:02:18] Kristin:
+I'm on so many medicines right now, so if I don't make sense, that's why. 
+
+[00:02:23] Drew:
+Um, but yeah, that's pretty cool. 
+
+[00:02:24] Kristin:
+Yeah, it's exciting. 
+
+[00:02:26] Drew:
+Yeah, their wowhead is, as I understand it, is trying to move more into Diablo with Diablo 4. 
+[interjection] Kristin: Oh, will it?
+
+[00:02:33] Kristin:
+Yeah. 
+
+[00:02:33] Drew:
+um because obviously with wowhead being the name yes they were really well focused 
+
+[00:02:36] Kristin:
+yes they were wow focused yeah and we do not play wow like i need another mmo time suck like i need a hole in the head 
+
+[00:02:44] Drew:
+Yep, so. 
+
+[00:02:46] Drew:
+and we'd always we've been playing Diablo 3 for a long time as well before 4 came out and then we were in the I think we've talked on the podcast about you know being excited for the release of Diablo 4 and then their expansion is coming up in 
+
+[00:03:02] Kristin:
+October which means that as a brand new guide 
+
+[00:03:06] Kristin:
+writer and build planner, I am absolutely scrambling to get ready for the next season and then the expansion. 
+
+[00:03:13] Drew:
+So tell me, what class are you in charge of writing about? 
+
+[00:03:17] Kristin:
+I am not in charge of the class, thank god, because I'm kind of a noob at it, but I am writing about druid. 
+
+[00:03:22] Drew:
+Oh! 
+
+[00:03:22] Kristin:
+Which means earth powers and shapeshifting powers and you become a werewolf and a werebear and you trample things. 
+
+[00:03:31] Drew:
+Fair enough. 
+
+[00:03:31] Kristin:
+And I have wolf pets, which is fun. 
+
+[00:03:33] Kristin:
+You know me, I love a good pet class. 
+
+[00:03:36] Drew:
+That is true. 
+
+[00:03:37] Kristin:
+It's like adventure mode. It's always better. And if you can have a war pet. 
+
+[00:03:42] Drew:
+That's right, you keep them trained up and ready to go. 
+
+[00:03:45] Kristin:
+So what have you been playing? 
+
+[00:03:47] Drew:
+Well... 
+
+[00:03:48] Drew:
+I was playing XIV with you a lot. I'm working on leveling characters in Diablo to support you as we do some endgame content. And then I did spend a fair bit of time earlier in the couple of weeks since we recorded last playing RimWorld. 
+
+[00:04:07] Kristin:
+Yeah. 
+
+[00:04:08] Drew:
+And I found that to be quite a bit of fun. 
+
+[00:04:10] Kristin:
+Yeah, I ended up buying you a DLC during the Steam sale. 
+
+[00:04:16] Drew:
+Ideology? 
+
+[00:04:17] Kristin:
+Yes, I wanted to buy it for myself but I knew I wasn't going to have any time to play it so I bought it for you so I could live vicariously. 
+
+[00:04:24] Drew:
+And that was actually pretty interesting. I can kind of go into talking about that if you want. 
+
+[00:04:29] Kristin:
+Yeah, well. 
+
+[00:04:30] Kristin:
+Um, do we have any Dwarf Fortress news to cover before we get into other things? 
+
+[00:04:36] Drew:
+I think some has come out. I didn't really gather it up this time because we're kind of doing this one spontaneously. 
+
+[00:04:43] Kristin:
+Yeah, we wanted to stay in touch. 
+
+[00:04:45] Drew:
+Yeah, but the interesting thing, I think, is that... 
+
+[00:04:51] Drew:
+Uh, Tarn is getting married, is my understanding. Yeah. It was Tarn, not Zack, right? Yes. 
+
+[00:04:56] Kristin:
+Yes, yeah, and moving somewhere. 
+
+[00:04:59] Kristin:
+because of the marriage. Yay, congrats. 
+
+[00:05:02] Drew:
+So that's pretty exciting 
+
+[00:05:03] Kristin:
+We support marriage as a married couple. 
+
+[00:05:06] Kristin:
+Oh and we didn't even talk about another reason that we didn't record, which was that there was a 
+[interjection] Drew: Oh, yes.
+[interjection] Kristin: massive storm that came through and we were without power for two days. 
+
+[00:05:16] Drew:
+Yeah, that's the first time I think in the 10 years we've lived in this area that we've been without power. 
+[interjection] Kristin: Yeah.
+
+[00:05:21] Kristin:
+for that long, certainly. And then like water in the basement and just tree limbs down, like they declared a state of emergency in our county and the surrounding counties. 
+
+
+[00:05:31] Kristin:
+It wasn't even a tornado. 
+
+[00:05:33] Drew:
+It was kind of crazy that we were without power for 48 hours. 
+
+[00:05:37] Kristin:
+Yeah, it was hot. 
+
+[00:05:38] Drew:
+I don't know man, it's one of those grand examples of the great part of electrical deregulation here in Indiana and then in Texas as well because they've been dealing, Houston's been dealing with it. 
+
+[00:05:51] Kristin:
+They had their hurricane. 
+
+[00:05:52] Drew:
+yeah but we had straight line winds that were like getting over 80 miles an hour and 
+[interjection] Kristin: Yeah.
+
+[00:05:59] Drew:
+to, um... 
+
+[00:06:01] Drew:
+little sort of community projects that are in our backyard forest area, our backyard butts into a forest and there are some community projects in there. 
+[interjection] Kristin: and community projects.
+[interjection] Drew: Let's see what you can do with that. 
+
+[00:06:14] Drew:
+Uh. 
+
+[00:06:15] Kristin:
+They can just hear your phone bumping my serger. 
+[interjection] Drew: prompted
+[interjection] Kristin: 
+
+[00:06:18] Drew:
+um at any rate we're basically demolished by trees coming down 
+
+[00:06:22] Kristin:
+Yeah, so there's a staircase on the trail that it's like 10 or 12 
+
+[00:06:27] Drew:
+10 or 12 steps and he's just gone under like three trees. 
+[interjection] Kristin: Yeah.
+
+[00:06:32] Drew:
+So I had to break out my saw and clear us a new path for regular walks with the dog and all that stuff. 
+[interjection] Kristin: All right.
+
+[00:06:37] Kristin:
+Yeah, it's been crazy. I'm a born and raised Midwesterner and I'm not really scared of storms and I was scared during this one. 
+
+
+[00:06:46] Kristin:
+Like the dog was cuddled up on my lap, he was scared, the cats were all hanging out, everyone was afraid. 
+
+[00:06:51] Drew:
+It's so weird that it wasn't actually a tornado. It was just, um, whatever they call those straight line bursts of wind. Gale force. Winds, yeah. 
+
+
+[00:07:00] Drew:
+So anyway, yeah. 
+
+[00:07:00] Kristin:
+Yeah, it's just been a summer. 
+
+[00:07:02] Drew:
+Yeah. 
+
+[00:07:03] Drew:
+but 
+
+[00:07:04] Drew:
+Yeah, going 48 hours without power when the feels like temperature I think was 110. 
+
+[00:07:11] Drew:
+At one point? 
+
+[00:07:13] Drew:
+Uh, that will test the stability of a marriage. It's true. 
+
+[00:07:15] Kristin:
+That's true. What did you miss the most aside from air conditioning? 
+[interjection] Drew: Sandra White, Fox, News,
+[interjection] Drew: Sandra White, Fox, News,Reporting, Thank you. Thank yousaying you have with you this
+
+[00:07:19] Drew:
+Hmm 
+
+[00:07:21] Drew:
+I think just basically any kind of entertainment device to take your mind off not having air 
+[interjection] Kristin: your mind.
+[interjection] Drew: conditioning. 
+
+[00:07:27] Drew:
+Um, it's funny because, you know, even fans would have really helped the situation, like when we've had an air conditioner break before. 
+[interjection] Kristin: Yeah.
+
+[00:07:34] Drew:
+You know, you, you deal with it. You got fans blowing you. 
+
+
+[00:07:37] Drew:
+cover yourself in some, um, so we spent most of our time with your, uh, 
+
+[00:07:42] Drew:
+various horse-riding, temperature-reducing. 
+
+[00:07:45] Kristin:
+They have these cooling towel things from evaporation, yeah. 
+
+
+[00:07:48] Kristin:
+And we couldn't cook because the electric stove 
+
+
+[00:07:53] Kristin:
+Yep. 
+
+
+[00:07:54] Drew:
+I really, I know that now we're trying to phase out gas stoves, but man, it is nice to be able to at least make yourself a cuppa. 
+
+[00:08:01] Kristin:
+Yes, I felt so uncivilized without my after-dinner cup of tea. 
+
+[00:08:05] Drew:
+Yeah, so I, uh... 
+
+[00:08:07] Drew:
+And this was embarrassing because I had, um... 
+
+[00:08:09] Drew:
+I did have a camp stove, but then I didn't have the gas for it, and everybody beat us to it. 
+[interjection] Kristin: than I did.
+
+[00:08:15] Kristin:
+Yeah. 
+
+[00:08:16] Drew:
+That's life. Oh, well. 
+
+[00:08:16] Kristin:
+Oh well. We came through the other side. Now we have power. 
+
+[00:08:20] Drew:
+We have a lot of peanut butter sandwiches. 
+
+
+[00:08:25] Drew:
+Oh man. 
+
+[00:08:26] Kristin:
+Hey! 
+
+
+[00:08:28] Drew:
+Games. 
+
+[00:08:29] Drew:
+Yeah, so RimWorld Ideologies. I've been excited playing that. I played through a RimWorld tutorial. 
+[interjection] Kristin: ideology.
+
+[00:08:39] Drew:
+and then played through an entire game on ideologies. 
+
+[00:08:44] Drew:
+Um, let's see. So let me give us some highlights here. 
+
+[00:08:46] Kristin:
+Yeah, tell us the many adventures of your poor little cellar. 
+
+[00:08:50] Drew:
+So in my tutorial, I created a colony led by a criminal surgeon with a 17 value in melee and 6 in medical. 
+
+[00:09:00] Drew:
+along with her janitor daughter, a random third party, a random third... 
+
+[00:09:06] Drew:
+Dog. 
+
+[00:09:07] Drew:
+good farmer-colonist, and a plucky dog. 
+
+[00:09:10] Kristin:
+Hmm 
+
+[00:09:11] Drew:
+After our first fight upon landing, with, uh, something coming in... 
+
+[00:09:15] Drew:
+The surgeon actually had to have a peg leg put on. 
+
+[00:09:19] Drew:
+That's- 
+
+[00:09:19] Kristin:
+Did she put it on herself? 
+
+[00:09:21] Drew:
+No, so it didn't go great. We had to try three times. 
+
+[00:09:23] Kristin:
+Ooh, that's rough. 
+
+[00:09:25] Drew:
+And when you're doing surgery, it's definitely not a case of wanting to have to measure. 
+
+[00:09:30] Drew:
+Or, what is it, cut twice, measure once? 
+
+[00:09:33] Kristin:
+Yeah, they should have measured twice. 
+
+[00:09:36] Drew:
+Um, so, but overall we did okay in that one, um, until I decided to try to tame a Megasloth. 
+
+[00:09:43] Drew:
+at which point it went crazy and rampaged through the entire colony. 
+
+[00:09:48] Kristin:
+Slowly. 
+
+[00:09:50] Drew:
+Very slowly. 
+[interjection] Kristin: Love it.
+[interjection] Drew: No, it was actually pretty fast. 
+
+[00:09:53] Kristin:
+Yeah. 
+
+[00:09:54] Drew:
+So then I started up a new one with the ideology DLC and over the course of I guess about six days played through an entire run. 
+[interjection] Kristin: and
+
+[00:10:02] Kristin:
+Yeah, I was impressed that you actually finished a run. 
+
+[00:10:05] Drew:
+So, the cast for that was Dems, who was sort of our soldier class. 
+
+[00:10:11] Drew:
+Uh, Wolf, who was our inventor. 
+
+[00:10:15] Drew:
+Harry, who was just sort of our all-arounder to start with. 
+
+[00:10:18] Kristin:
+Mm-hmm. 
+
+[00:10:19] Drew:
+So to give their backgrounds, because, uh... 
+
+[00:10:22] Drew:
+RimWorld does do a good job of giving people very fleshed out backgrounds. 
+
+[00:10:24] Kristin:
+Yeah, they really do. 
+
+
+[00:10:30] Drew:
+So he grew up on a mid-world. It's interesting that they do the different classifications between 
+
+[00:10:42] Drew:
+Yeah, it reminds me a little bit of Victor Vinge's series. I think it's Fire in the Deep, Fire Upon the Deep, something like that is the main one there. 
+[interjection] Kristin: or something like that.
+
+[00:10:54] Drew:
+which, um, the 
+
+[00:10:56] Drew:
+sort of if you haven't read them they're they're kind of worth reading from a sci-fi point of view 
+
+[00:11:02] Drew:
+He came up with this interesting concept that throughout the universe different levels of technology are able to sort of exist. 
+
+[00:11:09] Drew:
+at different levels, sort of because of like the speed of light limitations and that sort of thing, so there are areas of the universe 
+
+[00:11:17] Drew:
+um where like you can have basically god-like AI but other areas where you can barely run a computer. 
+
+[00:11:25] Kristin:
+Yeah. 
+
+[00:11:25] Drew:
+And so there are people who act as 
+
+[00:11:30] Drew:
+uh 
+
+[00:11:32] Drew:
+Kind of like merchant traders who will go from one zone to another carrying things back and forth. So, anyway, it just made me think about that. So, Demz grew up on a mid-world, mostly locked in his room playing video games. He was warm-hearted with a deep fondness for animals. As he grew up, he turned to drugs to enhance his reality. 
+[interjection] Kristin: enhances.
+
+[00:11:52] Kristin:
+Mm-hmm. 
+
+[00:11:53] Drew:
+During these trying times, he found passion and refuge in the gym. 
+
+[00:11:57] Kristin:
+Dem's product. 
+
+[00:11:58] Drew:
+Dems prostituted himself to fund his drug habits. 
+
+[00:12:02] Kristin:
+Oh boy. 
+
+[00:12:02] Drew:
+As an escape from the prostitution, he joined the military and learned to fight. 
+
+[00:12:06] Drew:
+Too smart for the army, he questioned and often disagreed with his superior's decisions. This eventually led to his dishonorable discharge and left him with a chip on his shoulder. 
+
+[00:12:17] Kristin:
+That is so detailed, like it's an entire little very pulpy sci-fi novel right there. 
+
+[00:12:23] Drew:
+It is. 
+
+[00:12:24] Drew:
+Uh, wolf? 
+
+[00:12:25] Drew:
+our inventor. 
+
+[00:12:26] Drew:
+War broke out on Wolfe's home when he was a baby. His parents fled with him, seeking safety wherever they could find it. Wolfe's earliest memories are being taught of how to defend himself. The violence and destruction he witnessed left him scarred for life. This means that he had his ability to hunt disabled. 
+
+[00:12:44] Kristin:
+Ah. 
+
+[00:12:45] Drew:
+On his homeworld, Wolf worked as a moderately successful inventor. He developed several minor technologies. 
+
+[00:12:52] Drew:
+This means he had plus five to crafting and intelligence. 
+
+[00:12:55] Drew:
+Interestingly, Dems actually had a higher intelligence rating than him. 
+
+[00:13:01] Drew:
+Yeah, so Dems actually wound up doing a lot of our research. 
+
+[00:13:04] Kristin:
+Yeah. 
+
+[00:13:05] Drew:
+All right. 
+
+[00:13:05] Drew:
+Wolf wound up doing a lot of our crafting. 
+
+[00:13:07] Kristin:
+you 
+
+[00:13:08] Drew:
+and then Harry was a mute. 
+
+[00:13:10] Kristin:
+Oh. 
+
+[00:13:10] Drew:
+Harry was greatly affected by a traumatic event early in his life. For many years, he refused to speak to people, preferring to play with his household's numerous pets, plus five to animals. 
+
+[00:13:20] Drew:
+Wardening disabled. Doctoring visits sick people disabled. 
+
+[00:13:24] Drew:
+Harry hunted wild animals to help feed his community. When times became tough, others looked to him as one of the... 
+
+[00:13:30] Drew:
+as one to help people through a tough season. 
+
+[00:13:34] Kristin:
+Yes. It's good that you had someone skilled with the animals because we found that that is invaluable in RimWorld. 
+
+[00:13:42] Drew:
+It really is, so... 
+
+[00:13:42] Kristin:
+is. So like the ability to tame animals as well as wild men and women. Yeah. 
+
+[00:13:49] Drew:
+Yeah, Harry's taming skills got up to like 17 or 18, I think, by the end. 
+
+
+[00:13:56] Drew:
+Um... 
+
+[00:13:57] Drew:
+So... 
+
+[00:13:59] Drew:
+We survived for about five years before we were able to escape. 
+
+[00:14:02] Drew:
+Our first big event was finding the cold-sleep soldiers in a room filled with megaspiders. So, in a cave by where we landed... 
+
+[00:14:11] Drew:
+crazy random happenstance. We found a bunch of cryo sleep containers. 
+[interjection] Kristin: I'm serious.
+
+[00:14:17] Kristin:
+Yes. 
+
+[00:14:18] Drew:
+Uh, and the entire area was filled with mega spiders. 
+
+[00:14:22] Kristin:
+Yes, like I had that, um, Megaspiders is better than that centipede burner thing I had that was like a robot. 
+
+[00:14:29] Drew:
+Yeah. 
+
+[00:14:30] Kristin:
+mech thing. 
+
+[00:14:31] Drew:
+But of course, after we killed out those megaspiders, we wanted to release the coldsleepers. 
+
+
+[00:14:38] Drew:
+And we did that, and then they immediately began shooting. Oh, no. And wiped everyone out. At which point. 
+
+[00:14:41] Kristin:
+Thanks for the rescue, Guy. 
+
+[00:14:45] Drew:
+die uh so they they were saved so we saved scum that and instead i built a nice little uh kill box 
+[interjection] Kristin: Instead I build
+
+[00:14:54] Drew:
+for them to run out of and had someone pop their head in and shoot one of the capsules so that person got woken up woke up the other ones and then tried to storm out and kill us. 
+
+[00:15:04] Drew:
+and instead we hunkered down and just sort of took pot shots at them until they died. Nice. 
+
+[00:15:10] Drew:
+We got some good gear off of it. 
+
+[00:15:11] Kristin:
+That's good. 
+
+[00:15:12] Drew:
+Nobody wanted to wear that gear because... 
+
+[00:15:14] Kristin:
+Yeah, if they die in it, then they don't like it. 
+
+[00:15:16] Drew:
+Yeah. 
+
+[00:15:17] Drew:
+I would think in a... 
+
+[00:15:19] Drew:
+survival situation, you'd get over that. 
+
+[00:15:22] Kristin:
+Right, like if it's not like visibly stained with blood or other fluids, you know. 
+
+[00:15:27] Drew:
+Yeah, you know, yeah, I mean, you wash off the brain matter and stop complaining. 
+
+[00:15:33] Kristin:
+I think I might 
+
+[00:15:35] Kristin:
+I don't know. They do have bigger things to complain about. Oh well. 
+
+[00:15:39] Drew:
+makes me think of in... 
+
+[00:15:42] Drew:
+good omens when 
+
+[00:15:45] Drew:
+um 
+
+[00:15:46] Drew:
+Zarafell complains that, uh... 
+
+[00:15:49] Drew:
+His favorite coat got stained. 
+
+[00:15:52] Kristin:
+Uh-huh. 
+
+
+[00:15:54] Drew:
+Crowley says you can just miracle it away and he's like oh but I'll I'll know it's there it's just 
+[interjection] Kristin: It's like...
+[interjection] Drew: like that yeah 
+
+[00:16:00] Kristin:
+Yeah, don't bother me. 
+
+[00:16:01] Drew:
+it'll bother me yeah and and so then Crowley you know magics it away himself and it's all better 
+[interjection] Kristin: It's all better.
+
+[00:16:08] Drew:
+Thank you. 
+
+
+[00:16:11] Drew:
+Oh. 
+
+[00:16:13] Drew:
+After that big event... 
+
+[00:16:15] Drew:
+We wound up getting a quest to rescue Piazzo. 
+
+[00:16:21] Drew:
+bard, a medieval bard, I guess, since the world is sort of medieval level technology. 
+[interjection] Kristin: Yeah.
+
+[00:16:28] Drew:
+Um... 
+
+[00:16:29] Drew:
+From an early age, Pazzo had an unhealthy fascination with fire. He would set refuse heaps ablaze and become so entrenched by the fire that he would burn 
+
+[00:16:36] Drew:
+and trench. 
+
+[00:16:38] Drew:
+You should leave that in. 
+
+[00:16:39] Drew:
+Ah, become so entranced by the flames, he would absentmindedly burn himself. One day, when playing with matches, he carelessly burned down his home. 
+
+[00:16:48] Kristin:
+Whoops. 
+
+[00:16:48] Drew:
+Firefighting disabled 
+
+[00:16:51] Kristin:
+I think we just saw that character in Evil, too. 
+
+[00:16:53] Drew:
+Yeah, so yeah, we should talk about evil at some point. 
+
+[00:16:55] Kristin:
+Yes, we'll talk about other things at the... 
+
+[00:16:57] Kristin:
+Yes. 
+
+[00:16:57] Drew:
+to continue. 
+
+[00:16:58] Drew:
+Pazzo was a traveling entertainer on a medieval world, and he could always be found... 
+
+[00:17:04] Drew:
+telling stories or singing songs. The roads are dangerous, so he is capable of protecting himself. However, he would always move on when there was hard labor to be done. Melee, plus two. Artistic and social, plus three. Cooking, disabled. Construction, disabled. Growing, disabled. Mining, disabled. Plant cutting, smithing, tailoring, crafting, hauling, disabled. 
+[interjection] Kristin: What a deadbeat.
+
+[00:17:23] Kristin:
+Aren't you so glad to have this person eating your food and using your resources? 
+
+[00:17:28] Drew:
+Yeah. 
+
+[00:17:29] Drew:
+Um... 
+
+[00:17:31] Drew:
+Then, over the course of the remaining four years, we captured three different people from combat and enslaved two of them. 
+
+[00:17:38] Kristin:
+Huh. 
+
+[00:17:39] Drew:
+So we converted one to a fellow. 
+
+[00:17:41] Drew:
+colonists and the other two were enslaved. 
+
+[00:17:43] Kristin:
+Yes. 
+
+[00:17:44] Kristin:
+What made you decide? 
+[interjection] Drew: What?
+
+[00:17:47] Drew:
+Um, I'm not sure I super had the option to enslave initially. 
+[interjection] Kristin: to
+
+[00:17:51] Kristin:
+Yeah. 
+
+[00:17:52] Drew:
+And then once we got ideologies going, um, I had 
+
+[00:17:57] Drew:
+Well, uh, two-thirds of my... 
+
+[00:17:59] Drew:
+Current people wanted there to be a slave 
+[interjection] Kristin: Mm-hmm.
+
+[00:18:02] Kristin:
+Ahh 
+
+[00:18:03] Drew:
+I'll talk about the ideologies in a minute. 
+
+
+[00:18:06] Drew:
+Um, so the two slaves were Dorna. 
+
+[00:18:10] Drew:
+who was a extremely good doctor. 
+
+[00:18:12] Drew:
+After his tribe's elder healer was killed in a raid, Dorne took on the role, spent his days scrounging up herbs and mineral compounds from the area to use in surprisingly effective remedies. 
+
+[00:18:21] Drew:
+That's cool, plus five. 
+
+[00:18:22] Kristin:
+Nice. 
+
+[00:18:24] Drew:
+And then duster 
+
+[00:18:26] Drew:
+who had the trait. 
+
+[00:18:28] Drew:
+creepy breathing. 
+
+[00:18:29] Kristin:
+Mm. 
+
+[00:18:30] Drew:
+Duster was an active 
+
+[00:18:34] Kristin:
+I was trying to breathe creepily. 
+
+
+[00:18:43] Drew:
+Although the scars have faded, he can't bear to be in close proximity to fire. Firefighting disabled. Cooking disabled. 
+[interjection] Kristin: Cooking.
+
+[00:18:50] Drew:
+He tried his hand at various jobs, including building space rabbit cages and working at a mutant wheat research project. 
+
+[00:19:01] Drew:
+Finally, he found his true calling as a spacecraft salesman specializing in recreational spacecraft. 
+[interjection] Kristin: Specialized.
+
+[00:19:08] Drew:
+His smooth talk and charming nature served him well. 
+
+[00:19:11] Drew:
+social plus eight 
+
+[00:19:12] Kristin:
+Wow. 
+
+[00:19:13] Drew:
+and then a bunch of other things. 
+
+[00:19:15] Kristin:
+Yeah. 
+
+[00:19:15] Drew:
+Oh. 
+
+[00:19:17] Drew:
+So he wound up kind of being our face man. 
+
+
+[00:19:20] Kristin:
+Slave. Face man slave. 
+
+[00:19:21] Drew:
+facepalm slave 
+
+[00:19:24] Drew:
+Uh... 
+
+[00:19:25] Drew:
+We, over the course of several adventures, hunted down the holy cube of our main religion. 
+
+[00:19:31] Drew:
+Made the mistake of making Harry be a cleric for that religion. 
+
+[00:19:35] Drew:
+Turns out, bad call and he's a mute. 
+
+[00:19:38] Kristin:
+Um, yeah, okay. 
+
+[00:19:39] Drew:
+So he couldn't do any of the various, uh... 
+
+[00:19:41] Kristin:
+Silent rituals. 
+
+[00:19:43] Drew:
+Yeah. 
+
+
+[00:19:44] Drew:
+Trade became super critical because getting plasteel and components, enough of those to build a spaceship are pretty challenging. 
+
+[00:19:52] Kristin:
+Mhm. 
+
+[00:19:53] Drew:
+You have to go pretty far along the tech tree before you can get the ability to make your own components. 
+
+[00:19:57] Kristin:
+Yeah, and those components are so vital. 
+
+[00:19:59] Drew:
+Yeah, to build a spaceship or just do anything. 
+
+[00:20:02] Kristin:
+Anything, yeah. 
+
+[00:20:03] Drew:
+And then Plastil you can't really make you have to trade or get it from things 
+[interjection] Kristin: You have to.
+
+[00:20:09] Kristin:
+Yeah. 
+
+[00:20:10] Drew:
+Um. 
+
+[00:20:11] Drew:
+Let's see here. I have some other tips to tell you, but first I want to talk about the religions from ideology. 
+
+[00:20:17] Kristin:
+Oh, yeah 
+
+[00:20:18] Drew:
+So we had kind of three main religions going on in our group. 
+[interjection] Kristin: Mm-hmm.
+
+[00:20:23] Drew:
+The primary was the way of oneness. 
+
+
+[00:20:28] Drew:
+Yes. 
+
+[00:20:29] Kristin:
+Are these procedurally generated, like in Fortress? 
+
+[00:20:33] Drew:
+Yeah, they seem to be comprised of really quite a lot of different precepts, they call them. 
+
+[00:20:38] Kristin:
+Yeah. 
+
+[00:20:38] Drew:
+I'll show you here. Okay, probably be Wow, that's well 
+[interjection] Kristin: Okay.
+
+[00:20:41] Kristin:
+Wow, that's a lot. 12? Yeah, more even maybe. 15? 
+
+[00:20:45] Drew:
+So, narratively, the archaeotexts are all aspects of one's supermind. Archaeotexts are good, and the most important task for humanity is to understand them so we can align with their understandings. Someday the archaeotexts will depart when they find a people who present themselves as worthy partners to the machine god consciousnesses. 
+
+[00:21:06] Drew:
+com. 
+
+[00:21:08] Drew:
+So, they're collectivists. 
+
+[00:21:10] Drew:
+They despise fungus. I'm just picking random. 
+
+[00:21:12] Kristin:
+when you're spitting random... That's very specific. Yeah. 
+
+
+[00:21:14] Drew:
+Men's spouses, one only. 
+
+[00:21:17] Kristin:
+women 
+
+[00:21:17] Drew:
+Women's spouses. One only. 
+
+[00:21:19] Kristin:
+Uh-huh. 
+
+[00:21:20] Drew:
+organ use. Acceptable. 
+
+[00:21:22] Kristin:
+Hmm. 
+
+[00:21:23] Drew:
+uh... slavery 
+
+[00:21:25] Drew:
+Not a huge fan. 
+
+[00:21:26] Kristin:
+Mmkay. 
+
+[00:21:27] Drew:
+Scarification. Horrible. 
+
+[00:21:29] Drew:
+Um, let's see. Physical love. Spouse only. Strict. 
+
+[00:21:33] Kristin:
+Hehe. 
+
+[00:21:34] Drew:
+Work Drive, tripled! 
+
+[00:21:36] Kristin:
+Huh? 
+
+
+[00:21:40] Kristin:
+Fair. 
+
+[00:21:40] Drew:
+Let's see, I was trying to see what else they got here. 
+
+[00:21:42] Kristin:
+But this isn't you guys, because, uh, you had sleeves. 
+
+[00:21:45] Drew:
+Yes, well, there was a different group as well. 
+
+[00:21:49] Drew:
+Our other group was the Cretish... 
+
+[00:21:53] Drew:
+Kritikonian philosophy? Kritikonian? 
+
+[00:21:56] Kristin:
+Yeah. 
+
+[00:21:57] Drew:
+Um. 
+
+[00:21:58] Drew:
+So... 
+
+[00:21:59] Drew:
+They have the people of the blasted death world Cretacon worshiped Utheria. 
+
+[00:22:05] Drew:
+He saw that they were suited for Silicon and ordained that these worshippers would rule above all others. 
+
+[00:22:12] Drew:
+An anti-human warlord made an edict giving some equal rights to both animals and humans. Etheria wept as the power-ers 
+
+[00:22:21] Drew:
+were forced to give their rights to boars and mandrills. 
+
+[00:22:24] Drew:
+A warrior named Alan Cruz used an orbital bombardment to destroy an ice shelter. 
+
+[00:22:31] Drew:
+Uriah saw Alan's ruthlessness and anointed him the rightful ruler of all humanity. 
+
+[00:22:36] Drew:
+Alan received divine technological 
+
+[00:22:39] Drew:
+knowledge from Utrina and used it to enhance the bodies and minds of the powers so they could 
+
+[00:22:45] Drew:
+defeat 
+
+[00:22:46] Drew:
+the mercenaries. 
+
+[00:22:47] Kristin:
+Hmm. 
+
+[00:22:48] Drew:
+I'm not super sure that'll hang hung together. 
+
+[00:22:52] Kristin:
+That's okay. 
+
+[00:22:52] Drew:
+So basically they're transhumanist, um, transhumanist techno barbarians. 
+
+[00:22:58] Drew:
+who find slavery honorable. 
+
+[00:23:00] Kristin:
+Mm-hmm. 
+
+[00:23:01] Drew:
+Body modification approved. 
+
+
+[00:23:04] Drew:
+Uh, age reversal, demanded. 
+
+[00:23:06] Drew:
+Biosculpting. 
+
+[00:23:07] Drew:
+desired. 
+
+[00:23:09] Drew:
+Um, let's see, sleep acceleration preferred. 
+
+[00:23:12] Kristin:
+Hmm. 
+
+[00:23:13] Drew:
+Uh, organ use, no harvest. 
+
+[00:23:16] Drew:
+Um, let's see, bonding disapproved. 
+
+[00:23:19] Drew:
+cannibalism horrible 
+
+[00:23:21] Drew:
+and so on. 
+
+[00:23:22] Kristin:
+Yeah. 
+
+[00:23:23] Kristin:
+That's interesting. 
+
+
+[00:23:29] Drew:
+ideologies, and I think there are 20 or something in my world. 
+[interjection] Kristin: Mm-hmm.
+
+[00:23:33] Drew:
+of 
+
+
+
+[00:23:45] Drew:
+So. 
+
+
+[00:23:50] Drew:
+They... 
+
+[00:23:52] Drew:
+both want to have these technological augmentations, but don't want to use high-tech weapons. 
+
+[00:23:57] Kristin:
+Yeah, that's really interesting. 
+
+[00:24:00] Drew:
+You can also 
+
+[00:24:01] Drew:
+Obviously assign roles, but also do various rituals 
+
+[00:24:06] Drew:
+So like they have the funeral ritual, funeral of technology. 
+
+[00:24:10] Drew:
+animal sacrifice. 
+
+[00:24:12] Drew:
+oblation of augmentation. 
+
+[00:24:15] Drew:
+and gladiator duels the brawl of artifice 
+
+[00:24:19] Drew:
+Um, so these remind me much more of Dwarf Fortress than other aspects of it. 
+
+[00:24:23] Kristin:
+Yeah, yeah. 
+
+[00:24:25] Drew:
+Did you have any questions there? 
+
+[00:24:27] Kristin:
+I don't think so. It does sound like it adds just a lot of color to the world and society. 
+
+[00:24:33] Drew:
+Yeah, and a fair amount of additional things to build, additional technologies to research. 
+
+[00:24:40] Kristin:
+Very cool. Yeah. 
+
+[00:24:42] Drew:
+Um, let's see. 
+
+[00:24:44] Drew:
+So overall, I was pretty impressed by that system. 
+
+[00:24:50] Drew:
+It made me feel a little bit. 
+
+[00:24:53] Drew:
+more 
+
+[00:24:55] Drew:
+Involved in the game 
+
+
+[00:24:57] Drew:
+Um... 
+
+[00:24:58] Drew:
+This is definitely something I feel is kind of a challenge in RimWorld compared to Dwarf Fortress. 
+
+[00:25:03] Drew:
+In RimWorld, I definitely feel like I'm playing a game. 
+
+
+[00:25:07] Drew:
+where 
+
+[00:25:08] Drew:
+There's an end goal that I'm trying to reach. 
+
+[00:25:10] Kristin:
+Yeah, there's kind of a beginning, middle, and end. 
+
+[00:25:13] Drew:
+Yeah. 
+
+[00:25:13] Kristin:
+Mm-hmm. 
+
+[00:25:14] Drew:
+out how to set yourself up to get over that. 
+[interjection] Kristin: You
+
+[00:25:22] Drew:
+And then an end you get in your ship and you launch off to the stars. Yeah, that's it. Yeah 
+
+
+
+[00:25:42] Drew:
+not in the bad sense but in the same sense is like if i decide here with our house that i want to go back and 
+
+[00:25:49] Drew:
+Rebuild those steps 
+
+
+[00:25:51] Drew:
+the rest of the world goes on. 
+
+
+[00:25:53] Drew:
+like it doesn't 
+
+[00:25:54] Kristin:
+Right. 
+
+[00:25:54] Drew:
+Yeah, I don't know if you can explain it better. 
+
+[00:25:56] Kristin:
+I know I think I get it and if we don't like no one cares either. Yeah I well it's like Dwarf Fortress if I feel done with a fort it can still go on even if I go to a different fort if that makes sense. 
+
+[00:26:13] Drew:
+M'lady. 
+
+[00:26:14] Kristin:
+It doesn't rely on me. 
+
+[00:26:16] Kristin:
+Like, they might do weird things, like pick up all the furniture and move it. 
+
+[00:26:19] Kristin:
+Bye. 
+
+[00:26:20] Kristin:
+OK. 
+
+[00:26:21] Drew:
+Yeah, it goes on without you. 
+
+[00:26:23] Kristin:
+Yeah. 
+
+[00:26:24] Drew:
+Um... 
+
+[00:26:26] Drew:
+Yeah, so it was interesting in... 
+
+[00:26:30] Drew:
+room world. 
+
+[00:26:30] Kristin:
+Mm-hmm. 
+
+
+[00:26:32] Drew:
+I was kind of 
+
+[00:26:34] Drew:
+impressed-slash-annoyed at how important trade was? Mm. 
+
+
+[00:26:39] Drew:
+It would 
+
+
+[00:26:41] Drew:
+I think part of why I didn't connect with RimWorld the first time I played it was I didn't really get that you were supposed to be interacting with those other settlements and doing all these quests and everything. 
+
+[00:26:55] Drew:
+Um... 
+
+[00:26:56] Drew:
+Because I just... 
+
+[00:26:58] Drew:
+If I wasn't out there trading then I don't think I would have gotten 
+[interjection] Kristin: I don't know.
+[interjection] Drew: half the resources I needed to keep making steady progress. Yeah. 
+
+
+[00:27:07] Drew:
+and I feel like their UI draws much more attention to it now. 
+
+[00:27:11] Kristin:
+That's good. 
+
+[00:27:12] Drew:
+Let's see, I did take to raiding neutral parties by the end for steel and components to use to make, or to get the stuff to make components. Most looked like they deserved it, except possibly one group of silver traders who I kind of went in and gunned down, a husband and wife. 
+[interjection] Kristin: Oh.
+
+[00:27:34] Drew:
+Got a lot of silver. 
+
+[00:27:36] Drew:
+Coins from them the other ones had like slaves and things that I freed or ran off and all that but 
+[interjection] Kristin: and all.
+
+[00:27:42] Drew:
+Anyway. 
+
+[00:27:43] Kristin:
+Meh. 
+
+[00:27:44] Drew:
+Um, let's see. 
+
+[00:27:46] Kristin:
+It does seem like the path of violence is necessary in real world, even in vanilla in Dwarf Fortress you can just turn off enemies to a degree. You can be fairly peaceful. 
+
+[00:28:00] Drew:
+Yeah. 
+
+[00:28:00] Kristin:
+So. 
+
+[00:28:01] Drew:
+I don't think, I think it would be pretty challenging, and I'm sure people do peaceful climbs up, but it seems like it's not the, uh... 
+
+[00:28:09] Drew:
+path of least resistance. 
+
+[00:28:10] Kristin:
+And I guess there is that one storyteller that you can basically turn off. 
+
+[00:28:14] Kristin:
+attacks and things. 
+
+[00:28:16] Drew:
+Yeah, yeah, they're different storyteller systems. 
+
+[00:28:18] Kristin:
+morning. Don't mycket zonchem two out of 30 right now and we have Phoenix wants to ask questions here. Lovett umi, procha 19 I 
+
+[00:28:19] Drew:
+Um, one thing I did find I liked in it. 
+
+[00:28:21] Kristin:
+Mm-hmm. 
+
+[00:28:22] Drew:
+was how disease works. 
+
+[00:28:23] Kristin:
+Oh yeah. 
+
+[00:28:24] Drew:
+Um, Chris. 
+
+[00:28:26] Drew:
+No! 
+
+[00:28:27] Drew:
+Uh, because it wound up being fairly important, like, people got sick a fair bit. 
+
+[00:28:33] Kristin:
+Mhm. 
+
+[00:28:33] Drew:
+and it was interesting how it would progress. 
+
+
+[00:28:38] Drew:
+So... 
+
+[00:28:39] Drew:
+they would basically progress through different stages from like minor illness 
+
+[00:28:45] Drew:
+and you couldn't just cure them. 
+
+[00:28:47] Kristin:
+Yeah. 
+
+[00:28:47] Drew:
+flat out. Instead, what you had to do was support them. 
+
+[00:28:51] Kristin:
+Mm-hmm. 
+
+[00:28:52] Drew:
+Treat them. 
+
+[00:28:53] Drew:
+keep them resting and all that sort of thing so that their immunity to the disease would grow faster than the progress of the disease. 
+
+[00:29:00] Kristin:
+Oh, that's, that is interesting. 
+
+[00:29:02] Drew:
+And so then when their immunity would hit 100%, then the disease would start decreasing back through its stages. 
+
+[00:29:09] Drew:
+And as long as you kept, um, you know, kept having... 
+
+[00:29:13] Drew:
+Medical attention paid to them 
+
+
+[00:29:15] Drew:
+then they would eventually get better. 
+
+[00:29:17] Kristin:
+Interesting. 
+
+[00:29:18] Drew:
+and you could keep that immunity high. It was a very. 
+
+[00:29:22] Drew:
+Helping the body, yes 
+
+[00:29:26] Drew:
+versus stuffing some leaves down their mouth and you're all better now. 
+
+[00:29:31] Kristin:
+Yeah. 
+
+[00:29:32] Drew:
+So I thought that was an interesting way of doing that. 
+
+[00:29:35] Kristin:
+Yeah, I found when I had someone injured it was at times hard to keep them resting. 
+
+[00:29:40] Drew:
+Yeah, I agree. And I wound up for 
+
+[00:29:43] Kristin:
+Which is realistic. 
+
+[00:29:45] Drew:
+When someone was actually severely injured for mine, I wound up keeping them drugged a lot of time. 
+
+[00:29:50] Kristin:
+Oh yeah, I remember you telling me about that. That's funny. 
+
+[00:29:53] Drew:
+Yeah, so you- 
+
+[00:29:53] Kristin:
+Cause I was like, you'd have real life experience with that. Cause that's like the only way to get me to rest too. 
+
+[00:29:58] Drew:
+Yeah, exactly. Stuff some stuff, some edible in you. Yeah. 
+
+[00:30:01] Kristin:
+Oh. 
+
+[00:30:02] Drew:
+Because you can like 
+
+[00:30:05] Drew:
+you can put their different surgery bills in, so what should be done to them. 
+[interjection] Kristin: Mm-hmm.
+
+
+[00:30:10] Drew:
+and you can anesthetize them. 
+
+
+[00:30:13] Drew:
+Or you can also use various illegal drugs on them. 
+
+[00:30:17] Kristin:
+Wow, nice. 
+
+[00:30:18] Drew:
+And so frequent so a lot of my people who were okay with it 
+
+[00:30:23] Drew:
+with the illegal drugs because some of the ideologies aren't. 
+[interjection] Kristin: with some of the.
+
+[00:30:25] Kristin:
+Yeah. 
+
+[00:30:26] Drew:
+Um, we're getting handed a lot of weed to smoke every time they started getting functional enough to be getting out of bed. That's funny. 
+
+[00:30:34] Drew:
+So. 
+
+[00:30:35] Drew:
+Overall I considered it 
+
+[00:30:37] Drew:
+A really fun run. It was very engrossing. 
+
+[00:30:42] Kristin:
+Mm-hmm. 
+
+[00:30:42] Drew:
+Um... 
+
+[00:30:44] Drew:
+But also, after I finished that run, then I haven't had a whole lot of urge to go back immediately. 
+
+[00:30:48] Kristin:
+Yeah. 
+
+[00:30:48] Kristin:
+I can see that. 
+
+[00:30:49] Drew:
+Obviously I've been wanting to get some Dwarf Fortress time in, and then also working on my own projects and stuff, so I've just been busy. 
+[interjection] Kristin: Yes.
+
+[00:30:56] Kristin:
+Yeah, I've been feeling like for the first time that there's not really, I guess not really for the first time but more than ever, that there are so many games that I want to play and there's just not enough time to play them all. 
+
+[00:31:09] Kristin:
+because like I've been playing a visual novel, Tavern Talk, which has the mini game of making drinks for adventurers and then you send them out on quests and that's the story but like 
+
+[00:31:21] Kristin:
+I didn't finish my RimWorld run. I know I've talked about No Man's Sky on the podcast before and that just got a huge update that people are really excited about. 
+
+[00:31:31] Kristin:
+I'm there's no way I'm going to be able to check that out. And like I played a little bit of Echoes of the Plum Grove and I would like to see more of that. Moonstone Island, I'd like to see more of. I just there's not enough time. 
+
+[00:31:44] Drew:
+Nope. 
+
+[00:31:44] Kristin:
+Not enough time in the day. 
+
+[00:31:46] Drew:
+trying to get out to your horses. 
+
+[00:31:47] Kristin:
+Yep, they need my attention too. The dog needs my constant attention. 
+
+[00:31:51] Drew:
+Yes. 
+
+[00:31:52] Drew:
+Yes, anytime we're not playing tug, we are horrible human beings. 
+
+
+[00:31:57] Drew:
+Um, let's see. So, um. 
+
+[00:32:01] Kristin:
+I mean, you have talked a lot at this stage, it's fair if you want to... 
+
+[00:32:04] Drew:
+Yeah. 
+
+[00:32:04] Kristin:
+Not. We can keep it short if you want. 
+
+[00:32:07] Drew:
+Yeah, I guess maybe we can keep it short this time. The main thing I had from Dwarf Fortress that I want us to talk about at some point is from that paper I mentioned last time. 
+
+[00:32:16] Kristin:
+Oh, yeah. 
+
+[00:32:17] Drew:
+Dwarf Fortress, Laboratory, and Homestead. 
+
+[00:32:20] Kristin:
+Mm-hmm. 
+
+
+[00:32:21] Drew:
+That I think is an actually pretty interesting paper talking about the different, uh, the, the different 
+
+[00:32:27] Drew:
+sort of importance of the way Dwarf Fortress models its economy and stuff. 
+
+[00:32:32] Kristin:
+Oh, cool. 
+
+[00:32:33] Drew:
+But I think that's a whole other thing and would just wind up me lecturing a lot as well. So 
+
+[00:32:38] Kristin:
+Yes. 
+
+[00:32:39] Drew:
+um 
+
+[00:32:40] Drew:
+So tell us about the tv show we're watching. 
+
+[00:32:43] Kristin:
+Oh, we are watching on Paramount Plus. Evil, which is, it's a. 
+
+[00:32:50] Kristin:
+supernatural crime thriller. And I'm so reluctant to call it a procedural because it's just so unrealistic. But it features a priest in training who is played by Mike Coulter of Luke Cage. I almost said Nick Cage. And his the other two actors, I'm sorry, I don't know their names. They're just not as familiar. But um, a psychologist who is sort of the scully to his 
+
+[00:33:22] Kristin:
+Molder? 
+
+[00:33:23] Kristin:
+Mm-hmm. 
+
+[00:33:23] Kristin:
+kind of because we also have a third character who's like their tech guy. 
+
+[00:33:27] Kristin:
+Yeah, and it's one of the best characters in the show because he's like very pragmatic and knows things. And the primary villain so far is a sort of rival psychologist slash demon guy. I don't even know what to describe him as played by Michael Emerson, 
+[interjection] Drew: Yeah.
+[interjection] Kristin: who was in Lost and he is excellent. Yeah, he does so good. 
+
+[00:33:48] Drew:
+Yeah, he does very well of sort of the banality of evil type person. 
+[interjection] Kristin: type.
+[interjection] Drew: 
+
+[00:33:53] Kristin:
+Yeah, exactly. 
+
+[00:33:54] Drew:
+that uh and it's kind of a funny show in that the people who make it it continually seems to be this weird fight in the writing between 
+
+
+[00:34:06] Drew:
+Boomer 
+
+
+[00:34:08] Drew:
+and Gen Z. 
+
+
+[00:34:10] Drew:
+Because they'll talk about 4chan. 
+
+[00:34:13] Kristin:
+Mm-hmm. 
+
+[00:34:14] Drew:
+Um, and, uh, all this other, you know, like Gamergate stuff. 
+
+[00:34:20] Drew:
+Um, but then also they'll. 
+
+[00:34:22] Drew:
+do some weird catholic stuff 
+
+[00:34:25] Kristin:
+they don't as someone who's raised Catholic I don't think they know that much about the Catholic church because it's pretty unrealistic but um like as in they're doing like oh you're doing 
+[interjection] Drew: Like...
+[interjection] Kristin: five exercise exorcisms you're doing five exorcisms a month 
+
+[00:34:41] Kristin:
+Like, no, I don't think that the Catholic Church has done five exorcisms in the last decade. 
+[interjection] Drew: No, I don't.
+
+[00:34:46] Drew:
+Yeah, but certainly not in the US. No, definitely. And this is like. 
+
+[00:34:49] Kristin:
+And certainly not in one city. Yeah, this is... 
+
+[00:34:51] Drew:
+Yeah, this is yeah 
+
+[00:34:53] Drew:
+Not the main character, but they have an exorcism guy. Yeah. 
+
+
+[00:34:59] Drew:
+In the seminaries, I guess who talks about doing five in a month in Chicago. Yeah 
+
+
+[00:35:06] Drew:
+And it's like, what the hell are you talking about? 
+
+[00:35:09] Kristin:
+Right. No, that's that's not how that works. But they investigate supernatural type incidents this line of not keeping the viewer from knowing what is real in universe and what is fake. And every now and then there will be this moment where we're just like, what? 
+
+[00:35:33] Kristin:
+What? 
+
+[00:35:36] Drew:
+Um... 
+
+[00:35:36] Drew:
+because there was one episode where we were the episode was starting to wind down this was the 4chan thing 
+
+
+[00:35:45] Drew:
+and we were just sort of sitting there talking with each other like 
+
+[00:35:49] Drew:
+Okay, well, I'm curious to see where they go with this next episode because they've been building this guy up and all this stuff. 
+
+[00:35:56] Drew:
+and then just this utterly shocking thing completely out of the blue happened. 
+[interjection] Kristin: We are.
+
+[00:36:00] Kristin:
+Yes. 
+
+[00:36:01] Drew:
+destroying 
+
+[00:36:03] Drew:
+you know, like a three-episode arc's worth of plans. Yeah. And we just looked at each other like, wait, what? What the hell just happened? And so we had to go back and rewind it to make sure. And it's like, oh. 
+
+[00:36:14] Drew:
+Also, that... 
+
+[00:36:15] Drew:
+that that's just done now. 
+
+[00:36:17] Kristin:
+Yeah, we're just done with that. No, it's been a good show. It's by no means perfect. 
+[interjection] Drew: No.
+
+[00:36:21] Kristin:
+And if you are looking for a show that realistically portrays the courts or the Catholic Church, this is not the show for you. But it's fun. 
+
+[00:36:30] Drew:
+Yeah, it's interesting because it's sort of a getting back again to the Boomer's Earth's Gen Z type writing style. 
+[interjection] Kristin: Mm-hmm.
+
+[00:36:38] Drew:
+Weirdly, it's sort of a weirdly late 90s, early 2000s style show and it's 
+
+[00:36:44] Kristin:
+in its formatting like there's kind of monster of the week 
+
+[00:36:47] Drew:
+yeah for some i think the first season wasn't 
+[interjection] Kristin: Yeah.
+
+[00:36:53] Drew:
+Crap, I can't remember. 
+
+[00:36:54] Kristin:
+First season, what? Oh, the first season was in 2019. 
+
+
+
+
+[00:37:00] Drew:
+And yeah, but it still has... 
+
+[00:37:03] Drew:
+the monster of the week stuff where it um where something that seems super important is just utterly dropped 
+
+[00:37:09] Kristin:
+And you never hear from them again. 
+
+
+[00:37:12] Drew:
+And you're like, this is a major thing where people are not just gonna be like, oh, okay. 
+
+
+[00:37:20] Drew:
+But anyway, it's been, it's been fun. 
+
+[00:37:22] Kristin:
+Definitely recommend it. 
+
+[00:37:23] Drew:
+Yeah. 
+
+[00:37:25] Drew:
+Do we have any other media to recommend? 
+
+
+[00:37:28] Drew:
+We haven't really been doing anime at the moment. 
+
+[00:37:30] Kristin:
+No no the season ended with Kaiju number eight that was good but we've talked about that. 
+
+[00:37:36] Drew:
+And all of my manga are on hiatus until whenever someone starts translating them or they start selling them in the U.S., I guess. Same. 
+
+
+[00:37:45] Drew:
+So, no, I think that's... 
+
+[00:37:47] Drew:
+Kind of it for the moment 
+
+[00:37:48] Kristin:
+Yeah, I don't think they want to hear about Love Island. 
+
+[00:37:51] Drew:
+Well, you've talked about your reality show addiction before. 
+
+[00:37:54] Kristin:
+Yeah, they don't need to hear about that, but it was fun. I enjoyed it. It was so much content. 
+
+[00:38:00] Kristin:
+Like, it's like six hours a week I'm getting back now. 
+
+[00:38:04] Drew:
+yeah because uh how much was love island they were doing six episodes or 
+
+[00:38:10] Kristin:
+Yeah, kind of five, six episodes a week. 
+
+[00:38:13] Kristin:
+and they're all typically at least 50 minutes long. 
+
+[00:38:17] Drew:
+I never really understood. 
+
+[00:38:19] Drew:
+did this while you've been watching it how long is an episode or do they just 
+
+[00:38:23] Kristin:
+They vary. It's online only. It's only streaming on Peacock, so it's not like they're blocking 
+[interjection] Drew: Okay, I didn't
+[interjection] Kristin: out time in the television schedule. 
+
+[00:38:32] Drew:
+Interesting. Okay. I never understood that. I thought that you were just watching it online and then they were trying to put it in the TV 
+[interjection] Kristin: Okay, I-
+
+[00:38:37] Kristin:
+Online only. 
+
+[00:38:39] Drew:
+Because it seems like some episodes were like... 
+
+[00:38:42] Drew:
+47 minutes like 
+
+[00:38:43] Kristin:
+Yeah. 
+
+[00:38:44] Drew:
+like, you know, a normal 
+
+[00:38:45] Kristin:
+A normal TV slot, yeah. 
+
+[00:38:46] Drew:
+and then others are like 
+
+[00:38:48] Drew:
+Two and a half hours long. 
+
+[00:38:49] Kristin:
+Yeah, the one I watched today was I think the longest. It was like two hours long. 
+
+[00:38:53] Drew:
+Well, that was their finale, right? It was their finale. 
+
+
+[00:38:55] Drew:
+except now they're decided that because this has been doing so well they're wanting to do an episode. 
+[interjection] Kristin: Well, the...
+
+[00:39:01] Kristin:
+The reunion episode is fairly typical fare with reality TV, but this show doesn't usually get it. It's just over. 
+
+[00:39:08] Kristin:
+and they were so successful this season that they're doing one. 
+
+[00:39:12] Drew:
+So, with it being over, are you going to go find a manager to cry on? 
+
+[00:39:16] Kristin:
+No. 
+
+[00:39:18] Drew:
+barren to cry on. 
+
+[00:39:21] Kristin:
+I get what you're saying now. Yeah. I was like, are you calling me a Karen? 
+
+[00:39:25] Drew:
+No, I, I'm, I'm... 
+
+[00:39:27] Kristin:
+Yes, I'm going to, I will feel better after yelling at somebody in charge. Exactly. 
+
+[00:39:34] Drew:
+Alright, well, I think basically our plan for the next two weeks is to at least try to do some digging, so... 
+
+[00:39:41] Kristin:
+Yeah, hopefully so everybody else just keep digging 
+

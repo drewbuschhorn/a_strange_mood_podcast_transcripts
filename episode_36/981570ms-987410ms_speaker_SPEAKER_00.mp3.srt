@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,680
+bard, a medieval bard, I guess, since the world is sort of medieval level technology.
+
+
