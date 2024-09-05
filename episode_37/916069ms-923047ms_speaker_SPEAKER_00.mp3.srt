@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,800
+how often you have to switch your implemented tools and jump back and forth of that stuff.
+
+

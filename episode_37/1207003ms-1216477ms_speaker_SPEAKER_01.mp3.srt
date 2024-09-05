@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,240
+Well, we did it two and a half times because the 14 servers were getting DDoS-ed and people
+
+2
+00:00:06,240 --> 00:00:09,160
+were getting Thanos-snapped, and it makes it hard to do.
+
+

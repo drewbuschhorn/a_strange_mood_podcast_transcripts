@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:11,000
+So this game is kind of interesting in that it is, I don't know if there is a term yet for this style of game, but it's basically a side-builder.
+
+

@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello, I love your game so much.
+
+2
+00:00:02,000 --> 00:00:05,840
+My question concerns, quote, intelligent wildlife.
+
+3
+00:00:05,840 --> 00:00:08,240
+Are there any plans in the works
+
+4
+00:00:08,240 --> 00:00:10,800
+to make them more interactable?
+
+

@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,000
+Yeah. In adventure mode, your adventurer can now ride and push mine carts.
+
+

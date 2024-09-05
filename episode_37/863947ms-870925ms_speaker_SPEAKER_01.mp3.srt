@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,360
+It is known for not having great controller support,
+
+2
+00:00:02,360 --> 00:00:05,600
+so I have gotten it installed on my PC to try,
+
+3
+00:00:05,600 --> 00:00:07,040
+to give it a real try there.
+
+

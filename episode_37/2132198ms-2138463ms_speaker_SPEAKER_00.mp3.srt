@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,040
+was kind of a pain in the ass because you lose all of your items and you respawn back
+
+2
+00:00:05,040 --> 00:00:06,040
+at your base.
+
+

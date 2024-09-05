@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:07,000
+You can stick pretty close to just having your pickaxe as a general purpose tool.
+
+2
+00:00:07,000 --> 00:00:11,000
+When you're fighting multiple people, you need to swap over to sword.
+
+

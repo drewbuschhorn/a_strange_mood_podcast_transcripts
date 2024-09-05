@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,540
+But now it's pretty good.
+
+2
+00:00:01,540 --> 00:00:05,280
+There are still a lot of bugs, but overall, I'm fine with it.
+
+

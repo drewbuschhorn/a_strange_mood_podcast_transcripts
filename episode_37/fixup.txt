@@ -1,0 +1,1972 @@
+[00:00:00] Kristin:
+This podcast is of the highest quality.
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couple's Dwarf Fortress podcast. I'm Kristin.
+
+[00:00:23] Drew:
+And I'm Drew.
+
+[00:00:24] Kristin:
+And my chair is squeaky. I've had that intro before.
+
+[00:00:28] Drew:
+Yeah.
+
+[00:00:28] Kristin:
+We're kind of a Dwarf Fortress podcast.
+
+[00:00:32] Drew:
+I think, for lack of a better description, yes we are, Kristin, yes we are, even though...
+
+[00:00:37] Drew:
+I have to confess, neither of us has played Dwarf Fortress over the past...
+
+[00:00:41] Drew:
+month.
+
+[00:00:42] Kristin:
+No, we've just taken time completely off. We are a couple though, we didn't lie about that.
+
+[00:00:46] Kristin:
+Oh
+
+[00:00:48] Drew:
+Yeah, no, the, uh...
+
+[00:00:50] Drew:
+The Dwarf Fortress bug has unfortunately succumbed at the moment to dealing with.
+
+[00:00:56] Drew:
+Summer, I guess.
+
+[00:00:57] Kristin:
+Summer, yeah, and then there's just been a lot of games.
+
+[00:01:01] Drew:
+It's been a really rich gaming spring and summer. Yeah.
+
+[00:01:03] Kristin:
+Spring, summer, yeah.
+
+[00:01:05] Kristin:
+Uh, and then I was super busy there for a while working on Diablo stuff for Wowhead and now we're both playing entirely different games.
+
+[00:01:16] Drew:
+Yeah, well, we did both get sucked into Cult of the Lamb, which we'll talk about. Mm-hmm, yes.
+
+[00:01:22] Kristin:
+Yes, we sometimes feel like we could have, I'm sure for like a couple of months, we could have a funny Cult of the Lamb anecdote podcast because some wacky stuff happens in that one.
+
+[00:01:33] Drew:
+Yeah, I think, um...
+
+[00:01:35] Drew:
+Of all of the various base building town type things, Cult of the Lamb is pretty close to, I think, the Dwarf Fortress style of humor.
+
+[00:01:46] Drew:
+Even if it's not quite as much of um, what's the word I'm looking for, but
+
+[00:01:52] Drew:
+yeah not quite so much um creativity
+[interjection] Kristin: Yeah.
+
+[00:01:56] Kristin:
+Yeah, it's less creative. It's more on rails.
+
+[00:01:59] Kristin:
+But you can make your base pretty.
+
+[00:02:00] Drew:
+You can make your base pretty. You can also marry people to each other. There's the
+
+[00:02:05] Kristin:
+Breed little monstrosities if you're me.
+
+[00:02:07] Drew:
+There's that YouTube animation, I think 10 minutes or so, that someone made.
+
+[00:02:14] Drew:
+I've, um...
+
+[00:02:16] Drew:
+Cult of the Lamb cartoon and it did really capture, I think very well, the Cult of the Lamb like
+
+[00:02:22] Drew:
+I've come back from fighting and...
+
+[00:02:25] Drew:
+My, my spouse is dead. Oh well.
+
+[00:02:27] Drew:
+I'm married to you now.
+
+[00:02:28] Kristin:
+You, you're a-
+
+[00:02:30] Kristin:
+Well, I mean, if we're talking about Cult of the Lamb, I was married to a little bunny creature for a long time because she wanted to and I thought she was cute. I guess they're all they, but, you know, and...
+[interjection] Drew: Yeah.
+
+[00:02:44] Kristin:
+Then I realized she was constantly starting fights. Well, first she died and then I revived her and she came back wrong.
+
+[00:02:50] Drew:
+Oh, no.
+
+[00:02:51] Kristin:
+But then I healed her and she's back, but then she's just constantly starting fights.
+
+[00:02:55] Kristin:
+So, when she became, well first I was sending her out on missions constantly so she couldn't start the fights and then she became an elder and I sent her to the afterlife.
+
+[00:03:05] Kristin:
+And immediately after, someone else said, "Hey, you rescued my brother. He's so grateful. In fact, he would like to marry you." So I married him, but he didn't ask me himself.
+
+[00:03:16] Drew:
+That's never what, that's never what a girl really wants.
+
+[00:03:19] Kristin:
+No, no, but he's a little horse dude.
+
+[00:03:22] Drew:
+Fair enough.
+[00:03:23] Kristin:
+Yeah.
+
+[00:03:23] Drew:
+You
+
+[00:03:24] Drew:
+Um...
+
+[00:03:25] Drew:
+My funny thing from Cult of the Lamb is that, uh, there's a mushroom guy you can rescue who, um...
+
+[00:03:32] Drew:
+was off doing his own little cult.
+
+[00:03:34] Kristin:
+Mm-hmm.
+
+[00:03:34] Drew:
+And you rescue him and you bring him back and he's like, "Oh, can you go rescue my followers?" And so you go and rescue the followers and then he eats them each time you bring them back.
+
+[00:03:43] Kristin:
+I have not encountered this in the game, so this is wild to me.
+
+[00:03:46] Drew:
+Yeah, but it's useful because in the late game of that you have to have followers with high rank and he like does an entire rank each time he eats another one of the mushroom people.
+[interjection] Kristin: It's another one.
+
+[00:03:58] Kristin:
+Yeah, maybe I need to get him. See, I'm just counting on reviving them or raising them.
+
+[00:04:03] Drew:
+Yeah.
+
+[00:04:03] Kristin:
+From an egg.
+
+[00:04:05] Drew:
+So, Cult of the Lamb, it's fun!
+
+[00:04:06] Kristin:
+It's funny about Cult of the Lamb because we played it when it came out.
+
+[00:04:10] Kristin:
+I was on Switch. I thought you were on Switch too, but you were maybe on PC, but
+[interjection] Drew: I believe so.
+
+[00:04:14] Kristin:
+And it was fun, and there's so much more in it now. Like, it's not just, you know, multiplayer, which we haven't done. Mm-hmm. Or the sex update, as they called it, even though you can't do that. There's just, there's like more artifacts and spells and things like that, so.
+
+[00:04:30] Drew:
+Yeah, at a high level, Cult of the Lamb is sort of a combination.
+
+[00:04:35] Drew:
+Base builder slash ARPG
+
+[00:04:38] Drew:
+So you build your little.
+
+[00:04:39] Drew:
+Cult
+
+[00:04:40] Kristin:
+Mhm.
+
+[interjection] Kristin: Yabba-Dabba-Doo-Dah!
+
+[00:04:48] Kristin:
+Uh-huh.
+
+[00:04:49] Drew:
+And defeat old gods, that sort of thing.
+
+[00:04:51] Kristin:
+Yeah.
+
+[00:04:52] Drew:
+So it's a lot of fun and I really think
+
+[00:04:54] Drew:
+For base building, having that sort of ARPG element
+
+[00:04:59] Drew:
+Is actually really good because it gives you something to do while the most boring part of base building happens, which is resource collection.
+
+[00:05:07] Drew:
+You can go and do stuff, and also you're gathering resources while you're fighting, so...
+
+[00:05:11] Kristin:
+Yeah, it's good. It's really fun. A little, um, roguelike
+
+[00:05:15] Kristin:
+Element to it.
+
+[00:05:17] Drew:
+Um, yeah, we've got a couple of other games we've been playing to talk about, but first we can.
+[interjection] Kristin: Yeah, so that's that.
+
+[00:05:24] Drew:
+Even if we have him playing Dwarf Fortress, we can cover some Dwarf Fortress news.
+
+[00:05:27] Kristin:
+Yes, because there has been news.
+
+[00:05:29] Drew:
+So, of course, most of the news is centered around the Adventure Mode updates.
+
+[00:05:34] Drew:
+Which, thank God, a quest log is finally implemented.
+
+[00:05:38] Kristin:
+Yay.
+
+[00:05:40] Drew:
+We also have full personality customization
+
+[00:05:43] Drew:
+Available in the character creation.
+
+[00:05:47] Kristin:
+Mm-hmm.
+
+[00:05:48] Drew:
+The ability to compose poems, music, dances, and writing things down is back in
+
+[00:05:56] Drew:
+Adventure Mode.
+
+[00:05:58] Drew:
+Kitfox says
+
+[00:05:59] Drew:
+Drop anything you create that you enjoy into the Adventure Mode channel of the Kitfox Discord for Dwarf Fortress.
+
+[00:06:08] Drew:
+Might be of interest to Stephen.
+
+[00:06:10] Kristin:
+Hell yeah.
+I poked around a little bit and didn't see too much there, but you know, we're still in beta, and I think that update was the one from three weeks ago, or was it two weeks ago?
+[interjection] Kristin: Two weeks ago.
+
+[00:06:22] Drew:
+Avatars for babies are coming back.
+
+[00:06:25] Kristin:
+Adorable.
+
+[00:06:26] Drew:
+And then they had an absolute metric ton of plant image updates.
+
+[00:06:32] Kristin:
+Oh wow, cool. And is that strictly adventure mode, or is that in fortress mode?
+[interjection] Drew: And
+
+[00:06:36] Drew:
+I think it's in adventure mode because I think you only really encounter some of these weird plants in adventure mode. I could be wrong about that.
+
+[00:06:44] Drew:
+Also, there was a note that I don't know what it means, and if anyone cares to write in and explain it to me, I read it twice.
+
+[00:06:51] Kristin:
+OK.
+
+[00:06:52] Drew:
+Which is, and I quote,
+
+[00:06:54] Drew:
+"Fixed error with experiment portrait mandibles."
+
+[00:06:59] Kristin:
+Hmm.
+
+[00:07:00] Drew:
+So experiments are the sort of monstrosities that show up, so...
+
+[00:07:03] Kristin:
+Show up, so yeah. So the mandibles of experiments in their portraits...
+
+[00:07:08] Drew:
+I think that must be the case.
+
+[00:07:09] Kristin:
+Yeah, they were erring, I guess.
+
+[00:07:13] Drew:
+Do you think them erring made it better or worse?
+
+[00:07:16] Kristin:
+I don't know, but it sounds creepy regardless. Actually, it sounds like the babies that I have hatched in Cult of the Lamb. Yeah.
+
+[00:07:28] Kristin:
+Okay.
+
+[00:07:29] Drew:
+Use levers, bash down locked doors and hatches, and topple statues.
+
+[00:07:33] Drew:
+I wouldn't recommend that, because that is how you get...
+
+[00:07:37] Drew:
+Lycanthropy.
+
+[00:07:38] Kristin:
+Oh. Mm.
+
+[00:07:39] Drew:
+Or miasma. Miasma? Sure it is. I don't know.
+
+[00:07:41] Drew:
+Yeah, one or the other. You get some sort of curse if you push down a statue in a god's temple.
+[interjection] Kristin: Yeah, one
+
+[00:07:46] Drew:
+Keep fighting.
+
+[00:07:47] Kristin:
+Around you find out.
+
+[00:07:48] Drew:
+Exactly.
+
+[00:07:49] Drew:
+You can also now use wells in town, and adventure music plays based on context.
+
+[00:07:55] Kristin:
+All right. Oh, okay. I see what that's supposed to say. Yeah, it took my brain a minute to understand.
+[interjection] Drew: Yeah.
+
+[00:08:01] Drew:
+Um...
+
+[00:08:02] Drew:
+Meanwhile, some interesting little side notes, mostly about Tarn. Tarn is moving overseas from the U.S.
+
+[00:08:10] Kristin:
+Huh?
+
+[00:08:11] Drew:
+We've mentioned that before. I haven't really encountered a whole lot more details, but they mentioned it again.
+
+[00:08:14] Kristin:
+He's getting married.
+
+[00:08:15] Drew:
+That's right.
+
+[00:08:16] Kristin:
+Yes.
+
+[00:08:17] Drew:
+They mentioned that in one of the updates.
+
+[00:08:19] Kristin:
+Uh-huh.
+
+[00:08:19] Drew:
+Also, a fact I did not know, but Tarn's guitar playing is a small and important element of Dwarf Fortress history.
+
+[00:08:26] Kristin:
+Really?
+
+[00:08:27] Drew:
+That's his guitar noodling on the original menu screen for Dwarf Fortress, which was used to inform the main theme on the fantastic new soundtrack by Dabu and Simon Swerwer.
+
+[00:08:38] Drew:
+I'm just quoting from...
+
+[00:08:39] Kristin:
+Mhm.
+
+[00:08:40] Drew:
+PR.
+
+[00:08:42] Drew:
+Or if this was an update or a note by Tarn somewhere.
+
+[00:08:46] Drew:
+But at any rate, because he was also reaching out to see if anyone had a flamenco guitar that they wanted to sell.
+
+[00:08:54] Kristin:
+Oh, wow. That's fun.
+
+[00:08:55] Drew:
+Apparently, he prefers the flamenco style because it's, um, gentle. Yeah.
+
+[00:08:59] Kristin:
+Yeah, I don't really know very much about guitars, but yeah.
+He's of the opinion that it's gentler, and he's like, "You can just sort of strum things, and it sounds nice," as opposed to a 
+
+[00:09:10] Drew:
+More... metal? 
+
+[00:09:11] Kristin:
+Guitar. 
+
+[00:09:13] Kristin:
+Uh, guitars can have that sort of twangy noise because there's a special effect you can do on the harp where you play down near the base of the soundboard, and it makes it sound twangy and guitar-y, I think, because the strings are shorter down there. 
+
+[00:09:25] Drew:
+Um, yeah, so I guess with the flamenco, you get more of the wood. 
+
+[00:09:29] Kristin:
+The warm, harpish sound, probably. 
+
+[00:09:32] Drew:
+So. 
+
+[00:09:33] Kristin:
+That is very interesting. Yeah. Kind of adorable. 
+
+[00:09:36] Drew:
+So, that's what I've got for Dwarf Fortress news. 
+
+[00:09:40] Kristin:
+Cool. 
+
+[00:09:41] Kristin:
+All right. 
+
+[00:09:42] Drew:
+So, I was trying to think if you had any major thoughts about Dwarf Fortress lately. I'm kind of excited about getting the quest log back and the ability to compose music. So I might be ready to pop back in there once I finish my current projects that are keeping me away from the computer. 
+
+[00:09:58] Kristin:
+Mm-hmm. 
+
+[00:09:59] Kristin:
+Well, I've been thinking about it actually because I think even though I've been like, "You know, I'm going to stick with that fort and stick with the lava thing," I think I might just start a new one. 
+
+[00:10:08] Kristin:
+Just a fresh start. But I'm also thinking about 
+[interjection] Drew: Bye!
+
+[00:10:12] Kristin:
+Tschüss! 
+
+[00:10:13] Kristin:
+Plunging in and trying adventure mode, beta or not. 
+
+[00:10:16] Drew:
+Yeah, I think that's a good plan. 
+
+[00:10:18] Kristin:
+Because I want to be part of all these weird things, so. 
+
+[00:10:24] Drew:
+Yeah, I've been su- 
+
+[00:10:24] Drew:
+People's adventure mode stories haven't shown up quite as much as I expected on either Steam or the Bay12 Games forum. 
+
+[00:10:35] Kristin:
+I have to assume it's because not a lot of people are on the beta branch. 
+
+[00:10:38] Drew:
+Branch. It's relatively easy to do with the Steam system, but it's still a couple of extra steps. 
+[interjection] Kristin: Somebody
+
+[00:10:45] Kristin:
+Yeah, that would be my only guess. 
+
+[00:10:49] Drew:
+Yep, plus people who are familiar with Dwarf Fortress are probably a little scared of doing anything outside the normal 
+
+[00:10:55] Kristin:
+Mhm 
+
+[00:10:55] Drew:
+Realm and just having their save file get corrupted. 
+
+[00:10:58] Kristin:
+There is that. 
+
+[00:10:59] Kristin:
+Yeah. 
+
+[00:10:59] Drew:
+Some people do put a lot of work into their worlds. 
+
+[00:11:01] Kristin:
+Into one single world, whereas we've world-hopped a little bit at this stage. 
+
+[00:11:05] Drew:
+Mm-hmm. 
+
+[00:11:06] Kristin:
+Yep. 
+
+[00:11:07] Kristin:
+Um, but... 
+
+[00:11:08] Kristin:
+Actually, part of why I've been thinking about Adventure Mode is because I've been playing kind of obsessively a game called Core Keeper, which you and I tried in early access like six-ish months, a year ago? I don't know. But if you're not familiar, it is a sandbox-style RPG crafting survival thing. And it's one of those. It's like Terraria. And you are a little person who wakes up underground 
+
+[00:11:39] Kristin:
+And you have to dig around and survive and beat bosses, and um, 
+
+[00:11:44] Kristin:
+Then you progress to another biome, and I'm not explaining it very well. 
+
+[00:11:49] Drew:
+Yeah, it's sort of a 2D, top-down, um... 
+
+[00:11:55] Drew:
+If you're not super familiar with the genre, think Legend of Zelda a little bit, kind of. 
+
+[00:11:59] Kristin:
+Yeah. 
+
+[00:12:00] Drew:
+Where you're going around and doing survival crafting. 
+
+[00:12:04] Drew:
+So it's sort of a little bit like 
+
+[00:12:07] Drew:
+Um... 
+
+[00:12:09] Drew:
+The most famous game ever. 
+
+[00:12:11] Kristin:
+Minecraft
+[00:12:15] Drew:
+Stardew Valley in appearance. Oh yeah.
+
+[00:12:19] Kristin:
+Oh yeah, and it is very pixelated.
+[interjection] Drew: Very pixely.
+[interjection] Kristin:
+
+[00:12:21] Drew:
+Yeah, but the game loop is very different.
+
+[00:12:23] Kristin:
+Yeah, and there are a lot of different skill trees. So in addition to combat.
+
+[00:12:28] Kristin:
+There is mining.
+
+[00:12:30] Kristin:
+Running is one, which I think is hilarious. There's gardening. That's what they call the farming, and fishing, and
+
+[00:12:35] Kristin:
+cooking and all kinds of things, and as you level up in those, you get different bonuses. So like,
+
+[00:12:41] Kristin:
+at this point in the crafting tree, I have a chance of getting multiples when I craft a thing. But I really love the aesthetic. You are underground, and it's very like crystal-y and mushroom-y.
+
+[00:12:54] Kristin:
+The soundtrack is excellent, but I've been thinking about it in Dwarf Fortress terms because it is set underground, and I, at times, feel like a dwarf because you're just mining through emptiness, and then suddenly you'll come across a beautiful little sunlit glade that's in a different...
+
+[00:13:12] Kristin:
+Like.
+
+[00:13:13] Kristin:
+biome than the one you're in.
+
+[00:13:15] Kristin:
+And there are cute little creatures like cattle, and you raise those, and sometimes you have to cull them because they breed too fast, and it's hard to feed them.
+
+[00:13:25] Drew:
+So it's like puppies in Dwarf Fortress.
+
+[00:13:27] Kristin:
+It is like puppies in Dwarf Fortress. And there was a baby, but I couldn't bring myself to kill the baby, which means I had to cull the adult that has eaten mushrooms out of my hand.
+[interjection] Drew: So.
+
+[00:13:38] Kristin:
+But it's really fun. They've added a couple of classes since we played it; there's magic and summoning now.
+
+[00:13:46] Kristin:
+Reviews of the summoning in particular are very mixed, and I was excited about it, but I find it really hard to aim with a magic staff on a controller.
+
+[00:13:58] Kristin:
+Which, you know, is what it is, but it has me thinking about the larger genre of these base-building sandbox-type games.
+
+[00:14:07] Kristin:
+So I did pick up a $10 copy of Terraria, which someday I'll try. That's not going to make it to the top of the list anytime soon. And I own
+
+[00:14:16] Kristin:
+Necesse, or what do you call it?
+
+[00:14:19] Drew:
+Necesse.
+
+[00:14:20] Kristin:
+Yeah, at any rate, I own it, and I tried it on Steam Deck, but...
+
+[00:14:23] Kristin:
+It is known for not having great controller support, so I have gotten it installed on my PC to try, to give it a real try there.
+
+[00:14:31] Drew:
+Fair.
+
+[00:14:31] Kristin:
+But, um...
+
+[00:14:32] Kristin:
+I love Core Keeper. There's multiplayer, and I'm still... someday I'm going to drag you into it, but I know those farming-type games aren't really your jam.
+[interjection] Drew: I'm sorry.
+
+[00:14:41] Drew:
+Um, yeah, because I set us up a server for Core Keeper, uh, back when we tried it a
+[interjection] Kristin: Of course.
+[interjection] Drew: year or so ago, um,
+[interjection] Kristin: Yeah.
+
+[00:14:49] Drew:
+And I do like the idea, I do like the fact that you can set up a sort of shared world that you can pop in and out of on your own at times.
+
+[00:14:56] Drew:
+But overall...
+
+[00:14:58] Drew:
+I was thinking about it because I know you've been really obsessed with that one.
+
+[00:15:02] Drew:
+And we've tried to do joint runs of Stardew Valley.
+
+[00:15:07] Kristin:
+Mm-hmm.
+
+[00:15:08] Drew:
+And I bounce off these, and I honestly think it's such a silly thing, but I really think I bounce off them
+
+[00:15:14] Drew:
+for
+
+[00:15:16] Drew:
+how often you have to switch your tools and jump back and forth with that stuff.
+[00:15:23] Drew:
+Along with just sort of the general, uh, grindiness.
+
+[00:15:27] Kristin:
+Yeah.
+
+[00:15:30] Drew:
+I don't find it as peaceful as some people do, like the kind of flow state.
+[interjection] Kristin: I do like that.
+
+[00:15:36] Kristin:
+Oh, I definitely experience that, like, just getting in the zone of the mining and experiencing the world, yeah.
+
+[00:15:42] Drew:
+I don't know, when you're doing that, do you listen to podcasts, or do you try...
+
+[00:15:46] Kristin:
+Sometimes, yeah, or like I'll turn on whatever bad reality show if I'm not like...
+
+[00:15:52] Kristin:
+Pursuing a particular goal, but instead I'm like, "Well, I'm gonna mine out a big area to see if I can find a waypoint or something like that." Then yeah, I'll turn something on.
+
+[00:16:00] Drew:
+I just didn't know if, uh, the podcast, like...
+
+[00:16:03] Drew:
+Listening to a podcast would pull you out of the flow.
+
+[00:16:07] Kristin:
+No, no. I do occasionally realize like, "Oh wait, I just haven't been listening to whatever I have..."
+[interjection] Drew: on.
+[interjection] Kristin: Turned on because I'm pretty good at completely neutralizing my surroundings and not hearing anything.
+
+[00:16:19] Kristin:
+But we talked about this a little bit, that like, you'll listen to something and play Cult of the Lamb, and I cannot focus on Cult of the Lamb and a podcast at the same time. I just end up not hearing it at all. But it doesn't seem to be true for Graveyard Keeper.
+
+[00:16:34] Kristin:
+Yeah.
+
+[00:16:35] Drew:
+Let's see, I'm just looking through our list of games. Yes.
+
+[00:16:39] Drew:
+Um...
+
+[00:16:40] Drew:
+Is there anything we want to say about Diablo? Because we both were playing a lot of Diablo over the...
+
+[00:16:47] Drew:
+They've got a big update coming up.
+
+[00:16:49] Kristin:
+Yes, there's an expansion coming up and I don't want to talk too much...
+
+[00:16:53] Kristin:
+Negatively about it, but like...
+
+[00:16:56] Kristin:
+I felt like this season, this particular season was a little thin.
+
+[00:17:05] Drew:
+Yeah, I was thinking I was going to enjoy the hordes a little more than I wound up doing.
+
+[00:17:10] Kristin:
+Yeah.
+
+[00:17:12] Drew:
+I think...
+
+[00:17:14] Drew:
+Part of that might just be that, uh...
+
+[00:17:17] Drew:
+I'm a little frustrated at this stage with the endgame thing that they added the previous season, which is...
+
+[00:17:24] Kristin:
+Chests are working.
+
+[00:17:26] Drew:
+Yeah, they've...
+
+[00:17:26] Kristin:
+And tempering.
+
+[00:17:27] Drew:
+I feel like they've been a little bit stingy with giving out those resources, which in...
+[interjection] Kristin: Which.
+[interjection] Drew: Their PTR for last season or whatever, they even said, like, "Oh, we were too stingy in the PTR with giving out these resources, so we tripled it." And it still feels really...
+
+[00:17:43] Kristin:
+The problem is that you have to do really well in those, in the, um, hordes and then turn all of your ether into, um...
+
+[00:17:53] Kristin:
+Materials.
+
+[00:17:55] Kristin:
+But I, for instance, my...
+
+[00:17:57] Kristin:
+The class that is my specialty now, the one that I'm playing...
+
+[00:18:01] Kristin:
+Isn't great at crowd control, which I mean, it's a horde, it's built right in, and like...
+[interjection] Drew: It's built right in.
+[interjection] Kristin: So I come out of that without a lot of resources, so it's just, and it's a "your mileage may vary" kind of scenario. Some people are really, really liking it.
+
+[00:18:15] Drew:
+Yeah, I just expected to like it more than I wound up, and so, you know, after we've finished sort of, I think about three-quarters of the endgame...
+
+[00:18:24] Kristin:
+Mm-hmm.
+
+[00:18:24] Drew:
+Finish the season, uh, the built-in season grind...
+
+[00:18:28] Kristin:
+Yeah.
+
+[00:18:29] Drew:
+We both kind of bounced off it a little bit
+
+[00:18:30] Kristin:
+Yeah, I beat the tormented boss that had, what I think, is the coolest horse in the game. That was the first time I did that, and the horse dropped the first time. So I was like, "Oh, I could just rest on my laurels and my cool horse now." So I haven't, and then you know, Core Keeper has been eating up a lot of my time. And then I guess I'll just throw in here also with some people from a Discord that I co-admin.
+
+[00:19:01] Kristin:
+For Final Fantasy XIV, we have been progging, as we say.
+
+[00:19:05] Kristin:
+One of the extreme fights.
+
+[00:19:07] Kristin:
+And we got through that this weekend.
+
+[00:19:09] Drew:
+So what is progging? Because we maybe don't have a whole lot of MMO...
+
+[00:19:12] Kristin:
+Of MMO. It's progressing. It's nerd code for you keep doing the same fight over and over again.
+[interjection] Drew: Oh.
+[interjection] Kristin: Until you get better at the mechanics, and then you prog, you make it a little further.
+
+[00:19:24] Kristin:
+And you do that over and over again until you make it through those mechanics.
+
+[00:19:28] Drew:
+So it's grinding.
+
+[00:19:29] Kristin:
+It's grinding. Yep.
+
+[00:19:30] Kristin:
+It's very much not your jam.
+[interjection] Drew: Eh.
+
+[00:19:33] Kristin:
+But it's fun with the right people, and it's really cool to see when everything falls into place and like...
+[interjection] Drew: Hi.
+[interjection] Kristin: You don't necessarily need your person calling the shots anymore. Everybody knows where to go, and they're doing their thing.
+
+[00:19:45] Drew:
+You know, because I enjoyed playing through the story of Final Fantasy XIV with you and...
+[interjection] Kristin: Yeah.
+[interjection] Drew: Us, you know, we timed it so that we would be at the same story beats and all of that. But yeah, when it comes to the extreme fights, we were just doing the same fight for hours.
+
+[00:20:01] Kristin:
+Two hours, we were doing two hours on the nights that we did it.
+
+[00:20:04] Drew:
+Yeah, and you did it like three times, four times.
+
+[00:20:07] Kristin:
+Well, we did it two and a half times because the XIV servers were getting DDoS-ed, and people were getting Thanos-snapped, and it makes it hard to do.
+
+[00:20:16] Drew:
+Fair enough.
+
+[00:20:17] Drew:
+And then, of course, you always have the joy of MMOs, which is having party members who are either flakes or difficult to work with.
+
+[00:20:25] Kristin:
+Yeah, we did really struggle with that, and it's so much teamwork. Teamwork is required, obviously; it's an eight-man fight, and...
+
+[00:20:34] Kristin:
+If someone isn't pulling their weight, then you have to deal with that.
+
+[00:20:37] Drew:
+Yeah, or they're just not showing up, or that sort of thing.
+
+[00:20:41] Kristin:
+Or they're 30 minutes late, and they're one of the healers, so you're kind of screwed.
+
+[00:20:46] Drew:
+Yep, that's how it goes with MMOs, and part of the reason why I stay the hell away from MMOs.
+
+[00:20:53] Kristin:
+Yeah, I think that you're mostly still in XIV for me at this stage. Oh yeah. And I've been grinding this week, doing my, getting my crafters all to 100, so.
+
+[00:21:01] Drew:
+Well, don't get me wrong. I love XIV. I just don't love the fights in XIV.
+[interjection] Kristin: Mm-hmm.
+
+[00:21:06] Kristin:
+Yeah, or the end game.
+
+[00:21:08] Drew:
+Yeah.
+
+[00:21:10] Drew:
+Um, well, with us both bouncing off Diablo a little bit or finishing the season, it's a little hard to really say, you know?
+[interjection] Kristin: It's really hot.
+
+[00:21:18] Drew:
+Um, I've been...
+
+[00:21:20] Drew:
+Going through and checking some demos off my backlog of demos. I try to keep up with that.
+[interjection] Kristin: Demos.
+
+[00:21:27] Drew:
+The first one that I want to tell people about is called Crab God.
+
+[00:21:32] Kristin:
+Yes.
+[00:21:32] Drew:
+Which is always a great name.
+
+[00:21:33] Kristin:
+That's a great name.
+
+[00:21:35] Kristin:
+And you just know what you're getting.
+
+[00:21:37] Drew:
+Exactly. You are a helper of a crab god.
+[interjection] Kristin: Yeah.
+
+[00:21:42] Kristin:
+That's delightful.
+
+[00:21:44] Drew:
+So this game is kind of interesting in that it is, I don't know if there is a term yet for this style of game, but it's basically a side-builder.
+
+[00:21:56] Kristin:
+A what?
+
+[00:21:57] Drew:
+So it's 2D.
+
+[00:21:58] Kristin:
+Mm-hmm.
+
+[00:21:59] Drew:
+Um...
+
+[00:22:00] Drew:
+But you're viewing it sort of face-on. So like the crabs are facing you and moving back and forth on the screen from left to right.
+
+[00:22:09] Drew:
+And you're basically, hopefully, I didn't say 'basically' too many times in a row there, you are
+[interjection] Kristin: Too many.
+
+[00:22:17] Drew:
+Building, you know, little portions to improve your area.
+
+[00:22:22] Drew:
+Until you clear an area, basically. So you've got it all cleared and set up, and you've collected resources and used the resources to evolve your crabs into more specialized professions, that sort of stuff.
+
+[00:22:34] Kristin:
+Their stuff.
+
+[00:22:35] Drew:
+And then when you finish, you go on to the next area. There is a popular game series called Kingdom
+
+[00:22:42] Kristin:
+Mm-hmm.
+
+[00:22:42] Drew:
+That is like this as well, where you are the king of a new land.
+
+[00:22:47] Kristin:
+Mhm.
+
+[00:22:48] Drew:
+And you show up, and you can go to the left or to the right and tell the peasants that you encounter along there to like...
+
+[00:22:55] Drew:
+Build walls or do stuff in order to fight off invasions that come periodically.
+
+[00:23:02] Kristin:
+Hmm.
+
+[00:23:02] Drew:
+And the Crab God game is very much in that style.
+
+[00:23:06] Kristin:
+Interesting.
+
+[00:23:06] Drew:
+Um, I think it was sort of with Kingdom, maybe a little bit invented to work well on...
+
+[00:23:13] Drew:
+Weaker
+
+[00:23:15] Drew:
+Uh, systems like weaker consoles or phone games. I think maybe the thing that Kingdom was based on
+[interjection] Kristin: In this league.
+[interjection] Drew: Like made from
+
+[00:23:23] Kristin:
+Mhm.
+
+[00:23:23] Drew:
+Was a phone game.
+
+[00:23:25] Drew:
+Anyway.
+
+[00:23:26] Kristin:
+When you say side-builder, I think of like Mind Over Magic or Oxygen Not Included, where you're kind of building.
+
+[00:23:34] Kristin:
+I guess in Mind Over Magic, you were definitely building vertically, and I don't know if that's necessarily true.
+
+[00:23:39] Drew:
+Yeah, there are builder games that are like that, that I think come from Sim...
+[interjection] Kristin: There.
+[interjection] Drew: I think it was called SimTower?
+
+[00:23:51] Drew:
+I'm not entirely sure, but there you were making like this skyscraper, basically, by building
+[interjection] Kristin: Yeah.
+[interjection] Drew: Pieces for it.
+
+[00:23:59] Drew:
+And then it
+
+[00:24:00] Drew:
+Turned out that I think people liked it better when you kind of went left and right with it.
+
+[00:24:04] Kristin:
+Oh, interesting.
+
+[00:24:05] Drew:
+Um, but this is different because there's not really rooms, and I feel like rooms are a key component in that sort of building builder style.
+[interjection] Kristin: Bill.
+
+[00:24:13] Kristin:
+Yes, I mean, that's an actual thing in Mind Over Magic.
+
+[00:24:16] Drew:
+Mm-hmm.
+
+[00:24:18] Drew:
+Anyway, it's interesting, people who are familiar, if you're familiar with the game Kingdom or Kingdom 2, Crab God is going to be more of that.
+
+[00:24:28] Kristin:
+Yeah.
+
+[00:24:29] Drew:
+Um
+
+[00:24:30] Kristin:
+So will you purchase it? That was a demo, right?
+
+[00:24:32] Drew:
+Yeah, I don't think so because as much as I enjoyed Crab God when I played the demo, I played through the demo. It took about an hour, hour and a half.
+
+[00:24:41] Drew:
+Um, my challenge with it is the fact that it is very much like Kingdom, and I bought Kingdom.
+
+[00:24:47] Drew:
+And I bounced off it after about two hours of play.
+
+[00:24:51] Kristin:
+There.
+
+[00:24:51] Drew:
+It just wound up not really
+
+[00:24:53] Drew:
+I just didn't feel like I was doing very much.
+
+[00:24:56] Kristin:
+Yeah.
+
+[00:24:57] Drew:
+Because in that one, and maybe a little bit in Crab God, but definitely in Kingdom, you were kind of going back and forth from one end to the other, collecting coins from peasants over time.
+[interjection] Kristin: Uh...
+
+[00:25:11] Drew:
+So again, kind of a little bit of a phone game type, farming type thing, so
+[interjection] Kristin: Bye.
+
+[00:25:17] Kristin:
+Eh.
+
+[00:25:18] Drew:
+I also played a demo for Worshippers of Cthulhu.
+
+[00:25:23] Drew:
+A city builder Cthulhu game.
+
+[00:25:26] Kristin:
+Which, under ten, sounds very cool.
+
+[00:25:28] Drew:
+Yeah, I enjoyed the aesthetic initially of it.
+
+[00:25:33] Kristin:
+Mhm.
+
+[00:25:33] Drew:
+Um
+
+[00:25:34] Drew:
+It's pretty decent as a city builder, but it winds up, I feel like,
+
+[00:25:40] Drew:
+At least the demo wound up feeling a little bit bland.
+
+[00:25:43] Kristin:
+Yeah.
+
+[00:25:43] Drew:
+Which is shocking for Cthulhu.
+
+[00:25:45] Kristin:
+Yeah, that seems challenging.
+
+[00:25:48] Drew:
+Um, you...
+
+[00:25:50] Drew:
+Settle a new settlement in Innsmouth, so New England type area, except it's really an island, one of those islands off the coast of New England, you know? They might exist.
+
+[00:26:04] Drew:
+And you're, you know, building your temples to the various dark gods and also keeping your settlers happy as you're doing this.
+
+[00:26:15] Kristin:
+Mm-hmm.
+
+[00:26:16] Drew:
+And, you know, you sacrifice people.
+
+[00:26:19] Drew:
+Pretty much everything you'd expect from the name.
+
+[00:26:23] Drew:
+Um, in feel, like the big decisions are pretty close slash remind me of, um, Frostpunk.
+
+[00:26:32] Kristin:
+Yeah?
+
+[00:26:33] Drew:
+In a lot of ways, it's that same sort of periodically having options pop up where you can be cruel or kind or all those sorts of things.
+
+[00:26:41] Drew:
+Which is nice.
+
+[00:26:43] Drew:
+Um...
+
+[00:26:44] Drew:
+But...
+
+[00:26:45] Drew:
+Frostpunk, there was a lot more urgency to those decisions, and in this, I felt like it's a much more laid-back play, which, again, I don't really expect from a Cthulhu city builder. Like, I would expect constant urgency, and some people are wanting to rebel,
+[interjection] Kristin: They were like, I would expect.
+[interjection] Drew: And some of the other gods are trying to horn in on the god you're worshiping's territory. And so, anyway.
+
+[00:27:10] Kristin:
+Anyway.
+
+[00:27:10] Drew:
+I'd keep an eye on it. It's, I think they maybe put it out there a little bit before it was fully baked.
+
+[00:27:15] Kristin:
+Yeah.
+
+[00:27:17] Drew:
+So, the demo ends when...
+
+[00:27:19] Drew:
+You.
+
+[00:27:21] Drew:
+Do a sacrifice of one of your cultists in order to turn them into a monster to send them to attack another town to get resources from them.
+
+[00:27:31] Drew:
+So.
+
+[00:27:32] Drew:
+I don't know. Again, maybe that was just ending it too soon because I think I only played it for like an hour and 20 minutes for that demo.
+
+[00:27:39] Kristin:
+I know.
+
+[00:27:40] Drew:
+And I've seen some of the fighting that happens and again, I just
+
+[00:27:45] Drew:
+I wanted to like it more than I did.
+
+[00:27:50] Kristin:
+So that's another probably not buy for me to follow, but.
+
+[00:27:52] Drew:
+Yeah, probably. Yeah, I'm going to keep following it, but I don't know if I'm going to buy that one either. And then, just to keep talking, I have ended up playing Rogue Trader, which is a 40k 
+[interjection] Kristin: You know.
+
+[00:28:08] Drew:
+CRPG. 
+
+[00:28:10] Kristin:
+This is Warhammer 40k. 
+
+[00:28:12] Kristin:
+For those who don't know. 
+
+[00:28:13] Drew:
+Fair enough. 
+
+[00:28:14] Kristin:
+I mean, on this podcast, they probably do, but yeah. 
+
+[00:28:24] Kristin:
+Yeah. 
+
+[00:28:25] Drew:
+When that came out, it got pretty negative reviews. My understanding is that that was partly because that's just sort of how the publisher, Owlcat, rolls. They tend to release things a little bit 
+[interjection] Kristin: There you go.
+[interjection] Drew: early and then fix it in post. 
+[interjection] Kristin: For now.
+
+[00:28:42] Drew:
+This is what I'm told. I haven't really played their other games too much. 
+
+[00:28:49] Drew:
+I've really enjoyed Rogue Trader. I've spent a fair number of hours. 
+
+[00:28:54] Kristin:
+Hours, yeah. You've been playing it a lot. Like a lot of my Core Keeper hours have been while you're also playing Rogue Trader. 
+
+[00:29:02] Drew:
+So, just a high level for those who don't know, if you're not familiar with the 40k universe, Warhammer 40k is a 
+
+[00:29:10] Drew:
+There's no way to describe Warhammer 40k, so look that up if you don't know what it is, and the rest of this will make more sense. 
+
+[00:29:15] Kristin:
+Yeah, I mean, we could explain it, but it would take forever, so. 
+
+[00:29:17] Drew:
+Yeah, to put it this way, there are entire 
+
+[00:29:23] Drew:
+multiples of podcasts just dedicated to 40k, not even talking about 40k lore, not talking about 
+[interjection] Kristin: I'm talking about.
+[interjection] Drew: the actual playing of the game. 
+
+[00:29:30] Kristin:
+Yeah. 
+
+[00:29:31] Drew:
+So anyway. 
+
+[00:29:32] Drew:
+The idea with Rogue Trader is that you are a... 
+
+[00:29:36] Drew:
+Sort of a 
+
+[00:29:37] Drew:
+Privateer, I think, is maybe the closest word. 
+
+[00:29:40] Drew:
+Where you go out into the universe and 
+
+[00:29:44] Drew:
+capture 
+
+[00:29:46] Drew:
+planets and declare them fiefdoms for the Imperium that you work for. 
+
+[00:29:53] Drew:
+Essentially, you're a law unto yourself. 
+
+[00:29:56] Drew:
+In the sense that, like the ship that you're controlling has 
+
+[00:30:01] Drew:
+the better part of 50,000 people on it. 
+
+[00:30:04] Kristin:
+Yeah. 
+
+[00:30:04] Drew:
+You know, it's a giant gothic cathedral-type thing, and there are multiple star systems that 
+[interjection] Kristin: Much.
+[interjection] Drew: you have 
+
+[00:30:14] Drew:
+like direct control over, power of life and death over. 
+
+[00:30:17] Kristin:
+Mhm. 
+
+[00:30:18] Drew:
+And the upside to Warhammer 40k, for those of you who know, of course, is that there are no good guys in Warhammer 40k. Everybody's terrible. 
+
+[00:30:26] Kristin:
+Uh huh. 
+
+[00:30:28] Drew:
+And so. 
+
+[00:30:29] Drew:
+The usual RPG tropes of good, neutral, evil decisions don't really apply. In Rogue Trader, you can be, I'm trying to remember, dogmatic, um... 
+
+[00:30:43] Drew:
+Dogmatic, iconoclast, and I forget what the, um, the... 
+
+[00:30:49] Drew:
+Uh, heretical. 
+
+[00:30:50] Kristin:
+Hmm. 
+
+[00:30:52] Drew:
+Um, I'm playing Dogmatic this time through. 
+
+[00:30:55] Drew:
+But it's interesting because you always end up having these decisions to make where none of the options feel good from a 
+
+[00:31:05] Drew:
+True moral, you know, living sense. So one of the first questions you get is after you take 
+[interjection] Kristin: Yeah.
+[interjection] Kristin: Great.
+[interjection] Drew: over the ship, because of betrayals and all that sort of thing, you end up in charge of the ship and you're
+[00:31:20] Drew:
+Chief Gunnery Officer, who's like
+
+[00:31:23] Drew:
+three or four ranks down, who's being promoted up because all the people above him died, starts to crack a little bit as he's being introduced to you and starts talking about like
+
+[00:31:34] Drew:
+"We can't do this, this is insane..." and your options are
+
+[00:31:39] Drew:
+Um, like...
+
+[00:31:41] Drew:
+You know...
+
+[00:31:41] Drew:
+be merciful towards him.
+
+[00:31:43] Kristin:
+Mm-hmm.
+
+[00:31:44] Drew:
+Execute him or tell your second-in-command to just deal with it however.
+
+[00:31:51] Drew:
+And I'm like, no, in the 40K universe, this is just straight execution. And yeah, they just...
+
+[00:31:57] Drew:
+Yeah.
+
+[00:31:57] Drew:
+haul them off to the side and shoot them, and then we just go on with the conversation.
+[interjection] Kristin: And then we just...
+
+[00:32:02] Drew:
+because this is how 40K rolls.
+
+[00:32:04] Kristin:
+Yeah, dark.
+
+[00:32:05] Drew:
+Yeah, and that's the good decision.
+
+[00:32:10] Drew:
+Um, so...
+
+[00:32:11] Drew:
+You get a lot of great characters in there, but yeah, the thing with 40K is
+
+[00:32:17] Drew:
+you wind up with a lot of summary executions.
+
+[00:32:19] Kristin:
+Ew.
+
+[00:32:21] Drew:
+Um, so there are a bunch of different, uh...
+
+[00:32:24] Drew:
+uh, alien races that you encounter in there, um, and get to declare scum.
+
+[00:32:29] Drew:
+All that sort of thing.
+
+[00:32:30] Kristin:
+Sure.
+
+[00:32:31] Drew:
+So overall, I'm a big fan. If you like Warhammer 40K, you should
+
+[00:32:36] Drew:
+at least watch some videos, give it a try. I think it's worth the money at this price because it's down from, I think, when they released it, it was like 45 dollars.
+
+[00:32:43] Kristin:
+Yeah, I remember that's why you didn't buy it at first because it was pretty expensive.
+
+[00:32:45] Drew:
+Yeah, I know I'm cheap, and I-
+
+[00:32:47] Kristin:
+I mean, we collectively are kind of cheap.
+
+[00:32:50] Drew:
+But I also had friends who paid for the pre-release.
+
+[00:32:54] Kristin:
+Hehe.
+
+[00:32:54] Drew:
+Um, so they paid like...
+
+[00:32:55] Drew:
+$75 or whatever, and their name is in the game.
+[interjection] Kristin: Yeah.
+
+[00:33:01] Drew:
+I think to a man, they were all kind of disappointed, like they felt like they got a little ripped off because there it was almost unplayable initially.
+
+[00:33:09] Kristin:
+Shame, man.
+
+[00:33:10] Drew:
+But now it's pretty good. There are still a lot of bugs, but overall, I'm fine with it.
+
+[00:33:17] Drew:
+Have you been playing Sunhaven?
+
+[00:33:19] Kristin:
+I did. I was trying to remember if I talked about that last time, but yeah, before I got onto my Court Keeper kick, I was really playing a lot of Sunhaven. Sunhaven is a fairly straightforward Stardew-alike, since we just use that for shorthand, but it's much more fantasy, so you are a spellcaster if you want to be.
+
+[00:33:40] Kristin:
+And there are elves, and like Naga, and cat people, and all that stuff.
+
+[00:33:45] Kristin:
+Um, and I really love it. I like the aesthetic of it more than Stardew. It's that pixel-type art, but all of the portraits are kind of anime-looking, and um, the
+
+[00:33:57] Kristin:
+romanceable characters all read a little bit older than the Stardew ones who like live in their parents' basement and stuff like that. So if you like Stardew, it's definitely worth trying. They have added controller support.
+
+[00:34:10] Kristin:
+Um, so it actually works on Steam Deck now, which is again part of why I ended up playing it so much more than I did the first time.
+
+[00:34:17] Kristin:
+Yeah.
+
+[00:34:18] Kristin:
+Cool.
+
+[00:34:19] Kristin:
+Sunhaven, good game.
+
+[00:34:20] Drew:
+Um...
+
+[00:34:21] Kristin:
+I've got a friend playing it too, and I know she's played almost as many hours as I have at this stage.
+
+[00:34:26] Drew:
+It seemed like you were much more engaged with the romanceable characters in that than you were with the...
+
+[00:34:30] Kristin:
+Yeah, I actually was like, oh jeez, I don't know who I want to marry. I still haven't got married yet.
+
+[00:34:35] Kristin:
+And not because I wasn't that into any of them, but because there are multiple options.
+
+[00:34:39] Drew:
+Yeah, you always wound up kind of not really into any of the story.
+
+[00:34:42] Kristin:
+I got married finally in Stardew and I married Sebastian, who did indeed live in his mom's basement.
+
+[00:34:49] Drew:
+Fair enough.
+
+[00:34:52] Drew:
+I don't, yeah, you met me in college,
+
+[00:34:56] Kristin:
+Nah.
+
+[00:34:57] Drew:
+Um...
+
+[00:34:58] Drew:
+So, the last game that I tried...
+
+[00:35:00] Drew:
+That I still need to go back and spend some more time with before I see if I'm going to drag you into it as well is the Mines of Moria to get back to yours?
+
+[00:35:07] Kristin:
+Yeah.
+
+[00:35:09] Drew:
+And, uh, that is actually a...
+
+[00:35:13] Drew:
+Good?
+
+[00:35:14] Drew:
+Game, I think.
+
+[00:35:15] Kristin:
+Somewhere in there. We were excited to hear about it and then it got kind of panned when it came out.
+
+[00:35:21] Drew:
+Yeah, I'm still trying to decide how I feel about it. I played, I think, about four hours so far.
+
+[00:35:28] Kristin:
+Mhm.
+
+[00:35:29] Drew:
+And, uh, died once, which...
+
+[00:35:32] Drew:
+Was kind of a pain in the ass because you lose all of your items and you respawn back at your base.
+
+[00:35:38] Drew:
+And I respawned and I was being invaded by goblins at the time and had no weapons to really fight them.
+[interjection] Kristin: No.
+
+[00:35:45] Kristin:
+Cause you lost all your stuff, yeah.
+
+[00:35:47] Drew:
+And that's when it clicked for me that it is sort of a
+
+[00:35:52] Drew:
+More attractive. I'm getting panned for this.
+
+[00:35:56] Kristin:
+Yeah.
+
+[00:35:56] Drew:
+A more attractive or more
+
+[00:35:58] Drew:
+Realistic, in quotes, looking version, I think, of Minecraft.
+
+[00:36:02] Kristin:
+Oh.
+
+[00:36:03] Drew:
+So.
+
+[00:36:04] Kristin:
+I don't really know anything about Minecraft beyond that people love it. Is it? No, that's... Is it Roblox where people made Disney World? Or is it Minecraft?
+[interjection] Drew: Yeah, the-
+
+[00:36:12] Drew:
+Probably both, but Roblox is the one that is sort of an MMO slash...
+[interjection] Kristin: Yeah.
+
+[00:36:18] Drew:
+Universe.
+
+[00:36:19] Kristin:
+Yeah, and people have Minecraft servers or something like that, right?
+
+[00:36:23] Drew:
+Yeah, Minecraft servers have kind of been more of an individual, or what am I trying to say, small group thing. Groups of friends. Less corporate.
+
+[00:36:32] Drew:
+Um...
+
+[00:36:33] Drew:
+I don't think there have been Minecraft partnerships with Louis Vuitton like with Roblox.
+
+[00:36:39] Kristin:
+Ah, so that was Roblox. See, I don't remember what that was, but I remember us talking about it at one point.
+[interjection] Drew: I love it.
+
+[00:36:45] Drew:
+But the
+
+[00:36:46] Drew:
+Idea in Mines of Moria, obviously, is that you're a dwarf trying to...
+[interjection] Kristin: Too.
+
+[00:36:50] Drew:
+Mine in Moria.
+[interjection] Kristin: Yeah.
+
+[00:36:51] Drew:
+And it's the same sort of thing as Minecraft in that you can...
+
+[00:36:56] Drew:
+Dig through large areas in basically three-dimensional space.
+
+[00:37:02] Drew:
+Um, and meanwhile, you are building up your bases, um, increasing your tech tree, you know, you get X to bank Y to go get Z while fighting off um, invasions of uh
+
+[00:37:17] Drew:
+Orcs and goblins and all that sort of thing.
+
+[00:37:20] Kristin:
+So, how does it work? Do you not have to change tools very often? I was going to ask, why is this one different for you?
+
+[00:37:25] Drew:
+Well, I mean, that's part of what I think I didn't super love about it.
+
+[00:37:29] Kristin:
+Mm, yeah.
+
+[00:37:30] Drew:
+But also, you can...
+
+[00:37:32] Drew:
+You can stick pretty close to just having your pickaxe as a general-purpose tool.
+[interjection] Kristin: Yeah.
+[interjection] Drew: When you're fighting multiple people, you need to swap over to a sword.
+
+[00:37:44] Drew:
+And it's 3D
+
+[00:37:47] Drew:
+But, again...
+
+[00:37:48] Drew:
+I think if you like Minecraft and you like dwarves, then you might like Mines of Moria.
+
+[00:37:53] Kristin:
+Hmm.
+
+[00:37:53] Drew:
+Um...
+
+[00:37:54] Drew:
+I can't give it an unqualified sell because a lot of people have had very negative things to say about it.
+
+[00:37:59] Kristin:
+I didn't follow it very closely, but I do remember people thinking it was terrible.
+
+[00:38:03] Drew:
+But I decided to give it a try because, one, dwarves, and two, because they had their...
+
+[00:38:09] Drew:
+Age of Gold update or something like that.
+
+[00:38:11] Kristin:
+It's on Steam now.
+
+[00:38:12] Drew:
+Yeah.
+
+[00:38:13] Kristin:
+As well.
+
+[00:38:13] Drew:
+Yeah, it's no longer, I think it was on Epic. Epic, yeah. Yeah, so it's on Steam.
+
+[00:38:18] Drew:
+They had their major update, and um, yeah, I actually like, I enjoyed the
+
+[00:38:24] Drew:
+aesthetic of it, and you do have a lot of good moments of discovery where you
+[interjection] Kristin: Thank you.
+[interjection] Drew: are digging into a new area, and then it just opens up into a vast cavern.
+
+[00:38:34] Drew:
+So.
+
+[00:38:35] Drew:
+Overall, I enjoy it. I'm going to spend some more time with it before I know how I actually feel about it, but...
+
+[00:38:40] Drew:
+It felt really bad to respawn into a raid.
+
+[00:38:44] Kristin:
+Yeah, that doesn't feel good. I will say I am playing Core Keeper on casual, and like, filthy casual, yeah. Well, I mean, since I'm on my own and you don't want to play with me. Oh, I want to play with you.
+
+[00:38:58] Kristin:
+But, um, I set us up a server in the past.
+[interjection] Drew: But I-
+
+[00:38:58] Drew:
+I set us up a server in the past, and you didn't want to play with me.
+
+[00:39:03] Kristin:
+Anyway, so I'm partly making fun of myself because, like, with the boss fights, for one of them, I struggled and then just went back and upgraded my sword and came back and just bashed him until he died because I made it easy, but I did want to say that my...
+
+[00:39:19] Kristin:
+I think two of my three deaths so far have been from Chinese bombs and accidentally blowing myself up.
+
+[00:39:27] Drew:
+That seems about fair.
+
+[00:39:28] Kristin:
+Uh-huh. Uh-huh. And then I did set up some mine carts, so I think Rorik should be proud of me that I finally have set up mine carts, but in a different game. That's what I was going to say.
+
+[00:39:36] Drew:
+They're probably a little easier to manage. I would imagine so, yes.
+
+[00:39:43] Drew:
+Were there any other games you wanted to talk about?
+
+[00:39:45] Kristin:
+That I have been playing? No, but there are some upcoming releases, yeah. So, um, Against the Storm, which we've talked about here on the podcast before, has uh announced their first DLC coming out, I know.
+
+[00:39:59] Drew:
+Well, I need more time, and I'm never going to play Dwarf Fortress if I play, if I start
+[interjection] Kristin: and I'm never gonna-
+[interjection] Drew: playing, if I start seriously playing Against the Storm.
+
+[00:40:07] Kristin:
+Against the storm, it would be a major time sink, but the new playable—or yeah, the new—I almost said playable race, the new race are frogs, and they're like big, buff, Roman-looking with their architecture and everything. I can't remember the name of it, but we'll put it in the show notes, but that one looks really cool. I'm excited.
+
+[00:40:27] Drew:
+It's really funny, and so their mechanic is that they're all based around attracting...
+
+[00:40:33] Drew:
+more population to your area, but...
+[interjection] Kristin: Cheers.
+
+[00:40:37] Drew:
+Yes, and I can't decide if they're supposed to be Roman or Greek.
+
+[00:40:40] Kristin:
+Maybe Greek, I don't know, but they have...
+[interjection] Drew: Yeah.
+
+[00:40:43] Kristin:
+They have ships that kind of look like water bugs? Am I misremembering that?
+
+[00:40:47] Drew:
+No, they look very much like the water bugs that the dark elves use in Morrowind in the Elder Scrolls series.
+
+[00:40:57] Drew:
+But they're like giant water bugs.
+
+[00:40:59] Drew:
+So it's adding a swampy and coastal biome to the game as opposed to everything else which had always been kind of foresty and mountainous.
+
+[00:41:06] Kristin:
+But it's going to be really low on my priority list because I would rather play Against the Storm. I mean, I never played Frostpunk again because I quit my run since I was a few days out from the deadline or whatever, and I was very clearly going to lose. At the time, I had just sunk a lot of hours into what was going to be a loss.
+
+[00:41:36] Drew:
+Yeah, for me with Frostpunk, I beat it. I think I did it on a level easier than what you were playing.
+
+[00:41:42] Kristin:
+Yeah, I don't know.
+
+[00:41:43] Drew:
+Um, I beat it, and then I was like, I have no desire to go back to this.
+
+[00:41:47] Kristin:
+It's not a happy game. It is pretty.
+
+[00:41:50] Drew:
+But I didn't really feel like there was a bunch of other stuff to do, like...
+
+[00:41:53] Kristin:
+I don't know, yeah, I wasn't sure about the replayability on that one since some of the events are scripted.
+
+[00:41:59] Drew:
+And you know, you don't...
+
+[00:41:59] Drew:
+People enjoyed it, but again, kind of like what we're saying, you don't hear people still talking about it, I mean...
+
+[00:42:06] Kristin:
+I mean, it's not an Against the Storm. I don't think we're going to put hundreds of hours into it.
+
+[00:42:11] Kristin:
+And then also, we are going to do an entire episode...
+
+[00:42:16] Kristin:
+about a game called Critter Cove.
+
+[00:42:18] Drew:
+Yeah.
+
+[00:42:18] Kristin:
+It's coming out. It's very much a me game. It's kind of like Animal Crossing meets My Time at Sandrock or whatever. So it's 3D, and you can play as a little creature or even a little robot, and you're settling in a seaside town and rebuilding a tourist town, and you have animals that move in, and it's extremely cute. And I asked them very nicely if, as a podcaster and streamer, I could have early access, and I got early access. So we're going to play that. I'll probably play it on stream, and then we're going to talk about it.
+
+[00:42:54] Drew:
+I think that sounds like a good plan, and thanks to all of you out there who let us not be just flat-out liars for calling ourselves podcasters important enough to get a free Steam badge.
+
+[00:43:04] Kristin:
+Hey, they said that if you're active, it doesn't matter how small you are, and we have like a whole 50 followers on my Twitch channel. Ooh. Wow. That's a lot. I think that if I actually streamed enough, that would be enough to monetize, but I don't stream that much.
+
+[00:43:20] Drew:
+Yeah, so, but who knows, maybe, because again, it's hard to see it as necessarily a Dwarf Fortress player's jam, because I'm certainly...
+[interjection] Kristin: Yeah.
+No, I don't. I don't know what it is. I actually heard about it from FrankCult5, one of our listeners. So, um...
+
+[00:43:36] Drew:
+Man, he plays a lot of games.
+
+[00:43:37] Kristin:
+He does play a lot of games. So do we. How many games did we just talk about?
+
+[00:43:41] Drew:
+Fair enough.
+
+[00:43:42] Kristin:
+But I just got that running this afternoon, and I'm very, very excited.
+
+[00:43:47] Drew:
+Yeah, and for those of you who have friends who are more into the Animal Crossing type of game, we may have a recommendation for you. We'll see.
+
+[00:43:55] Kristin:
+Yes, it seems like it.
+
+[00:43:57] Drew:
+Um...
+
+[00:43:58] Drew:
+I'm trying to think if I had anything else super big. I have a section from Dwarf Fortress Future Plans that I can just sort of read because I thought it was hilarious.
+
+[00:44:06] Kristin:
+Mmm.
+
+[00:44:07] Drew:
+And then
+
+[00:44:09] Drew:
+We can probably start wrapping things up. Yeah.
+
+[00:44:12] Kristin:
+Everybody go play Core Keeper.
+
+[00:44:15] Kristin:
+I really like it. I think it has the potential to be one of my all-time favorite games.
+
+[00:44:20] Drew:
+But it seems like, at least for the Dwarf Fortress people in our Discord, they're more into Nethack.
+[interjection] Kristin: Right.
+
+[00:44:28] Kristin:
+Yeah, which is why I'm going to give that one another try without using a controller.
+
+[00:44:33] Drew:
+Yeah, I tried it on the controller, but again, I felt a little bit like I bounced off of it for the same reason I did with Stardew.
+
+[00:44:38] Kristin:
+Yeah, I didn't make it very far because I was like, I can't do this on a controller. So yeah.
+
+[00:44:45] Drew:
+Um, let's see. So I had one quote from the Dwarf Fortress Future Plans I wanted to, um...
+
+[00:44:52] Drew:
+Read to you guys just to make sure that we did cover some Dwarf Fortress. Yes
+
+[00:44:56] Drew:
+So I'm going to have Kristin read the question and then I'll read the response. Start from there.
+[interjection] Kristin: Okay.
+
+[00:45:03] Kristin:
+Hello, I love your game so much. My question concerns, quote, "intelligent wildlife." Are there any plans in the works to make them more interactable?
+
+[00:45:15] Kristin:
+Question mark.
+
+[00:45:19] Kristin:
+Oh, keep going, okay.
+
+[00:45:21] Kristin:
+Animal people are one thing; I really wish we could interact with them more too.
+
+[00:45:25] Kristin:
+But creatures like gorlaks and satyrs being functionally no different from a badger or something feels like a huge waste.
+
+[00:45:31] Kristin:
+And, of course, the ever-beloved plump helmet men.
+
+[00:45:34] Kristin:
+With all the talk of myths and magic, I am fearful of them being left behind. Thank you for responding, if you can.
+
+[00:45:40] Drew:
+P.S. I am aware that certain individuals can join civilizations.
+
+[00:45:44] Drew:
+Kristin handed me the phone.
+
+[00:45:45] Kristin:
+Yeah.
+
+[00:45:46] Drew:
+But I mean the creatures as a whole. Gorlaks can speak, are creatures of good, and are even loved by dwarves, yet they can only wander about until caught in a cage or killed.
+
+[00:45:57] Kristin:
+I bet there's a mod for that.
+
+[00:45:58] Drew:
+Of course, there is.
+
+[00:46:00] Drew:
+In Tarn's response, this was going to be part of the Entity Rewrite arc, which was previously scheduled as Armok.
+
+[00:46:08] Drew:
+Magic.
+
+[00:46:10] Drew:
+But which is now just part of the mix of random things that we're rewriting.
+
+[00:46:13] Kristin:
+Mm-hmm.
+
+[00:46:14] Drew:
+The realization of nomadic, subterranean societies and individuals, since the current framework doesn't support their overall context well.
+
+[00:46:22] Drew:
+Now that we are moving out of the ARC framework to try to be more flexible, release-y, branch-y, he doesn't say agile because you have to drink if you say agile.
+
+[00:46:32] Kristin:
+I don't know.
+
+[00:46:33] Drew:
+It's simply something on the table to get done at some point. Something important though, because plump helmet people and gorlaxes shouldn't be disrespected.
+
+[00:46:42] Kristin:
+That's adorable.
+
+[00:46:43] Drew:
+I do love him for saying that.
+
+[00:46:45] Drew:
+Army, magic entity, we had a whole plan, now it's just sort of all up in the air. I don't know, we'll get to it when we do, but I also... right?
+
+[00:46:53] Drew:
+This is again part of why I love Dwarf Fortress because that sort of shaping, that sort of
+
+[00:46:59] Drew:
+organic evolution of things is what I want out of a weird game like this.
+
+[00:47:04] Kristin:
+Yeah.
+
+[00:47:04] Drew:
+This isn't a corporate plan. That's not a corporate plan.
+
+[00:47:07] Kristin:
+It's not a roadmap. Right.
+
+[00:47:09] Drew:
+That's a guy saying, um, uh, yeah, no, I like it too. I'm going to get to it when I can, but I don't know. The suits say I need to make sure you can save and load games or something.
+
+[00:47:18] Kristin:
+Yeah, something. So anyway.
+[interjection] Drew: You
+[interjection] Kristin: Yes, gorlaxes are adorable.
+
+[00:47:22] Drew:
+So, I think that's all the excitement we really have to talk about at the moment.
+[interjection] Kristin: So.
+[interjection] Drew: Wow, we still managed to...
+
+[00:47:30] Kristin:
+I know, we talked for almost 50 minutes.
+
+[00:47:32] Drew:
+Yes, spent 45 minutes of their time.
+
+[00:47:34] Kristin:
+Well, in some ways, I think that we would ramble on more if we did talk about all the games and media and everything that we consume.
+
+[00:47:42] Drew:
+So, we may start incorporating more of that as well as we continue to.
+
+[00:47:46] Drew:
+And get back into Dwarf Fortress as it gets.
+
+[00:47:48] Kristin:
+Yeah, I think we'll definitely have regular episodes about other games.
+
+[00:47:52] Drew:
+Yeah, since I think it'll start getting a little cooler,
+[interjection] Kristin: Yeah.
+[interjection] Drew: the days will get darker and you spend more time
+[interjection] Kristin: Mm-hmm.
+[interjection] Drew: on the computer.
+
+[interjection] Drew: I'm a- I'm a pro-
+
+[00:48:06] Drew:
+That's right
+
+[00:48:06] Drew:
+Pro gamer.
+
+[00:48:08] Kristin:
+Yeah, no, I don't...
+
+[00:48:10] Drew:
+So, but until then, just keep digging.
+
+[00:48:11] Kristin:
+Just keep digging and get a less squeaky chair.

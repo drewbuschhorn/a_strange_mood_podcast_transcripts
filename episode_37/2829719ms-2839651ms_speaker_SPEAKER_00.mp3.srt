@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,360
+That's a guy saying, um, uh, yeah, no, I like it too.
+
+2
+00:00:03,360 --> 00:00:05,380
+I'm going to get to it when I can, but I don't know.
+
+3
+00:00:05,380 --> 00:00:09,000
+The suits say I need to make sure you can save and load games or something.
+
+
