@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,720
+I'm not bothered by the controller layout at all, it feels fairly intuitive to me, but
+
+2
+00:00:03,720 --> 00:00:08,480
+people love to be able to remap, as evidenced by me playing the Diablo PTR.
+
+3
+00:00:08,480 --> 00:00:14,840
+And every single time that I load it up, I have to remap my controller buttons.
+
+

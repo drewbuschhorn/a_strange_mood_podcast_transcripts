@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:04,640
+the alpha, the beta, the early access, the pre-release,
+
+2
+00:00:04,640 --> 00:00:08,160
+and nobody's entirely sure what any of that means
+
+3
+00:00:08,160 --> 00:00:11,200
+because, again, with typos, that used to be typos
+
+4
+00:00:11,200 --> 00:00:12,640
+would be considered an alpha.
+
+

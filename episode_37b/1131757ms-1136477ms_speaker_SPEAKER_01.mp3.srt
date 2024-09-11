@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,560
+good initial loop and I think maybe that's the key is you have to have a good loop.
+
+

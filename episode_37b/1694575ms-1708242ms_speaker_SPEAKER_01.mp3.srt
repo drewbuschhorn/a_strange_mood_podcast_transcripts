@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:10,000
+Also means they've actually engineered the back end of the game well, because I'm guessing that it's all in one file, that they can just go through and do a find-replace in matching places.
+
+2
+00:00:10,000 --> 00:00:14,000
+Anyway, that's just Insider Baseball.
+
+

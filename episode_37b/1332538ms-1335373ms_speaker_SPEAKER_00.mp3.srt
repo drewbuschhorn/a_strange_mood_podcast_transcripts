@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:02,240
+Right, we'll never have a 1.0 or whatever.
+
+2
+00:00:02,240 --> 00:00:03,240
+Right, right.
+
+

@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,160
+The water is slowly rising and soon we're all going to need wetsuits.
+
+2
+00:00:03,840 --> 00:00:06,680
+And it feels very much like global warming.
+
+

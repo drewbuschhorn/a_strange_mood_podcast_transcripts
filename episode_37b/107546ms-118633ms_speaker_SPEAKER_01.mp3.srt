@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:06,240
+Critter Cove is a deep, open-world life sim and town-building game set in a cozy post-apocalyptic
+
+2
+00:00:06,240 --> 00:00:07,240
+paradise.
+
+3
+00:00:07,240 --> 00:00:11,120
+Restore an old town, sail across a mysterious archipelago,
+
+
