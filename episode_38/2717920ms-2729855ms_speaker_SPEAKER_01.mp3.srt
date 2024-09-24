@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,240
+Yeah, I suspect, because it's an early access, I suspect they'll probably add in Mind Over
+
+2
+00:00:05,240 --> 00:00:11,920
+Magic some procedural generation randomness, especially around the undercroft stuff.
+
+

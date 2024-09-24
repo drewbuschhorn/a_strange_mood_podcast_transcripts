@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:02,560
+There is several new features.
+
+2
+00:00:02,560 --> 00:00:05,760
+The one I want to highlight is the idle crafting option,
+
+3
+00:00:05,760 --> 00:00:08,480
+which will allow you to set your dwarves
+
+4
+00:00:08,480 --> 00:00:12,040
+to satisfy their own need to create something
+
+5
+00:00:12,040 --> 00:00:13,680
+when they are idle.
+
+6
+00:00:13,680 --> 00:00:15,760
+I'll just grab a workshop and get to work.
+
+

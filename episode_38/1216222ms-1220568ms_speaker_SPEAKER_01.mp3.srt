@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,200
+I'm not sure, I think it kind of gave up on trying to come up with something bold about rubies.
+
+

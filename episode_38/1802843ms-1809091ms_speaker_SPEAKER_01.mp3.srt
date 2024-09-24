@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:06,240
+Now this is a game in the style of RimWorld and Dwarf Fortress, a little bit more towards the RimWorld side.
+
+

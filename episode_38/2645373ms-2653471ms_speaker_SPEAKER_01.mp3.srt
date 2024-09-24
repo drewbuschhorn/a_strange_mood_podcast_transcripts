@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:08,000
+You know, there's a difference between the procedural generation of Dwarf Fortress and, to some degree, RimWorld, and the procedural generation in these other games where...
+
+

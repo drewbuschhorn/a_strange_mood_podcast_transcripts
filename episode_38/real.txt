@@ -1,0 +1,2190 @@
+
+[00:00:00] Kristin:
+This podcast is of the highest quality. 
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress podcast. I'm Kristin. 
+
+[00:00:23] Drew:
+And I'm Drew. 
+
+[00:00:25] Kristin:
+And, uh, we are a couple. 
+
+[00:00:27] Drew:
+We are a couple playing Dwarf Fortress. 
+
+[00:00:28] Kristin:
+Playing Dwarf Fortress. Yeah. It's a miracle. 
+[interjection] Drew: Yeah?
+
+[00:00:31] Drew:
+No, I did actually spend a couple hours playing Dwarf Fortress before I got sucked into a different game that we'll talk about later. 
+
+[00:00:37] Kristin:
+Yes, I played some. I made a new world and a new fort and we'll talk about it. 
+
+[00:00:42] Drew:
+Yeah, but first, I guess let's do some Dwarf Fortress news. Mm-hmm. Not too terribly much. I think an announcement about changes to modding came out just before we sat down to record. 
+
+[00:00:54] Kristin:
+Yes. 
+
+[00:00:55] Drew:
+But also for those of you in our community, Mike of DFHackFame. 
+
+
+[00:01:01] Drew:
+has released the second in his From Zero to Dreamfort series, which is actually very nice. If you watch, he goes through and explains to you all of the different options that you have when using DFHacks Quickfort. 
+
+[00:01:17] Kristin:
+Quick fork, quick fork, yes. 
+
+[00:01:19] Drew:
+Yes, from Zero to Dreamfort with Quickfort, and explains all of the different options that you have there, so. 
+
+[00:01:25] Kristin:
+Yes, and I have been using. 
+
+[00:01:28] Kristin:
+QuickFort. 
+
+[00:01:28] Drew:
+It's very, it is extremely useful. 
+
+[00:01:31] Kristin:
+Yeah. 
+
+[00:01:31] Drew:
+Also, as part of his recent release of DFHack, 
+
+[00:01:36] Drew:
+There is several new features. The one I want to highlight is the idle crafting option, which will allow you to set your dwarves to satisfy their own need to create something when they are idle. I'll just grab a workshop and get to work. 
+
+[00:01:51] Kristin:
+I love that. 
+
+[00:01:52] Kristin:
+It's so cute. 
+
+[00:01:53] Drew:
+Mm-hmm. 
+
+[00:01:53] Kristin:
+I was like 
+
+[00:01:54] Drew:
+I always liked them being independent. 
+
+[00:01:55] Kristin:
+Yeah, I need to make sure I have that set up on my new fort because it would be so cute. I want to kind of get into the world of letting my dwarves dwarf while I'm doing other things a little bit. 
+
+[00:02:07] Kristin:
+because I have a lot of work to do over the next couple of weeks and it would be nice to have a little ant farm to look up. 
+
+[00:02:12] Drew:
+I do wish they could make their own rooms like ants. I should see if somebody's done a mod for that. 
+[interjection] Kristin: Yeah.
+
+[00:02:18] Kristin:
+That would be so cool. 
+
+[00:02:19] Drew:
+And now with the new modding capability to include Lua, that's probably a option. 
+
+[00:02:25] Kristin:
+I don't know what that means. 
+
+[00:02:26] Drew:
+it's a scripting language that you could use for writing your mods. It's what most of DFHack is written in. 
+
+[00:02:33] Drew:
+I don't know if I should say most, because a lot of the important stuff are written in C and then expose Lua bindings, and then a lot of the logic in Dwarf Fortress itself is using the language Lua. 
+
+
+[00:02:48] Kristin:
+I knew some of those words. 
+
+[00:02:48] Drew:
+some of those words. Blink blink. Blink blink. 
+
+[00:02:50] Kristin:
+My brain kind of stopped at coding language. Fair enough. I don't know. Anything more after that. 
+
+[00:02:57] Drew:
+Before we start talking about our dwarf fortresses, respective dwarf fortresses. 
+[interjection] Kristin: before we sleep.
+
+[00:03:02] Kristin:
+Mm-hmm. 
+
+[00:03:02] Drew:
+Um, why don't you tell me what games have you been playing? 
+
+[00:03:05] Kristin:
+Well, I have been playing Mind Over Magic, which I will talk about, but I have also been playing with you some Towerborn, which is a new... 
+
+[00:03:15] Kristin:
+It was kind of advertised to us as an ARPG type, but it's much more of a brawler. 
+
+[00:03:20] Drew:
+Yeah, brawler, I think, is the right term. Beat him up. 
+
+[00:03:23] Kristin:
+yeah um and it's fun it's online only and you 
+
+[00:03:29] Kristin:
+Explore tiles that are different every time and you get gear. 
+
+[00:03:33] Kristin:
+after fighting creatures. 
+
+[00:03:35] Drew:
+Yeah. 
+
+[00:03:36] Drew:
+As always, it's early access. Everything's early access. 
+
+[00:03:40] Kristin:
+Yes. 
+
+[00:03:40] Drew:
+Um, but it reminded me a lot of Golden Axe. 
+
+[00:03:44] Drew:
+which is a Genesis game that may be familiar to a lot of the gamers out there. 
+[interjection] Kristin: Genesee
+
+[00:03:49] Drew:
+where you go around you have different classes and you beat up enemies and kind of try to like especially it's a lot of fun when you have multiple people there because you can sort of ww 
+
+[00:04:03] Drew:
+E style beat enemies back and forth in the air to one another. 
+[interjection] Kristin: Mm-hmm.
+
+[00:04:07] Kristin:
+one another. It's pretty fun. I don't know that I would play it very much on my own. 
+
+[00:04:13] Kristin:
+It's also a little bit hard to recommend because it's early access and it will be free to play, but to 
+
+[00:04:18] Kristin:
+play early access you have to pay and you will get some cosmetics that then carry over into free-to-play and they'll never be in the shop. 
+
+[00:04:25] Kristin:
+I don't know, but we're having fun with it, so it's worth it to us, maybe not worth it 
+[interjection] Drew: It's worth it.
+[interjection] Kristin: to an individual who doesn't have friends or something. 
+[interjection] Drew: Yeah.
+
+[00:04:35] Drew:
+Wow, you took that to a dark place fast. I'm sorry. 
+
+
+[00:04:37] Drew:
+But yes, if you also have a problem with your progress being wiped out, that might also be the other thing. 
+
+[00:04:44] Kristin:
+Yeah, some people are really mad about that and I feel like they must not play any kind of game that has seasons because it's like every season all the newbies are very mad in Diablo that your character is going to be garbage in the new season. 
+
+[00:04:56] Drew:
+Yep. Oh yeah, and coming up soon, Diablo's new expansion. 
+
+[00:05:00] Kristin:
+Yes, that's why I'm so busy. 
+
+[00:05:03] Drew:
+Busy busy like a bumblebee. 
+
+[00:05:04] Kristin:
+Yes. 
+
+[00:05:06] Drew:
+Let's see. So you've managed to get me into corekeeper or should I say the besties? 
+
+[00:05:12] Kristin:
+Yeah, I should I be hurt that Griffin McElroy got you into corekeeper when I couldn't 
+
+[00:05:17] Drew:
+Maybe you just need to up your blandishments. 
+
+[00:05:20] Kristin:
+Mm-hmm, sure. But we need you to spin us up a server so that we can play in the same world at different times, because we don't always have the same free time. 
+
+[00:05:28] Drew:
+Yeah, I've been having fun just building out a little thing. If you've tried Core Keeper, say, like last year, this recent release seems to have really changed it. 
+
+[00:05:40] Drew:
+put a lot of the interesting things in the game closer together so you encounter them faster at the start. 
+
+[00:05:46] Kristin:
+Yeah. 
+
+[00:05:47] Kristin:
+So what was kind of endgame in the early access is now, it's not even mid-game, it's like the end of the... 
+
+[00:05:53] Kristin:
+Prologue, in a way. 
+
+[00:05:55] Drew:
+So I felt much less kind of bored. 
+
+[00:05:57] Kristin:
+Mhm. 
+
+[00:05:58] Drew:
+I was a little bored, didn't seem like enough was happening when we were playing a year ago, six months ago, something like that. 
+[interjection] Kristin: was six months ago.
+
+[00:06:04] Kristin:
+I don't have a clue. 
+
+[00:06:04] Drew:
+But now it seems to... 
+
+[00:06:06] Drew:
+really have a lot of different things going on. 
+
+[00:06:09] Drew:
+and stay engaged with it. So I'm going to keep playing and I'll play with you. You were really, really into it for a while. 
+
+[00:06:15] Kristin:
+Yeah, and then Critter Cove came out and I was playing that and now I'm kind of swinging back into Core Keeper because 
+
+[00:06:22] Kristin:
+Yeah. 
+
+[00:06:23] Kristin:
+I don't know, I'm maybe hitting the end of what I can do in Critter Cove right now. 
+
+[00:06:28] Drew:
+Early access. 
+
+
+[00:06:40] Drew:
+Well, it's all the options and then we've all moved on by the time they call their formalities. I hope that's not true. 
+
+
+[00:06:47] Drew:
+Oh, man. So, yeah, Core Keeper. Core Keeper is fun. I was trying to think, do you want 
+[interjection] Kristin: Mm-hmm, yeah.
+[interjection] Drew: to give a little pitch for it? I don't know if we've, I guess maybe you've pitched it last time. 
+
+[00:06:56] Kristin:
+I think I talked about it when I was super into it before, but it's a crafting survival game kind of like Terraria, but it's top down and not. 
+
+[00:07:06] Kristin:
+a platformer at all, and underground for the most part, which is kind of dwarfy and fun. 
+
+[00:07:13] Drew:
+I felt like when we were playing it before that it was... 
+
+[00:07:17] Drew:
+I kind of approached from the Stardew point of view with a lot of switching of tools and having to do all that kind of management. 
+
+[00:07:23] Kristin:
+Yeah. 
+
+[00:07:24] Drew:
+And I feel like a lot of that has been streamlined now with this release. 
+
+[00:07:28] Kristin:
+Yeah, you- 
+
+[00:07:30] Kristin:
+Everything levels up independently and you don't necessarily have to do anything. You were asking me how much the farming really matters and I was telling you that my farm is actually pretty small. 
+
+[00:07:42] Kristin:
+And then my farming implements just stay in the chest while I go off and fight and mine for the most part. 
+
+[00:07:48] Drew:
+Um... 
+
+[00:07:49] Drew:
+I also find it interesting that the idea with it is that you can level your characters individually on your local machine and then take that to a shared server and have that character come 
+[interjection] Kristin: Uh-huh.
+[interjection] Drew: over with their abilities or whatnot. 
+
+[00:08:01] Kristin:
+their stuff and whatnot. Yeah, I think that's pretty cool. So when you make us a server, I think. 
+
+[00:08:05] Kristin:
+We'll do it at a slightly harder difficulty because we'll be leveled up and there will be two of us. 
+
+[00:08:10] Drew:
+Yeah. 
+
+
+[00:08:11] Drew:
+I beat the first boss in a couple of hours. 
+
+[00:08:14] Kristin:
+Yeah, you beat it faster, I think, than I did. I was over-prepared, I went in and... 
+
+[00:08:18] Kristin:
+Killed him pretty easily. 
+
+[00:08:19] Drew:
+Yeah I did too because I got the copper armor and then I just kind of sat there and wailed 
+[interjection] Kristin: And then I just.
+[interjection] Drew: on him and he didn't really do a whole lot to me. 
+
+[00:08:25] Kristin:
+That's been kind of my strategy. 
+
+
+[00:08:28] Drew:
+So are there any other games you want to talk about? You said you wanted to talk about Mind Over Magic some. 
+
+[00:08:33] Kristin:
+Yeah, I'll talk, I can talk about that some. So yeah, I've mentioned this one before. This is the newest clay, clay game from, that's the Don't Starve, oxygen not included, fella. 
+
+[00:08:45] Kristin:
+Actually, it's not a fellow. I finally looked it up and it is a small studio. 
+
+[00:08:48] Drew:
+Fair enough. 
+
+[00:08:48] Kristin:
+located in Vancouver. 
+
+[00:08:50] Kristin:
+They finally got their Dragons update for Mind Over Magic, which I'd been looking forward to and I was like, well, I'll dip back in when they get that. But the premise of the game is, design, build, and manage your magic school to explore what lies below. 
+
+[00:09:05] Kristin:
+Study Lost Arcana, grow exotic plants, brew potions, and raise undead servants. 
+
+[00:09:09] Kristin:
+Only you can prepare your fragile students to harness their mind over magic. 
+
+
+[00:09:15] Kristin:
+The roadmap for this they came out with, I think, earlier this summer. 
+
+[00:09:20] Kristin:
+And it did say that they were going to get dragons in like July-August and it is now September. So I'm not sure how much of a roadmap that actually is or if it's just sort of a general to-do list because they predicted endgame by the end of the year and I'm not sure they're going to make that target. 
+
+[00:09:39] Kristin:
+Um, that's okay, because there's a lot to do already. Um, it's... 
+
+[00:09:46] Kristin:
+Yes, so you build the school, you start with three generated staff members and your founder who is a ghost and doesn't do combat or teach. They just kind of do chores and research and are present. 
+
+[00:10:01] Kristin:
+My school is the Meyer Petal School for Mages. 
+[interjection] Drew: Mmm.
+[interjection] Kristin: The founder's name is Adriana. 
+
+[00:10:09] Kristin:
+in there and my three starting mages are Rowan who is a vivified lightning mage that's the one you were asking me what is that yeah 
+[interjection] Drew: Yeah.
+
+[00:10:17] Kristin:
+it kind of it's not exactly Frankenstein because it kind of looks like a doll that's been put together out of rags 
+
+
+[00:10:25] Kristin:
+Yeah, so his specialty is lightning. 
+
+[00:10:28] Kristin:
+He likes enjoys creepy recreation and sharing a bedroom with Isabel 
+
+[00:10:33] Drew:
+Oh my. 
+
+[00:10:33] Kristin:
+Yeah, Isabelle! 
+
+[00:10:35] Kristin:
+is a human water mage and he likes sharing a bedroom with Rowan, likes recreating with Arthur. I think that Rowan might be a she and Isabel is a he, but I don't actually, I don't think it specifies. I'm just going off what their portraits look like so that might be reductive, sorry. And then we have Arthur, who is a Wolfkin earth mage. He enjoys scholarly recreation and recreating with Isabel. 
+
+[00:11:00] Kristin:
+and my first student was Audrey. She's a human fire mage who enjoys small carcass meals. 
+
+[00:11:08] Drew:
+You. 
+
+[00:11:08] Kristin:
+Yeah, and recreating with Arthur. 
+
+[00:11:11] Kristin:
+Uhh 
+
+[00:11:12] Kristin:
+I just made her, I promoted her to staff because she had 
+
+[00:11:16] Kristin:
+reached the highest level she could. 
+
+[00:11:18] Kristin:
+And when they reach the highest level, you can teach them to with your current staff. As a student, you can build in the tech tree stations that raise students to apprentices. And then from there, they will get like an additional skill slot and can go to a higher level than your original staff. It was going to take me too long to research that, so she just kind of promoted it. 
+[interjection] Drew: Yeah.
+[interjection] Kristin: But I did get my second student is now an apprentice. His name is Byron. He's another Wolfkin, nature mage. 
+
+[00:11:51] Drew:
+They're all named Byron 
+
+[00:11:52] Kristin:
+Byron, uh, yes. I mean, it fits the aesthetic. And when I, when you raise them to apprentice level. 
+
+[00:11:59] Kristin:
+Um, day. 
+
+[00:12:01] Kristin:
+Manifest a relic? 
+
+[00:12:03] Kristin:
+which is an item that gives him certain buffs. 
+
+[00:12:06] Kristin:
+And this one buffs his darkness magic and quilting. 
+
+
+[00:12:11] Kristin:
+Quilting, apparently I have not unlocked whatever that is gonna be, his tailoring, the mage tailoring ability. 
+
+[00:12:19] Kristin:
+And then I had 
+
+[00:12:21] Drew:
+You didn't say what the actual artifact was 
+
+[00:12:23] Kristin:
+Oh, it's a comb. 
+
+[00:12:25] Drew:
+It's a magic comb. 
+
+[00:12:26] Kristin:
+Yeah, a magic comb. Well, Rowan has an artifact that's like a severed foot. 
+
+[00:12:30] Drew:
+Fair enough. 
+
+[00:12:31] Kristin:
+but we got that one out of a battle that I was not prepared for. 
+
+[00:12:36] Kristin:
+My final student currently is Diego, who is another Vivified. 
+
+[00:12:41] Kristin:
+um oh wait no i don't think i talked about caesar i'm not being very organized but i'll kind of lump them together because 
+
+[00:12:47] Kristin:
+they just showed up out of the fog and I just realized that I hadn't really. 
+
+[00:12:51] Kristin:
+discussed the fog. So as you were building your school, there is this... 
+
+[00:12:55] Kristin:
+fog that gradually creeps in and will destroy things and you have to do rituals that spend resources to dispel the fog. As you do, you uncover more resources and stuff like that, but it's always gradually creeping back in. 
+
+[00:13:10] Drew:
+And so because of that, you tend to build upwards, right? It's a little bit of, I think it's maybe Sim Tower is that style of game where you're building rooms 
+[interjection] Kristin: or your building.
+[interjection] Drew: positive and negative vertically. 
+
+[00:13:21] Kristin:
+Yeah, it's quite cool in that way and then with the room builder it's like... 
+
+[00:13:26] Kristin:
+once you have certain items in a room it will kind of upgrade itself and the background will change and it will become a certain type of room like a simple bedroom or I have a scullery and the classroom like the intermediate classroom looks different than I think the basic classroom and it's uh it's it's very cool it's really um 
+
+[00:13:46] Kristin:
+More complex, I think, than I'm making it sound. 
+
+[00:13:50] Kristin:
+because you have this whole thing with where you're exploring the underschool and you fight monsters down there and that has changed quite a bit since I last played because I guess the battle used to just be automated and now it's turn-based. 
+
+[00:14:02] Kristin:
+and you select the spells that your mages use and stuff like that. 
+
+[00:14:06] Kristin:
+So I decided that I kind of wanted to, since I'm in a clay mood, was... 
+
+[00:14:11] Kristin:
+I wanted to do a little compare and contrast with oxygen not included. 
+
+[00:14:15] Kristin:
+So I booted that back up and reset the tutorials. 
+
+[00:14:18] Kristin:
+and Mike. 
+
+[00:14:19] Kristin:
+God, that game is complicated. 
+
+[00:14:21] Drew:
+It's a physics thing 
+
+[00:14:22] Kristin:
+I was so overwhelmed that I kind of bounced off that one again because oh my gosh I don't 
+
+[00:14:27] Kristin:
+I think that I could... 
+
+[00:14:28] Kristin:
+have fun experimenting with that and like doing that. 
+
+[00:14:32] Kristin:
+compare and contrast, but I just don't have the brainpower right now with work. 
+
+[00:14:35] Kristin:
+and Diablo and all that stuff, so. 
+[interjection] Drew: Yeah.
+
+[00:14:37] Drew:
+Yeah, I mean, as I've said before, Oxygen Not Included is kind of a gas physics simulator in the same way Dwarf Fortress is a water physics simulator. 
+
+
+[00:14:47] Kristin:
+But I really like Mind Over Magic. I don't know why. Somehow that's easier for me to wrap my brain around. You don't have the fluid mechanics in any way. It's more straightforward in that, other than like, it's kind of opaque how to make rooms into what, necessarily. So like, I know that to retire a staff member, so if I want to retire one of my starting staff who can only cap at level 6, 
+
+[00:15:12] Kristin:
+I need like a great hall or an auditorium, so... 
+
+[00:15:16] Kristin:
+You have to put the item, I don't know. 
+
+
+
+[00:15:19] Drew:
+I got it. 
+
+
+[00:15:21] Kristin:
+At any rate, I'm having a lot of fun playing it. 
+
+[00:15:23] Drew:
+Yeah, you seem to really spend your time on that. 
+
+[00:15:25] Kristin:
+Yeah. 
+
+[00:15:26] Drew:
+I have a game I'd like to talk about as well, but first we'll talk a little bit of Dwarf Fortress. 
+
+[00:15:32] Kristin:
+Mm-hmm. 
+
+[00:15:34] Drew:
+So. 
+
+[00:15:35] Drew:
+What's been going on? Well, I guess you talk to. 
+
+[00:15:37] Kristin:
+I talked quite a bit. 
+
+[00:15:39] Drew:
+All right, so what's been going on in my fort, I ask myself? 
+
+[00:15:43] Drew:
+Um. 
+
+[00:15:44] Drew:
+So I started a new fort in a new world. 
+
+[00:15:47] Drew:
+And the fort is called. 
+
+[00:15:49] Drew:
+Enjoyed mansions. 
+
+[00:15:52] Kristin:
+I like it. 
+
+[00:15:52] Drew:
+Yeah. 
+
+[00:15:53] Kristin:
+Oh, what was the really good name of the one that you generated and then didn't save? 
+
+[00:15:58] Drew:
+It was something like... 
+
+[00:15:59] Kristin:
+something like gold 
+
+[00:15:59] Drew:
+Goldenblessed or Goldblessed. It was really good. Yeah, it was a very good Dwarf Fortress name. 
+[interjection] Kristin: Yeah, it was really good.
+
+[00:16:06] Drew:
+They are a member of the Minds of Esteem. 
+
+[00:16:09] Kristin:
+Mhm. 
+
+[00:16:09] Drew:
+whose symbol is a square brilliant cut gem called the paper of faith. 
+
+[00:16:16] Drew:
+And that is a member of the civilization, The Dipped Door. 
+
+[00:16:20] Drew:
+which is. 
+
+[00:16:21] Drew:
+has as their symbol a hatch cover. 
+
+[00:16:25] Drew:
+called the Cobalt Yell. 
+
+[00:16:27] Drew:
+So I like to believe that it's a... 
+[interjection] Kristin: So.
+
+[00:16:29] Drew:
+hatch cover with a face in blue that's yelling. 
+
+[00:16:32] Kristin:
+Yes, I like it. 
+
+[00:16:33] Drew:
+Kind of Romanesque. Yeah. 
+
+[00:16:35] Drew:
+My 
+
+[00:16:36] Drew:
+expedition leader 
+
+[00:16:38] Drew:
+Her name is Civic Curled Banners, which I feel like is a good Dwarf Fortress name. 
+[interjection] Kristin: Mm-hmm.
+
+[00:16:43] Kristin:
+Yep. 
+
+[00:16:44] Drew:
+Her best friend is a tame pet horse. Aww. Gashud Bronsides. 
+
+[00:16:50] Kristin:
+I relate. 
+
+[00:16:52] Drew:
+Geshud doesn't have very much interesting in their personality description, so I didn't do that one. 
+
+[00:16:59] Drew:
+Do you have 
+
+
+[00:17:01] Drew:
+Yes. 
+
+
+[00:17:04] Drew:
+It is a brown horse with white mane, so pretty. 
+
+[00:17:10] Kristin:
+Yeah. 
+
+[00:17:11] Drew:
+Pretty generic. 
+
+[00:17:11] Kristin:
+Yeah, I suppose. White man on a brown horse. 
+
+
+[00:17:14] Kristin:
+is unusual. 
+
+[00:17:16] Drew:
+I don't know if it's 
+
+[00:17:17] Drew:
+White main or a yellow main, I guess 
+
+[00:17:20] Kristin:
+Flexin' 
+
+[00:17:21] Drew:
+Flaxen. Is that how I describe your hair? Flaxen. 
+
+[00:17:24] Kristin:
+I pay a lot of money for it to be flexible. 
+
+[00:17:27] Drew:
+Um. 
+
+[00:17:29] Drew:
+Firm. 
+
+[00:17:30] Drew:
+Best mate from the initial group traveling over is Kivish Zushadil, who apparently I didn't write down there. 
+
+[00:17:38] Drew:
+Huh. 
+
+[00:17:39] Drew:
+Translation name 
+
+[00:17:40] Drew:
+their kindred spirit. Aww. The only really interesting thing about, uh, Kivish is that their favorite, uh, poetic form is the Berries of Wandering. 
+
+[00:17:51] Drew:
+a ribald form. 
+
+[00:17:53] Kristin:
+Oh, oh. 
+
+[00:17:54] Drew:
+I know 
+
+[00:17:55] Drew:
+Um... 
+
+[00:17:56] Drew:
+So that form concerns the future. 
+
+[00:18:00] Drew:
+originated in the Walled Confederations, a nearby civilization. 
+
+[00:18:04] Drew:
+and the rules are applied around three distinct parts. 
+
+[00:18:09] Drew:
+including creating a quatrain, a quintrain, and another quatrain. 
+
+[00:18:14] Drew:
+So, four lines, five lines, four lines? 
+
+[00:18:16] Drew:
+Each line has six feet with a syllable weight pattern of long, short, short. 
+
+[00:18:22] Drew:
+Quantitative Dactylic Hexameter 
+
+[00:18:24] Kristin:
+That's a spicy. 
+
+[00:18:27] Kristin:
+meter. 
+
+[00:18:27] Drew:
+Yes, it's very difficult in English, although it's common in Latin. 
+
+[00:18:30] Kristin:
+Heh. 
+
+[00:18:31] Drew:
+That's what the Aeneid is in dactylic hexameter with the occasional spondy. 
+
+[00:18:36] Kristin:
+Fair enough. 
+
+[00:18:37] Drew:
+Um... 
+
+[00:18:39] Drew:
+The first part of the poem is intended to describe the subject of the poem. 
+
+[00:18:43] Drew:
+Certain lines present different views of the same subject. The second part is intended to develop the previous idea. 
+
+[00:18:51] Drew:
+Third line is intended to renounce. 
+
+[00:18:53] Drew:
+and so on. 
+
+[00:18:55] Kristin:
+Hmm. 
+
+[00:18:55] Drew:
+I'm not going to read you the entire Quintain or the entire... 
+[interjection] Kristin: That's right.
+
+
+[00:18:59] Drew:
+the entire poem. 
+
+[00:19:00] Kristin:
+Mm-hmm. 
+
+[00:19:01] Drew:
+Um, but an interesting fact is that, uh, chat GPT. 
+
+[00:19:06] Drew:
+In the 
+
+[00:19:08] Drew:
+past couple of weeks has come out with a new version. 
+
+[00:19:11] Drew:
+They're calling it O1 or strawberry. 
+
+[00:19:14] Drew:
+I don't know where strawberry came from. 
+
+[00:19:16] Kristin:
+Heh. 
+
+[00:19:17] Drew:
+Um, but the fun part about that is, is that it is actually now smart enough, organized enough to actually. 
+
+[00:19:24] Drew:
+pay attention to these sort of poetic instructions. 
+
+[00:19:28] Drew:
+Because if you remember, I tried in the past and said that I couldn't even get it to follow a basic rhyme scheme in creating a poem. 
+[interjection] Kristin: Yeah.
+
+[00:19:34] Drew:
+And now it will actually follow both meter and complex structure. So I'm going to start including a few silly poems here and there. 
+[interjection] Kristin: Sometimes, yeah.
+
+[00:19:43] Drew:
+So let's do the quintane because I'm not going to read all 15 lines. 
+
+[00:19:47] Drew:
+Whispering lies about riches I don't really possess. Boasting of exploits that make all the barmaids blush deeply. 
+
+[00:19:57] Drew:
+laughing aloud at the jokes that are older than dragons, buying the rounds till my coin purse is lighter than air, planning escapades that'll surely get me in trouble. 
+
+[00:20:07] Kristin:
+hehehehe 
+
+[00:20:08] Kristin:
+What was the subject of this one? 
+
+[00:20:10] Drew:
+So the subject of this one was a ruby. 
+
+[00:20:15] Kristin:
+Interesting. 
+
+[00:20:16] Drew:
+I'm not sure, I think it kind of gave up on trying to come up with something bold about rubies. 
+
+[00:20:20] Kristin:
+Yeah, fair. 
+
+[00:20:22] Drew:
+I mean 
+
+[00:20:22] Kristin:
+That sounds way too hard. 
+
+[00:20:28] Drew:
+that trying to do a dactylic hexameter in English is just a pain. 
+
+[00:20:34] Drew:
+Um... 
+
+[00:20:35] Drew:
+Anyway. 
+
+[00:20:37] Drew:
+Kivish's traits are that they drum their fingers when thinking and laugh loudly when surprised. They like steebut, nickel, dementoid, crystal glass, figurines, and horses for their strength. 
+
+[00:20:52] Kristin:
+Awe. 
+
+[00:20:53] Drew:
+and giant hedgehogs for their many spines. 
+
+[00:20:56] Drew:
+When possible, they prefer to consume persimmon wine. 
+
+[00:21:00] Drew:
+They dream of raising a family. 
+
+[00:21:03] Kristin:
+Did you say persimmon? 
+
+[00:21:04] Drew:
+persimmon. 
+
+[00:21:05] Kristin:
+Persimmon. 
+
+[00:21:06] Drew:
+Not personal. I didn't say personal. 
+
+[00:21:09] Drew:
+What'd I say? 
+
+[00:21:10] Drew:
+Ah, and then also I have. 
+
+[00:21:13] Drew:
+Because this world is a pocket world 
+
+[00:21:14] Kristin:
+Oh yeah, you didn't mention that. 
+
+[00:21:16] Drew:
+No, so it's a pocket world. I ran it for 500 years in the course of like a minute. So pocket worlds generate quick. 
+[interjection] Kristin: So.
+
+[00:21:23] Kristin:
+Yeah. 
+
+[00:21:24] Drew:
+Because it's a pocket world, we've already been promoted to a barony. 
+
+[00:21:28] Kristin:
+Wow. 
+
+[00:21:29] Drew:
+And the baron I chose was Solan Throwerslings. 
+
+[00:21:34] Drew:
+He laughs very loudly when he's nervous, and he becomes very rigid when angry. 
+
+[00:21:39] Drew:
+He dreams of creating a masterwork someday, and likes Gypsum, Billion... 
+
+[00:21:44] Drew:
+fortification agate, great white shark leather, sheep's hoof 
+
+[00:21:49] Drew:
+Decapodian Cone Snail Parchment 
+
+[00:21:51] Drew:
+water buffaloes for their water wallowing, and 
+
+[00:21:54] Drew:
+Nightmarish for their unfathomably horrifying nature. 
+
+[00:21:58] Kristin:
+Whoa, dark, okay. 
+
+[00:22:00] Kristin:
+Is that like maybe liking horror movies or true crime or something? 
+
+[00:22:03] Drew:
+I don't know, or possibly the nightmares or the... 
+
+[00:22:07] Drew:
+nightmare creations 
+
+[00:22:08] Kristin:
+I don't know, maybe. Oh yeah, that could be. 
+
+[00:22:12] Drew:
+but he absolutely detests hamsters. 
+
+[00:22:15] Kristin:
+Yeah, hamsters are scary. 
+
+[00:22:18] Drew:
+Um... 
+
+[00:22:20] Drew:
+He has a poetic form he likes. 
+
+[00:22:23] Kristin:
+Mm-hmm. 
+
+[00:22:24] Drew:
+which is going to, I'm going to describe. 
+
+[00:22:27] Drew:
+Those of you listening, don't try to pay too terribly much attention, just... 
+
+[00:22:31] Drew:
+enjoy because it's going to be a little long to describe it. 
+
+[00:22:34] Kristin:
+Oh boy. 
+
+[00:22:34] Drew:
+Okay, this is called the bewildering songs a light poetic form 
+
+[00:22:40] Kristin:
+Okay. 
+
+[00:22:40] Drew:
+originating in the Salves of Closing. 
+
+[00:22:44] Drew:
+The rules of the form are applied by poets. The poem is a single couplet. 
+
+[00:22:49] Drew:
+The bewildering songs is always written from the perspective of the author. Use of assonance and vivid imagery is characteristic of the forms. 
+
+[00:22:57] Drew:
+Forms of parallelism are common throughout the poem in that certain lines have certain grammatical structures and the reverse grammatical structures. 
+
+[00:23:05] Drew:
+Each line has six feet with a syllable weight pattern of long long. 
+
+[00:23:10] Drew:
+qualitative, quantitative, spondic. 
+
+[00:23:12] Drew:
+hexameter. 
+
+[00:23:14] Drew:
+The second line of the couplet must expand on the idea of the first. The first concerns the past. It must make use of metaphor. The second line concerns the future. 
+
+[00:23:25] Drew:
+So once again, I asked it to ISChatGPT to make a poem fitting this, uh... 
+
+[00:23:30] Drew:
+criterion about a flawless Ruby. 
+[interjection] Kristin: You
+
+[00:23:34] Drew:
+And we have gotten... 
+
+[00:23:35] Drew:
+Flames touch. Stones gaze. The ruby was my heartbeat. Heartbeat is my ruby. Gaze stone. Touch flame. 
+
+[00:23:46] Drew:
+It kind of actually fits the criteria. Yeah. 
+
+[00:23:48] Kristin:
+Kinda. 
+
+[00:23:49] Drew:
+It's maybe a little bit trivial, though. 
+
+[00:23:51] Drew:
+degree to which it did the, uh, the, uh, 
+
+[00:23:55] Drew:
+Reversal. 
+
+[00:23:56] Kristin:
+Yeah, yeah, I mean... 
+
+[00:23:59] Kristin:
+It would be hard to do. 
+
+
+[00:24:00] Kristin:
+But yeah, it did. 
+
+[00:24:01] Kristin:
+Attempt it. 
+
+[00:24:02] Kristin:
+An attempt was made. 
+
+
+
+[00:24:05] Drew:
+So what else interesting is happening in my fort? We've had visitors called the Buff Jungle Troop. 
+
+[00:24:13] Drew:
+which was a goblin art troupe. 
+
+[00:24:17] Drew:
+led by Bossa Secretive Malice. 
+
+[00:24:20] Drew:
+whose only real interesting thing is that they're a high master teacher. 
+
+[00:24:23] Kristin:
+and they have a very untrustworthy name. 
+
+[00:24:26] Drew:
+Yes, secretive malice. 
+
+[00:24:26] Kristin:
+Yeah. 
+
+[00:24:29] Drew:
+We've also had several different artifacts created, of which one I enjoy is Watchbold, a nickel chain. 
+
+[00:24:37] Drew:
+worth $2,000 or fuck. 
+
+[00:24:40] Kristin:
+mm-hmm 
+
+[00:24:41] Drew:
+worth $2,000 Dwarf Bucks. 
+
+[00:24:43] Drew:
+On the item is an image of Exploring Rainfall, the giant in Echidna. Thank you. Parchment Scroll in Nickel. On the item is an image of two giant groundhogs in Limewood. 
+
+[00:24:58] Drew:
+And that was created by a dwarven child, Leibash Glazed Silvers. 
+
+[00:25:03] Drew:
+We also have on our artifact list a list of some. 
+
+[00:25:08] Drew:
+14 different artifacts that are family heirlooms held by a single visiting bard. 
+
+[00:25:16] Drew:
+These include a sword. 
+
+[00:25:20] Drew:
+a amulet called murdered search the evil race 
+
+[00:25:25] Drew:
+Thanks. 
+
+[00:25:26] Drew:
+Pants maligned watched the fated trades. 
+
+[00:25:31] Drew:
+Um 
+
+[00:25:33] Drew:
+Earrings. 
+
+[00:25:35] Drew:
+Uh, coat? 
+
+[00:25:36] Drew:
+Dagger 
+
+[00:25:37] Drew:
+LÜT 
+
+[00:25:39] Drew:
+HAT 
+
+[00:25:40] Drew:
+and a whip and a flail. 
+
+[00:25:45] Drew:
+and a giant ax. 
+
+[00:25:48] Kristin:
+Oh, my God. 
+
+[00:25:49] Drew:
+all held by one person. 
+
+[00:25:50] Kristin:
+That's so much. Are they like a jewel thief? 
+
+[00:25:53] Drew:
+One would think, maybe they are a thief. I should go back and look. A relic thief? Yeah. But they have no actual interesting characteristics besides that. They don't know any interesting songs or anything like that. 
+[interjection] Kristin: Wow.
+[interjection] Drew: 
+
+[00:26:03] Kristin:
+It's their only personality trait, is having stuff. 
+
+
+[00:26:06] Kristin:
+Mmm. 
+
+[00:26:07] Drew:
+I know a lot of people like that. 
+
+[00:26:08] Kristin:
+Yeah, I do too. 
+
+[00:26:10] Drew:
+So what's been going on in your fort? 
+
+[00:26:12] Kristin:
+Not much yet. My fort is still brand new. 
+
+[00:26:18] Kristin:
+Partly because I'm apparently kind of rusty, so it's been taking me a long time to get everything set up. So my new world is the Dimension of Legends. 
+
+[00:26:28] Kristin:
+and the fort is channel twinkled channel twinkled 
+
+[00:26:31] Kristin:
+I had a funny moment of thinking that world generation took forever, and I think that I set my history to be really long, but then I realized also that I hadn't used my mods, and I can't live without my no aquifers mod, and my realistic animals, and my bunny people, so I had to go back and make a new one. So yes, like I said, I've been working through Quickfort to get us established with bedrooms and all of the basic work orders that make them happy. So like, having clothes. 
+
+[00:27:01] Drew:
+Have you found that with Quickfort and being able to easily create enough rooms for everybody ahead of them needing it? 
+
+[00:27:08] Kristin:
+Mm-hmm. 
+
+[00:27:08] Drew:
+that they're a lot happier. 
+
+[00:27:10] Kristin:
+That would assume that we were able to finish before we got migrants. 
+
+[00:27:14] Drew:
+Fair enough. 
+
+[00:27:15] Kristin:
+Um, we kind of 
+
+[00:27:17] Kristin:
+finished before we got migrants so we just got our first batch of 
+
+[00:27:22] Kristin:
+I think, I thought it was seven, but I only remember six. So we had a father with his six children, all by, not all by different mothers, but a number of them by different mothers, 
+[interjection] Drew: I'm burning them.
+[interjection] Kristin: none of whom are with us. And then a doctor has showed up, which will be very nice to have around. 
+
+[00:27:39] Drew:
+Well, that's useful. 
+
+[00:27:39] Kristin:
+Yes, so I'm just getting started with getting nobility established and we just got our Envoy from the hairy girders Civilization, but I'm in a mirthful Locale and it's like bluegrass and I figure it'll be interesting to be in a good zone for a little while 
+
+[00:27:59] Drew:
+Do you have any fuzzy Wamblers? 
+
+[00:28:00] Kristin:
+No, I have seen no fuzzy wamblers yet or any interesting wildlife yet. 
+
+[00:28:05] Drew:
+Fair enough. 
+
+[00:28:05] Kristin:
+Yeah. 
+
+[00:28:06] Drew:
+How far have you gotten on setting up your workstations? 
+
+[00:28:10] Kristin:
+I have basics for everything but I would like to go through and work on getting some specialists so it would be nice to assign dwarves who have skills to their own kind of workshop. 
+
+[00:28:22] Drew:
+Yeah, it's a good plan. 
+
+[00:28:22] Kristin:
+I think it would be neat and lead to the generation of some cool stuff. 
+
+[00:28:28] Drew:
+Yeah, and if you set up some guilds as well that would help them become specialists, but I found the technique of 
+
+[00:28:36] Kristin:
+You 
+
+[00:28:36] Drew:
+Biggie. 
+
+[00:28:38] Drew:
+People, the crafters I want to become experts. 
+
+[00:28:41] Kristin:
+Mm-hmm. 
+
+[00:28:41] Drew:
+to make an additional. 
+
+[00:28:44] Drew:
+Workstation and have that one be assigned to just them. Yeah 
+
+[00:28:47] Kristin:
+Yeah. 
+
+[00:28:47] Drew:
+that seems to run a decent balance of them improving and the rest of the fort getting on with its business. 
+
+[00:28:53] Kristin:
+Oh, okay. Yeah, so I can definitely do that. 
+
+[00:28:58] Kristin:
+We have tons of space and it's kind of cool, like we have like black sand and rock salt. So it's very colorful for it right now. Nice. 
+
+[00:29:04] Drew:
+Nice, black sand is always attractive. 
+
+[00:29:06] Kristin:
+Yes, yeah. 
+
+[00:29:07] Kristin:
+The rock salt is pink, so that's fun too. 
+[interjection] Drew: Thanks.
+
+[00:29:10] Drew:
+I, uh, have gotten down to the lava on my fort. 
+
+[00:29:13] Kristin:
+Wow, that was quick. 
+
+[00:29:15] Drew:
+Yeah, so we're starting to really get a whole lot of, uh... 
+
+[00:29:19] Drew:
+different gold and copper items made now that we've got a lot of access. 
+
+
+[00:29:25] Kristin:
+I didn't retire my old fort so now I apparently have two worlds saved so I can go back to my volcano fort should I choose. 
+
+[00:29:34] Drew:
+Divergent realities. 
+
+[00:29:35] Kristin:
+Uh-huh, yes. That's a first for me. I didn't mean to do that. 
+
+[00:29:40] Drew:
+Fair enough. 
+
+[00:29:40] Kristin:
+Yeah. 
+
+[00:29:42] Drew:
+See anything else interesting? 
+
+[00:29:43] Kristin:
+No, I'm kind of boring on the Dwarf Fortress front, just started a new fort and re-learning how to play a little bit. 
+
+[00:29:50] Drew:
+Um, the other thing I wanted to talk about today was a game I came back to. 
+
+
+[00:29:58] Drew:
+called Amazing Cultivation Simulator. 
+
+[00:30:01] Kristin:
+Hmm. 
+
+[00:30:02] Kristin:
+Take care. 
+
+[00:30:02] Drew:
+Now this is a game in the style of RimWorld and Dwarf Fortress, a little bit more towards the RimWorld side. 
+
+[00:30:09] Drew:
+that is centered around Chinese mythology. 
+
+[00:30:13] Kristin:
+Very cool. 
+
+[00:30:14] Drew:
+Yeah, so, the name, Amazing Cultivation Simulator 
+
+[00:30:18] Drew:
+what I think you know what the word amazing means and the word simulator means. 
+[interjection] Kristin: Mm-hmm.
+
+[00:30:24] Drew:
+But if I say cultivation to you, what do you think? 
+
+[00:30:27] Kristin:
+Well, it does kind of sound like a greenhouse or a farm or something like that. 
+
+[00:30:31] Drew:
+One would think that, but apparently, cultivation is the translation. 
+
+[00:30:36] Kristin:
+Uh-huh. 
+
+[00:30:36] Drew:
+That we've apparently settled on 
+
+[00:30:39] Kristin:
+Mhm. 
+
+[00:30:40] Drew:
+for the 
+
+[00:30:41] Drew:
+Chinese slash Taoist concept of improving yourself to the point that you become immortal. 
+
+[00:30:49] Kristin:
+Yes, used by Brandon Sanderson now in the Stormlight Archives. 
+
+[00:30:53] Drew:
+Yes, it's a very similar idea. 
+
+[00:30:56] Kristin:
+Yeah. 
+
+[00:30:57] Drew:
+Basically, this all goes back to the idea of Taoist internal alchemy. 
+
+[00:31:04] Drew:
+which is the concept that you can. 
+
+[00:31:07] Drew:
+like heal yourself and do everything by regulating your chi and by taking in 
+[interjection] Kristin: Oh.
+[interjection] Drew: different metals and that sort of stuff. It's definitely had some influence on Brandon. 
+
+[00:31:20] Kristin:
+Yeah, I was just thinking that, like, with his whole Allomancy thing. 
+
+[00:31:23] Drew:
+So, this... 
+
+[00:31:25] Drew:
+concept has kind of taken off I would say since the late 2000s. It's sort of the origin of what we now call lit rpg as well. 
+
+[00:31:37] Drew:
+um so that's fiction that's very kind of video game based 
+
+[00:31:42] Kristin:
+Yeah. 
+
+[00:31:43] Drew:
+Yeah, this cultivation idea. There are a lot, a lot of manga about it as well. 
+
+[00:31:49] Kristin:
+Mhm. 
+
+[00:31:50] Drew:
+Um, so. 
+
+
+[00:31:53] Drew:
+to draw an origin. 
+
+[00:31:55] Drew:
+So first in America, we kind of had kung fu. 
+
+
+[00:31:59] Drew:
+We got that concept, which is actually, I guess, now called Wushu. I have no idea. 
+
+
+
+[00:32:07] Drew:
+And so, that then has a variety called... 
+
+[00:32:11] Drew:
+Woosh. 
+
+[00:32:12] Drew:
+Shaw 
+
+[00:32:13] Kristin:
+Okay. 
+
+[00:32:14] Drew:
+So I'm not going to get any of these pronunciations correct. 
+
+[00:32:16] Kristin:
+Yeah. 
+
+[00:32:17] Drew:
+but that is something that's kind of similar to Crouching Tiger, Hidden Dragon. 
+
+[00:32:23] Kristin:
+Uh-huh. 
+
+[00:32:23] Drew:
+Which, it's um... 
+
+[00:32:26] Drew:
+basically like 
+
+[00:32:27] Drew:
+Heroes martial arts heroes fighting each other for the good of the world and that sort of thing 
+
+
+[00:32:34] Drew:
+So you saw Crouching Tiger. Yeah, I did. I think that was that was a big deal. I think 
+[interjection] Kristin: Yeah, it did.
+
+[00:32:38] Kristin:
+It came out when I was in high school. I think it was like... 
+
+[00:32:40] Kristin:
+the first, and I'm gonna use air quotes here, foreign movie, you know, that I saw in theater. 
+[interjection] Drew: They're nice.
+
+[00:32:46] Drew:
+Yeah. 
+
+
+[00:32:47] Drew:
+Thank you. 
+
+[00:32:47] Drew:
+Um, so, then, from there developed Shansha. 
+
+[00:32:54] Drew:
+which is this concept, the cultivated hero or immortal hero. 
+
+[00:33:00] Drew:
+It's centered around the idea that there is an immortal world, so a supernatural world. 
+
+[00:33:04] Kristin:
+Mhm. 
+
+[00:33:05] Drew:
+that in Taoist philosophy focuses on kind of... 
+
+[00:33:10] Drew:
+internal external alchemy, so not necessarily changing 
+[interjection] Kristin: Okay.
+
+[00:33:15] Drew:
+lead into gold, but instead taking leaves and turning into medicine. 
+
+
+
+[00:33:21] Drew:
+Taking your, you know, internal heat and turning it into a fire that rejuvenates you so that you can live forever. 
+
+[00:33:30] Kristin:
+It's kind of metaphorical alchemy. 
+
+[00:33:32] Drew:
+Yes. 
+
+[interjection] Drew: OK.
+
+[00:33:33] Drew:
+Bye. 
+
+[00:33:34] Drew:
+And, uh... 
+
+[00:33:35] Drew:
+So that progression, the idea of progressing to immortality, then becomes the central theme in this sort of fiction. 
+
+[00:33:44] Kristin:
+Mm-hmm. 
+
+[00:33:44] Drew:
+It's usually based around that progression to mortality, around the idea of setting up schools or sex. 
+
+[00:33:52] Drew:
+Um... 
+
+[00:33:54] Drew:
+which you can kind of think of uh kung fu the legend continues um i think 
+
+[00:33:59] Drew:
+uh for Americans we all have this concept of Chinese fiction of the Shaolin monks being attacked and driven from their beautiful temple and scattering to the four winds and that sort of thing 
+
+[00:34:12] Drew:
+It's all of them are based around that same concept. 
+
+[00:34:15] Drew:
+Part of the challenge with it, even though it's extremely popular in Chinese webtoons, serialized fiction, is that, and this is also a problem with lit RPG, 
+
+[00:34:25] Drew:
+is it creates the hero's journey. 
+
+[00:34:29] Drew:
+but without any real impact on the external world. 
+
+[00:34:33] Kristin:
+Hmm. 
+
+[00:34:34] Kristin:
+So you're sort of leveling up just for the sake of leveling up. 
+
+[00:34:39] Drew:
+Exactly. 
+
+[00:34:40] Kristin:
+not strictly to save the world. 
+
+[00:34:42] Drew:
+Right. 
+
+[00:34:42] Drew:
+So it would kind of be like Harry Potter if Harry Potter became a super wizard, but there was never any Voldemort. 
+
+[00:34:50] Kristin:
+That sounds boring. 
+
+[00:34:52] Drew:
+That is an unfortunate fact of life in this fiction as far as I can tell. I've read a fair bit of it and it's entertaining kind of in the middle. 
+
+[00:35:02] Kristin:
+Uh-huh. 
+
+[00:35:02] Drew:
+but it always kind of peters off because there's just no real. 
+
+[00:35:05] Kristin:
+It's no steaks. 
+
+[00:35:06] Drew:
+Yeah, everything just becomes bigger and bigger fish. 
+
+[00:35:09] Kristin:
+Yeah. 
+
+[00:35:11] Drew:
+So you, you, you know, beat the person. 
+
+[00:35:14] Drew:
+who's mildly evil in this world. 
+
+[00:35:16] Kristin:
+Mm-hmm. 
+
+[00:35:16] Drew:
+And then it turns out there's someone even bigger. 
+
+[00:35:18] Drew:
+And then there's someone even bigger. 
+
+[00:35:20] Drew:
+So again... 
+
+[00:35:22] Drew:
+It's not considered a part of this genre, but if you have as a reference Dragon Ball. 
+
+[00:35:29] Kristin:
+Dragon. 
+
+[00:35:29] Drew:
+Dragon Ball Z, all that stuff. It's that same sort of concept where you have... 
+
+[00:35:33] Drew:
+A surprising number of episodes where the only thing that's happening is the person is training and becoming stronger. 
+
+[00:35:38] Kristin:
+Yeah. 
+
+[00:35:39] Drew:
+And this obsession with just becoming stronger for the sake of becoming stronger is sort of a key concept in it. 
+
+[00:35:45] Kristin:
+A progression is an end unto itself, kind of. 
+
+[00:35:49] Drew:
+Cultivation. 
+
+
+[00:35:51] Drew:
+Um... 
+
+[00:35:52] Drew:
+They're also a little bit difficult to follow because they have what... 
+
+[00:35:58] Drew:
+TV Tropes calls, uh, blue-orange morality? 
+
+[00:36:01] Kristin:
+Mm-hmm. 
+
+[00:36:02] Drew:
+So they're not black and white, they're blue and orange. 
+
+[00:36:05] Kristin:
+Hmm. 
+
+[00:36:05] Drew:
+Not even blue and red. 
+
+[00:36:07] Kristin:
+Yeah. 
+
+[00:36:08] Drew:
+so their the morality just doesn't map into the way you would think because 
+
+[00:36:13] Drew:
+If the only thing that really matters is your own internal progression. 
+
+
+[00:36:17] Drew:
+Your own internal cultivation and all of that and everyone else is sort of not real in a sort of solipsistic way. 
+
+
+[00:36:25] Drew:
+Um... 
+
+[00:36:26] Drew:
+suddenly you can do a lot of fairly immoral things without there being really stakes or consequences. So in these stories... 
+
+[00:36:36] Drew:
+They kill a lot of people, like a lot of people. 
+
+[00:36:39] Kristin:
+Waddup ya 
+
+
+[00:36:42] Drew:
+yeah and i just find that that kind of odd because it's regarded very 
+
+[00:36:48] Drew:
+It's very throwaway, very...it also kind of reminds me of like... 
+
+[00:36:53] Drew:
+Old Testament biblical stories where 
+
+[00:36:56] Drew:
+There's some sort of context we're not really getting to the morality that's happening here. 
+
+[00:37:01] Kristin:
+Yeah. 
+
+[00:37:01] Drew:
+people are being murdered and everyone just kind of goes on with their life afterwards without it showing any kind of greater impact. 
+
+
+[00:37:09] Drew:
+So. 
+
+[00:37:09] Kristin:
+How does this factor into a game? 
+
+[00:37:12] Drew:
+So that's an interesting question, right? That seems like it would be fairly boring as a game. 
+
+[00:37:19] Drew:
+It's not, though, because it creates within the game's structure... 
+
+[00:37:25] Drew:
+a reason to be interested in the meeples. 
+
+
+[00:37:28] Drew:
+because what they are doing is improving themselves continuously. 
+
+[00:37:34] Kristin:
+Mhm. 
+
+[00:37:34] Drew:
+and then being able to fight off enemies that show up. 
+
+[00:37:38] Kristin:
+Do you control them directly? 
+
+[00:37:40] Drew:
+No, it's like RimWorld where you give them instructions. In this case, you spend a lot of time scheduling their martial arts practice. 
+
+[00:37:50] Kristin:
+Mm-hmm. 
+
+[00:37:50] Drew:
+deciding what spiritual Taoist philosophies they're following in order to increase. 
+
+[00:37:59] Drew:
+In the case of my main character that I'm currently playing because there's only I only have like six people in my game right now 
+
+[00:38:06] Kristin:
+Yeah. 
+
+[00:38:07] Drew:
+Um... 
+
+[00:38:09] Drew:
+His supreme law that he is following is called the 
+
+[00:38:13] Drew:
+True Sun Refining Law. 
+
+[00:38:16] Drew:
+One of the true elemental laws of the Tai Chi 
+
+[00:38:19] Drew:
+sect. With the help of the lesser yang, fair yang, and greater yang, forge a fire from the three forces of heaven, earth, and man. 
+
+[00:38:26] Drew:
+The fire will be extremely powerful and light up everything in its law, however the cultivation process can be dangerous. The true fire might burn you. 
+
+[00:38:33] Kristin:
+Mmm. 
+
+[00:38:34] Drew:
+So there's a whole thing where which law they follow matches up with their different traits and all this sort of thing. 
+
+[00:38:41] Drew:
+um but what it comes down to basically is you're you're picking their sort of branch of superpowers 
+
+[00:38:47] Kristin:
+Yeah. 
+
+[00:38:48] Drew:
+and they then have to take certain actions in order to stay within that or else they start taking penalties. 
+
+[00:38:56] Drew:
+And, uh... 
+
+[00:38:57] Drew:
+It winds up being somewhat interesting. 
+
+[00:39:00] Drew:
+because you're really having to think about... 
+
+[00:39:03] Drew:
+what of their actions will impact the sort of internal state they're trying to cultivate and maintain. 
+
+
+[00:39:10] Drew:
+And then it's also kind of fun because once they get enough of their internal fire built up 
+
+[00:39:17] Drew:
+If you don't let them retreat into solitude and confinement in order to focus in on it, 
+[interjection] Kristin: So.
+[interjection] Drew: then they can damage themselves because the fire can, you know, overburn them. 
+[interjection] Kristin: You know?
+
+[00:39:29] Drew:
+The game is also kind of fun and weird in that it takes feng shui very seriously. 
+
+[00:39:35] Kristin:
+Yeah. 
+
+[00:39:36] Drew:
+Um... 
+
+[00:39:37] Drew:
+So you have to set up your campsite and all of the building that you're making. 
+
+[00:39:44] Drew:
+in accordance with feng shui principles in order to make sure that the right elements are aligned with their particular law that they're trying to cultivate. 
+
+
+[00:39:55] Drew:
+So like the True Sun thing is a fire-based one, so he had to sit in a wood-paneled area 
+[interjection] Kristin: pan-oiled area.
+[interjection] Drew: with facing southeast and all this different stuff. 
+
+[00:40:08] Kristin:
+So from a high level, can you, can you tell me what this game? 
+
+[00:40:13] Kristin:
+is, or like what is the goal? So like RimWorld, you're... 
+
+[00:40:17] Kristin:
+You're trying to get off the planet, right? 
+
+[00:40:19] Drew:
+Right. 
+
+[00:40:20] Kristin:
+Dwarf Fortress, you're trying to create a dwarven settlement. 
+
+
+[00:40:25] Drew:
+ayyy 
+
+[00:40:26] Drew:
+Shaolin style. 
+
+[00:40:29] Drew:
+cult school of martial arts and philosophy. 
+
+[00:40:33] Kristin:
+Okay. 
+
+[00:40:33] Drew:
+that is then helping the surrounding area or controlling the surrounding area. 
+
+[00:40:39] Kristin:
+Okay, got it. 
+
+[00:40:40] Drew:
+so that you can guide more people onto the path to immortality. 
+
+[00:40:44] Kristin:
+Yes. 
+
+[00:40:45] Kristin:
+All right, so. 
+
+[00:40:46] Kristin:
+That explains that. How did you come across this? Because outside of talking to you, I have never heard of this. 
+
+[00:40:52] Drew:
+So it was recommended to me back when they first had a steam release. 
+
+[00:40:57] Drew:
+Um... 
+
+[00:40:58] Drew:
+because I've played RimWorld. 
+
+[00:41:00] Kristin:
+Mhm. 
+
+[00:41:00] Drew:
+Um, back then I tried it, but it was only about... 
+
+[00:41:03] Drew:
+Half translated from Chinese. 
+
+[00:41:06] Kristin:
+Well, that sounds challenging. 
+
+
+[00:41:12] Kristin:
+Yeah. 
+
+[00:41:13] Drew:
+So, it was very difficult to understand what was happening, what you were supposed to be doing. 
+
+[00:41:17] Drew:
+Translation is better now. 
+
+[00:41:19] Kristin:
+Mm-hmm. 
+
+
+[00:41:20] Drew:
+and 
+
+[00:41:22] Drew:
+It is actually quite popular. They've had over... 
+
+[00:41:26] Drew:
+basically 700,000 units of the game sold on Steam. 
+
+[00:41:31] Drew:
+primarily in China in 2019. 
+[interjection] Kristin: mhm
+
+[00:41:36] Drew:
+And since then, it's continued to sell decently well. 
+
+[00:41:39] Kristin:
+Wow. 
+
+[00:41:39] Drew:
+Compare that to Dwarf Fortress, that's sold 800,000 on Steam. 
+
+
+[00:41:44] Drew:
+And RimWorld is 1.3 million plus on Steam. 
+
+[interjection] Drew: Right, like, yeah, it's, I couldn't...
+[00:41:48] Kristin:
+
+[interjection] Kristin: kind of, but no, I get it. 
+[interjection] Drew: Yeah.
+[interjection] Kristin: That's still a significant number of sales. Do you know how many reviews it's got? 
+
+[00:42:03] Drew:
+I believe it has somewhere on the range of like only 16,000 or something like that. 
+
+[00:42:08] Kristin:
+Yeah, sometimes that just like reflects the people that have played it versus necessarily sales, but that's a lot still that's that's really a lot 
+
+[00:42:17] Drew:
+Yeah, it is more popular in the Chinese language audience than RimWorld. 
+
+
+[00:42:22] Drew:
+just because RimWorld is not Chinese-themed. 
+
+[00:42:27] Kristin:
+Right, yeah. So are you like, have you had guides or are you just sort of mullowing it? 
+[interjection] Drew: I-
+
+[00:42:33] Drew:
+I'm YOLOing it for the moment. I'm trying to find some guides for it, but I don't know how 
+[interjection] Kristin: You
+[interjection] Drew: much I'll stick with it because, again, it does run into that little bit of a concept that 
+
+[00:42:43] Drew:
+I don't know. It's very internal. There's no... 
+
+[00:42:46] Drew:
+external 
+
+[00:42:48] Drew:
+big bad that you're necessarily fighting although they've done updates where they've added different kind of mythological giant monsters that you have to go yeah defeat and that sort of thing so 
+[interjection] Kristin: Yeah.
+[interjection] Drew: but you know i like door fortress better 
+
+[00:43:01] Drew:
+It falls apart a little bit compared to Dwarf Fortress because it just doesn't have that same sort of wacky randomness. 
+
+
+[00:43:08] Drew:
+Every playthrough of Amazing Cultivation Simulator, I believe, is roughly the same from the viewpoint of the map. There's the same... 
+[interjection] Kristin: Same.
+
+[00:43:16] Drew:
+uh there's just seems like there's less procedural generation than in 
+
+[00:43:19] Kristin:
+Yeah, I got it. 
+
+
+[00:43:22] Drew:
+Um, so. 
+
+[00:43:23] Kristin:
+Well, it's something I've been... 
+
+[00:43:25] Kristin:
+It's not directly related, but I've been wondering about the replayability of Mind Over Magic because you are always starting a school in the same spot. 
+
+[00:43:37] Kristin:
+Maybe the under cavern varies in what you encounter, but I'm not sure so like 
+
+[00:43:43] Kristin:
+And then thinking about Frostpunk, Frostpunk 2 just came out, and if this type of game... 
+
+[00:43:49] Kristin:
+has longevity when that is true, when there's not as much randomness. 
+
+[00:43:55] Drew:
+Yeah, I think that's a real question with a lot of these, because they describe themselves as having procedural generation. 
+
+[00:44:04] Kristin:
+Mhm. 
+
+
+[00:44:05] Drew:
+You know, there's a difference between the procedural generation of Dwarf Fortress and, to some degree, RimWorld, and the procedural generation in these other games where... 
+
+[00:44:14] Drew:
+It sometimes seems like they're just sort of mixing and matching options, which isn't the same thing as... 
+[interjection] Kristin: yeah
+
+[00:44:20] Kristin:
+Mm-hmm. 
+
+[00:44:20] Drew:
+the degree that, like, Dwarf Fortress does its procedural generation. 
+
+[00:44:23] Kristin:
+Yeah, exactly. 
+
+[00:44:25] Kristin:
+So like... 
+
+[00:44:26] Kristin:
+I am wondering this in Mind Over Magic because I know that people have hundreds, thousands in oxygen not included and I can kind of see that to a degree because what you see 
+
+[00:44:36] Kristin:
+when you start the game is... 
+
+[00:44:38] Kristin:
+often different. 
+
+[00:44:40] Kristin:
+and if in Mind Over Magic, aside from the mages that you start with. 
+
+[00:44:44] Kristin:
+if they're all. 
+
+[00:44:46] Kristin:
+if it's always exactly the same, like. 
+
+[00:44:48] Kristin:
+You know, I don't know. Like, am I going to spend 24 hours in this game and then move on? 
+[interjection] Drew: But am I gonna
+
+[00:44:54] Kristin:
+I, maybe. 
+
+[00:44:56] Kristin:
+And they don't all have to be thousand hour games, I guess. But at the same time, I, I have realized that that is what I want. Like I want a game that I can just sink hours into and like restart and still get, you know, the, the dopamine drip, like I played banished a lot. And, um. 
+
+[00:45:14] Kristin:
+that was different in the map, you know. 
+
+[00:45:17] Drew:
+Yeah, I suspect, because it's an early access, I suspect they'll probably add in Mind Over Magic some procedural generation randomness, especially around the undercroft stuff. 
+
+[00:45:29] Kristin:
+Yeah, and maybe it would be nice to have different locales outside, but since it is, I think I was going to say like, late early access, I don't know that it is at this stage, seeing how much has changed since I played Alasdair, but. 
+[interjection] Drew: Mm-hmm.
+
+[00:45:47] Kristin:
+Is Amazing Cultivation Simulator the kind of thousand-hour game? 
+
+[00:45:52] Kristin:
+like Dwarf Fortress and Rimworld for people, or... 
+
+[00:45:55] Drew:
+it seems like people are spending a lot of time in it but i just don't see currently from playing 
+[interjection] Kristin: Bye.
+[interjection] Drew: it quite how it would be that it's definitely worth playing through um if you like room world because and are interested at all in sort of the chinese 
+
+[00:46:10] Drew:
+It's a very strange game. Yeah. 
+
+[00:46:13] Drew:
+And it's got a lot of very complex systems in the same way. 
+
+[00:46:17] Drew:
+Dwarf Fortress does, I would say its systems are actually more complicated than Rimworld's. 
+
+
+[00:46:21] Drew:
+More towards the Dwarf Fortress side of things where there's a lot of sort of stuff going on under 
+[interjection] Kristin: of things.
+
+[00:46:29] Drew:
+under the covers that the player doesn't directly see but has to still interact with. 
+
+[00:46:34] Drew:
+But... 
+
+[00:46:36] Drew:
+yeah i just i don't quite see it the randomness in there the selection of the different laws magic powers and stuff isn't quite procedurally generated in the same way i'd like to see from dwarf i'd like to see from dwarf fortress yeah so 
+
+
+[00:46:54] Drew:
+Well, that was kind of about it for games I've been playing. Is there anything else you wanted to cover? 
+
+[00:47:00] Kristin:
+I don't think that I'm really playing anything else. Like I said, I'm kind of coming off Critter Cove a little, since I'm kind of reaching what would be mid-game, and there isn't really yet, because it's early access. I've heard really mixed things about Frostpunk 2, so I'm not in a big hurry to buy that, especially at the current price. 
+[interjection] Drew: Yeah.
+[interjection] Kristin: It'll be on sale eventually. I might pick up Tiny Glades. 
+
+[00:47:25] Kristin:
+Um, which is one of those games that's a toy, it doesn't have, like, management, you know? 
+[interjection] Drew: Hmm.
+[interjection] Kristin: You just make pretty castles is my understanding, so I might try that. 
+[interjection] Drew: Yes.
+
+[00:47:34] Drew:
+Yeah, I think that might be worth taking a look at. People have seemed really excited about it. And you enjoyed the demo. You played the demo for us. 
+
+[00:47:39] Kristin:
+I don't remember playing the demo, 
+[interjection] Drew: Oh.
+[interjection] Kristin: because I played a lot of Dwarf Romantic, and I think that's it. 
+
+[00:47:45] Kristin:
+that maybe we got them mixed up. Because they're pretty different, but. 
+
+[00:47:48] Kristin:
+I am gonna give it a whirl because it looks cute and sweet and that's sort of like what I need as I'm doing like all the Diablo things. 
+
+[00:47:55] Drew:
+So much Grimdark. 
+
+
+[00:47:59] Drew:
+I think we'll probably have another episode before Diablo comes. I would think so. 
+
+[00:48:02] Kristin:
+Life that for a couple weeks. I'm gonna have to yeah 
+
+[00:48:08] Drew:
+yeah oh no but uh yeah that'll be fun so 
+
+[00:48:11] Kristin:
+Yeah. 
+
+[00:48:12] Drew:
+But we should have at least one more, I think, Dwarf Fortress recording for you guys before then, and then we'll probably take a cycle or two off and take care of that. 
+
+[00:48:21] Kristin:
+I will say that I think that, like, Dwarf Fortress is a comfort game in kind of a way, like... 
+
+[00:48:27] Kristin:
+Now that I'm having to do so much work gaming, I just want to do some relaxing gaming and it's a good one to go back to for that. 
+
+[00:48:34] Drew:
+And Dwarf Fortress is also kind of fun because it's just something that will always be there in a way. 
+
+
+
+[00:48:41] Drew:
+So, I mean, even with The Sims, you know, you want to go back to The Sims and you're like, well, what, what, what fuckery has EA done now? 
+
+[00:48:48] Kristin:
+Yeah, they've kind of killed the Sims, I think, but that's like a whole episode. 
+
+[00:48:53] Drew:
+But Dwarf Fortress is going along and going along. 
+
+[00:48:56] Kristin:
+Yeah? 
+
+[00:48:56] Drew:
+And yeah, and so for the rest of you. 
+
+[00:48:59] Drew:
+Just keep... 
+
+[00:49:00] Kristin:
+Ding ding! 
+
+[00:49:06] Kristin:
+I meandered around a little too much, but... 
+
+[00:49:08] Kristin:
+I felt like I didn't 

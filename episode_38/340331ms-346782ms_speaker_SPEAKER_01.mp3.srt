@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,320
+put a lot of the interesting things in the game closer together so you encounter them
+
+2
+00:00:05,320 --> 00:00:06,440
+faster at the start.
+
+

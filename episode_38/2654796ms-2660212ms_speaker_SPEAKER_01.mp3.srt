@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,360
+It sometimes seems like they're just sort of mixing and matching options, which isn't the same thing as...
+
+

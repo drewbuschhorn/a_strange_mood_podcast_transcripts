@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,580
+Yeah, I mean, as I've said before, Oxygen Not Included is kind of a gas physics simulator
+
+2
+00:00:04,580 --> 00:00:07,780
+in the same way Dwarf Fortress is a water physics simulator.
+
+

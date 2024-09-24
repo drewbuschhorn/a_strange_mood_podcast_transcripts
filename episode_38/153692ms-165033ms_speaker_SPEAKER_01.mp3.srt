@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:06,500
+I don't know if I should say most, because a lot of the important stuff are written in C and then expose Lua bindings,
+
+2
+00:00:06,500 --> 00:00:11,300
+and then a lot of the logic in Dwarf Fortress itself is using the language Lua.
+
+

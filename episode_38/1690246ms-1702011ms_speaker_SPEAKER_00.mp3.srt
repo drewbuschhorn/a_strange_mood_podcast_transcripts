@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,780
+I have basics for everything but I would like to go through and work on getting some specialists
+
+2
+00:00:05,780 --> 00:00:11,680
+so it would be nice to assign dwarves who have skills to their own kind of workshop.
+
+
