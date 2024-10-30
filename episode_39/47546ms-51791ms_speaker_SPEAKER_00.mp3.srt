@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:03,480
+Well, we want to say welcome to Stephen of Story Dwarves.
+
+2
+00:00:03,480 --> 00:00:05,020
+Welcome.
+
+

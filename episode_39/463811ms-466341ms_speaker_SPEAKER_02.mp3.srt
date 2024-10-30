@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,200
+Those guys are great.
+
+2
+00:00:01,200 --> 00:00:02,500
+They taught me so much about.
+
+

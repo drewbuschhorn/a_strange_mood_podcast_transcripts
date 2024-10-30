@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,000
+I'm really impressed that you're able to do that.
+
+2
+00:00:03,000 --> 00:00:05,320
+I mean, first off, just knowing how to work
+
+3
+00:00:05,320 --> 00:00:08,480
+that the physics-based MIDI system.
+
+

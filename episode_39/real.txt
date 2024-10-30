@@ -1,0 +1,1560 @@
+[editor's note: this transcript is for three people, Kristin, Drew and Stephen. The transcription system seems to be confused between Drew and Stephen's voices for shorter clips. Refer to the timestamps on the origin audio in case of confusion.]
+
+[00:00:01] Kristin:
+This podcast is of the highest quality. 
+
+[00:00:28] Kristin:
+Hello and welcome to A Strange Mood, the Couples Dwarf Fortress podcast. I'm Kristin. 
+
+[00:00:33] Drew:
+and I'm Drew. 
+
+[00:00:34] Kristin:
+And we're a couple. 
+
+[00:00:35] Kristin:
+playing Dwarf Fortress. 
+
+[00:00:37] Drew:
+That we are, Kristin. That we are. 
+
+[00:00:39] Drew:
+But today, if you couldn't tell, we'll be doing something a little different. Today we've got Stephen from Story Dwarves on. Take it away, Kristin. 
+
+[00:00:47] Kristin:
+Well, we want to say welcome to Stephen of Story Dwarves. Welcome. 
+
+[00:00:51] Stephen:
+It is very good to be here. 
+
+[00:00:53] Drew:
+Yeah, I guess. Tell us about. 
+
+[00:00:56] Drew:
+you know, your background and how you got into Dwarf Fortress. 
+
+[00:01:00] Stephen:
+Okay, so I first got into Dwarf Fortress through my friend Eno, former bandmate. We played in a band in Brooklyn. 
+
+[00:01:08] Stephen:
+called Dagger Shores. 
+
+[00:01:10] Stephen:
+And. 
+
+[00:01:11] Kristin:
+I love it. It's also very dwarf-y. 
+
+[00:01:13] Stephen:
+That was an extremely dwarfy band. 
+
+[00:01:21] Stephen:
+So I was a huge fan of Kerbal Space Program I played that game many many many hours and I was getting very excited for the release of KSP 2 Which we will not talk about it's too soon. It was a disaster, but they were releasing it as a 
+
+[00:01:42] Stephen:
+like an alpha. 
+
+[00:01:43] Stephen:
+So. 
+
+[00:01:44] Stephen:
+I wasn't really familiar with that form of releasing a game. 
+
+[00:01:49] Stephen:
+where you 
+
+[00:01:50] Stephen:
+You, uh, pre-sell it and then. 
+
+[00:01:52] Stephen:
+improve as you go. 
+
+[00:01:54] Stephen:
+So I was talking with Eno about it. I was really excited. And he said offhand, he's like, well, you know, the first people to really do that. 
+
+[00:02:02] Stephen:
+was Dwarf Fortress. 
+
+[00:02:03] Stephen:
+And I said, what is Dwarf Fortress? And. 
+
+[00:02:07] Stephen:
+He said, I don't know if—they said, I don't know if— 
+
+[00:02:12] Stephen:
+Um, you're going to thank me for introducing you to Dwarf Fortress, but here it is. And he sent me the link and I was immediately sucked into the world. 
+
+[00:02:20] Stephen:
+and I've just been deep in it ever since. 
+
+[00:02:25] Kristin:
+When was that? What version? 
+
+[00:02:27] Stephen:
+And that was just over two years ago. 
+
+[00:02:30] Stephen:
+That was version 47, and it was around this time that I got into it. 
+
+[00:02:36] Stephen:
+So, actually, interestingly enough, I've been going back to version 47 the last two weeks, just on a nostalgia kick. It's just the time of year. That's kind of how my brain works. I do things in cycles. 
+
+[00:02:47] Stephen:
+And maybe it's a little ADHD myself there, but like. 
+
+[00:02:52] Stephen:
+I just needed to play it again in ASCII. That's how I learned. I very quickly downloaded the tileset and my life improved. 
+
+[00:03:00] Stephen:
+Um, I've just been going back and really enjoying that older version of the game lately, but, um. 
+
+[00:03:07] Stephen:
+That's where that's how I learned and. 
+
+[00:03:09] Stephen:
+Very shortly after that, I think, started thinking about. 
+
+[00:03:13] Stephen:
+contributing something to. 
+
+[00:03:16] Stephen:
+the content creation that was out there 
+
+[00:03:23] Stephen:
+different about this game, something very unique that spoke to my brain. 
+
+[00:03:27] Stephen:
+in a way that few games ever have. 
+
+[00:03:30] Stephen:
+I've just mentioned that it was kind of a nostalgia kick that I'm on that got me back to 47, but it really speaks to what hooked me into the game in the first place, which is... 
+
+[00:03:39] Stephen:
+It. 
+
+[00:03:39] Stephen:
+all the details of the world and of what you have to do to build any given fort. It fills all the available space in my brain and it pushes everything else out. 
+
+[00:03:50] Stephen:
+And that's what I need in my life. I need Dwarf Fortress to fill up all the space in my head so that I can let everything else go. And I find it extremely, it's almost meditative. 
+
+[00:04:04] Drew:
+Yeah, especially with the sort of. 
+
+[00:04:07] Drew:
+Speed that it goes at a lot of the time in Dwarf Fortress. You can kind of just 
+
+[00:04:11] Drew:
+chill 
+
+[00:04:12] Drew:
+And I mean, you have to stay focused and keep things moving along, but you can really. 
+
+
+[00:04:26] Stephen:
+Yeah, it's great. And just always, like you said, you just always have to kind of keep tabs on things. There's always something you can do. It's up. It's up to you how much how fast you want to go or how slow you want to go. But it's, it's, it's just, it's just remarkable. And now at the same time, while I was first getting into 
+
+[00:04:48] Stephen:
+Dwarf Fortress, the reason why I was having those conversations with my old bandmates, it was... 
+
+[00:04:53] Stephen:
+in kind of late pandemic era and 
+
+[00:04:58] Stephen:
+We were recording every week and meeting every single Wednesday and showing each other what we had been working on just as a way to stay sane and stay creative. 
+
+
+[00:05:07] Stephen:
+Uh, it was during that time that I started really getting into longer form composing and kind of moving away from songs and more towards. 
+
+[00:05:17] Stephen:
+Just... 
+
+[00:05:18] Stephen:
+uh, longer form pieces that. 
+
+[00:05:21] Stephen:
+moved very slowly. I don't know, maybe it was a reflection of the time that we were in but 
+
+[00:05:26] Stephen:
+Uh... 
+
+[00:05:28] Stephen:
+it got me thinking about film scoring again, which is something I was always interested in, but never really did much of. And 
+
+[00:05:34] Stephen:
+that turned quickly to scoring games. I really fell in love with these soundtracks of games I was playing. I got into Outer Wilds during that time. 
+
+[00:05:43] Stephen:
+and just. 
+
+[00:05:44] Stephen:
+Hearing that banjo intro was a revelation for me. I'm like, oh, it can be that too 
+
+[00:05:49] Stephen:
+And so I started kind of mixing acoustic instruments with synth. 
+
+[00:05:55] Stephen:
+and really enjoying the sounds I was making. 
+
+[00:05:58] Stephen:
+Um, and I just kept coming back around to that same thought in my head. I'm like, I really want to score games. 
+
+[00:06:03] Stephen:
+And like, how do I start to do that? 
+
+
+[00:06:06] Stephen:
+Dwarf Fortress came along, and I'm like, there are all these amazing stories happening. 
+
+[00:06:11] Stephen:
+Like, what if I do that? What if I play Dwarf Fortress and score it? 
+
+[00:06:15] Stephen:
+I will be having maximum fun in the two things I care the most about right now in my free time. 
+
+[00:06:21] Stephen:
+And I. 
+
+[00:06:23] Stephen:
+Started I got I got a kick in the pants from Krug smash. It's what I needed I was watching the North Bridge series and at the very end. He said if anybody's out there 
+
+[00:06:32] Stephen:
+who wants to, I think he even said specifically, like, tell the stories, and... 
+
+[00:06:37] Stephen:
+He just said, you should do it. And I said, okay, Krug, I will do it. 
+
+[00:06:44] Stephen:
+Yes. 
+[interjection] Kristin: Yeah.
+
+[00:06:45] Kristin:
+His call to arms, I think, inspired a lot of us. 
+
+
+
+[00:06:48] Drew:
+Definitely. 
+
+[00:06:50] Stephen:
+What a champ. 
+
+[00:06:51] Drew:
+Yeah, have you, when you were first getting into it, did you look on the Bay 12 game forums at the stories there or did you come through it purely through kind of? 
+
+[00:07:02] Drew:
+YouTube and friends talking about it. 
+
+[00:07:04] Stephen:
+It was first through YouTube. 
+
+
+[00:07:11] Stephen:
+Well, TechEd and Blind IRL, they really. 
+
+[00:07:14] Stephen:
+taught me a lot about the game. I learned a lot. 
+
+[00:07:17] Stephen:
+Um, same for, uh, I mentioned Kerbal Space Program. I learned so much through the Kerbal Space Program creators and that they kind of formed. 
+
+[00:07:24] Stephen:
+my ideas about how I was going to get into this game. 
+
+[00:07:29] Stephen:
+So I learned through YouTube and then I did go and read, um, like Arch Crystal and Boat Murdered and like a couple of those, uh, classics. I think it was Dwarf Fortress Roundtable that made me aware of a lot of that, uh, going through. 
+
+[00:07:43] Stephen:
+Those guys are great. They taught me so much about. 
+
+[00:07:46] Stephen:
+the game and shout out to Jonathan for his shout out of me. 
+
+[00:07:51] Stephen:
+Thank you, and also thank you for introducing me to a strange mood. 
+
+[00:07:56] Stephen:
+Here we are. 
+
+
+[00:07:58] Stephen:
+Um, so going through those guys back catalog is a, is a wonderful way to learn the history of the game. And, and I was chopping a lot of wood and with my headphones on listening to. 
+
+[00:08:10] Stephen:
+DF roundtable. 
+
+[00:08:12] Kristin:
+So Story Dwarves was started at that point. Did you go into it with a story that you wanted to tell, or did it sort of arise organically from just your own play? 
+
+[00:08:24] Stephen:
+I decided to do it first and then got immediately hit with, okay, well, what am I gonna do? And so I have been. 
+
+[00:08:34] Stephen:
+Thinking about a scholar fort because I hadn't seen very much of that out there and I love libraries and in real life and in dwarf life and That was it I went in I went into it knowing I'm gonna build a library and have a scholar fort 
+
+[00:08:51] Stephen:
+and started working on themes. For the most part, the music is the last consideration, not spiritually, but just practically. You need the narrative there first before you know what to do. 
+
+[00:09:05] Stephen:
+So, but the exception to that is themes. I will often sit and just play around and if. 
+
+[00:09:11] Stephen:
+If I hit on something that I'm 
+
+[00:09:12] Stephen:
+really keep coming back to. 
+
+[00:09:14] Stephen:
+It usually ends up in a voice memo on my phone with a. 
+
+[00:09:18] Stephen:
+SD story dwarves in front of it and whatever I'm thinking. 
+[interjection] Kristin: Thank you.
+[interjection] Stephen: So the the theme to. 
+
+[00:09:25] Stephen:
+Torellatod, Learned Hands, came from that. 
+
+
+[00:09:30] Stephen:
+I just started recording. 
+
+[00:09:32] Stephen:
+Just started running OBS and playing the game. 
+
+[00:09:36] Kristin:
+That's, in streaming and in writing fiction, one of the things that I've kind of run into is a sort of chicken-egg problem. 
+
+[00:09:43] Kristin:
+I'll decide that like one particular dwarf is an interesting character and like I'm fascinated by them and then they don't necessarily do anything and meanwhile there's something else entirely happening and it can be hard to sort of focus in that way. 
+
+[00:09:57] Kristin:
+on who is the most interesting and what's going to happen there, or I'll decide like I want to do this kind of fort and that's what we're going to focus on and then of course the game never seems to cooperate with me. 
+
+[00:10:10] Drew:
+Yeah, it's like, it goes weird. 
+
+[00:10:13] Stephen:
+That's a classic Dwarf Fortress problem. If it is a problem, it's, it's just part of the nature of the game. And it's so, it's so interesting to me, I've run into the exact same thing where 
+
+[00:10:23] Stephen:
+I think I'm following a line and then it kind of peters out, it doesn't go anywhere, but. 
+
+[00:10:29] Stephen:
+That. 
+
+[00:10:30] Stephen:
+That actually really does speak to something that is so magical about Dwarf Fortress, though, where you start by building the world, and that's what's so unique about this game. You build the world. 
+
+[00:10:40] Stephen:
+and it's easy to overlook that, I think, when you're first playing, because you want to get into it. You're like, okay, let me build my thing. 
+
+[00:10:46] Stephen:
+but it's about the world. 
+
+[00:10:48] Stephen:
+and the world is persistent. 
+
+[00:10:51] Stephen:
+So. 
+
+
+[00:10:54] Stephen:
+things are going to happen, but you just have to slow down. And I'm still, I'm absolutely still honing my process here and I'm spending way too much time editing. It's, if anybody out there has ever done video editing of any kind, it's just an hour of footage could become. 
+
+[00:11:13] Stephen:
+30 seconds. 
+
+[00:11:15] Stephen:
+depending, especially in Dwarf Fortress. It's like, okay, here I am scanning through an hour of building bedrooms because I had to do that. 
+
+[00:11:24] Stephen:
+But, uh, I am, I'm finding that the more I slow down, the more I just sit and watch the tavern for a while, like who is talking about what, um, 
+
+[00:11:35] Stephen:
+who's visiting, follow one dwarf for a while. I always name my first seven dwarves. That's a tip I picked up from someone else. I can't remember who, but name them 
+[interjection] Kristin: or who, but.
+[interjection] Stephen: so that you can follow them. 
+
+[00:11:49] Stephen:
+You just sort of at a certain point have to decide, like, okay, I'm choosing to make this interesting. 
+
+[00:11:55] Stephen:
+and 
+
+[00:11:56] Stephen:
+And I'm running with it, whether you like it or not. Yeah. 
+
+
+[00:12:00] Kristin:
+It's all about the framing, right? 
+
+
+[00:12:02] Drew:
+I thought that it was, um, fun in your, in your, um, most recent video that I should have written the name down for the new one. It's a fish hole. 
+
+[00:12:11] Kristin:
+Fish hole. 
+
+[00:12:11] Drew:
+the awe-inspiring Feast of Ships. 
+
+
+[00:12:22] Drew:
+I think it's a, is it a ceramic burner as a fireplace? 
+
+[00:12:24] Stephen:
+Yeah, there's a fishing lodge and it has a, I think it's a wood burning furnace. 
+
+
+[00:12:30] Kristin:
+Yeah, that is a very cool effect. 
+[interjection] Drew: Let us
+
+[00:12:32] Drew:
+And now that I see your workspace, I'm like, it sort of is inspired by that right there. I mean, they even look very similar in the way you've set them up. 
+
+[00:12:42] Drew:
+Um 
+
+[00:12:43] Drew:
+but uh 
+
+[00:12:45] Drew:
+man i really liked um in that one you had that that great uh crap i'm gonna sound old and say diddy but you had that great song um uh pull the lever i guess is what i would call it but i don't know what you have it written down 
+
+[00:12:55] Stephen:
+That lever was so accessible, it was right there. It was surrounded by dwarves, and this werepanther is just kind of slow walking across the map. 
+
+[00:13:09] Stephen:
+and no one got it together. Yes. 
+
+[00:13:13] Stephen:
+Those moments, right? Okay, so 
+
+[00:13:16] Stephen:
+I knew early on it was going to be a problem. The first time I wrote a song for my Dwarf Fortress videos, I'm like, oh man, I'm going to have to keep doing this now. 
+
+[00:13:26] Stephen:
+I'm glad that I do, but it's a it's part of me is always looking out for the song now. It started with alligator Still 
+[interjection] Kristin: It's still awesome.It's still, I love Ali.
+
+[00:13:40] Stephen:
+Where Beast comes for your life 
+
+[00:13:50] Stephen:
+We're beasts! 
+
+[00:14:02] Stephen:
+You 
+
+[00:14:03] Stephen:
+For God's sakes, why won't someone pull the lever? 
+
+[00:14:08] Stephen:
+Um, I have a dream, by the way, I have a dream of doing a live show at some point, guys, I went to this. So my wife, Catherine, um, she, she grew up in Texas. 
+
+[00:14:20] Stephen:
+And her parents were living in the San Antonio area, the hill country of Texas. 
+
+[00:14:24] Stephen:
+They took me, her dad was a geophysicist, and he took me to this cave. And you are just walking through a field, and there's a little hole in the ground, and a set of stairs, and you can pretty much just fit down it. 
+
+[00:14:37] Stephen:
+But the stairs keep going down and you wind down and like, I've actually been inside Dwarf Fortress. You end up, you end up going into this large opening 
+[interjection] Kristin: Thank you so much.
+[interjection] Stephen: and there's this cavern there and they do concerts down there. 
+
+[00:14:50] Stephen:
+So how cool would it be, how cool would it be to, um, 
+
+[00:14:55] Stephen:
+to throw alive. 
+
+[00:14:57] Stephen:
+uh, story dwarf show in the cave, uh, anyway, um, where were we? Uh, oh yeah, songs. So. 
+[interjection] Kristin: Anyway.
+
+[00:15:06] Stephen:
+Um 
+
+[00:15:07] Stephen:
+So I 
+
+[00:15:09] Stephen:
+All I can say is I try to turn the filter off. 
+
+[00:15:12] Stephen:
+And if something occurs to me, I just do it. And this is creative advice that I give to anyone who's asking. I'm a music teacher by trade, I should say that. That's what I do. Catherine and I started our own studio here, East Mountain Studios, again, back in the pandemic. And that's our full-time job now, so. 
+
+[00:15:34] Stephen:
+And I've been teaching music for about 15 years 
+
+[00:15:37] Stephen:
+But I tell people, like, look, it's it's two things. One. 
+
+[00:15:42] Stephen:
+Work quickly. 
+
+[00:15:44] Stephen:
+and two. 
+
+[00:15:45] Stephen:
+It's quantity over quality at first, if you have a creative idea. 
+
+[00:15:51] Stephen:
+Get it in your head as best you can and just make it real. 
+
+[00:15:54] Stephen:
+And don't worry about if it's good. Don't worry about. 
+
+[00:15:56] Stephen:
+anything. Just try and take what's in your head and put it out there into the world. 
+
+[00:16:01] Stephen:
+Keep doing that and that. 
+
+[00:16:03] Stephen:
+process becomes easier and faster so that at least what's in your mind can become real. 
+
+[00:16:08] Stephen:
+So that's what I try to exercise with story dwarves and I saw that alligator attack And I knew it was gonna make it into the video because it was the by far the most exciting thing that had happened so Far in the fort we got attacked by an alligator 
+
+[00:16:20] Stephen:
+Um, and I was watching it back and I just heard like. 
+
+[00:16:23] Stephen:
+alligator in my head over and over again. My first thought of course was I can't do that. 
+
+[00:16:30] Stephen:
+and then I did it anyway, and I'm so glad that I did. So. 
+
+[00:16:34] Kristin:
+It's so charming and so fun that, like, we still will, like, randomly sing that. 
+
+[00:16:40] Kristin:
+I enjoyed the, what is your official title for the song we're calling Pull the Lever? 
+
+[00:16:47] Stephen:
+I think I called it the wear of the beast. 
+
+[00:16:50] Stephen:
+because it sounded like a Mastodon title. Mastodon is my favorite metal band. 
+[interjection] Kristin: It sounded
+[interjection] Stephen: Oh, yeah. 
+
+[00:16:55] Kristin:
+Oh, cool. Yeah. 
+
+
+[00:16:58] Kristin:
+Uh... 
+
+[00:16:59] Kristin:
+It just felt like a stream of consciousness of the Dwarf Fortress player going, 
+[interjection] Stephen: player.
+[interjection] Kristin: just for God's sake, pull the lever. So it was, it really made that moment very, uh, relatable. Yes, it was, it was very. 
+
+[00:17:10] Drew:
+Yes, it was very good. 
+
+[00:17:12] Stephen:
+you 
+
+[00:17:12] Stephen:
+Yeah, that's that's exactly what it was. I just I was watching him like, I can't believe this is happening. 
+
+
+[00:17:25] Stephen:
+or I'm 
+
+[00:17:27] Stephen:
+or I just get. 
+
+[00:17:28] Stephen:
+to play Dwarf Fortress, it's not a very difficult game. It has this reputation of being difficult. 
+
+[00:17:38] Stephen:
+But I really think that's almost exclusively because of ASCII. 
+
+[00:17:41] Stephen:
+yeah, there's a lot of details, but it actually doesn't take a lot to survive and stay safe. 
+
+[00:17:49] Stephen:
+Um... 
+
+
+
+[00:17:53] Stephen:
+True. So. 
+
+[00:17:55] Stephen:
+Yeah. 
+
+[00:17:56] Stephen:
+Oh, man, those guys are wonderful. Like this, the stuff that they've built is is is amazing. I don't use DF hack or 
+
+[00:18:03] Stephen:
+or many plugins. 
+
+[00:18:04] Stephen:
+or mods rather, very often, mostly because of what I was talking about earlier with 
+
+[00:18:11] Stephen:
+Part of the appeal of Dwarf Fortress to my brain is having to go through all the tedium. Like I want to have to set up my work orders. Like I'm like, oh great, I got a new fort, let me set up my clothing industry now and just like start typing in all the same stuff I've typed in a hundred times before. 
+
+[00:18:28] Stephen:
+Um, I, I, I need that out of this game. Um, it is my, it is my like mental downtime. 
+
+[00:18:35] Stephen:
+Um, but DF hack is incredible. And like the, the quick Fort stuff. Oh man. 
+
+[00:18:40] Stephen:
+It's all it's all very cool. I'm sure I will get into it someday. 
+
+[00:18:43] Stephen:
+But anyway... 
+
+[00:18:45] Stephen:
+Yes, once you know how to play, it's like you're pretty good to go. 
+
+[00:18:51] Stephen:
+So. 
+
+[00:18:52] Stephen:
+Do you guys ever kind of just roll the dice and just say, okay, we're going to like put ourselves in danger now? 
+
+[00:18:58] Drew:
+I think occasionally I will definitely, when I'm starting to get a little bored with a new fort, it'll be time to start breaching caverns and just seeing how deep we can go before bad stuff starts to happen. And of course, once you find the obsidian lair, that's your guarantee that 
+
+[00:19:15] Drew:
+Interesting stuff is going to start to happen. 
+
+[00:19:17] Kristin:
+gamble every time. 
+
+
+[00:19:20] Kristin:
+I've run into this a little bit where I feel. 
+
+[00:19:23] Kristin:
+sometimes like I'm getting too good at the game, like I'm too good at solving some of the problems and I'm crediting myself on a lot of that Steve Hacken, but so that like when I was a new player the chaos and losing forts really rapidly. 
+
+[00:19:42] Kristin:
+was kind of more interesting at times, at least as a creator. It was more interesting to talk about than like, oh, we're, you know, we're productive. We have everything we need. We're happy little dwarves. Like that's not necessarily a good story. And sometimes you want the chaos 
+[interjection] Drew: Yeah.
+[interjection] Kristin: of things going really poorly. 
+
+[00:20:00] Kristin:
+So I actually, I've been trying some different techniques around my playing of Dwarf Fortress so that sometimes I will let it run and I'll step away. Oh, wow. I will go move the clothes from the washer to the dryer or unload the dishwasher or whatever and come back and see what they're getting up to. 
+
+[00:20:18] Kristin:
+And I'm too scared to like. 
+
+[00:20:20] Kristin:
+do that fully. So I will walk away for five minutes. You know, I'm still hovering. 
+
+[00:20:25] Kristin:
+But I do like to... 
+
+[00:20:28] Kristin:
+give them space to breathe and to do their own dwarf-y thing, but I do want to get a little bit more adventurous as a player and start... I have yet to send someone out to capture 
+
+[00:20:45] Kristin:
+a goblin anything or you know yeah reclaim relics that have been stolen or anything like that 
+[interjection] Drew: Yeah.
+
+[00:20:51] Drew:
+Dark Pit. 
+
+[00:20:52] Kristin:
+Yeah so I think it's maybe time to uh start pushing myself out of my comfort zone in that way. Although my squadrons are still terrible. I don't know maybe it's my I don't know if that's 
+[interjection] Drew: Maybe.
+[interjection] Kristin: a me thing or just uh getting bored and moving on to a new fort thing because I do tend to do that. I get them get a fort to where it's like taken along really well and I'm like okay next. 
+
+[00:21:12] Kristin:
+because I really like that settlement aspect and getting the engine up and running. 
+
+[00:21:17] Drew:
+Yeah, I don't think I've ever actually stuck with a fort long enough for it to become the mountain home. 
+
+[00:21:22] Drew:
+Which you know is sort of some people view as the endgame of Dwarf Fortress as you get the mountain home you get the 
+
+[00:21:30] Drew:
+king or queen there and you give them the relics and get all of that together. 
+
+[00:21:34] Drew:
+but... 
+
+[00:21:36] Drew:
+Instead, I mean, I'm just really more interested in that 
+
+[00:21:40] Drew:
+exploring the map aspect. 
+
+[00:21:43] Drew:
+And when I start to get bored, I think one of the things I do do is send out those expeditions onto the larger map. I'm doing a... 
+
+[00:21:56] Drew:
+tiny world, pocket world, pocket world. 
+
+[00:21:59] Drew:
+this time and so I was able to let it run for 500 years so a lot of different stuff developed in there but it's also small enough that there's not really 
+
+[00:22:08] Drew:
+super huge groups 
+
+[00:22:10] Drew:
+in the different things, so I'm actually able to send my guys out and have them not just bring back a massive 
+
+[00:22:18] Drew:
+Um... 
+
+[00:22:18] Drew:
+bring back a massive army tracking them back to our to our little uh hamlet so 
+
+[00:22:25] Drew:
+that makes it a little more fun to be able to go out and do that and see what's going on there. 
+
+[00:22:30] Stephen:
+Mm-hmm. 
+
+[00:22:31] Stephen:
+I've done a little bit of sending the army out. 
+
+[00:22:34] Stephen:
+And, uh, I don't know, like they come back with a few beat dogs and like a book or two and that's fun. And then one day none of them come back because the, the thing that said that there was like 
+[interjection] Kristin: Yeah.
+[interjection] Stephen: 10 people there. 
+
+[00:22:45] Stephen:
+It was 10 people, but then they had... 
+
+[00:22:47] Stephen:
+10 goblins, but they had 
+
+[00:22:49] Stephen:
+massive quantities of, like, crazy cave dragons and stuff, you know, that. 
+
+[00:22:54] Stephen:
+did not show up in our intel. 
+[interjection] Kristin: did not show up there.
+
+[00:22:57] Stephen:
+I was thinking of doing a Pocket World 2, something I want to try. 
+
+[00:23:02] Stephen:
+because the long narrative videos. 
+
+[00:23:04] Stephen:
+something keeps happening to me, honestly, which is it's, it's so much work to. 
+
+[00:23:10] Stephen:
+tie together. 
+
+[00:23:12] Stephen:
+any kind of a narrative out of all of this footage and the entire fort that I think sometimes I'm losing. 
+
+[00:23:20] Stephen:
+the forest for the trees. 
+
+[00:23:22] Stephen:
+or the trees for the forest. 
+[interjection] Kristin: Yeah.
+
+[00:23:24] Stephen:
+I want to zoom in more onto finer details. So I'm thinking of going to more short story format. 
+
+[00:23:32] Stephen:
+And a very cool way to do that, I've been thinking, would be a pocket world. 
+
+[00:23:37] Stephen:
+where 
+
+[00:23:37] Stephen:
+I. 
+
+[00:23:38] Stephen:
+build a fort, or start a fort. 
+
+[00:23:41] Stephen:
+And then... 
+
+[00:23:42] Stephen:
+Start an adventurer. 
+
+[00:23:44] Stephen:
+go to that fort and then have the adventurer become one of the main characters in the fort. 
+
+[00:23:49] Stephen:
+and it kind of bounced back and forth. 
+
+[00:23:51] Stephen:
+that way. And I think that could be really cool. And I keep hearing about people saying that you 
+[interjection] Kristin: Yes.
+[interjection] Stephen: should do stuff like that. Um, but I don't see it happening out there in the Dwarven world. 
+
+[00:24:03] Stephen:
+So I would like to make some of that happen and I think it would be easier on me. 
+
+[00:24:08] Stephen:
+um, than some of these really what feel now like large projects that inevitably 
+
+[00:24:15] Stephen:
+You know. 
+
+[00:24:17] Stephen:
+It's, it's a. 
+
+[00:24:19] Stephen:
+There's only so many hours in the day. 
+
+[00:24:21] Stephen:
+and as much as I love my dwarves. 
+
+[00:24:24] Stephen:
+there's a lot of other things that I, uh, that I have to talk about right now in my life. So, so, uh, yeah, of course this is, this is a, this is a hobby for all of us, for most of us. So, um, 
+
+[00:24:36] Stephen:
+you 
+
+[00:24:36] Drew:
+That is my- Bouncing back and forth, sorry to cut you off there, between fort mode and adventure mode was something that I really enjoyed doing. 
+
+[00:24:48] Drew:
+when I was in between jobs. 
+
+[00:24:51] Drew:
+Cheers. 
+
+[00:24:52] Drew:
+A while ago. 
+
+
+[00:24:53] Drew:
+I think part of the challenge is also with the Steam release that they were still waiting for to be kind of completely functional, the Adventure Mode. 
+[interjection] Stephen: French.
+
+[00:25:08] Drew:
+Um, but yeah, that was a lot of fun to be able to, um, you know, go out, be an adventurer for a while, then come back to a fort and, you know, get signed back up there and... 
+
+[00:25:18] Drew:
+do that back and forth. 
+
+[00:25:21] Drew:
+so it's definitely it's definitely worth doing i think once once you feel like um you can have enough fun but then also adventure mode has changed so much and like the steam release from when i 
+
+[00:25:32] Drew:
+have played it before because i was definitely just playing fort stuff before and like the towns are huge in adventure mode now like 
+
+[00:25:40] Drew:
+just enormous and I'm impressed that it's all generated like that. 
+
+
+[00:25:47] Drew:
+Yeah. 
+
+[00:25:47] Kristin:
+Have you done much with Adventure Mode yet? 
+
+[00:25:49] Stephen:
+The Ballad of Erst and Bembel was my love letter to version 47 Adventure Mode. 
+
+
+[00:25:56] Stephen:
+Craft seed. 
+
+[00:25:57] Kristin:
+I guess I mean current. Current. 
+
+[00:25:58] Stephen:
+current. Yeah, a little bit. Craftseed the 
+
+[00:26:02] Stephen:
+Urist's hometown in that in that series was my was one of my very first successful forts ever in the game and so I started an adventure there and it was a 
+[interjection] Kristin: And so I...
+
+[00:26:11] Stephen:
+I dug too deep and didn't know what was going to happen. It was a nightmare actually going back through that fort. Um, but, uh, the new, the new adventure mode. 
+[interjection] Kristin: No.
+[interjection] Stephen: Yes. I, as soon as it came out, I kind of poked at it and I. 
+
+[00:26:28] Stephen:
+I've been waiting now, now that the quest log is back. I mean, first it was butchering, that was big. 
+[interjection] Kristin: First, it was...
+[interjection] Stephen: And then now that the quest log is back and I feel like I can. 
+
+[00:26:38] Stephen:
+Get information and use it. 
+
+[00:26:40] Stephen:
+Um... 
+
+[00:26:41] Stephen:
+I want to start going back to it now. 
+
+[00:26:43] Stephen:
+But I think in that form that we were just talking about, like pocket world. I've made the mistake in the past of trying to be an adventurer in huge worlds and you spend all of your time walking through the wilderness, just waiting to die. 
+
+
+[00:26:57] Kristin:
+The truth of what being an adventurer would actually feel like, just wandering around being lost and maybe fighting animals occasionally. 
+[interjection] Stephen: Yeah.
+
+[00:27:04] Stephen:
+That's one thing I appreciate about The Lord of the Rings. I just reread The Lord of the Rings like a year ago. 
+
+[00:27:11] Stephen:
+He does not. 
+
+[00:27:14] Stephen:
+uh, gloss over how much walking they do. Half, half the book is just going from one place to another and just talking about that. It's, it's, it's wonderful. I really appreciate that. 
+[interjection] Kristin: I really don't know.
+[interjection] Stephen: It really actually pulls you into the world. Um, so yeah, in my near future, there's going to be a pocket world and an adventurer that can really like explore all of it. And I want to see if I can. 
+
+[00:27:36] Stephen:
+make a story out of the world a little bit more. Right now I feel like I'm still in just, here's this fort and here's... 
+
+[00:27:42] Stephen:
+the very linear story of the fort. 
+
+[00:27:45] Stephen:
+It would be very cool to make the world the main character. 
+
+[00:27:49] Drew:
+One thing I wanted to talk to you about and hear your process behind is, you made some dwarven music based off the procedurally generated stuff within one of your worlds. Can you kind of talk about how you try to interpret that and take that and turn it into something real? Because the stuff you've made is really interesting sounding. 
+
+[00:28:12] Stephen:
+Um... 
+
+[00:28:13] Stephen:
+From the moment I saw that it was in the game, I wanted to do something with that. It's just dangling there, waiting. 
+
+[00:28:22] Stephen:
+Once I, so I dug into the, that very first one was called holes and nothing more. And I'm like three songs deep. 
+
+[00:28:35] Stephen:
+Um, so I, I realized early on that they base. 
+
+[00:28:42] Stephen:
+all of their scales off of a quarter tone scale. So typically there's 12 notes in Western music. 
+
+[00:28:50] Stephen:
+So you have an octave that's divided into 12 notes, they double that, so that's a quarter tone scale. 
+
+[00:28:56] Stephen:
+A semitone is a half-step, a quarter-tone is a... 
+
+[00:28:58] Stephen:
+quarter set. 
+
+[00:28:59] Stephen:
+So when I realized that. 
+
+[00:29:02] Drew:
+Kristin is the music person of us, so she actually understands these things. 
+[interjection] Stephen: So she actually.
+[interjection] Drew: I got a C- in the one music class I ever had to take, but please continue. 
+[interjection] Stephen: But.
+
+[00:29:11] Stephen:
+I nearly failed AP music theory in high school, so that's okay. 
+
+[00:29:19] Stephen:
+everybody else was in the choir and I knew no solfege whatsoever so dictations were a nightmare. So it's a quarter tone scale. 
+[interjection] Kristin: Mm-hmm.
+
+[00:29:28] Kristin:
+Yeah. 
+
+[00:29:29] Stephen:
+So I set that up on a MIDI controller. 
+
+[00:29:32] Stephen:
+just divided all of my half steps in half. And then they tell you very specifically. 
+
+[00:29:38] Stephen:
+um which of those steps you're supposed to choose to form the scale whatever the scale is that they're talking about in the song so 
+
+[00:29:48] Stephen:
+They'll describe it explicitly, and you just have to count up the number of quarter tones. So you write that down, and then they tell you the very specific scale of the song. You kind of have the master collection of notes that they tell you, and then they tell you the scale. So like, this is the onom heptatonic scale, and it's the first, the third, the fifth, the seventh, the ninth. 
+
+[00:30:09] Stephen:
+Dead. 
+
+[00:30:09] Stephen:
+10th, I have to get the 7th now to be complete, and the 15th. So you go through your scale that you just built and you pick out those specific notes and that's what you have to work with. So you can program a MIDI controller to do that. 
+
+[00:30:26] Stephen:
+And from there. 
+
+[00:30:28] Stephen:
+They tell you the rhythm. 
+
+[00:30:29] Stephen:
+This is the rhythm of this section. This is the rhythm of the other. And it's in beats with stressed beats and unstressed, and sometimes they're early, sometimes they're late. So this is all very, um. 
+
+[00:30:40] Stephen:
+anyone is capable of interpreting it. 
+
+[00:30:44] Stephen:
+Uhh 
+
+[00:30:45] Stephen:
+Where it goes from there has been a challenge. I started with holes and nothing more because it was just chanting. Chanting nonsense syllables. I'm like, great, great. Nonsense syllables and only vocals. I can handle that. 
+
+[00:30:58] Stephen:
+I am modeling the instruments now, and I discovered, actually through someone, I think... 
+
+[00:31:05] Stephen:
+Oh, I wish I could. 
+
+[00:31:07] Stephen:
+It might have been friend called five. It might have been Rurik. I'm sorry. I can't remember but it was on your discord 
+
+[00:31:12] Stephen:
+where someone mentioned physical modeling synthesizers, which I had not heard of. So I went down the rabbit hole of looking into physical modeling synthesis. And what that is, is a software instrument that you trigger with a MIDI controller. 
+
+[00:31:26] Stephen:
+But. 
+
+[00:31:27] Stephen:
+It uses actual. 
+
+[00:31:29] Stephen:
+physics, mathematics, to model what would be happening in the real world if I struck this plate. 
+
+[00:31:37] Stephen:
+and that plate was connected to another plate by a spring, and you can control the tension of the spring and the mass of the plate. 
+
+[00:31:44] Stephen:
+and it creates these kind of uncannily realistic. 
+
+[00:31:48] Stephen:
+sounds that way more than any other software instruments I've messed with. It sounds like something in a room, but also something very alien. And that was the key that unlocked. 
+
+[00:32:00] Stephen:
+instruments in Dwarf Fortress, because I can choose to strike a plate, I can choose to pluck a string, and the strings sound so cool. And all of those sort of lute-like instruments that they describe in Dwarf Fortress. 
+
+[00:32:16] Stephen:
+I can now create some version of it. 
+
+[00:32:19] Stephen:
+and no one's ever heard what these. 
+
+[00:32:22] Stephen:
+are supposed to sound like, so I have that working in my favor. 
+
+[00:32:25] Stephen:
+Um... 
+
+[00:32:26] Stephen:
+and I'm doing my best to be faithful to what the scale says and what the rhythm says, but most of them also say 
+
+[00:32:33] Stephen:
+You should. 
+
+[00:32:34] Stephen:
+Play legato, or... 
+
+[00:32:36] Stephen:
+Use trills. 
+
+[00:32:38] Stephen:
+things that are telling. 
+
+[00:32:40] Stephen:
+the composers in the game. 
+
+[00:32:42] Stephen:
+that you're supposed to take some freedoms with it. 
+
+[00:32:45] Stephen:
+which is how all song forms work. 
+[interjection] Kristin: Mm.
+
+[00:32:48] Stephen:
+So I don't know why the dwarves would be any different. So that is a very fun project, and I'm excited about that one. 
+
+[00:32:56] Drew:
+I'm really impressed that you're able to do that. I mean, first off, just knowing how to work that the physics-based MIDI system. 
+
+[00:33:04] Drew:
+Man, we've come such a long way from crystal synth back in the day. 
+
+[00:33:10] Stephen:
+Foooooooo. 
+
+[00:33:11] Drew:
+Yeah, that you're able to actually try to model some of those things because again, you know, I had one instrument that was like 128 bells connected to a keyboard. 
+
+[00:33:23] Stephen:
+Well, let's be clear. So some, some of them, some of the stuff in there is just nuts. 
+[interjection] Drew: There is just no...
+[interjection] Stephen: Like, I'm, I'm sorry, I'm not going to divide a perfect fourth into 11 different notes. It's that is going to sound like nothing. So I am, I am being pretty selective, but I'm always, always searching for songs in Dwarf Fortress. It's, it's an amazing part of, of the game. 
+
+[00:33:44] Stephen:
+how deep the poetry and the song stuff is. 
+
+[00:33:48] Stephen:
+Gosh. 
+
+
+[00:33:49] Kristin:
+Lyrically, some of it would be incredibly challenging as well when you start to get into the poetic verse. 
+
+[00:33:56] Kristin:
+and the amount of metaphor demanded. 
+
+[00:34:00] Drew:
+Yeah. 
+
+[00:34:00] Kristin:
+It would be extremely challenging, very dense. 
+
+[00:34:03] Drew:
+I've been impressed that the most recent version of OpenAI can actually finally follow the instructions from there and create something that at least seems to me on first glance to actually be following the instructions. Is it good? No. But it's following the instructions, which when someone's telling you to do, you know. 
+
+[00:34:24] Drew:
+dactylic hexameter in english with you know this sort of rhyme scheme like that just seems impossible and i assume the music is because i know a little bit about poetry from taking latin and stuff but i assume the music stuff is also where it's like 
+
+[00:34:41] Drew:
+this is not quite nonsense, and it's just not quite nonsense enough that I want to actually fight with it and see what it can actually be. 
+
+[00:34:52] Stephen:
+Yeah, I showed you that one that I tried with ChadGBT. 
+
+[00:34:58] Stephen:
+And yeah, you're right. It basically does follow the rules. 
+
+[00:35:02] Stephen:
+I'm at a point now where I really do want to try and and make the Dwarven lyrics out of it, and I'm curious how 
+
+[00:35:09] Stephen:
+Like on a song like, um... 
+
+[00:35:11] Stephen:
+like drink and industry. 
+
+[00:35:14] Stephen:
+how they decided to do that and. 
+
+[00:35:17] Stephen:
+Chu how they chose the words and because there really aren't any, um, pronouns. 
+
+[00:35:23] Stephen:
+or like even prepositions, like in the, doesn't happen in dwarven, as far as I can tell, it's all nouns and verbs, exclusively nouns and verbs. 
+[interjection] Kristin: Yeah.
+[interjection] Stephen: So I guess you just have to sort of put it together. 
+
+
+[00:35:35] Stephen:
+fill in the rest. But I would love, love to use ChadGBT to try and do some of those poetic forms that they occasionally say are the lyrics to the song. 
+
+[00:35:44] Stephen:
+And, um... 
+
+[00:35:46] Stephen:
+Simon Swearer, I believe, is the one who came up with the Dwarven... 
+
+[00:35:52] Stephen:
+language interpreter. I think that's what it's called. You can find this through the forums and I downloaded it. It's amazing. You can translate all the known dwarven words. 
+
+[00:36:03] Stephen:
+Um 
+
+
+[00:36:05] Stephen:
+I said, like, I've gotten kind of close. I've gotten as far as a list of words that, that are kind of related. It's, it's hard. You got to take a lot of poetic lessons, so I haven't, I haven't gone down that 
+[interjection] Kristin: You gotta take a lot of poetic lengths.
+[interjection] Stephen: rabbit hole yet, truly, but yeah. 
+
+
+[00:36:20] Stephen:
+Yeah, it's a, it's a very fun project. It's, it's taken up, um. 
+
+[00:36:24] Stephen:
+a lot of my creative space right now, which is also why the videos have just been so slow coming out. I'm like, man, I just want to work on holes and nothing more. 
+
+[00:36:34] Drew:
+All right. 
+
+[00:36:36] Drew:
+the plugins are interesting for the the language and music stuff as well because the one that i really love adds decapodians in so you know little crustacean creatures 
+[interjection] Kristin: You know, a little crust.
+
+[00:36:50] Drew:
+and it has all these rules for the names and and their own language but most of their language just seems to be comprised of repeated clicks so it's k-k-k-k-k-k-k-k-k-k-k-k-k-k-k and i'm like 
+
+[00:37:03] Drew:
+Oh man, this is always a pain when it's time to put something down for the podcast. 
+
+[00:37:10] Kristin:
+That's when you got to start nicknaming them in English. We have to adopt the Brandon Sanderson rule. 
+
+[00:37:17] Kristin:
+he says about his books when people criticize that the characters speak in really modern language is that well it's translated into English so of course they would have slang 
+[interjection] Stephen: England
+[interjection] Kristin: because every language has slang so you know just think of it all in translation. 
+
+[00:37:33] Stephen:
+What else am I working on right now? 
+
+[00:37:36] Stephen:
+I, I've got so many ideas. Friends, this is my curse. I really could use and wish I had a lot more time to spend on this, but you know, at the end of the day, it's like, I don't want it to take up all of my time. I, I, I, I officially have more to say about music education than I do about my dwarves. But, uh, I, I, I always have a running list of ideas. One of my favorites lately, I want to do a dwarf fortress operetta. 
+
+[00:38:04] Stephen:
+hear me out. It's like, I think Les Miserables but Dwarf Fortress. 
+[interjection] Kristin: It's like, it's like, think later.
+
+[00:38:11] Stephen:
+um Completely through sung through composed from the moment it drops to the very end it's all sung and imagine taking a line like 
+
+[00:38:21] Stephen:
+is more understanding after being caught in the rain in the year 137? Like, what if that was an entire song? 
+
+[00:38:29] Stephen:
+Like what if you just zoomed in on one detail and just took it ridiculously deep and that that would be so much fun. 
+[interjection] Kristin: And
+[interjection] Stephen: Um, but, uh. 
+
+[00:38:39] Stephen:
+That would be like, I said, I'm, I'm, I'm just kind of editing all the time right 
+[interjection] Kristin: Oh, gosh.
+[interjection] Stephen: now, all completely different, unrelated to the Dwarven world. Uh, I S I started another YouTube channel with my wife, Catherine, a couple of years ago, she's a ukulele teacher. So if anybody out there is learning ukulele. 
+
+[00:38:54] Stephen:
+go look up Yooka-Laylee Wine Time. 
+
+[00:38:57] Stephen:
+our, our other channel, it just passed 10,000 subscribers recently, and, uh, we're working 
+[interjection] Kristin: Nice.
+[interjection] Stephen: on a course. So I am, I am. 
+
+
+[00:39:07] Stephen:
+every waking moment it feels like of my life and having a great time doing it, but uh 
+[interjection] Kristin: my life and have.
+
+[00:39:14] Stephen:
+Dwarf Fortress Operetta, that would be so much fun. 
+
+[00:39:16] Kristin:
+Yeah, that could be all-consuming. 
+
+[00:39:18] Drew:
+Yeah, yeah, that would be... 
+
+[00:39:20] Drew:
+But that would be really impressive and, um... 
+
+[00:39:23] Drew:
+One thing I like about the different projects now is, you know, it's not great that we're all on YouTube and it's all. 
+
+[00:39:30] Drew:
+Google owns everything and all that but 
+
+[00:39:32] Drew:
+You know, after... 
+
+[00:39:33] Drew:
+There I am. 
+
+[00:39:35] Drew:
+community kind of lost slash some of the artwork and all of that disappeared from over the years, disappeared with Imgur changing the rules. It's nice to create this stuff and have it somewhere where it's a little bit more persistent because again, Dwarf Fortress Operetta, that's. 
+
+[00:39:55] Drew:
+that would be the work of year or years of editing and effort by you and 
+
+[00:40:02] Drew:
+Yeah, that would just be so cool to just have that kind of exist in perpetuity. 
+
+[00:40:06] Kristin:
+Hmm. 
+
+[00:40:07] Kristin:
+Yeah, that'd be awesome. We support this idea. 
+
+[00:40:10] Drew:
+Yeah, good. It's very easy to support long, difficult ideas for other people. Oh yeah, absolutely. Oh yeah, you should do that, yeah. 
+
+[00:40:14] Kristin:
+Yeah, go for it, I'd love to partake. 
+[interjection] Drew: Yeah!
+
+[00:40:21] Stephen:
+I'm just- 
+
+[00:40:21] Kristin:
+media 
+
+[00:40:21] Stephen:
+Oh, man. 
+
+[00:40:23] Stephen:
+You know, it all goes back to, um, 
+
+[00:40:26] Stephen:
+It all goes back to how great Dwarf Fortress is. Thank you Tarn and Zach for creating this. 
+
+
+[00:40:34] Stephen:
+Speaking of long-term projects like 
+
+[00:40:36] Stephen:
+This unbelievably complex thing that those guys built. 
+
+[00:40:40] Stephen:
+Because it 
+
+[00:40:42] Stephen:
+You know, what does it inspire in people? It inspires like. 
+
+[00:40:46] Stephen:
+a whole wide range of deeply creative endeavors that are all very different from each other. 
+
+[00:40:53] Stephen:
+And I have not really encountered anything like that in, um... 
+
+[00:40:58] Stephen:
+in a game. 
+
+[00:40:58] Stephen:
+you know maybe in like some other works of fiction and and like 
+
+[00:41:03] Stephen:
+I'm not sure, but. 
+
+[00:41:05] Stephen:
+This is, it's very cool that we have. 
+
+[00:41:08] Stephen:
+so many potential creative outlets through what is otherwise just could be seen as like a little ant farm. 
+
+[00:41:17] Kristin:
+Yeah. 
+
+[00:41:17] Drew:
+Mm-hmm. 
+
+[00:41:18] Drew:
+I have found it really interesting, as I've gotten over the years more into Dwarf Fortress, just the procedural generation aspect. And actually, I meant to tell you in the Discord that Tarn has edited a couple of books of sort of essay paper type things, one of which is procedural generation of music. So I'm going to grab some of that and I'll send it your way to give you homework. I apparently assign people homework. But man, it's just amazing that they've 
+[interjection] Stephen: Oh, please do
+[interjection] Drew: made this and worked so hard to not make a commercial. I know I harp on this kind of every episode, but part of what I love about Dwarf Fortress, even when I'm not playing it a lot, is the outsider art aspect of it. That it's just this weird artifact that we call a game because it's distributed like a video game, but it's this weird. 
+
+[00:42:19] Drew:
+art generator project thing, yeah, that then, that then. 
+[interjection] Kristin: What?
+
+[00:42:25] Drew:
+Like a lot of outsider art that then inspires stuff within you to go then do and make something weird. 
+
+[00:42:31] Kristin:
+Yeah. 
+
+[00:42:32] Drew:
+And maybe we just don't have enough weirdness in the world. Hear, hear. 
+
+[00:42:36] Stephen:
+here, here. 
+
+[00:42:38] Stephen:
+Yes, if... 
+
+[00:42:39] Stephen:
+to anyone out there who is. 
+
+[00:42:42] Stephen:
+creatively thinking about anything at all, just go do it, please. It doesn't have to be public, but I do feel like we as humans used to have to exercise that part of our brain maybe a little bit more. What I mean is coming up with things ourselves, out of, derived from our own experiences. 
+
+[00:43:06] Stephen:
+the classic kind of sitting around the campfire or the piano in the parlor. We are all very entertained. However, that means that we have this golden opportunity. 
+
+[00:43:17] Stephen:
+Um 
+
+[00:43:18] Stephen:
+to take in more than we've ever taken in before and be more creative than we've ever been before. 
+
+[00:43:25] Stephen:
+Uh, I know some people are very kind of doom and gloom about how over entertained we are perceived to be right now, but. 
+
+[00:43:36] Stephen:
+I choose to view it the opposite side of that coin, which is we've always been taking in everything we could. 
+
+[00:43:42] Stephen:
+and now we just live in a golden age. 
+
+[00:43:46] Stephen:
+but the trick is giving back. So, you know, if you are out there and you are considering starting your woodworking project or go make something out of clay or write a song. 
+
+[00:43:59] Stephen:
+Just do it. What's the worst that could happen? You put something really weird out into the world? Well, I'm on your team in that case. I have officially put some really weird things out into the world and will continue to do so. 
+
+[00:44:10] Drew:
+Absolutely like that's 
+
+[00:44:12] Drew:
+that's the thing like just being able to create something that then someone looks at or listens to. 
+
+[00:44:19] Drew:
+And is just like 
+
+[00:44:21] Drew:
+Huh, that. 
+
+[00:44:23] Drew:
+That made me feel weird. What about that? Right? Like, again, going back to your Dwarven music. 
+
+[00:44:28] Drew:
+Is it necessarily a top 50 hit? Probably not. 
+
+[00:44:34] Drew:
+But you listen to- 
+
+[00:44:34] Kristin:
+Something in quarter tones, you shock me. 
+
+[00:44:37] Drew:
+this made me feel weird and like I'm in a cave. 
+
+[00:44:42] Stephen:
+Yeah. 
+
+[00:44:43] Drew:
+You've got the, uh, operetta, uh, in the back of your head. Any other, uh, major projects that, uh, you want to. 
+
+[00:44:49] Drew:
+plug from Dwarf Fortress or other things. 
+
+[00:44:52] Drew:
+The 
+
+[00:44:53] Stephen:
+Only other thing. 
+
+[00:44:53] Stephen:
+I can think of right now that I'm working on earnestly, I was showing you guys on the other camera kind of panning around the studio. I've got a reel-to-reel in the back and I picked that up in Brooklyn in like 2015 and I've sort of been taking care of it ever since. And recently, 
+
+[00:45:09] Stephen:
+found a really nice analog board to go with it and a set of speakers. It's kind of like my car in the garage. I've been refurbishing this machine. 
+
+[00:45:17] Stephen:
+So I've got it working. 
+
+[00:45:19] Stephen:
+and I've been playing HeroQuest. Do you guys know HeroQuest? Have you ever heard of this? 
+
+[00:45:25] Stephen:
+I know the name came out, I think in the early nineties and just recently got re-released. It's a tabletop. 
+
+[00:45:30] Stephen:
+RPG kind of Dungeons and Dragons style game. 
+
+[00:45:33] Kristin:
+Oh, yes, I do know this game. 
+
+[00:45:35] Stephen:
+And another old bandmate of mine got me, got me into it and. 
+
+[00:45:39] Stephen:
+I love it. It's so much fun. So I've started a HeroQuest game night and that which got me searching for dungeon synth playlists on Spotify. 
+
+[00:45:48] Stephen:
+of which there are some really cool things out there, but nothing really like satisfied what I specifically was looking for. So I'm trying to make it myself. So I've been playing. 
+
+[00:45:59] Stephen:
+kind of dungeon synth music designed to adventure. 
+
+[00:46:04] Stephen:
+with. 
+
+[00:46:05] Stephen:
+and so I'm attempting to create exclusively on the analog setup a kind of Dungeons and Dragons soundtrack for your game night. 
+
+[00:46:18] Stephen:
+We'll see. We'll see how it goes. I just started. So we'll see. 
+
+[00:46:22] Kristin:
+Very cool. 
+
+[00:46:23] Kristin:
+Well, why don't you tell our listeners exactly where they can find you out in the world. 
+
+[00:46:28] Stephen:
+Yep, you can find me on YouTube. Story Dwarves is the channel. 
+
+[00:46:33] Stephen:
+Um, it is, it is still going, I promise everyone it's, it's not going, it's not going away anytime soon. Yes, I. 
+
+[00:46:42] Drew:
+Yeah, well, I mean, the most recent one had just an absolute banger of a song. 
+
+[00:46:46] Stephen:
+That is true, yes. We love that. Thank you. So Story Dwarves on YouTube, I'm also there on Patreon where I put some behind the scenes things when I'm able to, especially now that I'm working on the Sound, the Holes in Nothing More album. I'm trying to add a little bit of my process there. 
+
+[00:47:04] Stephen:
+Um, and you can find me on the strange mood discord. 
+
+[00:47:07] Kristin:
+Yes, we love chatting with people, and we chat about some weird stuff. Speaking of things that make you feel weird, that's where we chat about a lot of behind 
+[interjection] Stephen: Yeah.
+[interjection] Kristin: the scenes stuff and everybody's forts and creative projects. 
+
+[00:47:18] Drew:
+It's a good hang. That's also a great place for small little pieces as people are working on things. You posted some of the Dwarven music there when you were first working on it, and that was just really great to hear. 
+
+[00:47:31] Drew:
+So. 
+
+[00:47:32] Kristin:
+Well, thank you so much for joining us today. We won't keep you too long, especially since they're starting to mow outside. So it's like excellent timing, I swear. 
+
+[00:47:39] Drew:
+Every every time we try to record it's something either the dog goes crazy or they start mowing outside the joys of condo 
+
+[00:47:45] Stephen:
+Yes. 
+
+[00:47:46] Stephen:
+Well, I can't hear it from my end, so hopefully, you know, we'll see. 
+
+[00:47:50] Drew:
+Yeah, well, we've really appreciated your time. Nice. And we really appreciated everything you've created. 
+[interjection] Kristin: Nice.Thank you.
+
+[00:47:55] Kristin:
+Oh yeah, it's so cool to see all of these, the creators that have sprung up. 
+
+[00:48:00] Kristin:
+Kind of in Krug's way, because he was definitely an inspiration for us too. 
+
+[00:48:04] Drew:
+yeah yeah i mean it yeah doing doing story i think is just sort of his contribution getting people doing the stories uh on youtube because a lot of the other people i think started out more as you know mechanistic and as we said you know 
+
+[00:48:20] Kristin:
+mechanistic or streamers and that kind of stuff. 
+[interjection] Drew: Yeah.
+
+[00:48:22] Drew:
+um 
+
+[00:48:23] Drew:
+but making these making these stories from it is just really interesting and exciting and you do a 
+
+
+[00:48:33] Stephen:
+my favorite aspect of Dwarf Fortress to me, so I'll always be grateful for that. 
+
+[00:48:38] Stephen:
+Well, thanks for having me on, guys. 
+
+[00:48:39] Stephen:
+Good chat. 
+
+[00:48:40] Kristin:
+Thank you. 
+
+

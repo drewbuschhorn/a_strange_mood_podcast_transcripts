@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:07,120
+I've been impressed that the most recent version of OpenAI can actually finally follow the
+
+2
+00:00:07,120 --> 00:00:11,940
+instructions from there and create something that at least seems to me on first glance
+
+3
+00:00:11,940 --> 00:00:13,520
+to actually be following the instructions.
+
+4
+00:00:13,520 --> 00:00:14,520
+Is it good?
+
+5
+00:00:14,520 --> 00:00:15,520
+No.
+
+6
+00:00:15,520 --> 00:00:20,200
+But it's following the instructions, which when someone's telling you to do, you know.
+
+

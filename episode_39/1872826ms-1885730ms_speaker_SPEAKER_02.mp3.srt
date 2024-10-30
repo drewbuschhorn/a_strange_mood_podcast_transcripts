@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:03,760
+where someone mentioned physical modeling synthesizers,
+
+2
+00:00:03,760 --> 00:00:05,200
+which I had not heard of.
+
+3
+00:00:05,200 --> 00:00:06,580
+So I went down the rabbit hole
+
+4
+00:00:06,580 --> 00:00:08,680
+of looking into physical modeling synthesis.
+
+5
+00:00:08,680 --> 00:00:11,400
+And what that is, is a software instrument
+
+6
+00:00:11,400 --> 00:00:13,400
+that you trigger with a MIDI controller.
+
+

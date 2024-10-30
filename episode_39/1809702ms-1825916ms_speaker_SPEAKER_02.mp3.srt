@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:07,680
+10th, I have to get the 7th now to be complete, and the 15th. So you go through your scale that
+
+2
+00:00:07,680 --> 00:00:12,480
+you just built and you pick out those specific notes and that's what you have to work with.
+
+3
+00:00:12,480 --> 00:00:16,000
+So you can program a MIDI controller to do that.
+
+

@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,000
+That was version 47, and it was around this time that I got into it.
+
+

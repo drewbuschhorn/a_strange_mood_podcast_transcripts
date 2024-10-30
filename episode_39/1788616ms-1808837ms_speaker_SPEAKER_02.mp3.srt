@@ -1,0 +1,25 @@
+1
+00:00:00,000 --> 00:00:05,440
+They'll describe it explicitly, and you just have to count up the number of quarter tones.
+
+2
+00:00:05,440 --> 00:00:10,380
+So you write that down, and then they tell you the very specific scale of the song.
+
+3
+00:00:10,380 --> 00:00:13,320
+You kind of have the master collection of notes that they tell you, and then they tell
+
+4
+00:00:13,320 --> 00:00:14,320
+you the scale.
+
+5
+00:00:14,320 --> 00:00:18,480
+So like, this is the onom heptatonic scale, and it's the first, the third, the fifth,
+
+6
+00:00:18,480 --> 00:00:20,000
+the seventh, the ninth.
+
+

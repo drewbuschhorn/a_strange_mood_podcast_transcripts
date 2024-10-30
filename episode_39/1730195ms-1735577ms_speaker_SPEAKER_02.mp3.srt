@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:05,280
+So you have an octave that's divided into 12 notes, they double that, so that's a quarter tone scale.
+
+

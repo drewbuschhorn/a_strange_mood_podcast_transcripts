@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,080
+fill in the rest. But I would love, love to use ChadGBT to try and do some of those poetic
+
+2
+00:00:05,080 --> 00:00:07,800
+forms that they occasionally say are the lyrics to the song.
+
+
