@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:01,600
+He is currently more thoughtless.
+
+2
+00:00:01,600 --> 00:00:02,760
+He is currently more rude.
+
+3
+00:00:02,760 --> 00:00:04,160
+He is currently more fearless.
+
+4
+00:00:04,160 --> 00:00:05,480
+He is currently more confident.
+
+5
+00:00:05,480 --> 00:00:06,800
+He is currently more shameless.
+
+6
+00:00:06,800 --> 00:00:08,600
+He is currently less private.
+
+7
+00:00:08,600 --> 00:00:10,200
+I don't know what happened to him
+
+8
+00:00:10,200 --> 00:00:11,960
+that he has all of these current.
+
+

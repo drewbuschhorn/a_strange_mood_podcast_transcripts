@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:03,720
+And this game is roguelite, I guess.
+
+2
+00:00:03,720 --> 00:00:05,880
+You know, it defaults to permadeath,
+
+3
+00:00:05,880 --> 00:00:09,160
+so you are not necessarily encouraged.
+
+

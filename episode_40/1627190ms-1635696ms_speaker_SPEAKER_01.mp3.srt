@@ -1,0 +1,13 @@
+1
+00:00:00,000 --> 00:00:02,240
+His nose bridge is convex.
+
+2
+00:00:02,240 --> 00:00:03,520
+I don't know quite,
+
+3
+00:00:05,120 --> 00:00:08,480
+convex, so aren't most people's nose bridges convex?
+
+

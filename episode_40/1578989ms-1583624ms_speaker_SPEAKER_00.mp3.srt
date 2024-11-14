@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:01,520
+I think gibbons are great apes.
+
+2
+00:00:01,520 --> 00:00:04,560
+Yeah, it's smaller than a gorilla but bigger than a chimp probably.
+
+

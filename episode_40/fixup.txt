@@ -1,0 +1,2163 @@
+[00:00:00] Kristin:
+This podcast is of the highest quality.
+
+[00:00:19] Kristin:
+Hello and welcome to A Strange Mood, the Couples' Dwarf Fortress Podcast. I'm Kristin.
+
+[00:00:23] Drew:
+And I'm Drew.
+
+[00:00:24] Kristin:
+And we are a couple.
+
+[00:00:25] Drew:
+Playing Dwarf Fortress.
+
+[interjection] Drew: YOINK [ed. note: Drew's voice is distorted here]
+
+[00:00:29] Kristin:
+Not just other games.
+
+[00:00:31] Kristin:
+So, uh...
+
+[00:00:32] Kristin:
+Drew, I don't think that our listeners know that I have sort of cultivated an interest in reality TV.
+
+[00:00:39] Drew:
+Oh boy.
+
+[00:00:40] Kristin:
+And specifically Real Housewives, and don't tune out because there's a point to this story, I promise.
+[interjection] Drew: No reaction
+[interjection] Kristin: So in the most recent episode of Real Housewives of Salt Lake City, there's this like super millionaire woman, and her husband has had a jeweler come to their multi-million dollar home to
+
+[00:01:03] Kristin:
+Look at some pieces she had selected from the jeweler's vault, and then her husband is, you know, going to buy them, kind of. And so she brings them, and the jeweler's standing there, and
+
+[00:01:14] Kristin:
+The woman is like, "Wow, these are so beautiful."
+
+[00:01:17] Kristin:
+And the husband is just like stony-faced and staring at her. And she's like, "They're really a showstopper."
+
+[00:01:26] Kristin:
+"They're so pretty," and he's just like nothing.
+
+[00:01:30] Kristin:
+He's clearly not going to buy them for her, at least doesn't want to buy them on camera.
+[interjection] Drew: Yes.
+
+[00:01:34] Drew:
+I'm sitting here saying nothing very quietly and off to the side.
+
+[00:01:38] Kristin:
+Well, I was going to say, this is...
+
+[00:01:42] Kristin:
+I was going to say, sitting in stony silence, kind of like you are right now. Yeah. But that, it was funny to me because while I don't do this with $400 million earrings, I don't do it with $400 earrings either.
+
+[00:01:59] Kristin:
+Uh, I do occasionally there will be a game that comes out that like I want to know about.
+
+[00:02:05] Kristin:
+And don't really want to play, or I want to know if I want to play, so I'll like
+
+[00:02:09] Drew:
+Wait, so you assign it to me?
+
+[00:02:11] Kristin:
+I dangle games in front of you in the hope that you will play them.
+[interjection] Drew: I hate you.
+
+[00:02:17] Kristin:
+And tell me if I'll like them, or tell me stories of your playing them, because I do enjoy hearing about your Stellaris runs and that kind of thing.
+
+[00:02:24] Drew:
+Which is how you got involved in Dwarf Fortress in the first place.
+
+[00:02:27] Kristin:
+Yes, you telling me stories about it. So the most recent game that I did this with was Elyn, which is from a Chinese studio. [ed. note: Kristin meant Japanese here. Drew told her the wrong thing.]
+
+[00:02:36] Kristin:
+And finally, um...
+
+[00:02:38] Kristin:
+A friend finally [ed. note: FriendCalled5] told me like, "You'll probably like it." And I was like, "I really want to know." So I finally got on my cell phone and started playing it. But I did try very hard to get you
+
+[00:02:49] Kristin:
+To play.
+
+[00:02:49] Drew:
+Yes, you did keep mentioning it to me and showing me the thread and saying, "Huh, that sounds interesting."
+
+[00:02:55] Kristin:
+Nudge, nudge.
+
+[00:02:55] Drew:
+And I'm like
+
+[00:02:57] Drew:
+I don't know, it kind of seems like a lot of a Stardew type thing.
+
+[00:03:03] Kristin:
+And I don't find it quite as Stardew-ish, but we will discuss it later in the episode because we are going to talk about Dwarf Fortress.
+
+[00:03:10] Drew:
+That we are, Kristin.
+
+[00:03:12] Kristin:
+Are you trying to sound like the reporter guy in Dr. Horrible's Sing-Along Blog?
+
+[00:03:17] Drew:
+A little bit. Next up, who's gay?
+
+[00:03:20] Kristin:
+Ohhhh
+
+[00:03:21] Drew:
+Um, let's see. Yes, so Dwarf Fortress news. Let's see, just a recap from last time, Tarn got married. I think we mentioned that in our
+[interjection] Kristin: I think we've mentioned.
+
+[00:03:31] Drew:
+Interviewer Stephen 
+
+[00:03:33] Kristin:
+We mentioned it at some point. 
+
+[00:03:34] Drew:
+Yes. 
+
+[00:03:35] Drew:
+And then also the new guidebook is coming out on... 
+
+[00:03:38] Kristin:
+Oh yeah, the Kari Fry book. I think that's coming out in February. 
+
+[00:03:41] Drew:
+Yeah, so that's... 
+
+[00:03:42] Kristin:
+It's a pre-order. 
+
+[00:03:44] Drew:
+It does seem like something that should have come out by Christmas. 
+
+[00:03:48] Kristin:
+But yeah, oh wow 
+
+[00:03:50] Drew:
+But tell me a little bit about Kari Fry and the guidebook. 
+
+[00:03:52] Kristin:
+So Kari Fry is an artist that seems to do stuff for Fangamer, and I'm sure has 
+
+[00:03:59] Kristin:
+art elsewhere in the world, but. 
+
+[00:04:02] Kristin:
+I don't know their pronouns, so I'm going to use they, um, have guides to like Stardew Valley and Animal Crossing and are very cute. 
+
+[00:04:09] Kristin:
+And I've been kind of collecting them. I think the guide for Animal Crossing was the first one that you got for me. And after that, I got the Stardew one, and I'm very excited to get one for Dwarf Fortress. 
+
+[00:04:19] Drew:
+Yeah, the one for Dwarf Fortress looks like it's going to be pretty good. I can't wait to see it. 
+
+[00:04:22] Kristin:
+I can't wait to see a plump helmet man in her art style. 
+
+[00:04:26] Drew:
+It's interesting because, uh, I believe... 
+
+[00:04:29] Kristin:
+Mm-hmm. 
+
+[00:04:29] Drew:
+Peace. 
+
+[00:04:33] Drew:
+The Animal Crossing one was actually unauthorized, like it wasn't blessed by Nintendo back in the day. 
+
+[00:04:37] Kristin:
+Yeah, that was in the early days of Fangamer too. They seem to have gone more mainstream. I don't know, they work closely with certain game companies it seems like. 
+[interjection] Drew: I have no-
+
+[00:04:49] Drew:
+Yeah, yeah, they're more legit now. Yeah. 
+
+[00:04:52] Drew:
+And especially the more indie the game company, the more likely they are to be officially blessed. 
+
+[00:04:57] Kristin:
+I really wish that they'd worked with the people who made Rabbit and Steel to make that plushie that I got that was so disappointing. 
+
+[00:05:04] Drew:
+It was unfortunately small. 
+
+[00:05:06] Kristin:
+It looks like a little Bolshevik rabbit, but that's not... that's an aside. 
+[interjection] Drew: All right.
+
+[00:05:13] Drew:
+There have also been improvements to Dwarf Fortress' graphics, including children are now rendered much better. 
+[interjection] Kristin: Includes
+
+[00:05:20] Drew:
+Hopefully, we can avoid getting any more negative one amethyst head children. 
+
+[00:05:24] Kristin:
+Oh, I'll miss this. 
+
+[00:05:26] Kristin:
+The meme. 
+
+[00:05:27] Drew:
+I don't know you. 
+
+[00:05:27] Kristin:
+Because it's children. 
+
+[00:05:28] Drew:
+You were pretty horrified 
+
+[00:05:29] Kristin:
+I was pretty freaked out by them, but also now I love them. 
+
+[00:05:32] Drew:
+Barrels now display content images. 
+
+[00:05:37] Kristin:
+Oh, yeah, maybe they do 
+
+[00:05:39] Drew:
+I have to be honest, it looks a little weird. It seems like cheese gets a lot of priority in it, so it tends to be like pieces of wheels or partial wheels of cheese poking up out of the barrel, and it's not really my thing. 
+[interjection] Kristin: about a barrel and it's not
+
+[00:05:49] Kristin:
+I don't think I have any cheese. 
+
+[00:05:52] Drew:
+Um, and then also with the, uh, it's a little late now, I've had it in my notes for a couple of times to mention, but, uh, I do love seeing all of my dwarves wandering around wearing multiple crowns. 
+
+[00:06:01] Kristin:
+I haven't seen it yet, but it is hilarious to know that it's happening. Well, we'll talk about my shirtless dwarf. 
+
+[00:06:07] Drew:
+Yeah. Well, we can cut over to that. 
+
+[00:06:09] Kristin:
+
+Well, I think you might have more to say, so I thought you might want to start, and we can break your sections up with mine, because your notes are so long.
+
+[00:06:19] Drew:
+Well, since apparently I'm going first.
+[interjection] Kristin: Well...
+[interjection] Drew: I'm volunteering you.
+
+[00:06:23] Drew:
+I'm continuing
+
+[00:06:28] Kristin:
+Mmm.
+
+[00:06:29] Drew:
+where a couple of interesting things have happened over the course of the last few weeks.
+
+[00:06:33] Kristin:
+Is this the one in your pocket world?
+
+[00:06:35] Drew:
+Yes.
+
+[00:06:36] Kristin:
+Cool.
+
+[00:06:37] Drew:
+which will play a role in some of the later events.
+
+[00:06:40] Kristin:
+Yeah.
+
+[00:06:41] Drew:
+But, uh, Sibrik Curlbanners, our expedition leader...
+
+[00:06:45] Drew:
+um, has, uh, unfortunately been dethroned from really any position of importance and is now instead merely a doctor.
+
+[00:06:55] Kristin:
+Oh.
+
+[00:06:56] Drew:
+Erm, Earvod
+
+[00:06:58] Drew:
+Merely.
+
+[00:06:59] Drew:
+She's our chief medical dwarf now.
+
+[00:07:01] Kristin:
+It's still pretty important.
+
+[00:07:02] Drew:
+Yeah, it depends. The hospital I've built is very minimal and lackluster.
+
+[00:07:08] Kristin:
+Yeah, mine too.
+
+[00:07:09] Drew:
+Erved Stæfløld has been elected mayor, coming along with a, um...
+
+[00:07:16] Drew:
+rather large influx of migrants I received.
+
+[00:07:20] Drew:
+I'm not entirely sure how they wound up being elected because
+
+[00:07:26] Drew:
+really they're only close friends with two other people in the
+
+[00:07:32] Drew:
+fort.
+
+[00:07:32] Drew:
+An elf poet and a human bard.
+
+[00:07:36] Kristin:
+My, I just got a mayor who doesn't really have any close friends or relations in our fort either, just a bunch of passing acquaintances, so I wonder what's going on.
+
+[00:07:45] Drew:
+Yeah, I wonder if they rejiggered the weighting for the voting system.
+[interjection] Kristin: 43
+
+[00:07:50] Kristin:
+Yeah, I like it better, I think, when they have, like, you can see that they have a ton of family in the fort or a bunch of besties.
+
+[00:07:57] Drew:
+Yeah, glad-handing.
+
+[00:07:59] Kristin:
+He might be my tavern keeper, which would probably be sufficient. Yeah. Yeah.
+
+[00:08:05] Drew:
+Yeah, I do wish we got a little more insight into that process.
+
+[00:08:08] Kristin:
+Hmm.
+
+[00:08:10] Drew:
+The best I can come up with is that he is a member of the godly denomination,
+
+[00:08:15] Drew:
+which is the largest of the, uh, religious sects in my
+
+[00:08:20] Drew:
+fort.
+
+[00:08:21] Kristin:
+Mm-hm.
+
+[00:08:22] Drew:
+But he's not actually the leader of it, so.
+
+[00:08:24] Drew:
+Meanwhile, Solon Throwerslings, which I think is a great dwarfy name...
+
+[00:08:30] Kristin:
+It's very dwarf-y.
+
+[00:08:31] Drew:
+has been made count.
+
+[00:08:34] Drew:
+The only particularly interesting thing about him is that, uh, when I came upon him...
+
+[00:08:40] Drew:
+relatively soon after he had
+
+[00:08:42] Drew:
+been made the count.
+
+[00:08:44] Drew:
+He was reading "In Pursuit of the Human," a one-page essay from...
+
+[00:08:48] Drew:
+450 years ago.
+
+[00:08:50] Kristin:
+Wow.
+
+[00:08:52] Drew:
+So, I don't know if that's the equivalent of us like reading
+
+[00:08:55] Drew:
+one-page Roman epigrams or something, I'm not sure.
+
+[00:08:58] Kristin:
+I mean, year number-wise, it's Shakespeare, but...
+
+[00:09:02] Drew:
+Oh yeah, Shakespeare, yeah.
+
+[00:09:03] Kristin:
+but their history is much shorter than ours.
+
+[00:09:06] Drew:
+Yes, so 450 years means it was written 50 years after the start of the world.
+[interjection] Kristin: Yes.
+
+[00:09:11] Kristin:
+Yeah, so that is much more like reading.
+
+[00:09:16] Drew:
+So, I'm starting to worry that I have a little bit of a human lover.
+[00:09:21] Kristin:
+Mmm, yeah. Fortress.
+
+[00:09:23] Kristin:
+It's possible.
+
+[00:09:24] Drew:
+We'll have to see.
+
+[00:09:25] Kristin:
+Yeah.
+
+[00:09:26] Drew:
+Meanwhile, we've had human merchants come in fleeing from a one-eyed ogre.
+
+[00:09:31] Kristin:
+Oh.
+
+[00:09:33] Drew:
+Yes, this ogre.
+
+[00:09:34] Drew:
+Yarrow Whirlscarlet, the Dominion of Lanterns, has great intuition, meager kinesthetic sense, a questionable spatial sense, and a very bad sense of empathy.
+
+[00:09:46] Kristin:
+Yeah, I don't think I've ever met an empathetic ogre.
+
+[00:09:49] Drew:
+Meanwhile, he dislikes receiving advice, preferring to keep his own counsel.
+
+[00:09:54] Drew:
+He is confident under pressure. He generally acts impartially and is rarely moved to mercy.
+
+[00:09:59] Drew:
+He tries to keep things orderly, does intend to hold on to grievances, is trusting, and is uncomfortable around those who appear unusual or live differently from himself.
+[interjection] Kristin: for himself.
+
+[00:10:07] Drew:
+He's a boomer.
+
+[00:10:09] Drew:
+Yeah, he is kind of a boomer.
+
+[00:10:10] Drew:
+The graphics for the ogre, I think you ran into this as well, maybe with your ettin, are kind of interesting.
+[interjection] Kristin: 12
+
+[00:10:17] Drew:
+For the one-eyed ogre...
+
+[00:10:20] Drew:
+it.
+
+[00:10:21] Drew:
+The graphic looks very, very much like the.
+
+[00:10:24] Drew:
+One-eyed Cyclops alien race from the show Invincible.
+
+[00:10:29] Kristin:
+Mhm.
+
+[00:10:29] Drew:
+which is a Brian K. Vaughan show.
+
+[00:10:32] Kristin:
+Oh.
+
+[00:10:32] Drew:
+Um...
+
+[00:10:33] Drew:
+including the weird kind of
+
+[00:10:36] Drew:
+chest
+
+[00:10:37] Drew:
+breastplate type look, so.
+[interjection] Kristin: Good luck.
+
+[00:10:40] Kristin:
+Oh, I didn't get a picture of mine. Well, we'll get to that.
+
+[00:10:43] Drew:
+Yep.
+
+[00:10:45] Drew:
+The other interesting thing about that ogre coming through, besides the fact that actually he was killed pretty easily.
+
+[00:10:51] Kristin:
+Yeah.
+
+[00:10:52] Drew:
+was that
+
+[00:10:53] Drew:
+All of the things he was carrying were artifacts.
+
+[00:10:57] Kristin:
+Oh, that, yeah, I remember you showing me that. That is odd.
+
+[00:11:01] Drew:
+I've never noticed that before, if that's been the case for a while, that the creatures that come onto the map have artifacts.
+[interjection] Kristin: Mm-hmm.
+
+[00:11:10] Kristin:
+They're after your artifacts.
+
+[00:11:11] Drew:
+It could be all three things he was carrying, a crown, a shield, and a flail.
+
+[00:11:18] Drew:
+The crown
+
+[00:11:19] Drew:
+was a praise crown encrusted with round wood opal cabochons.
+
+[00:11:24] Drew:
+Cabochons? Why can I never say that right the first time?
+
+[00:11:26] Kristin:
+Hmm.
+
+[00:11:27] Drew:
+Menacing with spikes of talc.
+
+[00:11:30] Drew:
+On the item is an image of chicory in rose gold.
+
+[00:11:34] Kristin:
+Pretty. I meant.
+
+[00:11:34] Drew:
+I'm not entirely sure what chicory is because chicory is a type of wood.
+
+[00:11:38] Drew:
+Maybe it just means a chicory tree.
+
+[00:11:39] Kristin:
+Yeah.
+
+[00:11:41] Drew:
+On the item is an image of Rack Cudgelcloud, the Ave, and Aves in swordfish bone.
+
+[00:11:48] Drew:
+Rack Cudgelcloud is surrounded by the Aves.
+
+[00:11:51] Drew:
+The artwork relates to the election of the Ave Night Ghoul, Rack Cudgelcloud, to leadership in Eleven.
+[interjection] Kristin: Mmm.
+
+[00:12:00] Drew:
+A 3,000-dwarf-buck shield.
+
+[00:12:04] Kristin:
+Mhm.
+
+[00:12:04] Drew:
+Made of reacher bone.
+
+[00:12:06] Drew:
+On the item is an image of muckroots in hornblende.
+
+[00:12:11] Drew:
+I just like hornblende because that was one of the...
+
+[00:12:14] Drew:
+first ways of getting tin, I believe.
+[00:12:19] Drew:
+On the item is an image of the dwarf common practice.
+
+[00:12:25] Drew:
+Let me say that a different way. You can leave it on.
+
+[00:12:28] Drew:
+On the item.
+
+[00:12:31] Drew:
+Parchment scroll made from peach-faced lovebird leather.
+
+[00:12:36] Drew:
+Man, I just can't figure this out, how does this...
+
+[00:12:37] Kristin:
+Leather.
+
+[00:12:40] Drew:
+On the item is an image of The Dwarf, Common Practice, the peach-faced lovebird parchment scroll in mica.
+[interjection] Kristin: Isn't it?
+
+[00:12:48] Kristin:
+Ah, so The Dwarf, Common Practice is the title.
+
+[00:12:51] Drew:
+Yes, so there is a parchment scroll.
+
+[00:12:54] Drew:
+Carved out of mica.
+
+[00:12:58] Drew:
+The Reacherbone Shield, which is named, the parchment scroll is named The Dwarf Common Practice.
+
+[00:13:06] Kristin:
+It's so many things.
+
+[00:13:09] Drew:
+On the shield also is an image of two alfalfa in gypsum.
+
+[00:13:14] Drew:
+And then Manli.
+
+[00:13:16] Drew:
+Then, finally, a flail called Orbnuts.
+
+[00:13:20] Drew:
+A 4,000 dwarf buck
+
+[00:13:23] Drew:
+Um, flail.
+
+[00:13:24] Drew:
+Made from iron.
+
+[00:13:26] Drew:
+Object adorned with hanging rings of kangaroo bone, an image of a...
+
+[00:13:31] Drew:
+Of a fungalwood tree in Centaurhoof.
+
+[00:13:34] Drew:
+I'm assuming it's not our hope as well.
+
+[00:13:36] Drew:
+Yeah.
+
+[00:13:36] Drew:
+The Ark.
+
+[00:13:38] Drew:
+The Holy Djinn bashes the Cyclops in Centaur Hoof.
+[interjection] Kristin: Mmm.
+
+[00:13:46] Kristin:
+Wow, that's an interesting crafting material.
+[interjection] Drew: Um...
+[interjection] Kristin: Because they're like humanoid. Aren't they? Are they monsters in Dwarf Fortress? I've never encountered one.
+
+[00:13:56] Drew:
+I think that things that come onto your map can be made from intelligent creatures.
+
+[00:14:01] Kristin:
+Mmm, okay, okay.
+
+[00:14:03] Drew:
+You just can't do it yourself.
+
+[00:14:04] Kristin:
+Yeah.
+
+[00:14:05] Kristin:
+Have you ever seen a centaur in Dwarf Fortress?
+
+[00:14:09] Drew:
+No, but remember I have the mod that adds all the extras.
+
+[00:14:12] Kristin:
+Oh, I forgot, okay.
+
+[00:14:14] Drew:
+That's
+
+[00:14:16] Drew:
+Yep.
+
+[00:14:16] Kristin:
+And I was like, man.
+
+[00:14:17] Kristin:
+I'm missing out.
+
+[00:14:19] Drew:
+So.
+
+[00:14:19] Kristin:
+Well, I haven't seen a vampire that I know of at all yet.
+
+[00:14:25] Kristin:
+I demand vampires.
+
+[00:14:27] Drew:
+Yes, you have to get more people angry so they're pushing over stuff in temples.
+
+[00:14:32] Kristin:
+Mm-hmm, right. Yeah, and everybody's so happy. Well, I can talk about my fort for a second. Okay, so I'm still working on Channel Twinkle, my fort that's in the good region. We were trucking along with 20 dwarves, and I was getting a little frustrated because we hadn't gone like a full year with no migrants, and of the 20 dwarves, seven of them, I think, were children. So I was just working on making them really happy, and then suddenly we got a migrant wave of like 30 dwarves, so many dwarves.
+
+[00:15:10] Drew:
+That is a lot of dwarves.
+
+[00:15:11] Kristin:
+Yeah, um, but I have, for the first time in a little while, a very odd character dwarf who sticks out. His name is Shem Tindomanes. He is a fisherman, he's a grand master fisherdwarf actually.
+
+[00:15:28] Drew:
+Interesting.
+
+[00:15:29] Kristin:
+So, and he likes working outdoors, but he is noteworthy, or I noticed him because he just does everything without a shirt. So like training with a squad, no shirt. Out fishing in the rain,
+[interjection] Drew: training with his.
+[interjection] Kristin: no shirt.
+
+[00:15:42] Kristin:
+We have a lot of shirts. I don't understand this. At one point I looked at him.
+To see his items, and he was coated in his own tears because he doesn't have a shirt.
+
+[00:15:55] Kristin:
+So, what do you want from me, Shem?
+
+[00:15:59] Kristin:
+I don't know. I need to figure him out. But he's having kind of a rough time of it, so he's upset with the lack of a shirt. And he also is a fisherman, so he's outside all the time.
+
+[00:16:12] Kristin:
+Um
+
+[00:16:14] Kristin:
+He likes working outdoors, so that's okay, but he kept getting attacked by a honey badger.
+
+[00:16:20] Drew:
+I remember you kept shouting about honey badgers.
+
+[00:16:24] Kristin:
+Yeah, we kept getting these honey badger attacks, and finally, he ended up in the hospital for a while.
+
+[00:16:29] Kristin:
+And I just can't figure him out, and then later we had an
+
+[00:16:35] Kristin:
+Ettin show up, and my two squads that I'd made using the DF hack thing to show who needs training. I just have two squads of dwarves who need training, and they just train at alternate times, and now they're all much happier.
+
+[00:16:48] Kristin:
+Alternate times, and now they're all much happier.
+
+[00:16:51] Drew:
+Excellent.
+
+[00:16:51] Kristin:
+But I guess they're well-trained, and they went out and dispatched that thing really quickly.
+
+[00:16:57] Kristin:
+And poor Shem, after mostly, well, he's had an infection from his honey badger attack. He got attacked by the Ettin too,
+
+[00:17:05] Kristin:
+And I think he got some ribs broken. But just to tell you all a little bit about Shem, he has a great sense of empathy, but he has an iffy sense for music, a meager ability with social relationships, and a large deficit of willpower.
+
+[00:17:22] Kristin:
+He is consumed by overpowering feelings of jealousy. He is very quick to anger. He is easily moved to mercy.
+
+[00:17:29] Kristin:
+He is stingy with resources on projects and refuses to expend any extra effort.
+
+[00:17:34] Kristin:
+He is somewhat fearful in the face of imminent danger. He is curious and eager to learn. He enjoys the company of others. He has a calm demeanor.
+
+[00:17:42] Kristin:
+He's grateful when others help him out. That's, I mean, that's partly because of being brought water and bandages and stuff in the hospital after his many attacks. He tries to return favors. He can handle stress.
+
+[00:17:58] Drew:
+I like to imagine the majority of that is just referencing shirts, so everything in there is just about shirts. You have to do it like the fortune cookie thing. You know, you always add 'in bed' to the end of it.
+
+[00:18:12] Kristin:
+End of it. Yes, so he's consumed by overpowering feelings of jealousy about shirts. About shirts. Everybody else's shirts. He's like holding out for the perfect shirt. I don't know.
+
+[00:18:23] Drew:
+Exactly.
+
+[00:18:24] Kristin:
+He likes working outdoors, and I guess wearing shirts. I couldn't find anything. Let's see, in his preferences, he likes giant elephants for their flappy ears.
+
+[00:18:37] Drew:
+That's weird.
+
+[00:18:38] Kristin:
+Yeah, he likes to eat bull shark. He detests worms, which is interesting for a fisherdwarf.
+
+[00:18:44] Drew:
+Yeah.
+
+[00:18:44] Drew:
+Well, I mean, I guess if you liked worms, you wouldn't like being a fisher, because you're continually feeding them to another animal. Oh.
+
+[00:18:49] Kristin:
+Wow, he's just getting revenge on the worms.
+
+[00:18:53] Kristin:
+He has trouble controlling his temper. That is his most recent thought. 'I have trouble controlling my temper.'
+
+[00:18:59] Drew:
+Yeah, Grandmaster Fisherdwarf and nothing in his description about what clothes he likes.
+
+[00:19:05] Kristin:
+No. Or shorts.
+
+[00:19:06] Drew:
+Uh, short swords.
+
+[00:19:09] Kristin:
+Large gems.
+
+[00:19:10] Drew:
+Nope.
+
+[00:19:10] Kristin:
+No, so I have no idea how to make him happy.
+
+[00:19:14] Kristin:
+Actually, he's not super unhappy, he's mostly unhappy because of the injury.
+
+[00:19:19] Drew:
+Mm-hmm.
+[00:19:20] Kristin:
+Which maybe if he wore a shirt.
+
+[00:19:23] Drew:
+Do you want it?
+
+[00:19:24] Kristin:
+I wouldn't get injured so much.
+
+[00:19:26] Drew:
+You'd take less damage from the honey badger.
+[interjection] Kristin: Yeah.
+
+[00:19:29] Kristin:
+Yes, but with the Ettin, we did, uh, we got rid of the Ettin, and, um, got rid of the honey badger that was attacking again. So, I finally just sent them out there to murder it, so meat's back on the menu.
+
+[00:19:44] Kristin:
+I didn't get a picture of the Ettin because he died so quickly, and he is just a giant humanoid monster with two heads.
+
+[00:19:51] Drew:
+Yeah!
+
+[00:19:52] Kristin:
+He didn't even make it anywhere near the fort.
+
+[00:19:57] Kristin:
+We also had our first artifact made. And when I first saw it, I just saw the Fisher Dwarf part and I was like, "Oh my god, it's Shem." It's not Shem. It is another Fisher Dwarf, actually one of our migrants named Leacott.
+
+[00:20:12] Kristin:
+Oh boy, Nikku's gishud.
+
+[00:20:14] Kristin:
+She created... oh wait, no.
+
+[00:20:19] Drew:
+No, it's not sugar-coated.
+
+[00:20:20] Kristin:
+Wait, okay.
+
+[00:20:21] Drew:
+Yeah, she...
+
+[00:20:22] Kristin:
+She... I just thought I screwed that all up, but no, she named her artifact after herself?
+
+[00:20:27] Drew:
+Yep.
+
+[00:20:28] Kristin:
+Bold.
+
+[00:20:29] Drew:
+Mhm.
+
+[00:20:29] Drew:
+Well, describe it.
+
+[00:20:31] Kristin:
+Okay, it's a durian wood toy axe.
+
+[00:20:34] Kristin:
+All Craftsdwarfship is of the highest quality. It is studded with iron, decorated with durian wood, and encircled with bands of durian wood and iron. On the item is an image of Isen Ecoplanes, the lion, in durian wood. Isen Ecoplanes is laboring. The artwork relates to the settling of the lion, Isen Ecoplanes, in the Helpful Hill in the year 2.
+
+[00:20:57] Drew:
+Interesting, but yeah, it's weird she named
+
+[00:21:00] Drew:
+Yeah, she named the toy axe after herself.
+
+[00:21:04] Kristin:
+Yeah, that's interesting. I've never seen that.
+
+[00:21:05] Drew:
+I've never seen that happen before.
+
+[00:21:07] Kristin:
+Uh, let's see, she, uh...
+
+[00:21:11] Drew:
+So Leacott, Pride Fortress.
+
+[00:21:12] Kristin:
+Pride Fortress, yeah. Let's see, like others, oh, this is just her values. She has a great deal of patience, the ability to focus, and good intuition, but she has an iffy memory and lousy creativity, which is maybe why she named it after herself.
+
+[00:21:26] Drew:
+It was the only other thought in her head.
+
+[00:21:28] Kristin:
+Yeah, she does not enjoy participating in physical confrontations. She's bashful.
+
+[00:21:33] Kristin:
+She often feels envious of others. She tends to think before acting. She tends not to be swayed by emotional appeals. She tries to keep her things orderly. She has a tendency to consider ideas and abstractions over practical applications. She occasionally overindulges. She is quite ambitious. And it doesn't look like she even used any of her preferences in making this artifact.
+
+[00:21:55] Drew:
+Oh, she likes toy axes.
+
+[00:21:56] Kristin:
+Oh, is it in there? Oh, yeah. Okay. I was just looking at the wood. She didn't use dirt.
+
+[00:22:00] Drew:
+Just looking at the wood she didn't use, yeah, she didn't use durian wood, but I guess she likes toy axes and named it after herself.
+
+[00:22:06] Drew:
+In the sight of the abyssal hole.
+
+[00:22:09] Kristin:
+Oh, she's really young. She's 21.
+
+[00:22:12] Drew:
+Oh, fair enough.
+
+[00:22:12] Kristin:
+By contrast, Shem is 90. Interesting. She has two lovers, so I guess she's not a child. Yeah.
+
+[00:22:18] Drew:
+Yeah, look at the nose on that one.
+
+[00:22:21] Kristin:
+Uh, yeah, she's not an attractive dwarf. Well, she may be attractive enough. I mean, maybe dwarves like a giant honking nose.
+Yeah, she dreams of crafting a masterwork someday, and now she has.
+
+[00:22:36] Drew:
+Yeah?
+
+[00:22:37] Kristin:
+Actually, does it count? It's cool. Well, good for her.
+
+[00:22:41] Kristin:
+Good job.
+
+[00:22:43] Drew:
+You have achieved your life goal.
+[interjection] Kristin: Subs by www.zeoranger.co.uk
+
+[00:22:45] Kristin:
+Nyeh!
+
+[00:22:45] Drew:
+She is quite the, uh, social challenger.
+
+[00:22:47] Kristin:
+Yeah, she, oh, that's just her family. She has, we can see one, two, three, four, five, six, seven, at least seven aunts.
+
+[00:22:56] Kristin:
+Uh, yeah.
+
+[00:22:58] Kristin:
+And I still have a mayor to tell you about, but I'm going to pass it back to you for a little bit.
+
+[00:23:02] Drew:
+Well, over on my side, as I said, I'm a little concerned about the dwarfishness of my fort at this stage.
+
+[00:23:09] Kristin:
+Yeah.
+
+[00:23:10] Drew:
+Because...
+
+[00:23:11] Drew:
+one of the most popular.
+
+[00:23:14] Drew:
+Creatures?
+
+[00:23:15] Kristin:
+Mm-hmm
+
+[00:23:16] Drew:
+at my fort.
+
+[00:23:18] Drew:
+is a goblin.
+
+[00:23:19] Drew:
+of the name
+
+[00:23:20] Drew:
+Bosa Secretive Malice
+
+[00:23:23] Drew:
+who apparently really enjoys helping people when they're wounded.
+
+[00:23:26] Kristin:
+Hmm.
+
+[00:23:27] Drew:
+And let's see, so what does he believe?
+
+[00:23:30] Drew:
+Um
+
+[00:23:31] Drew:
+He believes everyone should broaden their horizons. Any work beyond learning the basics is just a waste.
+
+[00:23:40] Kristin:
+Wow.
+
+[00:23:41] Drew:
+So.
+
+[00:23:42] Drew:
+Yeah.
+
+[00:23:43] Drew:
+He's only again 50 years old when
+
+[00:23:46] Drew:
+or only
+
+[00:23:47] Drew:
+was born when the world was 50 years old.
+
+[00:23:50] Drew:
+He is a legendary mechanic and legendary hauler, which is maybe why he likes hauling people for recovering them.
+
+[00:23:58] Drew:
+and
+
+[00:24:00] Kristin:
+Just a weird thing to be really skilled at.
+
+[00:24:03] Drew:
+just hauling people around.
+
+[00:24:05] Drew:
+But he did do a good job for the fort by hauling Kivish Gerderinst, our chief master gem cutter and creator of an artifact I talked about, I think, a little ways back.
+
+[00:24:19] Drew:
+A mug made out of a gemstone.
+
+[00:24:21] Kristin:
+Oh, yeah, I remember that.
+
+[00:24:33] Kristin:
+Aw.
+
+[00:24:34] Drew:
+And she has felt gratitude ever since.
+
+[00:24:38] Kristin:
+To the goblin? Or just in general?
+[interjection] Drew: Uh-huh.
+
+[00:24:41] Drew:
+I think in general, but also to the goblin.
+
+[00:24:44] Kristin:
+That's good. That's nice. I really like that he's living in this dwarf fort, the goblin I mean, and thinks everyone should broaden their horizons. Exactly. And he's doing it. He's practicing what he preaches.
+
+[00:24:56] Drew:
+He's an interesting little man here. Yeah.
+
+[00:24:58] Kristin:
+Yeah!
+
+[00:24:59] Drew:
+Um...
+
+[00:25:00] Drew:
+So...
+
+[00:25:00] Drew:
+That wound came from the appearance of the Were-Gila monster.
+
+[00:25:06] Drew:
+Uspu Baxaxnor, who I forgot to get... Oh, wait, no, here we go. Uspu Nightmare Exit.
+
+[00:25:13] Kristin:
+Nightmares
+
+[00:25:15] Drew:
+A were-gila, a large gila monster twisted into humanoid form. Gila, right?
+
+[00:25:21] Kristin:
+Yeah, I was just, have I had a Were-Gila before?
+
+[00:25:23] Drew:
+Thank you.
+
+[00:25:24] Drew:
+I think you have.
+
+[00:25:25] Kristin:
+Yeah, it feels familiar.
+
+[00:25:26] Drew:
+I think the one you had was more attractive than this one, though. This one is mostly brown.
+[interjection] Kristin: Oh.
+
+[00:25:30] Drew:
+Black.
+
+[00:25:31] Kristin:
+He's a little pretty.
+
+[00:25:32] Drew:
+Um...
+
+[00:25:33] Drew:
+It is crazed for blood and flesh. Its eyes glow azure. It's black. Azure? Azure? Azure?
+[interjection] Kristin: It's
+[00:25:40] Kristin:
+Yeah.
+
+[00:25:41] Drew:
+Azure.
+
+[00:25:42] Kristin:
+Azure.
+
+[00:25:42] Drew:
+Azul.
+
+[00:25:44] Kristin:
+Anyway.
+
+[00:25:44] Drew:
+Its black scales are large and overlapping. Now you will know why you fear the night.
+
+[00:25:50] Drew:
+Once again, it was killed relatively easily.
+
+[00:25:52] Drew:
+But.
+
+[00:25:53] Kristin:
+Did they nerf monsters? Do I remember that?
+
+[00:25:56] Drew:
+I think they must've a little bit.
+
+[00:25:57] Kristin:
+Or maybe, yeah, maybe it's just anecdotal.
+
+[00:25:59] Drew:
+But, uh, it does seem like...
+
+[00:26:01] Drew:
+Like, this Gila monster had 18 kills, but they were all animals. One bobbit worm.
+
+[00:26:11] Drew:
+Um, let's see, cavy sow, white-haired gibbon. I guess a white-haired gibbon's got to be reasonably big, right? That's a great ape, I think gibbons are great apes.
+
+[00:26:18] Kristin:
+Yeah, it's smaller than a gorilla but bigger than a chimp, probably.
+
+[00:26:23] Drew:
+Yeah, and one great horned owl.
+
+[00:26:26] Kristin:
+Hmm.
+
+[00:26:27] Drew:
+What?
+
+[00:26:28] Drew:
+Mwah!
+
+[00:26:29] Kristin:
+No.
+
+[00:26:29] Drew:
+But, uh, he's dead now.
+
+[00:26:31] Kristin:
+We need to pause.
+
+[00:26:32] Drew:
+And no one seemed to have been made into werecreatures, as best I can tell.
+
+[00:26:36] Kristin:
+Oh, good.
+
+[00:26:36] Drew:
+Um...
+
+[00:26:37] Drew:
+And then after people started to recover from that, we dug in, we started digging into our obsidian caverns and encountered many, many.
+
+[00:26:50] Kristin:
+That guy had a fancy beard.
+
+[00:26:52] Drew:
+Different enforcers.
+
+[00:26:53] Kristin:
+We're spending a lot of time looking over each other's shoulders at our notes this time, so there's commentary. Yeah. Also, the portraits are updated.
+
+[00:27:00] Drew:
+Yes, he has a very fancy beard, but apparently his hair is dry.
+
+[00:27:04] Kristin:
+Well, it's a beautifully braided beard.
+
+[00:27:07] Drew:
+His nose bridge is convex. I don't know, convex, so aren't most people's nose bridges convex?
+
+[00:27:15] Kristin:
+I would say mine is.
+
+[00:27:16] Drew:
+Is yours concave?
+
+[00:27:17] Kristin:
+Concave. A little concave, yeah.
+
+[00:27:18] Drew:
+Okay, what's mine?
+
+[00:27:20] Kristin:
+Convex.
+
+[00:27:21] Drew:
+Okay, fair enough.
+
+[00:27:21] Kristin:
+Only a little bit though.
+
+[00:27:23] Drew:
+Um...
+
+[00:27:24] Kristin:
+I have an adorable little button nose, or so I'm told.
+
+[00:27:27] Drew:
+Yes, so the one to fight that first one was our sacred musician, Vukar Soundpaddled.
+
+[00:27:37] Drew:
+Which is a hilarious name.
+
+[00:27:39] Drew:
+And he fought.
+
+[00:27:40] Drew:
+The Specter of Snow, a very large blob composed of snow. It has a round shell and undulates rhythmically.
+
+[00:27:48] Kristin:
+It doesn't sound very threatening though, it's made of snow.
+
+[00:27:51] Drew:
+Yeah, he was very, and is very flimsy.
+
+[00:27:53] Kristin:
+Eh.
+
+[00:27:54] Drew:
+But, you know, the specters can sometimes be relatively strong.
+
+[00:27:58] Kristin:
+Yeah.
+
+[00:27:59] Drew:
+Um...
+
+[00:28:00] Kristin:
+Do any damage?
+
+[00:28:01] Drew:
+Not too much, but the one that did was the Enforcer of the Roar crossbowman.
+
+[00:28:07] Drew:
+A one-eyed humanoid, it has a long hanging tail and it bellows and cheers without pause.
+
+[00:28:12] Drew:
+Its plum skin is waxy. It was created by the dwarven goddess, the Roar of Attacking, and is part, with chaos, fortresses and war.
+
+[00:28:23] Drew:
+He likes stoneware, tin pewter, red flash opal,
+
+[00:28:27] Drew:
+giant giraffe leather, alpaca wool, pigtail fabric, and specters of snow for their rhythmic undulations.
+
+[00:28:34] Kristin:
+Hmm.
+
+[00:28:34] Drew:
+When possible, for first consumption.
+
+[00:28:37] Kristin:
+Wait, he likes things like himself for their rhythmic undulation?
+
+[00:28:40] Drew:
+No, this is the Enforcer of War Crossbowman.
+
+[00:28:43] Kristin:
+Yeah.
+
+[00:28:43] Drew:
+Um, but apparently he likes the specter of snow, which was on the same level, so maybe they hung 
+[interjection] Kristin: I don't-
+[interjection] Drew: out with each other
+
+[00:28:48] Kristin:
+Yeah, I bet they were friends.
+
+[00:28:49] Drew:
+In the snow. In the uh... 
+[interjection] Kristin: India.
+
+[00:28:51] Drew:
+Stone.
+
+[00:28:52] Kristin:
+Best friends.
+
+[00:28:53] Drew:
+I'm not entirely sure, like, what the, uh, lore logic behind them is. Are they, like...
+
+[00:28:57] Drew:
+Trapped in there, or do they just sort of?
+
+[00:29:02] Kristin:
+I always envision them kind of trapped.
+
+[00:29:05] Drew:
+That's what I thought too, but maybe, maybe they'd like.
+
+[00:29:08] Drew:
+Talked to each other or something.
+
+[00:29:10] Kristin:
+Maybe they were trapped in the same place.
+
+[00:29:11] Drew:
+Could be.
+
+[00:29:13] Drew:
+Yeah, so that was sort of our excitement. I think there was one more, but I'm not finding my notes on him, of the various specters and gods.
+
+[00:29:23] Drew:
+All of which did drop very, very valuable different artifacts, but unfortunately, they don't get a whole lot of description, so I'm not gonna bother with it.
+
+[00:29:31] Kristin:
+But worth it, ah.
+
+[00:29:32] Drew:
+Ah, actually I did find him. Would you like me to continue?
+
+[00:29:34] Kristin:
+Yes, please tell me.
+
+[00:29:36] Drew:
+All right, and the last one was...
+
+[00:29:38] Drew:
+New mod!
+
+[00:29:41] Drew:
+Numudar. I keep wanting to say Numidor like it
+
+[00:29:44] Kristin:
+Like, Numenor, like, in Lord of the Rings.
+
+[00:29:46] Drew:
+Yeah. N-U-M-U-D-A-R. I don't know how else you say that except Numudar.
+
+[00:29:51] Kristin:
+Numadar, numadar, numadar.
+[interjection] Drew: Uridar. Uridar.
+
+[00:29:54] Drew:
+It still just sounds like you're mispronouncing Numudar.
+
+[00:29:56] Kristin:
+Noomoodle!
+
+[00:29:56] Drew:
+Or whatever.
+
+[00:29:57] Kristin:
+Okay, I'll stop.
+
+[00:29:58] Drew:
+Um... The Blind Brute.
+
+[00:30:00] Drew:
+His name means Windy Rain.
+
+[00:30:03] Drew:
+He has an astonishing knack for music, a great ability to focus, a great sense of empathy, and a good feel for social relationships.
+
+[00:30:10] Drew:
+Um,
+
+[00:30:11] Drew:
+A very large eyeless lizard twisted into humanoid form. It appears to be emaciated. Its cinnamon scales are jagged and close-set.
+
+[00:30:19] Drew:
+Beware its noxious secretions.
+
+[00:30:21] Kristin:
+Ooh.
+
+[00:30:22] Drew:
+The funny part about that is, is that if you actually look closely back at our previous crossbowman...
+
+[00:30:29] Kristin:
+Mm-hmm.
+
+[00:30:33] Drew:
+How strange. Yeah.
+
+[00:30:34] Drew:
+So he absolutely loves snow specters and absolutely detests lizards, and there were 
+[interjection] Kristin: Mhm
+[interjection] Drew: specters and there were snow specters and lizards around him.
+
+[00:30:45] Kristin:
+Wow.
+
+[00:30:45] Drew:
+It doesn't really seem like the other ones had that sort of level of hatred, but...
+
+[00:30:49] Kristin:
+Mmm.
+
+[00:30:50] Drew:
+So that's been our exciting parts.
+
+[00:30:52] Kristin:
+Steam version now. I haven't, I keep forgetting to get it running. Have you?
+
+[00:31:04] Drew:
+Yeah, no, it was only, I think they only announced it three days ago, three or four days.
+
+[00:31:07] Kristin:
+Three or four days. Last week I thought, but it's been recent, so.
+[interjection] Drew: It's a lot of fun.
+
+[00:31:10] Drew:
+Yeah, so we haven't quite gotten a chance.
+
+[00:31:12] Kristin:
+Yeah.
+
+[00:31:13] Drew:
+To try it yet, but I'm excited to.
+Yeah, I really can't wait to have that in, because then...
+
+[00:31:17] Kristin:
+Like when you're looking at their preferences, you can see what the songs, poetic forms, dances, and stuff that they like are.
+
+[00:31:24] Drew:
+Yep. Unreal.
+
+[00:31:24] Kristin:
+In real time.
+
+[00:31:25] Drew:
+On my to-do list.
+
+[00:31:27] Kristin:
+My final Fort update is that we, after getting our, um...
+
+[00:31:31] Kristin:
+migrant wave, have our first mayor. His name is Edem Slottermine.
+
+[00:31:38] Drew:
+Ooh, that's a good Dwarfy name.
+
+[00:31:40] Kristin:
+Yeah, and he looks very dwarfy. He's got a long beard there.
+
+[00:31:44] Drew:
+Yeah, he's got the fancy beard too.
+
+[00:31:45] Kristin:
+And he sounds like a mayor. He has a great feel for social relationships, the ability to focus, an ability to read emotions fairly well, and a good memory. But he has a meager kinesthetic sense, little willpower, and poor creativity. He is vengeful and never forgets or forgives past grievances. He likes to present himself boldly, oops, boldly, even if it would offend the average sense of modesty. You'd think he'd be the one walking around shirtless.
+
+[00:32:12] Drew:
+Uh-huh
+
+[00:32:13] Kristin:
+Uh, he doesn't often experience strong cravings or urges, he's often nervous, he does not often feel lustful, he tends to be a little tight with resources when working on projects, he doesn't handle stress well, he tends to think before acting.
+
+[00:32:28] Kristin:
+He is currently more thoughtless. He is currently more rude. He is currently more fearless. He is currently more confident. He is currently more shameless. He is currently less private. I don't know what happened to him that he has all of these current...
+
+[00:32:41] Kristin:
+Personality traits because usually they have that after they've had like a trauma or something. Yeah, so
+[interjection] Drew: Yeah.
+[interjection] Kristin: Yeah, he likes mantis men for their predatory nature. Huh? Yeah. That's a weird preference. No, I don't think I got a picture of his relationships. He's a high master furnace operator, but he didn't have like close family or friends. He had
+
+[00:33:06] Kristin:
+a bunch of passing acquaintances.
+
+[00:33:08] Kristin:
+So.
+
+[00:33:09] Drew:
+Maybe no one has the dirt on him.
+
+[00:33:11] Kristin:
+Yeah, that could be, or he threatened a bunch of people, sounds like, since he walks around boldly and is assertive.
+
+[00:33:19] Drew:
+You guys are going to vote for me for mayor, or I'm going to beat ya.
+
+[00:33:23] Kristin:
+Mmm... Peachy!
+
+[00:33:23] Drew:
+Bitchy!
+
+[00:33:24] Kristin:
+It's less funny these days.
+
+[00:33:26] Drew:
+Yep.
+
+[00:33:27] Kristin:
+But we shouldn't take a dark turn.
+
+[00:33:30] Kristin:
+Do you have any other Dwarf Fortress news or news from your Dwarf Fortress?
+
+[00:33:35] Drew:
+No, I think that's about it. I was going to talk, well, I guess I can talk real quick about it being a tiny world.
+
+[00:33:42] Kristin:
+Uh-huh.
+
+[00:33:43] Drew:
+I have actually sent out several raids.
+
+[00:33:45] Kristin:
+Oh, cool.
+
+[00:33:46] Drew:
+And they've been fairly successful.
+
+[00:33:49] Kristin:
+Oh, that's cool.
+
+[00:33:49] Drew:
+There haven't been too many regions with a large number of enemies in them.
+
+[00:33:55] Drew:
+Including even one necromancer tower that we attacked, and it only had like five night creatures in it and a necromancer.
+[interjection] Kristin: Yeah.
+
+[00:34:03] Drew:
+And after...
+
+[00:34:06] Drew:
+Breaking our way through there, apparently we looted something like five or six artifacts.
+
+[00:34:10] Kristin:
+Wow, that's very cool.
+
+[00:34:12] Drew:
+I haven't investigated them all yet for podcast reporting, but they were worth a fair bit.
+
+[00:34:17] Kristin:
+That's cool. So I guess because it's a pocket world, it doesn't take nearly as long to do these things.
+
+[00:34:22] Drew:
+Yeah, they get places and back within basically a game week, which is like 10, 15 minutes, something like that, really short.
+
+[00:34:31] Kristin:
+It's kind of funny to think that you're creating adventure mode. You're creating adventures for those individual dwarves.
+[interjection] Drew: You're creating it.
+
+[00:34:38] Drew:
+Yeah, and at some point, I'll try Adventure Mode in this world.
+
+[00:34:41] Kristin:
+Yeah.
+
+[00:34:42] Drew:
+So, that's kind of it. I'll have more to talk about from the results of those, uh...
+
+[00:34:47] Drew:
+raids in next week's episode.
+
+[00:34:49] Kristin:
+I'm, uh, excited to get...
+
+[00:34:51] Kristin:
+Legends mode up and running. My fort went from me feeling like
+
+[00:34:56] Kristin:
+a tiny little settlement at the edge of the world to like suddenly we're thriving, so it'll be interesting to see.
+
+[00:35:03] Kristin:
+How soon I get nobility and that kind of stuff, so.
+[interjection] Drew: Mm-hmm.
+
+[00:35:06] Kristin:
+Keep training the squad.
+
+[00:35:08] Kristin:
+Um, I'm trying to get my squad armored. Like, for the first time, I'm really working on that and uh, making all the iron helms and everything, and we keep running out of coal, so like that's been the big sticking point there, so I just set a giant work order for coal.
+
+[00:35:29] Drew:
+Yeah, you got to dig down to the lava.
+
+[00:35:32] Kristin:
+I haven't even gotten to the caves yet. That just occurred to me.
+[interjection] Drew: They're always
+[interjection] Kristin: Yeah. I guess I need to keep digging. I should listen to my own advice.
+
+[00:35:37] Drew:
+Just keep digging.
+
+[00:35:39] Kristin:
+Because there have been cool releases.
+[interjection] Drew: Yes.
+
+[00:35:49] Kristin:
+Two on my end and then you've been playing the Aztec game?
+
+[00:35:55] Kristin:
+And are you still playing the Aztec game?
+
+[00:35:57] Drew:
+I am.
+
+[00:35:58] Kristin:
+How's that going?
+[interjection] Drew: It's
+[interjection] Kristin: Talk about that.
+
+[00:36:00] Drew:
+Yes, well, I always feel a little awkward about it because I can't pronounce the name to save my life.
+[interjection] Kristin: Pronounce the name to save my life.
+[interjection] Drew:
+
+[00:36:11] Drew:
+Aztec game on Steam, it'll show up in there.
+
+[00:36:15] Kristin:
+Yeah.
+
+[00:36:16] Drew:
+Are you going to pull it up?
+
+[00:36:17] Kristin:
+I was gonna look it up and take a swing at it, but I gotta find Steam on my phone. You can keep going.
+
+[00:36:28] Drew:
+Someone in the reviews said it was closer to a Cleopatra
+
+[00:36:34] Drew:
+game, which I don't think I ever played, so I'm not sure about the difference there.
+[interjection] Kristin: Oh.
+
+[00:36:39] Drew:
+And I know there was a game called Gilgamesh a couple of years back that was also in this vein. I've tried it. The tutorial is pretty good. I'm really happy with playing it.
+
+[00:36:54] Kristin:
+Yep.
+
+[00:36:54] Drew:
+It's still rough, it's early access.
+
+[00:36:56] Kristin:
+Yeah.
+
+[00:36:56] Drew:
+They've had to fix a few things, like I guess...
+
+[00:36:58] Kristin:
+Oh my gosh, only 44 reviews, that's wild.
+
+[00:37:00] Drew:
+Yeah, so do you want to take a stab at the name?
+
+[00:37:05] Kristin:
+Tlahtoni. Tawani? I don't know. Tlahtoni. I'm just sounding it out.
+
+[00:37:13] Kristin:
+There's not an L in that second half of the word.
+[interjection] Drew: All right.
+
+[00:37:16] Drew:
+Word. Word. Word. Word.
+[interjection] Kristin: What?
+
+[00:37:18] Kristin:
+Don't, don't, don't. Ah, well, that was surreal. Yeah.
+At any rate, Aztec cities. So if you search for Aztec cities, I do need to go on to the desk, Gordon.
+
+[00:37:31] Kristin:
+Oh, it apparently means emperor. Uh, yeah, so you're still playing that one? You plan to keep going?
+
+[00:37:36] Drew:
+Yeah, I think it's...
+
+[00:37:39] Drew:
+It's enjoyable. I think they're going to do a lot with it. It's still a little early, I think, if you're not super into that sort of game, which is Caesar 3.
+
+[00:37:48] Drew:
+But if you like Caesar 3, that generation of, um...
+
+[00:37:52] Drew:
+What was the name of the studio? Imagination? Impression?
+
+[00:37:56] Drew:
+Anyway, something like that. But those of you who know it, know it. You should check it out. I like people trying something different.
+
+[00:38:02] Drew:
+Um, its major quirk, obviously, is uh, trying to
+
+[00:38:07] Drew:
+show aspects of Aztec
+
+[00:38:10] Drew:
+religion and society, and a big technique in it is
+[interjection] Kristin: Um...
+
+[00:38:15] Drew:
+you have to build your cities in symmetrical fashions.
+
+[00:38:19] Drew:
+Having good symmetry in order to please the gods and make everyone happy.
+
+[00:38:25] Kristin:
+Cool.
+
+[00:38:25] Drew:
+So that's its little quirk.
+
+[00:38:26] Kristin:
+Yeah, that you were showing me, that's a really neat um
+
+[00:38:30] Drew:
+aspect, conceit, yeah, that's neat.
+
+[00:38:33] Drew:
+So, tell me about your games.
+
+[00:38:34] Kristin:
+I have had a couple of releases that I was excited about. One is Mirthwood, which is an
+
+[00:38:41] Drew:
+Not Mirkwood.
+
+[00:38:42] Kristin:
+Not Mirkwood like Lord of the Rings, no, Mirthwood, um, a settlement adventure game, and uh, it's medieval and it has a really different art style than most of these; it's not pixely at all. Like, you kind of
+
+[00:38:55] Kristin:
+It does, it looks a little bit like those illuminated manuscripts, at least in terms
+[interjection] Drew: Mm-hmm
+[interjection] Kristin: of the figures and stuff.
+
+[00:39:01] Kristin:
+And it's supposed to have, you know, social interactions and...
+
+[00:39:04] Drew:
+Is he riding a unicorn?
+
+[00:39:05] Kristin:
+It sure looks like he's riding a unicorn there. I'm nowhere near being able to do that, but, um, and you can, like, it's supposed to be sims-like in its interactions with the villagers, but best I can tell they seem really shallow. If it were an early access game, I would say this is really cool, like, I can't wait to see where this is going. Technically, this is a 1.0, and it's pretty buggy, and, like, some of the language isn't great. I've still played a couple
+[interjection] Drew: Oh
+[interjection] Kristin: hours of it, like, I'm enjoying it, so I'm definitely going to keep aware of it, just to see where they go with it.
+[interjection] Drew: Justice.
+
+[00:39:42] Drew:
+Is this the one you were telling me about where they age and die and you play it?
+
+[00:39:46] Kristin:
+Yeah, apparently...
+
+[00:39:48] Kristin:
+I mean, you can get killed by bandits or whatever. It might depend on the-
+
+[00:39:53] Kristin:
+settings, but eventually, you will be able to play as your child after you age, but uh
+
+[00:39:59] Kristin:
+They don't have the children in the game yet, so... I know.
+
+[00:40:03] Drew:
+In what way is this a 1.0?
+
+[00:40:05] Kristin:
+I'm really confused because I think this is an early access, and maybe they just don't really understand that you don't call it a 1.0
+
+[00:40:13] Kristin:
+when you have a roadmap that is still adding marriage and children and all these features you're promising.
+
+[00:40:19] Drew:
+Yep.
+
+[00:40:19] Kristin:
+Um, so maybe hold off on that one. I think it's neat, but it has a long way to go. And then the other game that we already alluded to...
+
+[00:40:29] Kristin:
+is Ellen.
+which is apparently a successor to the roguelike RPG Elona.
+
+[00:40:35] Kristin:
+which has been wildly successful, and a lot of us have never heard of it.
+
+[00:40:39] Drew:
+Yeah.
+
+[00:40:41] Drew:
+Because it's in Asia.
+
+[00:40:42] Kristin:
+Yeah, it's Chinese, I believe. But in this one, I guess the easiest way to sell it on this podcast is it's a lot like Adventure Mode.
+
+[00:40:51] Kristin:
+Do you play an adventurer?
+
+[00:40:54] Kristin:
+and you are kind of given some land to settle, and you go off and explore and do dungeons, and you can recruit people to come back and...
+
+[00:41:04] Kristin:
+You have a kitten?
+
+[00:41:05] Kristin:
+But saying all of that doesn't really capture just how weird and wonderful this game is. It is definitely early access, and it is definitely still rough around the edges. Like, some of the translation things, it's like, huh?
+
+[00:41:20] Drew:
+Yes, I had um, I was trying to remember, I had a character with a very weird um, mother entry, something like um
+
+[00:41:28] Drew:
+Oh, loaded.
+
+[00:41:30] Drew:
+something like loaded bitch or something like that, it was like
+
+[00:41:33] Kristin:
+yeah, it was like that, and you looked it up to like ask ChatGPT what that might be a translation because they have, they at least translate their patch notes which oh yeah it was
+[interjection] Drew: Yeah.
+
+[00:41:43] Drew:
+Oh yeah, it was, it was "fielded bitch."
+
+[00:41:46] Kristin:
+Oh my gosh
+[interjection] Drew: Oh my God.
+
+[00:41:47] Drew:
+and I looked it up on ChatGPT, and I said, "What could this mean?" because I'm assuming because they mentioned that they use ChatGPT for their translations, yeah
+
+[00:41:55] Drew:
+And ChatGPT kind of came up with the translation that it was something like a
+
+[00:42:07] Drew:
+strong um, strong like athletic, sporty player, yeah, sporty woman
+[interjection] Kristin: for you.
+
+[00:42:13] Kristin:
+Yeah, so I just pulled up my character sheet, and these are randomly rolled in a very Dwarf Fortress-like fashion. So my adventurer right now is Lithael, Horrible Mind. She is 23 years old. Her father was a mucker angel, and her mother was a hopeless animal.
+
+[00:42:33] Kristin:
+I have no idea what that means. None whatsoever. And she was just randomly rolled. I took her because I thought the sprite was really cute, and she's a farmer, and I figure I'm probably going to do a lot of the farming stuff. The learning curve on this one is really, really steep. The UI is tough.
+
+[00:42:51] Drew:
+It's very much in that sort of roll-your-own UI that I feel like you get a lot in Asian games. Oh, really? Where they're not following the sort of conventions that we do.
+
+[00:43:05] Kristin:
+Mhm.
+
+[00:43:05] Drew:
+Um...
+
+[00:43:06] Drew:
+like one of the primary, one of the primary like action buttons in it is the middle mouse, yeah
+
+[00:43:12] Kristin:
+Yeah, you're middle mouse clicking all the time. Dwarf Fortress has also trained me to exit out of stuff by right-clicking.
+
+[00:43:18] Kristin:
+which is "Use item" in this game, so I have accidentally eaten a lot of poison mushrooms.
+
+[00:43:23] Drew:
+Yeah, how are things going with your kitten?
+
+[00:43:26] Kristin:
+Yeah, about that. So the game gives you the option of what kind of companion pet you want, and the companion pet
+
+[00:43:34] Kristin:
+It just runs alongside you, and it fights enemies and stuff.
+
+[00:43:38] Kristin:
+You can choose a cat, a dog, or a little girl.
+
+[00:43:42] Kristin:
+Which is weird.
+
+[00:43:43] Kristin:
+But I'm told it's good?
+
+[00:43:44] Drew:
+Yeah.
+
+[00:43:44] Kristin:
+I don't know, uh...
+
+[00:43:46] Kristin:
+So one night I was doing one of the tutorials.
+
+[00:43:48] Drew:
+Those are equivalent.
+
+[00:43:50] Kristin:
+Yeah, totally.
+
+[00:43:51] Kristin:
+Just like it. Dog, little girl, whatever.
+I was doing one of the tutorials that had me killing a tied-up boar, and my kitten, which is very scrappy, was getting in there and just messing up that boar, and then got killed by the boar. Then I killed the boar and picked up some meat.
+
+[00:44:10] Kristin:
+Thinking it was boar meat.
+
+[00:44:11] Drew:
+And ate it.
+
+[00:44:15] Kristin:
+You're like, "You ate that? What kind of monster are you? You ate a kitten?" And it, uh, I lost karma for having eaten kitten meat.
+
+[00:44:25] Drew:
+The funny part is, your kitten had respawned by then, right?
+
+[00:44:28] Kristin:
+Yes, I had gone to the lady who resurrects your pet.
+
+[00:44:31] Kristin:
+And she yells at you because your pet came back to her all battered.
+
+[00:44:36] Kristin:
+And I had my kitten. So I'm like petting my kitten while I'm eating my kitten.
+
+[00:44:40] Drew:
+Yeah.
+
+[00:44:41] Kristin:
+Which is like the most Dwarf Fortress thing possible. It's so, it's really weird, like I don't know how else to describe it, but in a really, really charming way.
+
+[00:44:53] Kristin:
+Um...
+
+[00:44:53] Drew:
+It's interesting to me because when I've been watching you play, it's a nice, it's an interesting juxtaposition.
+
+[00:45:01] Drew:
+I feel like it is very much true to the actual roguelike genre.
+
+[00:45:07] Drew:
+Um, the, the...
+
+[00:45:09] Drew:
+The original games behind all this, Angband and Rogue, that um...
+
+[00:45:14] Drew:
+Created the genre, the idea of roguelike.
+
+[00:45:18] Drew:
+Or rogue-lite, I suppose.
+
+[00:45:21] Drew:
+Where you would go into a dungeon that was randomly generated, and you would find just completely bonkers, off-the-wall rolls of stuff.
+
+[00:45:30] Kristin:
+Mm-hmm.
+
+[00:45:30] Drew:
+So you might just find an axe that is like...
+
+[00:45:33] Drew:
+Blessed by the god of death and one strike kills anything.
+[interjection] Kristin: One.
+
+[00:45:38] Kristin:
+Yeah.
+
+[00:45:38] Drew:
+And so then you have an easy run to the bottom of the dungeon.
+[interjection] Kristin: Right.
+
+[00:45:42] Kristin:
+And this game is roguelike, I guess. You know, it defaults to permadeath, so you are not necessarily encouraged...
+
+[00:45:52] Kristin:
+You're not discouraged, but they don't default you to having one adventurer settler that you spend, you know, two months in-game with or whatever, growing your village, because they send...
+[interjection] Drew: Too much.
+[interjection] Kristin: You out into caves and all that stuff, and I am...
+
+[00:46:07] Kristin:
+Not very good.
+
+[00:46:09] Kristin:
+At it. I was going to say at games generally, but I should not be mean to myself. So I did not go permadeath. Ow, don't poke me. Yeah, I think I'll be reporting my adventures in that game.
+
+[00:46:23] Drew:
+I think that's a good plan.
+
+[00:46:24] Kristin:
+Yeah.
+
+[00:46:24] Drew:
+Um...
+
+[00:46:25] Drew:
+So that is also the game from the start of our conversation, which I called Stardew.
+
+[00:46:31] Kristin:
+Yeah, so you feel it's very Stardew-like, and I do not.
+
+[00:46:36] Drew:
+Do you see where I'm coming from with that?
+
+[00:46:38] Kristin:
+I guess there's a lot of tool swapping, which we had talked about, is a thing that you don't like, and you were given land and told to settle.
+
+[00:46:47] Drew:
+And it seems like you're trying to build a little town there on that land, right? Like, encourage people to come...
+
+[00:46:52] Drew:
+Stay there and do things.
+
+[00:46:54] Drew:
+Because you have a bin that you can put things in, and townspeople will come and take stuff from that bin.
+
+[00:47:01] Kristin:
+Yeah, it's different, though. You have a shipping bin, so that's kind of the same, and you ship it and get money back. And that's another thing I need to revisit because I got coins, and I was expecting gold bars, but...
+The people settling at your place, it's...
+
+[00:47:17] Kristin:
+It's different because in Stardew Valley you were...
+
+[00:47:20] Kristin:
+There's a story, but it's more about being a good citizen of this town and then helping the people and making friends.
+
+[00:47:28] Kristin:
+Maybe I'll start to feel like friends with my...
+
+[00:47:32] Drew:
+townspeople.
+
+[00:47:32] Kristin:
+people, but right now I just have the two mysterious figures who...
+
+[00:47:36] Kristin:
+helped me settle.
+
+[00:47:38] Kristin:
+And I'm still in the tutorial and my new overseer guy who apparently was some kind of scammer...
+
+[00:47:44] Kristin:
+and has fled his crimes and is now going to work for me, so I don't...
+
+[00:47:48] Kristin:
+I don't feel great about him, but...
+
+[00:47:50] Kristin:
+Whatever.
+
+[00:47:52] Drew:
+No? All right.
+
+[00:47:53] Drew:
+I think overall it looks like it's a really fun game. I need to spend more time with it.
+
+[00:47:58] Drew:
+Doing the other projects...
+
+[00:47:59] Kristin:
+Yeah.
+
+[00:48:00] Drew:
+But, uh, overall, I've been...
+
+[00:48:02] Drew:
+I've really enjoyed watching you play, and I've watched some YouTube videos of people playing. They seem to be having a lot of fun.
+
+[00:48:07] Kristin:
+Yeah, we watched Splattercat play it and that was pretty fun, so yeah, it's the kind of
+[interjection] Drew: So.
+[interjection] Kristin: thing where I sit down for a few minutes and then like an hour passes. I think that one's going to get a lot more play out of me, more than Mirth would probably.
+
+[00:48:19] Drew:
+Aww.
+
+[00:48:20] Kristin:
+I was so excited about Mirthwood and then it was a letdown, but we'll see.
+
+[00:48:24] Drew:
+Yeah, so good recommendation from FriendCalled5 on that one.
+
+[00:48:27] Kristin:
+Yeah, I don't remember if he was actually the initial recommender, but he was the one that said I would like it, and he was right, so yeah, uh, anyway, that's our non-dwarfy recommendation, yeah.
+[interjection] Drew: Yeah.
+
+[00:48:40] Drew:
+Well, beyond that, uh, I think everybody...
+
+[00:48:44] Drew:
+We've got some, I believe, some exciting releases for Dwarf Fortress coming up in the next few months.
+
+[00:48:51] Drew:
+We continue to talk about myth and magic. I'm curious to see whether or not magic will ever happen for Dwarvish.
+
+[00:48:55] Kristin:
+I personally don't feel like it's ever going to happen. It feels like a myth to me.
+
+[00:49:00] Drew:
+Oh, well.
+
+[00:49:01] Kristin:
+But we dream.
+
+[00:49:03] Drew:
+Yes.
+
+[00:49:03] Kristin:
+And what do I know? I haven't been here that long. Ha, ha, ha.
+
+[00:49:07] Kristin:
+And I mean in the span of the game, I'm a newcomer still.
+
+[00:49:10] Drew:
+Well, so am I.
+
+[00:49:12] Kristin:
+Yeah, alright.
+
+[00:49:13] Drew:
+It's been around for a long time and he does just keep chipping away at it.
+[interjection] Kristin: It has.
+[interjection] Drew: So just like him.
+
+[00:49:18] Drew:
+Just keep digging!
+[interjection] Kristin: Just kidding.

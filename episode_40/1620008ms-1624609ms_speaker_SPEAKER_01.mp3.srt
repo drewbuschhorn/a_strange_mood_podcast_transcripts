@@ -1,0 +1,5 @@
+1
+00:00:00,000 --> 00:00:04,560
+Yes, he has a very fancy beard, but apparently his hair is dry.
+
+

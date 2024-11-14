@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,000
+The specter of snow, a very large blob composed of snow.
+
+2
+00:00:04,000 --> 00:00:08,000
+It has a round shell and undulates rhythmically.
+
+

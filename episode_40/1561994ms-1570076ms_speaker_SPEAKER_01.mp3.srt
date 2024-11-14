@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,400
+Like, this Gila monster had 18 kills, but they were all animals.
+
+2
+00:00:07,000 --> 00:00:08,000
+One bobbit worm.
+
+

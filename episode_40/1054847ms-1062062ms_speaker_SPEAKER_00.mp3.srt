@@ -1,0 +1,17 @@
+1
+00:00:00,000 --> 00:00:02,480
+He is somewhat fearful in the face of imminent danger.
+
+2
+00:00:02,520 --> 00:00:04,120
+He is curious and eager to learn.
+
+3
+00:00:04,320 --> 00:00:05,960
+He enjoys the company of others.
+
+4
+00:00:06,000 --> 00:00:07,200
+He has a calm demeanor.
+
+

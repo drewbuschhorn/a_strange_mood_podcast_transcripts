@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:05,120
+A were-gila, a large gila monster twisted into humanoid form.
+
+2
+00:00:05,120 --> 00:00:05,840
+Gila, right?
+
+

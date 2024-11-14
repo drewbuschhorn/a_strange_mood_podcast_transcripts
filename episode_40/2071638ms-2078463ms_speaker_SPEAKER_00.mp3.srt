@@ -1,0 +1,9 @@
+1
+00:00:00,000 --> 00:00:04,000
+It's kind of funny to think that you're creating adventure mode.
+
+2
+00:00:04,240 --> 00:00:06,680
+You're creating adventures for those individual dwarves.
+
+
